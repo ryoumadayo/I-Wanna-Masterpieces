@@ -24,29 +24,47 @@ def fetch_html(url, retries=3):
                 return None
 
 def get_ids_for_tag(tag):
-    """特定の見出しタグに関連付けられたゲームのIDを取得します。"""
+    """特定の見出しタグに関連付けられた全てのゲームのIDを、ページ送りを含めて取得します。"""
     ids = set()
-    url = f"{BASE_URL}/ratings/full.php?advanced=1&tags={tag}&n=0" # 全件取得のためにn=0を追加
-    print(f"{tag} タグのリストを取得中...")
-    html = fetch_html(url)
-    if not html:
-        return ids
-    
-    soup = BeautifulSoup(html, "html.parser")
-    table = soup.find('table', class_='tablesorter')
-    if table:
+    page = 0
+    while True:
+        # キャッシュ回避のためにタイムスタンプを追加
+        url = f"{BASE_URL}/ratings/full.php?advanced=1&tags={tag}&n={page*100}&t={int(time.time())}"
+        print(f"  {tag} タグのリストを取得中 (ページ {page+1})...")
+        html = fetch_html(url)
+        if not html:
+            break
+        
+        soup = BeautifulSoup(html, "html.parser")
+        table = soup.find('table', class_='tablesorter')
+        if not table:
+            break
+            
+        found_in_page = 0
         for a in table.find_all("a", href=True):
             href = a["href"]
             if "game_details.php?id=" in href:
                 m = re.search(r'id=(\d+)', href)
                 if m:
-                    ids.add(int(m.group(1)))
+                    val = int(m.group(1))
+                    if val not in ids:
+                        ids.add(val)
+                        found_in_page += 1
+        
+        # 1つも新しいIDが見つからない、またはテーブルにデータがない場合は終了
+        if found_in_page == 0:
+            break
+            
+        page += 1
+        time.sleep(1) # 負荷軽減
+        
     return ids
 
 def main():
     print("=== ステップ 1: 全てのゲームデータを取得中 ===")
     # n=0 パラメータを付与して全件（評価数0以上）を取得
-    full_url = f"{BASE_URL}/ratings/full.php?advanced=1&n=0"
+    # キャッシュ回避のためにタイムスタンプを追加
+    full_url = f"{BASE_URL}/ratings/full.php?advanced=1&n=0&t={int(time.time())}"
     html = fetch_html(full_url)
     if not html:
         print("ゲームリストの取得に失敗しました。中断します。")
@@ -143,8 +161,12 @@ def main():
     print(f"除外処理後の件数: {len(processed_games)}")
 
     # 全データを保存
+    output_data = {
+        "last_updated": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "games": processed_games
+    }
     with open("games.json", "w", encoding="utf-8") as f:
-        json.dump(processed_games, f, indent=2, ensure_ascii=False)
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
 
     # JSファイル用（評価 6.0 以上 かつ 評価数 10 件 以上の名作のみ）
     top_games = [g for g in processed_games if g["num_ratings"] >= 10 and g["rating"] >= 6.0]
