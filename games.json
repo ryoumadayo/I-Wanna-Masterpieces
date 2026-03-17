@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 20:38:07",
+  "last_updated": "2026-03-17 21:36:53",
   "games": [
     {
       "id": 24028,
@@ -46544,10 +46544,10 @@
     {
       "id": 19188,
       "name": "I Wanna Follow The Story",
-      "difficulty": "8.1",
-      "difficulty_num": 8.1,
-      "rating": 1.9,
-      "num_ratings": 10,
+      "difficulty": "10.9",
+      "difficulty_num": 10.9,
+      "rating": 2.6,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
