@@ -11,10 +11,52 @@ document.addEventListener('DOMContentLoaded', () => {
     const pageInput = document.getElementById('pageInput');
     const jumpBtn = document.getElementById('jumpBtn');
 
-    let currentGames = [...GAMES];
+    let allGameData = null;
+    let currentGames = [];
     let currentCategory = 'all';
     let currentPage = 1;
     const itemsPerPage = 100;
+
+    const updateLastUpdated = (timestamp) => {
+        const lastUpdatedEl = document.getElementById('lastUpdated');
+        if (lastUpdatedEl && timestamp) {
+            lastUpdatedEl.textContent = `データ最終更新: ${timestamp}`;
+        }
+    };
+
+    const loadData = async () => {
+        try {
+            // キャッシュを回避するためにタイムスタンプを付与してfetch
+            const response = await fetch(`games.json?t=${new Date().getTime()}`);
+            const data = await response.json();
+            
+            // games.json の新フォーマット（metadataあり）か旧フォーマットかをチェック
+            if (data.games) {
+                allGameData = data.games;
+                updateLastUpdated(data.last_updated);
+            } else {
+                allGameData = data;
+            }
+
+            // 名作のみ（評価 6.0 以上、評価数 10 以上）をフィルタリング
+            // (update_data.py で games.js 向けに行っているのと同様の処理)
+            const topGames = allGameData.filter(g => g.num_ratings >= 10 && g.rating >= 6.0);
+            
+            currentGames = [...topGames];
+            applyFiltersAndSort();
+        } catch (error) {
+            console.error('データの読み込みに失敗しました:', error);
+            if (window.location.protocol === 'file:') {
+                grid.innerHTML = `
+                    <div style="color: #ef4444; text-align: center; grid-column: 1 / -1; background: rgba(239, 68, 68, 0.1); padding: 20px; border-radius: 12px; border: 1px solid #ef4444;">
+                        <p style="font-weight: bold; margin-bottom: 10px;">ブラウザのセキュリティ制限により、ファイルを直接開くとデータを読み込めません。</p>
+                        <p style="font-size: 0.9rem;">フォルダ内の <strong>start_server.bat</strong> を実行して、表示された <strong>http://localhost:8000</strong> にアクセスしてください。</p>
+                    </div>`;
+            } else {
+                grid.innerHTML = '<p style="color: #ef4444; text-align: center; grid-column: 1 / -1;">データの読み込みに失敗しました。update_data.py を実行して games.json が生成されているか確認してください。</p>';
+            }
+        }
+    };
 
     const renderGrid = (allGamesToRender) => {
         grid.innerHTML = '';
@@ -135,11 +177,15 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const applyFiltersAndSort = () => {
+        if (!allGameData) return; // データ未ロード時は何もしない
+        
         const query = searchInput.value.toLowerCase();
         const sortValue = sortSelect.value;
 
-        // Filter
-        currentGames = GAMES.filter(game => {
+        // Filter from allGameData (filtered for masterpieces)
+        const baseGames = allGameData.filter(g => g.num_ratings >= 10 && g.rating >= 6.0);
+        
+        currentGames = baseGames.filter(game => {
             const matchesQuery = game.name.toLowerCase().includes(query);
             let matchesCategory = true;
             
@@ -231,8 +277,8 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
     document.head.appendChild(style);
 
-    // Initial Render
-    applyFiltersAndSort();
+    // Initial Load
+    loadData();
 
     // Back to Top functionality
     const backToTopBtn = document.getElementById('backToTopBtn');
