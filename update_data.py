@@ -1,0 +1,160 @@
+import json
+import re
+import time
+import requests
+from bs4 import BeautifulSoup
+
+BASE_URL = "https://delicious-fruit.com"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+def fetch_html(url, retries=3):
+    headers = {"User-Agent": USER_AGENT}
+    for i in range(retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            # 明示的に UTF-8 文コードを指定（Delicious Fruit は meta で utf-8 指定だがレスポンスヘッダが ISO-8859-1 の場合があるため）
+            response.encoding = 'utf-8'
+            return response.text
+        except Exception as e:
+            print(f"  Attempt {i+1} failed for {url}: {e}")
+            if i < retries - 1:
+                time.sleep(5)
+            else:
+                return None
+
+def get_ids_for_tag(tag):
+    """特定の見出しタグに関連付けられたゲームのIDを取得します。"""
+    ids = set()
+    url = f"{BASE_URL}/ratings/full.php?advanced=1&tags={tag}&n=0" # 全件取得のためにn=0を追加
+    print(f"{tag} タグのリストを取得中...")
+    html = fetch_html(url)
+    if not html:
+        return ids
+    
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find('table', class_='tablesorter')
+    if table:
+        for a in table.find_all("a", href=True):
+            href = a["href"]
+            if "game_details.php?id=" in href:
+                m = re.search(r'id=(\d+)', href)
+                if m:
+                    ids.add(int(m.group(1)))
+    return ids
+
+def main():
+    print("=== ステップ 1: 全てのゲームデータを取得中 ===")
+    # n=0 パラメータを付与して全件（評価数0以上）を取得
+    full_url = f"{BASE_URL}/ratings/full.php?advanced=1&n=0"
+    html = fetch_html(full_url)
+    if not html:
+        print("ゲームリストの取得に失敗しました。中断します。")
+        return
+
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find('table', class_='tablesorter')
+    if not table:
+        print("HTML内にテーブルが見つかりませんでした。中断します。")
+        return
+
+    all_games = []
+    rows = table.find('tbody').find_all('tr')
+    print(f"全リストから {len(rows)} 行見つかりました。")
+
+    for r in rows:
+        cols = r.find_all('td')
+        if len(cols) >= 4:
+            a_tag = cols[0].find('a')
+            if not a_tag:
+                continue
+            
+            game_name = a_tag.text.strip()
+            game_id_match = re.search(r'id=(\d+)', a_tag['href'])
+            game_id = int(game_id_match.group(1)) if game_id_match else 0
+            
+            # 最新の値をパース
+            diff_text = cols[1].text.strip()
+            rating_text = cols[2].text.strip()
+            num_ratings_text = cols[3].text.strip()
+            
+            try:
+                rating = float(rating_text)
+            except ValueError:
+                rating = 0.0
+                
+            try:
+                num_ratings = int(num_ratings_text)
+            except ValueError:
+                num_ratings = 0
+                
+            try:
+                # 'N/A' 等の場合は 0.0 に
+                difficulty_num = float(diff_text)
+            except ValueError:
+                difficulty_num = 0.0
+
+            all_games.append({
+                'id': game_id,
+                'name': game_name,
+                'difficulty': diff_text,
+                'difficulty_num': difficulty_num,
+                'rating': rating,
+                'num_ratings': num_ratings
+            })
+
+    print(f"パース完了: {len(all_games)} 件")
+
+    print("\n=== ステップ 2: フィルタリングとカテゴリ分けのためのタグ収集 ===")
+    exclude_tags = ["Tool", "Engine"]
+    exclude_ids = set()
+    for tag in exclude_tags:
+        exclude_ids.update(get_ids_for_tag(tag))
+
+    needle_ids = get_ids_for_tag("Needle")
+    avoidance_ids = get_ids_for_tag("Avoidance")
+    adventure_ids = get_ids_for_tag("Adventure")
+
+    print(f"\n統計:")
+    print(f"  除外対象 ID (Tool/Engine): {len(exclude_ids)}")
+    print(f"  針ゲー (Needle) ID数: {len(needle_ids)}")
+    print(f"  耐久 (Avoidance) ID数: {len(avoidance_ids)}")
+    print(f"  アドベンチャー ID数: {len(adventure_ids)}")
+
+    print("\n=== ステップ 3: ゲームリストのフィルタリングと処理 ===")
+    processed_games = []
+    for g in all_games:
+        # Tool系を除外
+        if g["id"] in exclude_ids:
+            continue
+            
+        has_needle = g["id"] in needle_ids
+        has_avoidance = g["id"] in avoidance_ids
+        has_adventure = g["id"] in adventure_ids
+        
+        # カテゴリ判定:
+        # 針ゲー: Needleタグあり、かつ耐久・アドベンチャーなし
+        g["is_needle"] = has_needle and not has_avoidance and not has_adventure
+        # 耐久: Avoidanceタグあり、かつ針・アドベンチャーなし
+        g["is_avoidance"] = has_avoidance and not has_needle and not has_adventure
+        
+        processed_games.append(g)
+
+    print(f"除外処理後の件数: {len(processed_games)}")
+
+    # 全データを保存
+    with open("games.json", "w", encoding="utf-8") as f:
+        json.dump(processed_games, f, indent=2, ensure_ascii=False)
+
+    # JSファイル用（評価 6.0 以上 かつ 評価数 10 件 以上の名作のみ）
+    top_games = [g for g in processed_games if g["num_ratings"] >= 10 and g["rating"] >= 6.0]
+    
+    js_content = f"const GAMES = {json.dumps(top_games, ensure_ascii=False, indent=2)};\n"
+    with open("games.js", "w", encoding="utf-8") as f:
+        f.write(js_content)
+    
+    print(f"評価 6.0 以上、評価数 10 件 以上のゲームを {len(top_games)} 件含む games.js を生成しました。")
+    print("更新処理が正常に完了しました！")
+
+if __name__ == "__main__":
+    main()
