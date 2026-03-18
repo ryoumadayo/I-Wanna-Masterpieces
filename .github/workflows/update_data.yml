@@ -40,7 +40,7 @@ jobs:
         # 60日間の停止を回避するため、定期的にダミーの変更を加えます
         # ここでは README.md の末尾に最終チェック日時を追記します
         run: |
-          echo -e "\n\n---\n*Last scheduled check: $(date '+%Y-%m-%d %H:%M:%S') (UTC)*" >> README.md
+          echo -e "\n\n---\n*Last scheduled check: $(TZ='Asia/Tokyo' date '+%Y-%m-%d %H:%M:%S') (JST)*" >> README.md
 
       - name: Commit and push changes
         run: |
@@ -48,4 +48,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add games.json README.md
           # 変更がある場合（データ更新 or READMEの追記）にコミットしてpush
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update and keep-alive: $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update and keep-alive: $(TZ='Asia/Tokyo' date '+%Y-%m-%d %H:%M:%S')" && git push)
