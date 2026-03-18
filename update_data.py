@@ -1,5 +1,6 @@
 import json
 import re
+import datetime
 import time
 import requests
 from bs4 import BeautifulSoup
@@ -162,7 +163,7 @@ def main():
 
     # 全データを保存
     output_data = {
-        "last_updated": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S"),
         "games": processed_games
     }
     with open("games.json", "w", encoding="utf-8") as f:
