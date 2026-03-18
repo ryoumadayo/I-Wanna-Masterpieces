@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 15:02:38",
+  "last_updated": "2026-03-18 16:36:07",
   "games": [
     {
       "id": 24028,
@@ -4056,8 +4056,8 @@
       "name": "I wanna be the ABS",
       "difficulty": "28.8",
       "difficulty_num": 28.8,
-      "rating": 3.7,
-      "num_ratings": 5,
+      "rating": 3.6,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -43554,10 +43554,10 @@
     {
       "id": 20563,
       "name": "I Wanna Be the FE",
-      "difficulty": "71.8",
-      "difficulty_num": 71.8,
-      "rating": 8.1,
-      "num_ratings": 15,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 8.2,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -112656,7 +112656,7 @@
       "name": "SONAFLEKI",
       "difficulty": "70.4",
       "difficulty_num": 70.4,
-      "rating": 8.9,
+      "rating": 8.8,
       "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
