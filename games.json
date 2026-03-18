@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 13:34:54",
+  "last_updated": "2026-03-18 15:02:38",
   "games": [
     {
       "id": 24028,
@@ -112656,8 +112656,8 @@
       "name": "SONAFLEKI",
       "difficulty": "70.4",
       "difficulty_num": 70.4,
-      "rating": 8.8,
-      "num_ratings": 8,
+      "rating": 8.9,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
