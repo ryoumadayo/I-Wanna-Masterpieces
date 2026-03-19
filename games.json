@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 22:15:46",
+  "last_updated": "2026-03-19 23:28:00",
   "games": [
     {
       "id": 24028,
@@ -5827,7 +5827,7 @@
       "difficulty": "37.6",
       "difficulty_num": 37.6,
       "rating": 5.4,
-      "num_ratings": 47,
+      "num_ratings": 48,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -42954,11 +42954,11 @@
     {
       "id": 23778,
       "name": "I wanna Faker",
-      "difficulty": "97.0",
-      "difficulty_num": 97.0,
-      "rating": 4.4,
-      "num_ratings": 3,
-      "is_needle": false,
+      "difficulty": "96.3",
+      "difficulty_num": 96.3,
+      "rating": 6.1,
+      "num_ratings": 4,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126158,6 +126158,16 @@
       "difficulty_num": 58.1,
       "rating": 2.8,
       "num_ratings": 12,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46104,
+      "name": "I wanna be the Ultimatum: Act II",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
