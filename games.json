@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 11:05:52",
+  "last_updated": "2026-03-19 13:34:30",
   "games": [
     {
       "id": 24028,
@@ -47074,10 +47074,10 @@
     {
       "id": 18143,
       "name": "I wanna be the Frame frame",
-      "difficulty": "46.2",
-      "difficulty_num": 46.2,
+      "difficulty": "46.0",
+      "difficulty_num": 46.0,
       "rating": 6.3,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -76244,20 +76244,20 @@
     {
       "id": 20223,
       "name": "I wanna be the linearity",
-      "difficulty": "43.6",
-      "difficulty_num": 43.6,
+      "difficulty": "43.7",
+      "difficulty_num": 43.7,
       "rating": 7.3,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 21188,
       "name": "I wanna be the linearity 2",
-      "difficulty": "42.8",
-      "difficulty_num": 42.8,
+      "difficulty": "42.9",
+      "difficulty_num": 42.9,
       "rating": 8.5,
-      "num_ratings": 29,
+      "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111924,10 +111924,10 @@
     {
       "id": 24489,
       "name": "I wanna be the SNK",
-      "difficulty": "16.6",
-      "difficulty_num": 16.6,
-      "rating": 2.3,
-      "num_ratings": 7,
+      "difficulty": "13.8",
+      "difficulty_num": 13.8,
+      "rating": 1.9,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
