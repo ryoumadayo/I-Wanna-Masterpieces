@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 17:02:15",
+  "last_updated": "2026-03-19 18:09:37",
   "games": [
     {
       "id": 24028,
@@ -6314,9 +6314,9 @@
     {
       "id": 25497,
       "name": "I Wanna Anomaly",
-      "difficulty": "81.6",
-      "difficulty_num": 81.6,
-      "rating": 7.9,
+      "difficulty": "76.8",
+      "difficulty_num": 76.8,
+      "rating": 7.8,
       "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
@@ -9016,7 +9016,7 @@
       "name": "I wanna be the B-girl",
       "difficulty": "72.4",
       "difficulty_num": 72.4,
-      "rating": 8.5,
+      "rating": 8.6,
       "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
@@ -26026,7 +26026,7 @@
       "name": "I wanna commit 50 acts of arson",
       "difficulty": "66.7",
       "difficulty_num": 66.7,
-      "rating": 6.9,
+      "rating": 6.8,
       "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": true
@@ -68216,7 +68216,7 @@
       "name": "Kami No Kotoba",
       "difficulty": "77.8",
       "difficulty_num": 77.8,
-      "rating": 7.6,
+      "rating": 7.5,
       "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
@@ -68634,8 +68634,8 @@
     {
       "id": 27303,
       "name": "I Wanna Keep My Mental",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
+      "difficulty": "59.1",
+      "difficulty_num": 59.1,
       "rating": 8.7,
       "num_ratings": 14,
       "is_needle": false,
@@ -112096,7 +112096,7 @@
       "name": "I wanna Snow Goose",
       "difficulty": "78.5",
       "difficulty_num": 78.5,
-      "rating": 4.0,
+      "rating": 3.9,
       "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
