@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 04:51:42",
+  "last_updated": "2026-03-19 11:05:52",
   "games": [
     {
       "id": 24028,
@@ -44764,10 +44764,10 @@
     {
       "id": 45825,
       "name": "I Wanna Find The 7 Readme",
-      "difficulty": "22.5",
-      "difficulty_num": 22.5,
-      "rating": 9.0,
-      "num_ratings": 7,
+      "difficulty": "26.7",
+      "difficulty_num": 26.7,
+      "rating": 8.7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -63464,10 +63464,10 @@
     {
       "id": 23981,
       "name": "Ich möchte deine Flucht vor der Wirklichkeit nähren",
-      "difficulty": "53.8",
-      "difficulty_num": 53.8,
-      "rating": 8.8,
-      "num_ratings": 8,
+      "difficulty": "54.0",
+      "difficulty_num": 54.0,
+      "rating": 8.6,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -74914,10 +74914,10 @@
     {
       "id": 21429,
       "name": "I wanna be the Late Night Poet",
-      "difficulty": "33.9",
-      "difficulty_num": 33.9,
+      "difficulty": "34.6",
+      "difficulty_num": 34.6,
       "rating": 6.2,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
