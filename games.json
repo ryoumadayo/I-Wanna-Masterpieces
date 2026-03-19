@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 01:31:14",
+  "last_updated": "2026-03-20 02:34:49",
   "games": [
     {
       "id": 24028,
@@ -32917,7 +32917,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -46286,8 +46286,8 @@
       "name": "I wanna fly the Far away",
       "difficulty": "85.2",
       "difficulty_num": 85.2,
-      "rating": 6.8,
-      "num_ratings": 86,
+      "rating": 6.7,
+      "num_ratings": 87,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -144036,8 +144036,8 @@
       "name": "I wanna be the 肉じゃが",
       "difficulty": "59.0",
       "difficulty_num": 59.0,
-      "rating": 5.8,
-      "num_ratings": 2,
+      "rating": 3.9,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
