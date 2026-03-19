@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 14:57:31",
+  "last_updated": "2026-03-19 16:03:42",
   "games": [
     {
       "id": 24028,
@@ -18787,7 +18787,7 @@
       "difficulty": "61.5",
       "difficulty_num": 61.5,
       "rating": 4.9,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -30997,7 +30997,7 @@
       "difficulty": "26.0",
       "difficulty_num": 26.0,
       "rating": 7.7,
-      "num_ratings": 98,
+      "num_ratings": 99,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -42746,7 +42746,7 @@
       "name": "I wanna be the Fafnir",
       "difficulty": "89.8",
       "difficulty_num": 89.8,
-      "rating": 6.4,
+      "rating": 6.3,
       "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
@@ -55824,10 +55824,10 @@
     {
       "id": 16657,
       "name": "Half-Quake: Moon",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 4.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72164,8 +72164,8 @@
     {
       "id": 25698,
       "name": "I Wanna Kill The Piano",
-      "difficulty": "80.0",
-      "difficulty_num": 80.0,
+      "difficulty": "79.0",
+      "difficulty_num": 79.0,
       "rating": 3.4,
       "num_ratings": 2,
       "is_needle": false,
@@ -140414,10 +140414,10 @@
     {
       "id": 18747,
       "name": "I wanna be the ・d・",
-      "difficulty": "88.4",
-      "difficulty_num": 88.4,
+      "difficulty": "88.0",
+      "difficulty_num": 88.0,
       "rating": 7.8,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -144034,10 +144034,10 @@
     {
       "id": 19495,
       "name": "I wanna be the 肉汁麺ススムってありましたよね / 肉汁麺ススム",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
+      "difficulty": "71.8",
+      "difficulty_num": 71.8,
       "rating": 8.7,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
