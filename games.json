@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 05:36:26",
+  "last_updated": "2026-03-20 06:34:41",
   "games": [
     {
       "id": 24028,
@@ -83512,6 +83512,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46105,
+      "name": "I Wanna Be The Midocraft",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 17867,
       "name": "I wanna be the MIENAI",
       "difficulty": "21.8",
@@ -96874,10 +96884,10 @@
     {
       "id": 22679,
       "name": "I Wanna Pointillism",
-      "difficulty": "73.1",
-      "difficulty_num": 73.1,
+      "difficulty": "73.2",
+      "difficulty_num": 73.2,
       "rating": 9.2,
-      "num_ratings": 37,
+      "num_ratings": 38,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -116624,10 +116634,10 @@
     {
       "id": 45987,
       "name": "Super I just wanna play the needle game２",
-      "difficulty": "85.0",
-      "difficulty_num": 85.0,
-      "rating": 1.0,
-      "num_ratings": 2,
+      "difficulty": "84.5",
+      "difficulty_num": 84.5,
+      "rating": 2.1,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
