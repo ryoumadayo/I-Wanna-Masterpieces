@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 06:29:36",
+  "last_updated": "2026-03-21 06:55:19",
   "games": [
     {
       "id": 24028,
@@ -78734,8 +78734,8 @@
     {
       "id": 15130,
       "name": "I wanna be the LUIGI!",
-      "difficulty": "30.6",
-      "difficulty_num": 30.6,
+      "difficulty": "31.5",
+      "difficulty_num": 31.5,
       "rating": 3.8,
       "num_ratings": 11,
       "is_needle": true,
