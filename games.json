@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 11:00:10",
+  "last_updated": "2026-03-20 13:21:23",
   "games": [
     {
       "id": 24028,
@@ -14686,8 +14686,8 @@
       "name": "I wanna become good at needle",
       "difficulty": "0.0",
       "difficulty_num": 0.0,
-      "rating": 0.6,
-      "num_ratings": 3,
+      "rating": 0.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -51194,20 +51194,20 @@
     {
       "id": 18581,
       "name": "I wanna give a little present to Xia",
-      "difficulty": "14.2",
-      "difficulty_num": 14.2,
+      "difficulty": "14.7",
+      "difficulty_num": 14.7,
       "rating": 6.2,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 19509,
       "name": "I wanna give a little present to Xia 2",
-      "difficulty": "14.0",
-      "difficulty_num": 14.0,
-      "rating": 6.2,
-      "num_ratings": 4,
+      "difficulty": "15.0",
+      "difficulty_num": 15.0,
+      "rating": 6.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -58274,11 +58274,11 @@
     {
       "id": 20674,
       "name": "I wanna hear sakura in air",
-      "difficulty": "18.0",
-      "difficulty_num": 18.0,
+      "difficulty": "18.3",
+      "difficulty_num": 18.3,
       "rating": 5.9,
-      "num_ratings": 7,
-      "is_needle": true,
+      "num_ratings": 8,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -131547,7 +131547,7 @@
       "difficulty": "23.8",
       "difficulty_num": 23.8,
       "rating": 6.3,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
