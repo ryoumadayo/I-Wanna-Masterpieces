@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 17:39:13",
+  "last_updated": "2026-03-20 18:40:09",
   "games": [
     {
       "id": 24028,
@@ -86697,7 +86697,7 @@
       "difficulty": "78.5",
       "difficulty_num": 78.5,
       "rating": 7.1,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
