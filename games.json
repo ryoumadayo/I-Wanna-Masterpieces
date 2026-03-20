@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 00:14:30",
+  "last_updated": "2026-03-21 02:09:10",
   "games": [
     {
       "id": 24028,
@@ -30464,10 +30464,10 @@
     {
       "id": 19802,
       "name": "Decession",
-      "difficulty": "88.5",
-      "difficulty_num": 88.5,
-      "rating": 8.4,
-      "num_ratings": 29,
+      "difficulty": "88.7",
+      "difficulty_num": 88.7,
+      "rating": 8.5,
+      "num_ratings": 30,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126227,7 +126227,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
