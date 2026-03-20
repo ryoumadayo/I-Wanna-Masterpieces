@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 08:35:08",
+  "last_updated": "2026-03-20 11:00:10",
   "games": [
     {
       "id": 24028,
@@ -76894,8 +76894,8 @@
     {
       "id": 23105,
       "name": "Lizvex 2",
-      "difficulty": "91.0",
-      "difficulty_num": 91.0,
+      "difficulty": "90.8",
+      "difficulty_num": 90.8,
       "rating": 6.0,
       "num_ratings": 7,
       "is_needle": true,
