@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 15:02:07",
+  "last_updated": "2026-03-21 16:08:49",
   "games": [
     {
       "id": 24028,
@@ -5474,10 +5474,10 @@
     {
       "id": 19517,
       "name": "I wanna be the Alkaline Chlorine",
-      "difficulty": "51.7",
-      "difficulty_num": 51.7,
-      "rating": 5.7,
-      "num_ratings": 4,
+      "difficulty": "52.5",
+      "difficulty_num": 52.5,
+      "rating": 6.0,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -45867,7 +45867,7 @@
       "difficulty": "32.0",
       "difficulty_num": 32.0,
       "rating": 5.1,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -96456,8 +96456,8 @@
       "name": "I wanna play with Dangerous Toys",
       "difficulty": "36.9",
       "difficulty_num": 36.9,
-      "rating": 7.0,
-      "num_ratings": 49,
+      "rating": 7.1,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
