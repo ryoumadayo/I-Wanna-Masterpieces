@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 20:22:17",
+  "last_updated": "2026-03-21 21:45:21",
   "games": [
     {
       "id": 24028,
@@ -17564,10 +17564,10 @@
     {
       "id": 15098,
       "name": "I wanna bounce around in funny land",
-      "difficulty": "2.2",
-      "difficulty_num": 2.2,
+      "difficulty": "2.3",
+      "difficulty_num": 2.3,
       "rating": 5.2,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -87194,10 +87194,10 @@
     {
       "id": 12422,
       "name": "I wanna needle needle needle spike spike spike",
-      "difficulty": "33.2",
-      "difficulty_num": 33.2,
-      "rating": 2.3,
-      "num_ratings": 12,
+      "difficulty": "32.9",
+      "difficulty_num": 32.9,
+      "rating": 2.4,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128684,10 +128684,10 @@
     {
       "id": 19839,
       "name": "I wanna VOCALOID",
-      "difficulty": "17.0",
-      "difficulty_num": 17.0,
-      "rating": 2.6,
-      "num_ratings": 6,
+      "difficulty": "17.4",
+      "difficulty_num": 17.4,
+      "rating": 2.5,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
