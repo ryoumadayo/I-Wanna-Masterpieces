@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 19:31:18",
+  "last_updated": "2026-03-21 20:22:17",
   "games": [
     {
       "id": 24028,
@@ -124,10 +124,10 @@
     {
       "id": 19518,
       "name": "I wanna be the WAAAAA",
-      "difficulty": "16.5",
-      "difficulty_num": 16.5,
-      "rating": 4.6,
-      "num_ratings": 23,
+      "difficulty": "16.3",
+      "difficulty_num": 16.3,
+      "rating": 4.7,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -97134,10 +97134,10 @@
     {
       "id": 11017,
       "name": "I wanna be the Popularity",
-      "difficulty": "60.9",
-      "difficulty_num": 60.9,
-      "rating": 6.3,
-      "num_ratings": 15,
+      "difficulty": "62.4",
+      "difficulty_num": 62.4,
+      "rating": 6.2,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103337,7 +103337,7 @@
       "difficulty": "82.0",
       "difficulty_num": 82.0,
       "rating": 6.0,
-      "num_ratings": 4,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -125944,8 +125944,8 @@
     {
       "id": 18402,
       "name": "I wanna type well",
-      "difficulty": "27.4",
-      "difficulty_num": 27.4,
+      "difficulty": "27.3",
+      "difficulty_num": 27.3,
       "rating": 6.3,
       "num_ratings": 67,
       "is_needle": true,
