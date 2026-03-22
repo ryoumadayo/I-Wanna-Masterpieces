@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-03-22 21:48:53",
+  "last_updated": "2026-03-22 22:29:38",
+  "announcements": [
+    {
+      "date": "2026/03/22",
+      "message": "I Wanna Kill the Saaketh が新たに追加されました。",
+      "type": "add",
+      "id": 21841
+    },
+    {
+      "date": "2026/03/20",
+      "message": "マイリスト機能とお知らせ機能を追加しました。",
+      "type": "update"
+    }
+  ],
   "games": [
     {
       "id": 24028,
@@ -15327,7 +15340,7 @@
       "difficulty": "51.4",
       "difficulty_num": 51.4,
       "rating": 7.4,
-      "num_ratings": 56,
+      "num_ratings": 57,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101837,7 +101850,7 @@
       "difficulty": "41.5",
       "difficulty_num": 41.5,
       "rating": 7.1,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": false,
       "is_avoidance": false
     },
