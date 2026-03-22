@@ -3,6 +3,7 @@ import re
 import datetime
 import time
 import requests
+import os
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://delicious-fruit.com"
@@ -161,22 +162,73 @@ def main():
 
     print(f"除外処理後の件数: {len(processed_games)}")
 
+    # 以前のデータがあれば読み込む
+    old_top_ids = set()
+    old_top_names = {}
+    announcements = []
+    try:
+        if os.path.exists("games.json"):
+            with open("games.json", "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                old_games = old_data.get("games", [])
+                announcements = old_data.get("announcements", [])
+                # 以前の「名作（Top Games）」を特定
+                for g in old_games:
+                    if g.get("num_ratings", 0) >= 10 and g.get("rating", 0) >= 6.0:
+                        old_top_ids.add(g["id"])
+                        old_top_names[g["id"]] = g["name"]
+    except Exception as e:
+        print(f"以前のデータの読み込み中にエラーが発生しました: {e}")
+
+    # 現在の名作（Top Games）を特定
+    new_top_games = [g for g in processed_games if g["num_ratings"] >= 10 and g["rating"] >= 6.0]
+    new_top_ids = {g["id"] for g in new_top_games}
+
+    # お知らせの生成
+    today_str = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y/%m/%d")
+    
+    # 新規追加の検知
+    for g in new_top_games:
+        if g["id"] not in old_top_ids:
+            msg = f"{g['name']} が新たに追加されました。"
+            # 重複を避ける（同じ内容のお知らせが直近にある場合は追加しない）
+            if not any(a["message"] == msg for a in announcements[:5]):
+                announcements.insert(0, {"date": today_str, "message": msg, "type": "add", "id": g["id"]})
+                print(f"お知らせ追加 (新規): {msg}")
+
+    # 除外の検知
+    for gid in old_top_ids:
+        if gid not in new_top_ids:
+            # プロセシングされた全ゲームの中にまだ存在するか確認
+            still_exists = any(g["id"] == gid for g in processed_games)
+            if still_exists:
+                msg = f"{old_top_names[gid]}の評価が基準値を下回ったことにより、除外対象となりました。"
+            else:
+                msg = f"{old_top_names[gid]}が削除されたため、除外対象となりました。"
+            
+            if not any(a["message"] == msg for a in announcements[:5]):
+                announcements.insert(0, {"date": today_str, "message": msg, "type": "remove", "id": gid})
+                print(f"お知らせ追加 (除外): {msg}")
+
+    # お知らせは最新30件程度に制限
+    announcements = announcements[:30]
+
     # 全データを保存
     output_data = {
         "last_updated": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M:%S"),
+        "announcements": announcements,
         "games": processed_games
     }
     with open("games.json", "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
 
     # JSファイル用（評価 6.0 以上 かつ 評価数 10 件 以上の名作のみ）
-    top_games = [g for g in processed_games if g["num_ratings"] >= 10 and g["rating"] >= 6.0]
-    
-    js_content = f"const GAMES = {json.dumps(top_games, ensure_ascii=False, indent=2)};\n"
+    js_content = f"const GAMES = {json.dumps(new_top_games, ensure_ascii=False, indent=2)};\n"
     with open("games.js", "w", encoding="utf-8") as f:
         f.write(js_content)
     
-    print(f"評価 6.0 以上、評価数 10 件 以上のゲームを {len(top_games)} 件含む games.js を生成しました。")
+    print(f"評価 6.0 以上、評価数 10 件 以上のゲームを {len(new_top_games)} 件含む games.js を生成しました。")
+    print(f"お知らせを {len(announcements)} 件保存しました。")
     print("更新処理が正常に完了しました！")
 
 if __name__ == "__main__":
