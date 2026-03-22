@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-22 22:29:38",
+  "last_updated": "2026-03-22 23:27:22",
   "announcements": [
+    {
+      "date": "2026/03/22",
+      "message": "I wanna be the Addiction が新たに追加されました。",
+      "type": "add",
+      "id": 10542
+    },
     {
       "date": "2026/03/22",
       "message": "I Wanna Kill the Saaketh が新たに追加されました。",
@@ -2207,10 +2213,10 @@
     {
       "id": 46108,
       "name": "30min3map1mood 20260315",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -4559,7 +4565,7 @@
       "name": "I wanna be the Addiction",
       "difficulty": "28.1",
       "difficulty_num": 28.1,
-      "rating": 5.9,
+      "rating": 6.0,
       "num_ratings": 31,
       "is_needle": false,
       "is_avoidance": false
@@ -5847,10 +5853,10 @@
     {
       "id": 15326,
       "name": "I wanna be the Amethyst",
-      "difficulty": "37.6",
-      "difficulty_num": 37.6,
-      "rating": 5.4,
-      "num_ratings": 48,
+      "difficulty": "37.7",
+      "difficulty_num": 37.7,
+      "rating": 5.3,
+      "num_ratings": 49,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -27347,10 +27353,10 @@
     {
       "id": 22656,
       "name": "Cookie Temptation",
-      "difficulty": "54.3",
-      "difficulty_num": 54.3,
+      "difficulty": "54.4",
+      "difficulty_num": 54.4,
       "rating": 7.9,
-      "num_ratings": 78,
+      "num_ratings": 79,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -84707,10 +84713,10 @@
     {
       "id": 46109,
       "name": "i wanna be the monster king ou",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "42.0",
+      "difficulty_num": 42.0,
+      "rating": 1.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
