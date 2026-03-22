@@ -17,11 +17,302 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentPage = 1;
     const itemsPerPage = 100;
 
+    // My Lists management
+    const STORAGE_KEY = 'delicious_mylists_v2';
+    const OLD_STORAGE_KEY = 'delicious_bookmarks';
+    
+    // Initial loading
+    let myListsData = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{"lists": {"default": {"name": "メインリスト", "gameIds": []}}, "activeId": "default"}');
+
+    // Migration from old bookmarks if exists
+    if (!localStorage.getItem(STORAGE_KEY) && localStorage.getItem(OLD_STORAGE_KEY)) {
+        const oldData = JSON.parse(localStorage.getItem(OLD_STORAGE_KEY));
+        myListsData.lists.default.gameIds = Object.keys(oldData).map(id => parseInt(id));
+        // Remove old storage to avoid infinite migration
+        // localStorage.removeItem(OLD_STORAGE_KEY); 
+    }
+
+    const saveMyLists = () => {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(myListsData));
+    };
+
+    const toggleInMyList = (e, gameId, gameName) => {
+        if (e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+
+        const container = document.createElement('div');
+        container.innerHTML = `
+            <p style="margin-bottom: 1rem; color: var(--text-secondary);">「${gameName}」を保存するリストを選択してください：</p>
+            <div id="listSelectionContainer">
+                ${Object.keys(myListsData.lists).map(id => {
+                    const list = myListsData.lists[id];
+                    const isInList = list.gameIds.includes(gameId);
+                    return `
+                        <label class="list-selection-item">
+                            <input type="checkbox" id="check_${id}" ${isInList ? 'checked' : ''} onchange="updateGameInList('${id}', ${gameId}, this.checked)">
+                            <span>${list.name}</span>
+                        </label>
+                    `;
+                }).join('')}
+            </div>
+            <div class="modal-footer">
+                <button class="control-btn mini" onclick="addNewList(() => toggleInMyList(null, ${gameId}, '${gameName}'))">＋ 新しいリスト</button>
+                <button class="control-btn mini" onclick="hideModal()">完了</button>
+            </div>
+        `;
+        showModal('マイリストに追加', container);
+    };
+
+    window.updateGameInList = (listId, gameId, isChecked) => {
+        const list = myListsData.lists[listId];
+        if (!list) return;
+
+        const index = list.gameIds.indexOf(gameId);
+        if (isChecked && index === -1) {
+            list.gameIds.push(gameId);
+        } else if (!isChecked && index !== -1) {
+            list.gameIds.splice(index, 1);
+        }
+        
+        saveMyLists();
+        
+        // Refresh UI
+        if (currentCategory === 'mylists') {
+            applyFiltersAndSort();
+        } else {
+            renderGrid(currentGames);
+        }
+    };
+
+    const getActiveList = () => myListsData.lists[myListsData.activeId] || myListsData.lists['default'];
+
+    // Modal Helpers
+    const modalOverlay = document.getElementById('modalOverlay');
+    const modalTitle = document.getElementById('modalTitle');
+    const modalBody = document.getElementById('modalBody');
+    const closeModalBtn = document.getElementById('closeModal');
+
+    const showModal = (title, bodyContent) => {
+        modalTitle.textContent = title;
+        modalBody.innerHTML = '';
+        if (typeof bodyContent === 'string') {
+            modalBody.innerHTML = bodyContent;
+        } else {
+            modalBody.appendChild(bodyContent);
+        }
+        modalOverlay.style.display = 'flex';
+    };
+
+    const hideModal = () => {
+        modalOverlay.style.display = 'none';
+        modalBody.innerHTML = '';
+    };
+
+    closeModalBtn.onclick = hideModal;
+    modalOverlay.onclick = (e) => {
+        if (e.target === modalOverlay) hideModal();
+    };
+
+    const addNewList = (callback) => {
+        const container = document.createElement('div');
+        container.className = 'modal-input-container';
+        container.innerHTML = `
+            <label>新しいリストの名前:</label>
+            <input type="text" id="newListInput" placeholder="例: お気に入り, 攻略中..." autofocus>
+            <div class="modal-footer">
+                <button class="control-btn mini" id="confirmAddBtn">作成する</button>
+            </div>
+        `;
+        showModal('マイリストを作成', container);
+        
+        const input = document.getElementById('newListInput');
+        const confirmBtn = document.getElementById('confirmAddBtn');
+        
+        const handleConfirm = () => {
+            const name = input.value.trim();
+            if (name) {
+                const id = 'list_' + new Date().getTime();
+                myListsData.lists[id] = { name: name, gameIds: [] };
+                myListsData.activeId = id;
+                saveMyLists();
+                hideModal();
+                applyFiltersAndSort();
+                if (callback) callback(id);
+            }
+        };
+
+        confirmBtn.onclick = handleConfirm;
+        input.onkeypress = (e) => { if (e.key === 'Enter') handleConfirm(); };
+    };
+
+    const renameActiveList = () => {
+        const list = getActiveList();
+        const container = document.createElement('div');
+        container.innerHTML = `
+            <label>リストの新しい名前:</label>
+            <input type="text" id="renameListInput" value="${list.name}" autofocus>
+            <div class="modal-footer">
+                <button class="control-btn mini" id="confirmRenameBtn">変更を保存</button>
+            </div>
+        `;
+        showModal('名前を変更', container);
+        
+        const input = document.getElementById('renameListInput');
+        const confirmBtn = document.getElementById('confirmRenameBtn');
+        
+        const handleConfirm = () => {
+            const name = input.value.trim();
+            if (name) {
+                list.name = name;
+                saveMyLists();
+                hideModal();
+                applyFiltersAndSort();
+            }
+        };
+
+        confirmBtn.onclick = handleConfirm;
+        input.onkeypress = (e) => { if (e.key === 'Enter') handleConfirm(); };
+    };
+
+    const deleteActiveList = () => {
+        if (Object.keys(myListsData.lists).length <= 1) {
+            alert('最後のリストは削除できません。');
+            return;
+        }
+        
+        const list = getActiveList();
+        if (confirm(`リスト「${list.name}」を削除しますか？`)) {
+            delete myListsData.lists[myListsData.activeId];
+            myListsData.activeId = Object.keys(myListsData.lists)[0];
+            saveMyLists();
+            applyFiltersAndSort();
+        }
+    };
+
+    const switchList = (id) => {
+        if (myListsData.lists[id]) {
+            myListsData.activeId = id;
+            saveMyLists();
+            applyFiltersAndSort();
+        }
+    };
+
+    const updateMyListsUI = () => {
+        let controls = document.getElementById('myListControls');
+        if (!controls) {
+            controls = document.createElement('div');
+            controls.id = 'myListControls';
+            controls.className = 'mylist-controls';
+            paginationContainer.parentNode.insertBefore(controls, grid);
+        }
+
+        if (currentCategory === 'mylists') {
+            controls.style.display = 'flex';
+            
+            // Build options
+            let optionsHtml = Object.keys(myListsData.lists).map(id => 
+                `<option value="${id}" ${id === myListsData.activeId ? 'selected' : ''}>${myListsData.lists[id].name}</option>`
+            ).join('');
+
+            controls.innerHTML = `
+                <div class="list-selector">
+                    <label>表示中のリスト:</label>
+                    <select id="listSelect" onchange="switchList(this.value)">
+                        ${optionsHtml}
+                    </select>
+                </div>
+                <div class="list-actions">
+                    <button class="control-btn mini" onclick="addNewList()" title="新しいリストを追加">＋ 新規</button>
+                    <button class="control-btn mini" onclick="renameActiveList()" title="名前を変更">✎ 編集</button>
+                    <button class="control-btn mini danger" onclick="deleteActiveList()" title="現在のリストを削除">× 削除</button>
+                </div>
+            `;
+        } else {
+            controls.style.display = 'none';
+        }
+    };
+
+    window.hideModal = hideModal;
+    window.toggleInMyList = toggleInMyList;
+    window.switchList = switchList;
+    window.addNewList = addNewList;
+    window.renameActiveList = renameActiveList;
+    window.deleteActiveList = deleteActiveList;
+
     const updateLastUpdated = (timestamp) => {
         const lastUpdatedEl = document.getElementById('lastUpdated');
         if (lastUpdatedEl && timestamp) {
             lastUpdatedEl.textContent = `データ最終更新: ${timestamp}`;
         }
+    };
+
+    let showAllAnnouncements = false;
+    let savedAnnouncements = [];
+
+    const renderAnnouncements = (announcements) => {
+        const section = document.getElementById('announcementSection');
+        const list = document.getElementById('announcementList');
+        if (!section || !list) return;
+
+        if (!announcements || announcements.length === 0) {
+            section.style.display = 'none';
+            return;
+        }
+
+        savedAnnouncements = announcements;
+        section.style.display = 'block';
+        
+        const displayed = showAllAnnouncements ? announcements : announcements.slice(0, 5);
+        
+        list.innerHTML = displayed.map(a => {
+            let msgHtml = `<span class="announcement-msg">${a.message}</span>`;
+            // Only add links for 'add' type (newly added games)
+            if (a.id && a.type === 'add') {
+                const gameName = a.message.split(/ が|。/)[0].replace(/'/g, "\\'");
+                msgHtml = `<a href="javascript:void(0)" onclick="searchAndShowGame('${gameName}')" class="announcement-link">${a.message}</a>`;
+            }
+            return `
+                <div class="announcement-item ${a.type || ''}">
+                    <span class="announcement-date">${a.date}</span>
+                    ${msgHtml}
+                </div>
+            `;
+        }).join('');
+
+        // Add 'See More' button if there are more than 5
+        if (announcements.length > 5) {
+            const moreBtnId = 'announcementMoreBtn';
+            let moreBtn = document.getElementById(moreBtnId);
+            if (!moreBtn) {
+                moreBtn = document.createElement('button');
+                moreBtn.id = moreBtnId;
+                moreBtn.className = 'announcement-more-btn';
+                section.appendChild(moreBtn);
+            }
+            moreBtn.textContent = showAllAnnouncements ? '閉じる' : `他 ${announcements.length - 5} 件を表示...`;
+            moreBtn.onclick = () => {
+                showAllAnnouncements = !showAllAnnouncements;
+                renderAnnouncements(savedAnnouncements);
+            };
+        }
+    };
+
+    window.searchAndShowGame = (gameName) => {
+        // Reset category to 'all' if not already, to ensure the game is shown
+        if (currentCategory !== 'all' && currentCategory !== 'mylists') {
+             const allBtn = Array.from(filterButtons).find(b => b.dataset.category === 'all');
+             if (allBtn) {
+                 filterButtons.forEach(b => b.classList.remove('active'));
+                 allBtn.classList.add('active');
+                 currentCategory = 'all';
+             }
+        }
+        
+        searchInput.value = gameName;
+        applyFiltersAndSort();
+        window.scrollTo({ top: searchInput.offsetTop - 100, behavior: 'smooth' });
     };
 
     const loadData = async () => {
@@ -34,8 +325,10 @@ document.addEventListener('DOMContentLoaded', () => {
             if (data.games) {
                 allGameData = data.games;
                 updateLastUpdated(data.last_updated);
+                renderAnnouncements(data.announcements);
             } else {
                 allGameData = data;
+                renderAnnouncements([]);
             }
 
             // 名作のみ（評価 6.0 以上、評価数 10 以上）をフィルタリング
@@ -112,6 +405,8 @@ document.addEventListener('DOMContentLoaded', () => {
             card.href = `https://delicious-fruit.com/ratings/game_details.php?id=${game.id}`;
             card.target = '_blank';
 
+            const activeList = getActiveList();
+            const isInList = activeList.gameIds.includes(game.id);
             const gameTitle = document.createElement('h3');
             gameTitle.className = 'game-title';
             gameTitle.textContent = game.name;
@@ -132,9 +427,22 @@ document.addEventListener('DOMContentLoaded', () => {
                 diffBadge.style.color = '#ffffff';
             }
 
+            const bookmarkBtn = document.createElement('button');
+            const isInAnyList = Object.values(myListsData.lists).some(list => list.gameIds.includes(game.id));
+            bookmarkBtn.className = `bookmark-btn ${isInAnyList ? 'active' : ''}`;
+            bookmarkBtn.innerHTML = isInAnyList ? '★' : '☆';
+            bookmarkBtn.title = 'マイリストに追加/削除';
+            bookmarkBtn.onclick = (e) => toggleInMyList(e, game.id, game.name.replace(/'/g, "\\'"));
+
             const headerDiv = document.createElement('div');
             headerDiv.className = 'card-header';
             headerDiv.appendChild(gameTitle);
+            
+            const btnGroup = document.createElement('div');
+            btnGroup.className = 'btn-group';
+            btnGroup.appendChild(bookmarkBtn);
+
+            headerDiv.appendChild(btnGroup);
 
             const metricsDiv = document.createElement('div');
             metricsDiv.className = 'card-metrics';
@@ -182,9 +490,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const query = searchInput.value.toLowerCase();
         const sortValue = sortSelect.value;
 
-        // Filter from allGameData (filtered for masterpieces)
-        const baseGames = allGameData.filter(g => g.num_ratings >= 10 && g.rating >= 6.0);
+        // Base filter (masterpieces or all if in mylists)
+        let baseGames = allGameData;
+        if (currentCategory !== 'mylists') {
+            baseGames = allGameData.filter(g => g.num_ratings >= 10 && g.rating >= 6.0);
+        }
         
+        const activeList = getActiveList();
+
         currentGames = baseGames.filter(game => {
             const matchesQuery = game.name.toLowerCase().includes(query);
             let matchesCategory = true;
@@ -195,10 +508,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchesCategory = game.is_avoidance;
             } else if (currentCategory === 'other') {
                 matchesCategory = !game.is_needle && !game.is_avoidance;
+            } else if (currentCategory === 'mylists') {
+                matchesCategory = activeList.gameIds.includes(game.id);
             }
 
             return matchesQuery && matchesCategory;
         });
+
+        // Special handling for export/import UI if in bookmarks
+        updateMyListsUI();
 
         // Sort
         if (sortValue === 'ratings_desc') {
