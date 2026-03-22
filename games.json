@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 02:53:53",
+  "last_updated": "2026-03-23 03:36:15",
   "announcements": [
     {
       "date": "2026/03/22",
@@ -132303,10 +132303,10 @@
     {
       "id": 21758,
       "name": "X'mas Needle",
-      "difficulty": "83.5",
-      "difficulty_num": 83.5,
-      "rating": 2.0,
-      "num_ratings": 3,
+      "difficulty": "83.3",
+      "difficulty_num": 83.3,
+      "rating": 3.0,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
