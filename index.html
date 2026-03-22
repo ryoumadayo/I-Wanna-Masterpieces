@@ -23,9 +23,19 @@
                     <button class="filter-btn" data-category="needle">針ゲー</button>
                     <button class="filter-btn" data-category="avoidance">耐久</button>
                     <button class="filter-btn" data-category="other">その他</button>
+                    <button class="filter-btn" data-category="mylists">マイリスト</button>
                 </div>
             </div>
         </header>
+
+        <div class="announcement-section" id="announcementSection" style="display: none;">
+            <div class="announcement-header">
+                <h2>お知らせ</h2>
+            </div>
+            <div class="announcement-list" id="announcementList">
+                <!-- Announcements will be inserted here -->
+            </div>
+        </div>
 
         <main>
             <div class="controls">
@@ -68,6 +78,18 @@
     </div>
     <!-- Back to top button -->
     <button id="backToTopBtn" title="トップへ戻る">↑ Top</button>
+
+    <div id="modalOverlay" class="modal-overlay">
+        <div class="modal-content">
+            <div id="modalHeader" class="modal-header">
+                <h2 id="modalTitle">マイリスト管理</h2>
+                <button id="closeModal" class="close-btn">&times;</button>
+            </div>
+            <div id="modalBody" class="modal-body">
+                <!-- Content will be injected by JS -->
+            </div>
+        </div>
+    </div>
 
     <!-- script.js will fetch games.json dynamically -->
     <script src="script.js"></script>
