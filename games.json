@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 08:48:21",
+  "last_updated": "2026-03-22 11:06:18",
   "games": [
     {
       "id": 24028,
@@ -26354,10 +26354,10 @@
     {
       "id": 45846,
       "name": "Condori's Spike",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
-      "rating": 7.0,
-      "num_ratings": 2,
+      "difficulty": "66.5",
+      "difficulty_num": 66.5,
+      "rating": 6.6,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -69972,6 +69972,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46106,
+      "name": "I Wanna Kill The BM",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 21997,
       "name": "I wanna kill the bone",
       "difficulty": "N/A",
@@ -77666,7 +77676,7 @@
       "name": "I wanna be the Love attribute",
       "difficulty": "75.0",
       "difficulty_num": 75.0,
-      "rating": 6.7,
+      "rating": 6.6,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
@@ -86354,10 +86364,10 @@
     {
       "id": 27970,
       "name": "I Wanna Be The Nasrano",
-      "difficulty": "28.3",
-      "difficulty_num": 28.3,
-      "rating": 3.5,
-      "num_ratings": 12,
+      "difficulty": "24.3",
+      "difficulty_num": 24.3,
+      "rating": 3.1,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -106104,10 +106114,10 @@
     {
       "id": 45842,
       "name": "I wanna save agartha",
-      "difficulty": "51.7",
-      "difficulty_num": 51.7,
-      "rating": 1.6,
-      "num_ratings": 7,
+      "difficulty": "52.9",
+      "difficulty_num": 52.9,
+      "rating": 1.5,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128874,10 +128884,10 @@
     {
       "id": 24943,
       "name": "VoRoVo",
-      "difficulty": "67.2",
-      "difficulty_num": 67.2,
+      "difficulty": "66.9",
+      "difficulty_num": 66.9,
       "rating": 8.6,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -141166,8 +141176,8 @@
       "name": "I wanna be the 全自動",
       "difficulty": "0.0",
       "difficulty_num": 0.0,
-      "rating": 9.0,
-      "num_ratings": 1,
+      "rating": 7.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
