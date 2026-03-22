@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 19:26:39",
+  "last_updated": "2026-03-22 19:54:24",
   "games": [
     {
       "id": 24028,
@@ -2189,6 +2189,16 @@
       "rating": 0.0,
       "num_ratings": 0,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46108,
+      "name": "30min3map1mood 20260315",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -84680,6 +84690,16 @@
       "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
+    },
+    {
+      "id": 46109,
+      "name": "i wanna be the monster king ou",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 17186,
