@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 06:49:47",
+  "last_updated": "2026-03-23 07:24:37",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -62471,8 +62471,8 @@
       "name": "I Want Challenge",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 6.0,
-      "num_ratings": 2,
+      "rating": 6.3,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -64093,6 +64093,16 @@
       "difficulty_num": 24.4,
       "rating": 2.1,
       "num_ratings": 12,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46110,
+      "name": "i wanna be the impossible trap",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
