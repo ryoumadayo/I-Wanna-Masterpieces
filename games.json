@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 11:06:18",
+  "last_updated": "2026-03-22 13:32:49",
   "games": [
     {
       "id": 24028,
@@ -92566,7 +92566,7 @@
       "name": "Pachi Holidays 2023",
       "difficulty": "71.0",
       "difficulty_num": 71.0,
-      "rating": 8.0,
+      "rating": 8.3,
       "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
