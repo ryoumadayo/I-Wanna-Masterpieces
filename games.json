@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-23 05:53:38",
+  "last_updated": "2026-03-23 06:25:53",
   "announcements": [
+    {
+      "date": "2026/03/23",
+      "message": "Star Compass が新たに追加されました。",
+      "type": "add",
+      "id": 21612
+    },
     {
       "date": "2026/03/22",
       "message": "I wanna be the Addiction が新たに追加されました。",
@@ -114223,10 +114229,10 @@
     {
       "id": 21612,
       "name": "Star Compass",
-      "difficulty": "59.0",
-      "difficulty_num": 59.0,
+      "difficulty": "59.1",
+      "difficulty_num": 59.1,
       "rating": 8.7,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
