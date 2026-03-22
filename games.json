@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 14:53:09",
+  "last_updated": "2026-03-22 15:50:52",
   "games": [
     {
       "id": 24028,
@@ -68236,8 +68236,8 @@
       "name": "I Wanna KamiKamiKami",
       "difficulty": "56.8",
       "difficulty_num": 56.8,
-      "rating": 8.1,
-      "num_ratings": 24,
+      "rating": 7.9,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -122609,36 +122609,6 @@
       "rating": 2.2,
       "num_ratings": 2,
       "is_needle": true,
-      "is_avoidance": false
-    },
-    {
-      "id": 28315,
-      "name": "I wanna to be winner",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
-      "id": 28316,
-      "name": "I wanna to be winner",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
-      "id": 28317,
-      "name": "I wanna to be winner",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
       "is_avoidance": false
     },
     {
