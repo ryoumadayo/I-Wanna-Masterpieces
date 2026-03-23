@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 06:02:33",
+  "last_updated": "2026-03-24 06:56:10",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -87571,8 +87571,8 @@
       "name": "I Wanna Be The Needlecaster",
       "difficulty": "55.5",
       "difficulty_num": 55.5,
-      "rating": 7.9,
-      "num_ratings": 14,
+      "rating": 7.5,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
