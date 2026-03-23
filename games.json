@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 21:02:34",
+  "last_updated": "2026-03-23 22:55:12",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -17392,7 +17392,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -40577,6 +40577,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46124,
+      "name": "I wanna escape the forest",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 24217,
       "name": "I Wanna Escape The Foundry",
       "difficulty": "55.9",
@@ -43242,7 +43252,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -57857,6 +57867,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46127,
+      "name": "I Wanna Have Better Mobility",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 19992,
       "name": "I wanna have Death-Flags",
       "difficulty": "53.5",
@@ -62313,6 +62333,16 @@
       "difficulty_num": 1.4,
       "rating": 5.1,
       "num_ratings": 17,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46125,
+      "name": "I wanna: One enemy",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -81587,6 +81617,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46126,
+      "name": "I Wanna Be The Marrin",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 27755,
       "name": "i wanna be the marry simurater.exe",
       "difficulty": "5.5",
@@ -98672,7 +98712,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -99883,6 +99923,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46129,
+      "name": "I Wanna Be the QMark: Deluxe",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -115003,6 +115053,16 @@
       "difficulty_num": 22.5,
       "rating": 4.5,
       "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46128,
+      "name": "I Wanna Be The StickFigure",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
