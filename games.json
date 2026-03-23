@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 11:07:06",
+  "last_updated": "2026-03-23 13:40:37",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -17383,6 +17383,16 @@
       "difficulty_num": 30.0,
       "rating": 3.0,
       "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46111,
+      "name": "I Wanna Be The Boshy clone",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -35309,11 +35319,11 @@
     {
       "id": 16362,
       "name": "I wanna be the Dracula",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": true,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 2.7,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -38169,10 +38179,10 @@
     {
       "id": 21119,
       "name": "I wanna Elixir",
-      "difficulty": "53.3",
-      "difficulty_num": 53.3,
+      "difficulty": "53.4",
+      "difficulty_num": 53.4,
       "rating": 6.1,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43223,6 +43233,16 @@
       "difficulty_num": 45.8,
       "rating": 8.0,
       "num_ratings": 20,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46112,
+      "name": "I wanna be the fangame",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -65789,10 +65809,10 @@
     {
       "id": 23749,
       "name": "Iwanna Sallauphe",
-      "difficulty": "37.5",
-      "difficulty_num": 37.5,
+      "difficulty": "37.6",
+      "difficulty_num": 37.6,
       "rating": 6.9,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -73023,6 +73043,16 @@
       "difficulty_num": 50.5,
       "rating": 7.4,
       "num_ratings": 5,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46118,
+      "name": "I wanna kill the Y.N",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90619,10 +90649,10 @@
     {
       "id": 12057,
       "name": "I wanna be the Octophobia",
-      "difficulty": "24.5",
-      "difficulty_num": 24.5,
+      "difficulty": "24.7",
+      "difficulty_num": 24.7,
       "rating": 7.8,
-      "num_ratings": 164,
+      "num_ratings": 165,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -91094,6 +91124,16 @@
       "rating": 6.5,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46122,
+      "name": "I Wanna Be The One",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -98614,6 +98654,16 @@
       "rating": 7.9,
       "num_ratings": 6,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46120,
+      "name": "I Wanna Be The Project",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -124469,10 +124519,10 @@
     {
       "id": 22862,
       "name": "I Wanna travel the needle world 2",
-      "difficulty": "41.3",
-      "difficulty_num": 41.3,
+      "difficulty": "41.2",
+      "difficulty_num": 41.2,
       "rating": 7.9,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -132327,6 +132377,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46121,
+      "name": "I WANNA BE THE XALABAIA",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 22540,
       "name": "I Wanna Xaler",
       "difficulty": "75.6",
@@ -132715,6 +132775,66 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46119,
+      "name": "I wanna be the Y.N 2 Remake",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46114,
+      "name": "I wanna be the Y.N spike",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46117,
+      "name": "I wanna be the Y.N Spike 2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46115,
+      "name": "I wanna be the Y.N trap",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46116,
+      "name": "I wanna be the Y.N trap 2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46113,
+      "name": "I wanna be the Y.N2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 23667,
