@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 22:56:06",
+  "last_updated": "2026-03-24 23:58:30",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -99111,8 +99111,8 @@
       "name": "I wanna puding War",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 1.0,
-      "num_ratings": 3,
+      "rating": 1.3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
