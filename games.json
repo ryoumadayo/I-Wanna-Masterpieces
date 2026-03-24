@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25 02:30:45",
+  "last_updated": "2026-03-25 03:33:52",
   "announcements": [
     {
       "date": "2026/03/23",
@@ -32969,8 +32969,8 @@
     {
       "id": 22227,
       "name": "I wanna devout game",
-      "difficulty": "81.5",
-      "difficulty_num": 81.5,
+      "difficulty": "81.8",
+      "difficulty_num": 81.8,
       "rating": 5.1,
       "num_ratings": 11,
       "is_needle": true,
@@ -35969,10 +35969,10 @@
     {
       "id": 12299,
       "name": "I Wanna DTG",
-      "difficulty": "0.4",
-      "difficulty_num": 0.4,
-      "rating": 2.1,
-      "num_ratings": 10,
+      "difficulty": "0.3",
+      "difficulty_num": 0.3,
+      "rating": 1.9,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -85012,7 +85012,7 @@
       "difficulty": "0.7",
       "difficulty_num": 0.7,
       "rating": 0.7,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -122279,10 +122279,10 @@
     {
       "id": 14822,
       "name": "I Wanna be the TIS",
-      "difficulty": "89.5",
-      "difficulty_num": 89.5,
-      "rating": 7.3,
-      "num_ratings": 18,
+      "difficulty": "89.4",
+      "difficulty_num": 89.4,
+      "rating": 7.4,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122389,10 +122389,10 @@
     {
       "id": 15089,
       "name": "I wanna TKTU spike",
-      "difficulty": "49.1",
-      "difficulty_num": 49.1,
+      "difficulty": "48.7",
+      "difficulty_num": 48.7,
       "rating": 6.6,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122402,7 +122402,7 @@
       "difficulty": "42.0",
       "difficulty_num": 42.0,
       "rating": 6.8,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -141061,8 +141061,8 @@
       "name": "I wanna 亅L",
       "difficulty": "80.0",
       "difficulty_num": 80.0,
-      "rating": 6.2,
-      "num_ratings": 8,
+      "rating": 6.1,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -144311,8 +144311,8 @@
       "name": "I wanna be the 肉汁麺ススムってありましたよね / 肉汁麺ススム",
       "difficulty": "71.8",
       "difficulty_num": 71.8,
-      "rating": 8.7,
-      "num_ratings": 5,
+      "rating": 8.3,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
