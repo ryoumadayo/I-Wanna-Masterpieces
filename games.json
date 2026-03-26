@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 15:12:41",
+  "last_updated": "2026-03-26 16:42:26",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -93245,10 +93245,10 @@
     {
       "id": 14683,
       "name": "I wanna be the Partun",
-      "difficulty": "58.7",
-      "difficulty_num": 58.7,
-      "rating": 7.0,
-      "num_ratings": 7,
+      "difficulty": "62.8",
+      "difficulty_num": 62.8,
+      "rating": 6.9,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
