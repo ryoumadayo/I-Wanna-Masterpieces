@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 17:54:54",
+  "last_updated": "2026-03-26 19:00:48",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -95985,12 +95985,12 @@
     {
       "id": 17108,
       "name": "I wanna play the easy アイワナ",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 6.0,
+      "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 16379,
