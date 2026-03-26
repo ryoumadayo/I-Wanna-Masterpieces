@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 02:00:28",
+  "last_updated": "2026-03-27 03:05:52",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -24315,10 +24315,10 @@
     {
       "id": 12269,
       "name": "I wanna clear the Easy Miku",
-      "difficulty": "23.7",
-      "difficulty_num": 23.7,
-      "rating": 4.5,
-      "num_ratings": 57,
+      "difficulty": "23.5",
+      "difficulty_num": 23.5,
+      "rating": 4.4,
+      "num_ratings": 58,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -134305,10 +134305,10 @@
     {
       "id": 14983,
       "name": "I Wanna be the Zeus",
-      "difficulty": "62.2",
-      "difficulty_num": 62.2,
+      "difficulty": "62.1",
+      "difficulty_num": 62.1,
       "rating": 6.1,
-      "num_ratings": 80,
+      "num_ratings": 81,
       "is_needle": true,
       "is_avoidance": false
     },
