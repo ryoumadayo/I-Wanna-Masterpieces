@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 19:00:48",
+  "last_updated": "2026-03-26 20:27:44",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -45,10 +45,10 @@
     {
       "id": 28042,
       "name": "i wanna be the   ｍａｓｃｕｌ",
-      "difficulty": "32.8",
-      "difficulty_num": 32.8,
-      "rating": 1.7,
-      "num_ratings": 6,
+      "difficulty": "31.2",
+      "difficulty_num": 31.2,
+      "rating": 2.5,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -50075,10 +50075,10 @@
     {
       "id": 22774,
       "name": "I Wanna Get Some Drip",
-      "difficulty": "36.0",
-      "difficulty_num": 36.0,
+      "difficulty": "35.9",
+      "difficulty_num": 35.9,
       "rating": 7.3,
-      "num_ratings": 54,
+      "num_ratings": 55,
       "is_needle": false,
       "is_avoidance": true
     },
