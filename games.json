@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 18:54:12",
+  "last_updated": "2026-03-27 19:48:17",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -132891,6 +132891,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46135,
+      "name": "I wanna be the Y.N",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 46119,
