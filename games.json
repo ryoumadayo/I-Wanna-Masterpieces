@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 22:04:12",
+  "last_updated": "2026-03-28 00:52:16",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -1565,10 +1565,10 @@
     {
       "id": 17858,
       "name": "2 ekips uhuhu eht eb annaw I",
-      "difficulty": "49.8",
-      "difficulty_num": 49.8,
-      "rating": 5.9,
-      "num_ratings": 14,
+      "difficulty": "49.3",
+      "difficulty_num": 49.3,
+      "rating": 5.8,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45215,10 +45215,10 @@
     {
       "id": 25350,
       "name": "I Wanna Fine-House",
-      "difficulty": "38.2",
-      "difficulty_num": 38.2,
-      "rating": 8.9,
-      "num_ratings": 39,
+      "difficulty": "38.0",
+      "difficulty_num": 38.0,
+      "rating": 8.8,
+      "num_ratings": 38,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -87905,10 +87905,10 @@
     {
       "id": 12049,
       "name": "I wanna be the Neon",
-      "difficulty": "46.0",
-      "difficulty_num": 46.0,
+      "difficulty": "45.8",
+      "difficulty_num": 45.8,
       "rating": 7.4,
-      "num_ratings": 107,
+      "num_ratings": 106,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -102445,10 +102445,10 @@
     {
       "id": 21899,
       "name": "I Wanna Reject the Uhuhu",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
+      "difficulty": "54.1",
+      "difficulty_num": 54.1,
       "rating": 5.8,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": true,
       "is_avoidance": false
     },
