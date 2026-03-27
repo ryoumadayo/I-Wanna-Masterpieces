@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 20:41:15",
+  "last_updated": "2026-03-27 22:04:12",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -78727,8 +78727,8 @@
       "name": "I wanna be the Lucky",
       "difficulty": "75.2",
       "difficulty_num": 75.2,
-      "rating": 2.8,
-      "num_ratings": 35,
+      "rating": 2.9,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -78738,7 +78738,7 @@
       "difficulty": "82.9",
       "difficulty_num": 82.9,
       "rating": 1.0,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -78857,8 +78857,8 @@
       "name": "I wanna be the Lucky2",
       "difficulty": "78.3",
       "difficulty_num": 78.3,
-      "rating": 2.3,
-      "num_ratings": 21,
+      "rating": 2.2,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -135629,6 +135629,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46136,
+      "name": "‌",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
