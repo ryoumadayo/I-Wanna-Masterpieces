@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 16:50:55",
+  "last_updated": "2026-03-28 17:38:08",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -77975,10 +77975,10 @@
     {
       "id": 25453,
       "name": "I wanna Love Rag",
-      "difficulty": "92.8",
-      "difficulty_num": 92.8,
+      "difficulty": "92.2",
+      "difficulty_num": 92.2,
       "rating": 1.7,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -81495,8 +81495,8 @@
     {
       "id": 26619,
       "name": "I wanna Marcescence",
-      "difficulty": "85.0",
-      "difficulty_num": 85.0,
+      "difficulty": "85.2",
+      "difficulty_num": 85.2,
       "rating": 6.4,
       "num_ratings": 11,
       "is_needle": true,
