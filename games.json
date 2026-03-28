@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 00:58:16",
+  "last_updated": "2026-03-29 02:28:03",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -114687,8 +114687,8 @@
       "name": "I wanna start the contest",
       "difficulty": "0.0",
       "difficulty_num": 0.0,
-      "rating": 7.0,
-      "num_ratings": 3,
+      "rating": 8.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
