@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 13:32:07",
+  "last_updated": "2026-03-28 14:56:27",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -54485,10 +54485,10 @@
     {
       "id": 20053,
       "name": "I wanna be the Grandpa",
-      "difficulty": "21.7",
-      "difficulty_num": 21.7,
-      "rating": 4.4,
-      "num_ratings": 8,
+      "difficulty": "21.4",
+      "difficulty_num": 21.4,
+      "rating": 4.3,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -116105,10 +116105,10 @@
     {
       "id": 28013,
       "name": "Sugar Comet",
-      "difficulty": "53.3",
-      "difficulty_num": 53.3,
-      "rating": 8.3,
-      "num_ratings": 5,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 8.2,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
