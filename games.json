@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 20:27:20",
+  "last_updated": "2026-03-28 20:52:40",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -86569,6 +86569,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46137,
+      "name": "I wanna be the Nate",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
