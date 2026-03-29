@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 02:29:12",
+  "last_updated": "2026-03-30 03:56:51",
   "announcements": [
     {
       "date": "2026/03/25",
@@ -35355,10 +35355,10 @@
     {
       "id": 16692,
       "name": "I wanna be the Dragon",
-      "difficulty": "0.9",
-      "difficulty_num": 0.9,
-      "rating": 4.1,
-      "num_ratings": 7,
+      "difficulty": "0.8",
+      "difficulty_num": 0.8,
+      "rating": 3.8,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
