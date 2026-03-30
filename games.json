@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 20:33:08",
+  "last_updated": "2026-03-30 22:17:18",
   "announcements": [
     {
       "date": "2026/03/30",
@@ -57720,6 +57720,16 @@
       "difficulty_num": 15.0,
       "rating": 1.6,
       "num_ratings": 3,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46139,
+      "name": "i wanna have a cat with ChenXi!!!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
