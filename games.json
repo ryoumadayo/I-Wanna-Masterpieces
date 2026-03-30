@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 16:06:52",
+  "last_updated": "2026-03-30 17:55:03",
   "announcements": [
     {
       "date": "2026/03/30",
@@ -25289,7 +25289,7 @@
       "difficulty": "59.9",
       "difficulty_num": 59.9,
       "rating": 9.2,
-      "num_ratings": 102,
+      "num_ratings": 103,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -39746,10 +39746,10 @@
     {
       "id": 21631,
       "name": "I wanna enjoy the senji spike",
-      "difficulty": "65.6",
-      "difficulty_num": 65.6,
-      "rating": 4.7,
-      "num_ratings": 8,
+      "difficulty": "65.9",
+      "difficulty_num": 65.9,
+      "rating": 4.5,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43116,10 +43116,10 @@
     {
       "id": 16168,
       "name": "I wanna Fairy",
-      "difficulty": "57.4",
-      "difficulty_num": 57.4,
+      "difficulty": "56.8",
+      "difficulty_num": 56.8,
       "rating": 6.1,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -80276,9 +80276,9 @@
     {
       "id": 46081,
       "name": "I wanna make a random needle medley",
-      "difficulty": "66.0",
-      "difficulty_num": 66.0,
-      "rating": 7.3,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
+      "rating": 7.8,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
@@ -88406,10 +88406,10 @@
     {
       "id": 27984,
       "name": "New Year 2025",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
-      "rating": 8.9,
-      "num_ratings": 5,
+      "difficulty": "69.6",
+      "difficulty_num": 69.6,
+      "rating": 8.7,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99621,6 +99621,16 @@
       "rating": 6.9,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46138,
+      "name": "Purify Needle",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -123326,10 +123336,10 @@
     {
       "id": 23975,
       "name": "I wanna Tomodati Backwards",
-      "difficulty": "90.7",
-      "difficulty_num": 90.7,
-      "rating": 6.1,
-      "num_ratings": 6,
+      "difficulty": "90.8",
+      "difficulty_num": 90.8,
+      "rating": 5.1,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
