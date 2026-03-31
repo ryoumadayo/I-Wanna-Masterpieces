@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 16:51:32",
+  "last_updated": "2026-03-31 17:58:18",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -93716,10 +93716,10 @@
     {
       "id": 10494,
       "name": "I wanna Past to look back",
-      "difficulty": "0.3",
-      "difficulty_num": 0.3,
-      "rating": 4.6,
-      "num_ratings": 8,
+      "difficulty": "0.6",
+      "difficulty_num": 0.6,
+      "rating": 4.7,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
