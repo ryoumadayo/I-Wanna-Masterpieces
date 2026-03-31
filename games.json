@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-31 08:33:51",
+  "last_updated": "2026-03-31 13:58:30",
   "announcements": [
+    {
+      "date": "2026/03/31",
+      "message": "I Wanna WTF!? が新たに追加されました。",
+      "type": "add",
+      "id": 28233
+    },
     {
       "date": "2026/03/30",
       "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "Jtool skins が新たに追加されました。",
       "type": "add",
       "id": 20890
-    },
-    {
-      "date": "2026/03/30",
-      "message": "Jtool が新たに追加されました。",
-      "type": "add",
-      "id": 15691
     }
   ],
   "games": [
@@ -100016,10 +100016,10 @@
     {
       "id": 12082,
       "name": "I wanna be the q.no.3",
-      "difficulty": "57.5",
-      "difficulty_num": 57.5,
-      "rating": 5.5,
-      "num_ratings": 3,
+      "difficulty": "53.3",
+      "difficulty_num": 53.3,
+      "rating": 5.9,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -114396,10 +114396,10 @@
     {
       "id": 12481,
       "name": "I wanna Staff",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
-      "rating": 6.1,
-      "num_ratings": 4,
+      "difficulty": "43.3",
+      "difficulty_num": 43.3,
+      "rating": 6.2,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -132506,10 +132506,10 @@
     {
       "id": 28233,
       "name": "I Wanna WTF!?",
-      "difficulty": "78.6",
-      "difficulty_num": 78.6,
+      "difficulty": "78.8",
+      "difficulty_num": 78.8,
       "rating": 8.7,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
