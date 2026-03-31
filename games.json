@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 15:18:43",
+  "last_updated": "2026-03-31 16:51:32",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -100296,10 +100296,10 @@
     {
       "id": 14842,
       "name": "I wanna Quaint",
-      "difficulty": "35.8",
-      "difficulty_num": 35.8,
-      "rating": 7.4,
-      "num_ratings": 32,
+      "difficulty": "35.6",
+      "difficulty_num": 35.6,
+      "rating": 7.3,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
