@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 05:42:41",
+  "last_updated": "2026-04-02 06:40:41",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -37381,6 +37381,16 @@
       "rating": 2.5,
       "num_ratings": 3,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46154,
+      "name": "I Wanna Eat The Kamilia",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
