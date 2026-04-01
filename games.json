@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 01:05:53",
+  "last_updated": "2026-04-02 02:29:12",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -76146,10 +76146,10 @@
     {
       "id": 46146,
       "name": "I Wanna Liar Dance",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
+      "difficulty": "74.0",
+      "difficulty_num": 74.0,
       "rating": 10.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -89666,10 +89666,10 @@
     {
       "id": 16839,
       "name": "I wanna be the noob",
-      "difficulty": "17.0",
-      "difficulty_num": 17.0,
-      "rating": 3.0,
-      "num_ratings": 2,
+      "difficulty": "23.5",
+      "difficulty_num": 23.5,
+      "rating": 4.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103264,6 +103264,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46153,
+      "name": "Renko Needle 3",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 22897,
       "name": "Renkollab",
       "difficulty": "44.1",
@@ -109008,8 +109018,8 @@
       "name": "I Wanna See You Suffer",
       "difficulty": "89.9",
       "difficulty_num": 89.9,
-      "rating": 2.9,
-      "num_ratings": 13,
+      "rating": 3.2,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -112870,6 +112880,16 @@
       "difficulty_num": 37.3,
       "rating": 5.3,
       "num_ratings": 8,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46152,
+      "name": "Sokoguy",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
