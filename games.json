@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 08:40:58",
+  "last_updated": "2026-04-01 11:29:18",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -29726,10 +29726,10 @@
     {
       "id": 46090,
       "name": "I wanna dance with Chicken",
-      "difficulty": "67.0",
-      "difficulty_num": 67.0,
-      "rating": 7.6,
-      "num_ratings": 3,
+      "difficulty": "50.5",
+      "difficulty_num": 50.5,
+      "rating": 5.8,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -108006,10 +108006,10 @@
     {
       "id": 10496,
       "name": "I wanna see Monoe-san",
-      "difficulty": "0.3",
-      "difficulty_num": 0.3,
-      "rating": 2.6,
-      "num_ratings": 17,
+      "difficulty": "0.2",
+      "difficulty_num": 0.2,
+      "rating": 2.4,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
