@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 04:50:58",
+  "last_updated": "2026-04-03 05:34:23",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -281,6 +281,16 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46161,
+      "name": "I wanna be the LidⅡ",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -7840,6 +7850,16 @@
       "difficulty_num": 51.7,
       "rating": 4.0,
       "num_ratings": 5,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46160,
+      "name": "I Wanna Be The Astronaut!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -29389,7 +29409,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -119061,6 +119081,16 @@
       "rating": 2.9,
       "num_ratings": 8,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46159,
+      "name": "I wanna be the taper",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
