@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 23:02:21",
+  "last_updated": "2026-04-03 00:35:08",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -42929,7 +42929,7 @@
       "difficulty": "2.0",
       "difficulty_num": 2.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47009,7 +47009,7 @@
       "difficulty": "3.0",
       "difficulty_num": 3.0,
       "rating": 5.7,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -81049,7 +81049,7 @@
       "difficulty": "3.0",
       "difficulty_num": 3.0,
       "rating": 1.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
