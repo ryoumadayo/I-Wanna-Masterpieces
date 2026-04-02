@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 05:34:23",
+  "last_updated": "2026-04-03 06:37:04",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -43514,6 +43514,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46162,
+      "name": "I wanna FAMO",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 24273,
       "name": "fan game",
       "difficulty": "32.6",
@@ -70139,7 +70149,7 @@
       "difficulty": "6.0",
       "difficulty_num": 6.0,
       "rating": 1.0,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -70679,7 +70689,7 @@
       "difficulty": "6.0",
       "difficulty_num": 6.0,
       "rating": 0.8,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
