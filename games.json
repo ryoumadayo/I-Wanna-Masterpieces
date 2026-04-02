@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 00:35:08",
+  "last_updated": "2026-04-03 01:55:37",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -20849,7 +20849,7 @@
       "difficulty": "4.0",
       "difficulty_num": 4.0,
       "rating": 0.1,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -36549,7 +36549,7 @@
       "difficulty": "4.3",
       "difficulty_num": 4.3,
       "rating": 0.0,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128699,7 +128699,7 @@
       "difficulty": "4.0",
       "difficulty_num": 4.0,
       "rating": 4.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -135959,9 +135959,9 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25347,
