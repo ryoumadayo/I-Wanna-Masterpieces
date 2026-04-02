@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 20:24:28",
+  "last_updated": "2026-04-02 21:06:16",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -43348,8 +43348,8 @@
       "name": "I Wanna Fall The S2l",
       "difficulty": "2.0",
       "difficulty_num": 2.0,
-      "rating": 0.1,
-      "num_ratings": 1,
+      "rating": 2.6,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -121876,10 +121876,10 @@
     {
       "id": 23953,
       "name": "the universe",
-      "difficulty": "57.6",
-      "difficulty_num": 57.6,
+      "difficulty": "58.1",
+      "difficulty_num": 58.1,
       "rating": 7.2,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
     },
