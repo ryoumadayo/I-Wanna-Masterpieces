@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-02 15:11:51",
+  "last_updated": "2026-04-02 16:47:10",
   "announcements": [
+    {
+      "date": "2026/04/02",
+      "message": "I wanna GNU が新たに追加されました。",
+      "type": "add",
+      "id": 16216
+    },
     {
       "date": "2026/03/31",
       "message": "SONAFLEKI が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna Maker が新たに追加されました。",
       "type": "add",
       "id": 21558
-    },
-    {
-      "date": "2026/03/30",
-      "message": "K&R GMS2 Engine が新たに追加されました。",
-      "type": "add",
-      "id": 23099
     }
   ],
   "games": [
@@ -51946,10 +51946,10 @@
     {
       "id": 16216,
       "name": "I wanna GNU",
-      "difficulty": "61.7",
-      "difficulty_num": 61.7,
-      "rating": 5.9,
-      "num_ratings": 12,
+      "difficulty": "61.5",
+      "difficulty_num": 61.5,
+      "rating": 6.0,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -134966,10 +134966,10 @@
     {
       "id": 12161,
       "name": "I wanna be the ^dh^",
-      "difficulty": "48.3",
-      "difficulty_num": 48.3,
+      "difficulty": "48.8",
+      "difficulty_num": 48.8,
       "rating": 4.9,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
