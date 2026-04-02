@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 03:55:45",
+  "last_updated": "2026-04-03 04:50:58",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -12654,6 +12654,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46156,
+      "name": "I Wanna Be Someone",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 17030,
       "name": "I wanna be soupreme",
       "difficulty": "46.1",
@@ -17690,6 +17700,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46157,
+      "name": "I wanna be the BOSS",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -29362,6 +29382,16 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46158,
+      "name": "I wanna be the CYNYAN!!!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 45878,
@@ -46181,6 +46211,16 @@
       "rating": 5.1,
       "num_ratings": 45,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46155,
+      "name": "I Wanna Flex",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -138379,7 +138419,7 @@
       "difficulty": "5.0",
       "difficulty_num": 5.0,
       "rating": 1.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -142029,7 +142069,7 @@
       "difficulty": "5.0",
       "difficulty_num": 5.0,
       "rating": 0.6,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
