@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 11:08:41",
+  "last_updated": "2026-04-02 13:41:03",
   "announcements": [
     {
       "date": "2026/03/31",
@@ -4836,8 +4836,8 @@
     {
       "id": 22802,
       "name": "I wanna Adore the Princess",
-      "difficulty": "87.4",
-      "difficulty_num": 87.4,
+      "difficulty": "87.6",
+      "difficulty_num": 87.6,
       "rating": 7.7,
       "num_ratings": 10,
       "is_needle": true,
@@ -83896,10 +83896,10 @@
     {
       "id": 23891,
       "name": "I wanna Mid-Autumn",
-      "difficulty": "60.3",
-      "difficulty_num": 60.3,
-      "rating": 4.5,
-      "num_ratings": 4,
+      "difficulty": "60.8",
+      "difficulty_num": 60.8,
+      "rating": 4.6,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -89746,10 +89746,10 @@
     {
       "id": 46142,
       "name": "Noperia",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "86.0",
+      "difficulty_num": 86.0,
+      "rating": 8.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99756,10 +99756,10 @@
     {
       "id": 46143,
       "name": "Purify Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 8.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
