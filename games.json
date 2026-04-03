@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 14:04:12",
+  "last_updated": "2026-04-03 15:45:33",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -90876,10 +90876,10 @@
     {
       "id": 19910,
       "name": "I wanna be the Nyanya",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
-      "rating": 5.5,
-      "num_ratings": 3,
+      "difficulty": "63.3",
+      "difficulty_num": 63.3,
+      "rating": 6.2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -115286,10 +115286,10 @@
     {
       "id": 45840,
       "name": "I wanna stay true to myself",
-      "difficulty": "64.8",
-      "difficulty_num": 64.8,
-      "rating": 6.8,
-      "num_ratings": 7,
+      "difficulty": "65.2",
+      "difficulty_num": 65.2,
+      "rating": 7.0,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122326,10 +122326,10 @@
     {
       "id": 20727,
       "name": "I wanna be the three stars",
-      "difficulty": "69.0",
-      "difficulty_num": 69.0,
-      "rating": 6.5,
-      "num_ratings": 3,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
+      "rating": 6.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -132656,10 +132656,10 @@
     {
       "id": 45893,
       "name": "I Wanna write a Letter to the Black World",
-      "difficulty": "56.8",
-      "difficulty_num": 56.8,
+      "difficulty": "57.2",
+      "difficulty_num": 57.2,
       "rating": 8.2,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -132736,10 +132736,10 @@
     {
       "id": 28233,
       "name": "I Wanna WTF!?",
-      "difficulty": "78.8",
-      "difficulty_num": 78.8,
-      "rating": 8.7,
-      "num_ratings": 10,
+      "difficulty": "78.9",
+      "difficulty_num": 78.9,
+      "rating": 8.5,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
