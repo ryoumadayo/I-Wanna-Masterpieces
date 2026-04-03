@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 11:47:48",
+  "last_updated": "2026-04-03 14:04:12",
   "announcements": [
     {
       "date": "2026/04/02",
@@ -71321,6 +71321,16 @@
       "rating": 2.4,
       "num_ratings": 7,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46163,
+      "name": "I Wanna Kill The Grunt",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
