@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04 04:00:40",
+  "last_updated": "2026-04-04 04:46:27",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -11488,8 +11488,8 @@
       "name": "I wanna be Grounded",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "rating": 2.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -12056,10 +12056,10 @@
     {
       "id": 46148,
       "name": "I wanna be like the double pendulum world",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 8.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -21366,10 +21366,10 @@
     {
       "id": 25217,
       "name": "I wanna be the catalog",
-      "difficulty": "42.3",
-      "difficulty_num": 42.3,
-      "rating": 4.4,
-      "num_ratings": 4,
+      "difficulty": "42.0",
+      "difficulty_num": 42.0,
+      "rating": 4.8,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -24899,7 +24899,7 @@
       "difficulty": "10.0",
       "difficulty_num": 10.0,
       "rating": 6.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -70018,8 +70018,8 @@
       "name": "I Wanna Kill Originality",
       "difficulty": "82.6",
       "difficulty_num": 82.6,
-      "rating": 5.1,
-      "num_ratings": 13,
+      "rating": 5.0,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90298,7 +90298,7 @@
       "name": "I Wanna Not Ascertained 17 Years",
       "difficulty": "73.5",
       "difficulty_num": 73.5,
-      "rating": 6.5,
+      "rating": 6.6,
       "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
