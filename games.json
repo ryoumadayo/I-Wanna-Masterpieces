@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 02:28:56",
+  "last_updated": "2026-04-05 02:58:18",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -19066,10 +19066,10 @@
     {
       "id": 15032,
       "name": "I Wanna Break The Series Z",
-      "difficulty": "61.5",
-      "difficulty_num": 61.5,
-      "rating": 4.9,
-      "num_ratings": 24,
+      "difficulty": "61.8",
+      "difficulty_num": 61.8,
+      "rating": 5.1,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": false
     },
