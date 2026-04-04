@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 00:30:32",
+  "last_updated": "2026-04-05 00:57:41",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -63326,10 +63326,10 @@
     {
       "id": 12519,
       "name": "I want to hear the Medley",
-      "difficulty": "54.6",
-      "difficulty_num": 54.6,
-      "rating": 7.2,
-      "num_ratings": 17,
+      "difficulty": "54.7",
+      "difficulty_num": 54.7,
+      "rating": 7.1,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -77976,10 +77976,10 @@
     {
       "id": 27152,
       "name": "I wanna lose the princess",
-      "difficulty": "60.8",
-      "difficulty_num": 60.8,
-      "rating": 8.6,
-      "num_ratings": 16,
+      "difficulty": "61.5",
+      "difficulty_num": 61.5,
+      "rating": 8.3,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
