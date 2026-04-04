@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 01:41:09",
+  "last_updated": "2026-04-05 02:28:56",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -58504,16 +58504,6 @@
       "is_avoidance": false
     },
     {
-      "id": 24068,
-      "name": "I wanna HBDN",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
       "id": 16877,
       "name": "I wanna be the HBDN easy_ver",
       "difficulty": "53.5",
@@ -77976,8 +77966,8 @@
     {
       "id": 27152,
       "name": "I wanna lose the princess",
-      "difficulty": "61.5",
-      "difficulty_num": 61.5,
+      "difficulty": "61.1",
+      "difficulty_num": 61.1,
       "rating": 8.3,
       "num_ratings": 17,
       "is_needle": false,
@@ -86841,16 +86831,6 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": true,
-      "is_avoidance": false
-    },
-    {
-      "id": 24073,
-      "name": "I wanna nashi",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
       "is_avoidance": false
     },
     {
