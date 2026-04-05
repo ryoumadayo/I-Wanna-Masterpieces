@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 21:55:30",
+  "last_updated": "2026-04-05 22:55:05",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -23826,10 +23826,10 @@
     {
       "id": 28000,
       "name": "Christmas Deliveries 3: Deliverance",
-      "difficulty": "63.6",
-      "difficulty_num": 63.6,
+      "difficulty": "63.7",
+      "difficulty_num": 63.7,
       "rating": 9.3,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
     },
