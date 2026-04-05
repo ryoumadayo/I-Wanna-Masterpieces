@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 14:00:37",
+  "last_updated": "2026-04-05 15:18:04",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -113126,10 +113126,10 @@
     {
       "id": 16277,
       "name": "I wanna solve color puzzle",
-      "difficulty": "42.8",
-      "difficulty_num": 42.8,
+      "difficulty": "43.1",
+      "difficulty_num": 43.1,
       "rating": 8.5,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
