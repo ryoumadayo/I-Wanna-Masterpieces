@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 07:30:01",
+  "last_updated": "2026-04-06 08:02:01",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -89736,10 +89736,10 @@
     {
       "id": 21421,
       "name": "I Wanna Nonamed Spike 2",
-      "difficulty": "85.4",
-      "difficulty_num": 85.4,
+      "difficulty": "85.8",
+      "difficulty_num": 85.8,
       "rating": 8.0,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
