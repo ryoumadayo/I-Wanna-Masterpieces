@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 11:24:11",
+  "last_updated": "2026-04-05 14:00:37",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -93036,8 +93036,8 @@
     {
       "id": 11663,
       "name": "I wanna P",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
+      "difficulty": "55.6",
+      "difficulty_num": 55.6,
       "rating": 6.6,
       "num_ratings": 39,
       "is_needle": true,
@@ -112968,8 +112968,8 @@
       "name": "Sokoguy",
       "difficulty": "25.0",
       "difficulty_num": 25.0,
-      "rating": 7.7,
-      "num_ratings": 2,
+      "rating": 8.6,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
