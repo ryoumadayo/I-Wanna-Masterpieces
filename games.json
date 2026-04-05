@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-06 01:36:01",
+  "last_updated": "2026-04-06 02:30:02",
   "announcements": [
+    {
+      "date": "2026/04/06",
+      "message": "Collections-7.5 が新たに追加されました。",
+      "type": "add",
+      "id": 26564
+    },
     {
       "date": "2026/04/03",
       "message": "I wanna zatsusaの評価が基準値を下回ったことにより、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "I wanna record my Jumps が新たに追加されました。",
       "type": "add",
       "id": 12455
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna play online が新たに追加されました。",
-      "type": "add",
-      "id": 21490
     }
   ],
   "games": [
@@ -25988,8 +25988,8 @@
       "name": "Collections-7.5",
       "difficulty": "55.3",
       "difficulty_num": 55.3,
-      "rating": 7.8,
-      "num_ratings": 9,
+      "rating": 7.9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -67456,10 +67456,10 @@
     {
       "id": 22764,
       "name": "I wanna Juggernaut Love",
-      "difficulty": "65.7",
-      "difficulty_num": 65.7,
-      "rating": 6.6,
-      "num_ratings": 8,
+      "difficulty": "65.6",
+      "difficulty_num": 65.6,
+      "rating": 6.4,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
