@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 19:32:48",
+  "last_updated": "2026-04-05 20:28:53",
   "announcements": [
     {
       "date": "2026/04/03",
@@ -51438,7 +51438,7 @@
       "name": "I wanna be the gimmick game2",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 5.0,
+      "rating": 3.5,
       "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
@@ -66806,10 +66806,10 @@
     {
       "id": 10811,
       "name": "I wanna be the Japanese sword",
-      "difficulty": "54.7",
-      "difficulty_num": 54.7,
-      "rating": 6.4,
-      "num_ratings": 8,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 6.7,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90226,8 +90226,8 @@
     {
       "id": 12534,
       "name": "Not Another Needle Game",
-      "difficulty": "68.7",
-      "difficulty_num": 68.7,
+      "difficulty": "68.6",
+      "difficulty_num": 68.6,
       "rating": 9.2,
       "num_ratings": 290,
       "is_needle": false,
