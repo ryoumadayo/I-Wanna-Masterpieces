@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-07 05:37:01",
+  "last_updated": "2026-04-07 06:36:57",
   "announcements": [
+    {
+      "date": "2026/04/07",
+      "message": "I wanna get the Pink egg が新たに追加されました。",
+      "type": "add",
+      "id": 14785
+    },
     {
       "date": "2026/04/06",
       "message": "Collections-7.5 が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "renex engine が新たに追加されました。",
       "type": "add",
       "id": 23320
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna record my Jumps が新たに追加されました。",
-      "type": "add",
-      "id": 12455
     }
   ],
   "games": [
@@ -3386,8 +3386,8 @@
     {
       "id": 10525,
       "name": "I wanna be the 8possible(一般公開版)",
-      "difficulty": "26.8",
-      "difficulty_num": 26.8,
+      "difficulty": "27.0",
+      "difficulty_num": 27.0,
       "rating": 7.3,
       "num_ratings": 92,
       "is_needle": false,
@@ -5856,10 +5856,10 @@
     {
       "id": 10546,
       "name": "I wanna be the Alphabet",
-      "difficulty": "36.0",
-      "difficulty_num": 36.0,
+      "difficulty": "35.7",
+      "difficulty_num": 35.7,
       "rating": 5.3,
-      "num_ratings": 68,
+      "num_ratings": 69,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7506,8 +7506,8 @@
     {
       "id": 10556,
       "name": "I wanna be the Art",
-      "difficulty": "32.8",
-      "difficulty_num": 32.8,
+      "difficulty": "33.0",
+      "difficulty_num": 33.0,
       "rating": 4.5,
       "num_ratings": 21,
       "is_needle": true,
@@ -10636,8 +10636,8 @@
     {
       "id": 16882,
       "name": "I wanna be Abducted",
-      "difficulty": "57.3",
-      "difficulty_num": 57.3,
+      "difficulty": "57.4",
+      "difficulty_num": 57.4,
       "rating": 8.3,
       "num_ratings": 60,
       "is_needle": false,
@@ -11398,7 +11398,7 @@
       "name": "I wanna be GENKI with you",
       "difficulty": "44.6",
       "difficulty_num": 44.6,
-      "rating": 8.3,
+      "rating": 8.4,
       "num_ratings": 81,
       "is_needle": false,
       "is_avoidance": false
@@ -12229,7 +12229,7 @@
       "difficulty": "49.2",
       "difficulty_num": 49.2,
       "rating": 8.0,
-      "num_ratings": 71,
+      "num_ratings": 72,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -16966,10 +16966,10 @@
     {
       "id": 14793,
       "name": "I wanna be the Blue needle",
-      "difficulty": "32.1",
-      "difficulty_num": 32.1,
-      "rating": 5.5,
-      "num_ratings": 15,
+      "difficulty": "32.3",
+      "difficulty_num": 32.3,
+      "rating": 5.6,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -18196,8 +18196,8 @@
     {
       "id": 12243,
       "name": "I wanna Bread",
-      "difficulty": "36.4",
-      "difficulty_num": 36.4,
+      "difficulty": "36.5",
+      "difficulty_num": 36.5,
       "rating": 7.9,
       "num_ratings": 147,
       "is_needle": false,
@@ -21676,8 +21676,8 @@
     {
       "id": 11456,
       "name": "I wanna celebrate 100",
-      "difficulty": "43.4",
-      "difficulty_num": 43.4,
+      "difficulty": "43.5",
+      "difficulty_num": 43.5,
       "rating": 7.2,
       "num_ratings": 114,
       "is_needle": false,
@@ -28946,8 +28946,8 @@
     {
       "id": 10637,
       "name": "I wanna be the Crysis",
-      "difficulty": "42.5",
-      "difficulty_num": 42.5,
+      "difficulty": "42.6",
+      "difficulty_num": 42.6,
       "rating": 7.3,
       "num_ratings": 48,
       "is_needle": false,
@@ -32686,10 +32686,10 @@
     {
       "id": 10658,
       "name": "I wanna be the Destination",
-      "difficulty": "83.6",
-      "difficulty_num": 83.6,
+      "difficulty": "83.7",
+      "difficulty_num": 83.7,
       "rating": 7.7,
-      "num_ratings": 61,
+      "num_ratings": 62,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -36696,9 +36696,9 @@
     {
       "id": 15279,
       "name": "I wanna be the Earth Temple",
-      "difficulty": "12.4",
-      "difficulty_num": 12.4,
-      "rating": 2.7,
+      "difficulty": "12.6",
+      "difficulty_num": 12.6,
+      "rating": 2.9,
       "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
@@ -41646,10 +41646,10 @@
     {
       "id": 14882,
       "name": "I wanna be the evening spike",
-      "difficulty": "37.7",
-      "difficulty_num": 37.7,
-      "rating": 2.8,
-      "num_ratings": 6,
+      "difficulty": "37.3",
+      "difficulty_num": 37.3,
+      "rating": 2.9,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45558,8 +45558,8 @@
       "name": "I wanna be the Finite",
       "difficulty": "55.4",
       "difficulty_num": 55.4,
-      "rating": 7.3,
-      "num_ratings": 18,
+      "rating": 7.4,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50868,7 +50868,7 @@
       "name": "I wanna get the OOPARTS III -Yuuutu Remade-",
       "difficulty": "53.0",
       "difficulty_num": 53.0,
-      "rating": 7.0,
+      "rating": 7.1,
       "num_ratings": 39,
       "is_needle": false,
       "is_avoidance": false
@@ -50919,7 +50919,7 @@
       "difficulty": "29.9",
       "difficulty_num": 29.9,
       "rating": 6.2,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -52056,8 +52056,8 @@
     {
       "id": 11567,
       "name": "I wanna go across the Rainbow",
-      "difficulty": "42.5",
-      "difficulty_num": 42.5,
+      "difficulty": "42.6",
+      "difficulty_num": 42.6,
       "rating": 7.4,
       "num_ratings": 129,
       "is_needle": false,
@@ -53026,10 +53026,10 @@
     {
       "id": 12344,
       "name": "I wanna go the Magical journey",
-      "difficulty": "5.2",
-      "difficulty_num": 5.2,
+      "difficulty": "5.1",
+      "difficulty_num": 5.1,
       "rating": 4.7,
-      "num_ratings": 42,
+      "num_ratings": 43,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -53639,7 +53639,7 @@
       "difficulty": "40.4",
       "difficulty_num": 40.4,
       "rating": 7.5,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -58816,8 +58816,8 @@
     {
       "id": 10780,
       "name": "I wanna be the HeavenTrap2",
-      "difficulty": "48.4",
-      "difficulty_num": 48.4,
+      "difficulty": "48.3",
+      "difficulty_num": 48.3,
       "rating": 7.3,
       "num_ratings": 44,
       "is_needle": false,
@@ -62088,18 +62088,18 @@
       "name": "I dun wanna be Anything",
       "difficulty": "75.3",
       "difficulty_num": 75.3,
-      "rating": 7.4,
-      "num_ratings": 20,
+      "rating": 7.5,
+      "num_ratings": 21,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 15207,
       "name": "I Dun Wanna be Anything 2",
-      "difficulty": "74.4",
-      "difficulty_num": 74.4,
-      "rating": 9.1,
-      "num_ratings": 37,
+      "difficulty": "74.5",
+      "difficulty_num": 74.5,
+      "rating": 9.2,
+      "num_ratings": 38,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -70106,10 +70106,10 @@
     {
       "id": 15047,
       "name": "I wanna kill the 2doku",
-      "difficulty": "67.2",
-      "difficulty_num": 67.2,
+      "difficulty": "67.5",
+      "difficulty_num": 67.5,
       "rating": 5.3,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -71328,7 +71328,7 @@
       "name": "I wanna kill the Guy",
       "difficulty": "47.3",
       "difficulty_num": 47.3,
-      "rating": 9.0,
+      "rating": 9.1,
       "num_ratings": 150,
       "is_needle": false,
       "is_avoidance": false
@@ -73086,10 +73086,10 @@
     {
       "id": 14923,
       "name": "I Wanna Kill the Sudoku",
-      "difficulty": "56.5",
-      "difficulty_num": 56.5,
+      "difficulty": "56.7",
+      "difficulty_num": 56.7,
       "rating": 5.4,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -89626,10 +89626,10 @@
     {
       "id": 15136,
       "name": "I wanna be the Noizu",
-      "difficulty": "40.3",
-      "difficulty_num": 40.3,
+      "difficulty": "40.7",
+      "difficulty_num": 40.7,
       "rating": 6.0,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90229,7 +90229,7 @@
       "difficulty": "68.6",
       "difficulty_num": 68.6,
       "rating": 9.2,
-      "num_ratings": 290,
+      "num_ratings": 291,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90376,20 +90376,20 @@
     {
       "id": 15088,
       "name": "I wanna not to miss you",
-      "difficulty": "38.2",
-      "difficulty_num": 38.2,
+      "difficulty": "38.3",
+      "difficulty_num": 38.3,
       "rating": 6.8,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 15105,
       "name": "I wanna not to miss you (hard)",
-      "difficulty": "48.4",
-      "difficulty_num": 48.4,
-      "rating": 7.8,
-      "num_ratings": 8,
+      "difficulty": "48.6",
+      "difficulty_num": 48.6,
+      "rating": 7.7,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -91928,7 +91928,7 @@
       "name": "I wanna be the Onelife",
       "difficulty": "33.7",
       "difficulty_num": 33.7,
-      "rating": 6.5,
+      "rating": 6.6,
       "num_ratings": 54,
       "is_needle": false,
       "is_avoidance": false
@@ -97966,10 +97966,10 @@
     {
       "id": 14787,
       "name": "I wanna PP 100",
-      "difficulty": "36.5",
-      "difficulty_num": 36.5,
+      "difficulty": "36.6",
+      "difficulty_num": 36.6,
       "rating": 6.0,
-      "num_ratings": 32,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -100486,8 +100486,8 @@
     {
       "id": 14842,
       "name": "I wanna Quaint",
-      "difficulty": "35.6",
-      "difficulty_num": 35.6,
+      "difficulty": "35.7",
+      "difficulty_num": 35.7,
       "rating": 7.3,
       "num_ratings": 33,
       "is_needle": false,
@@ -102386,10 +102386,10 @@
     {
       "id": 11044,
       "name": "I wanna be the Red coin mania IIDX",
-      "difficulty": "47.3",
-      "difficulty_num": 47.3,
+      "difficulty": "48.4",
+      "difficulty_num": 48.4,
       "rating": 6.5,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -105226,10 +105226,10 @@
     {
       "id": 11696,
       "name": "I wanna Rose Gear",
-      "difficulty": "52.7",
-      "difficulty_num": 52.7,
+      "difficulty": "52.8",
+      "difficulty_num": 52.8,
       "rating": 7.3,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -109526,8 +109526,8 @@
     {
       "id": 14847,
       "name": "Serial Experiments Kid",
-      "difficulty": "49.9",
-      "difficulty_num": 49.9,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
       "rating": 9.0,
       "num_ratings": 49,
       "is_needle": false,
@@ -116928,7 +116928,7 @@
       "name": "I wanna be the Sunflower Fairy Kid mode",
       "difficulty": "47.2",
       "difficulty_num": 47.2,
-      "rating": 4.8,
+      "rating": 4.9,
       "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
@@ -117288,7 +117288,7 @@
       "name": "Super Kid Bros. 3",
       "difficulty": "48.6",
       "difficulty_num": 48.6,
-      "rating": 7.5,
+      "rating": 7.6,
       "num_ratings": 50,
       "is_needle": false,
       "is_avoidance": false
@@ -117709,7 +117709,7 @@
       "difficulty": "48.5",
       "difficulty_num": 48.5,
       "rating": 7.3,
-      "num_ratings": 49,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128746,10 +128746,10 @@
     {
       "id": 14839,
       "name": "I Wanna be the Very Best",
-      "difficulty": "64.5",
-      "difficulty_num": 64.5,
-      "rating": 2.7,
-      "num_ratings": 15,
+      "difficulty": "64.9",
+      "difficulty_num": 64.9,
+      "rating": 2.6,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130036,10 +130036,10 @@
     {
       "id": 11746,
       "name": "I wanna walk the Ceiling",
-      "difficulty": "41.0",
-      "difficulty_num": 41.0,
+      "difficulty": "41.3",
+      "difficulty_num": 41.3,
       "rating": 7.5,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130326,8 +130326,8 @@
     {
       "id": 12505,
       "name": "I wanna wanna",
-      "difficulty": "18.9",
-      "difficulty_num": 18.9,
+      "difficulty": "19.0",
+      "difficulty_num": 19.0,
       "rating": 7.5,
       "num_ratings": 113,
       "is_needle": true,
