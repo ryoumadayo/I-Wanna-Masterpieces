@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 06:36:57",
+  "last_updated": "2026-04-07 07:35:51",
   "announcements": [
     {
       "date": "2026/04/07",
@@ -6039,7 +6039,7 @@
       "difficulty": "37.7",
       "difficulty_num": 37.7,
       "rating": 5.3,
-      "num_ratings": 49,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -16166,10 +16166,10 @@
     {
       "id": 16092,
       "name": "I wanna Birthday the Cherry",
-      "difficulty": "31.9",
-      "difficulty_num": 31.9,
+      "difficulty": "32.0",
+      "difficulty_num": 32.0,
       "rating": 7.1,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -18879,7 +18879,7 @@
       "difficulty": "44.1",
       "difficulty_num": 44.1,
       "rating": 7.9,
-      "num_ratings": 62,
+      "num_ratings": 63,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -20626,10 +20626,10 @@
     {
       "id": 26897,
       "name": "I Wanna Bye The Side Job Master Entrance",
-      "difficulty": "67.0",
-      "difficulty_num": 67.0,
-      "rating": 7.9,
-      "num_ratings": 2,
+      "difficulty": "67.5",
+      "difficulty_num": 67.5,
+      "rating": 7.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -37096,9 +37096,9 @@
     {
       "id": 16187,
       "name": "I wanna eat Chocolate Cake",
-      "difficulty": "29.7",
-      "difficulty_num": 29.7,
-      "rating": 5.5,
+      "difficulty": "30.0",
+      "difficulty_num": 30.0,
+      "rating": 5.6,
       "num_ratings": 22,
       "is_needle": true,
       "is_avoidance": false
@@ -44879,7 +44879,7 @@
       "difficulty": "12.2",
       "difficulty_num": 12.2,
       "rating": 8.1,
-      "num_ratings": 149,
+      "num_ratings": 150,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47016,10 +47016,10 @@
     {
       "id": 16165,
       "name": "For my Valentine",
-      "difficulty": "35.6",
-      "difficulty_num": 35.6,
-      "rating": 7.9,
-      "num_ratings": 63,
+      "difficulty": "35.7",
+      "difficulty_num": 35.7,
+      "rating": 8.0,
+      "num_ratings": 64,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -56058,7 +56058,7 @@
       "name": "I wanna hab the Luka",
       "difficulty": "54.2",
       "difficulty_num": 54.2,
-      "rating": 7.1,
+      "rating": 7.2,
       "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
@@ -56386,10 +56386,10 @@
     {
       "id": 16293,
       "name": "I wanna be the hanamogeta",
-      "difficulty": "58.6",
-      "difficulty_num": 58.6,
+      "difficulty": "58.9",
+      "difficulty_num": 58.9,
       "rating": 8.9,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -64719,7 +64719,7 @@
       "difficulty": "36.2",
       "difficulty_num": 36.2,
       "rating": 7.1,
-      "num_ratings": 96,
+      "num_ratings": 97,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -73258,7 +73258,7 @@
       "name": "I wanna kill the troll king",
       "difficulty": "49.6",
       "difficulty_num": 49.6,
-      "rating": 8.9,
+      "rating": 9.0,
       "num_ratings": 41,
       "is_needle": false,
       "is_avoidance": false
@@ -73996,8 +73996,8 @@
     {
       "id": 19182,
       "name": "I wanna be the knight in shining armor",
-      "difficulty": "40.8",
-      "difficulty_num": 40.8,
+      "difficulty": "40.7",
+      "difficulty_num": 40.7,
       "rating": 8.9,
       "num_ratings": 64,
       "is_needle": false,
@@ -92448,8 +92448,8 @@
       "name": "I wanna Orion",
       "difficulty": "58.7",
       "difficulty_num": 58.7,
-      "rating": 7.5,
-      "num_ratings": 48,
+      "rating": 7.6,
+      "num_ratings": 49,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93636,8 +93636,8 @@
     {
       "id": 15020,
       "name": "I wanna be the Partysu",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
+      "difficulty": "45.1",
+      "difficulty_num": 45.1,
       "rating": 6.2,
       "num_ratings": 30,
       "is_needle": true,
@@ -100429,7 +100429,7 @@
       "difficulty": "33.8",
       "difficulty_num": 33.8,
       "rating": 6.4,
-      "num_ratings": 108,
+      "num_ratings": 109,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -102916,8 +102916,8 @@
     {
       "id": 16271,
       "name": "I wanna relieve constipation",
-      "difficulty": "32.3",
-      "difficulty_num": 32.3,
+      "difficulty": "32.4",
+      "difficulty_num": 32.4,
       "rating": 6.7,
       "num_ratings": 27,
       "is_needle": false,
@@ -116159,17 +116159,17 @@
       "difficulty": "26.9",
       "difficulty_num": 26.9,
       "rating": 7.4,
-      "num_ratings": 148,
+      "num_ratings": 149,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 16644,
       "name": "I wanna Struggle Momentarily",
-      "difficulty": "31.2",
-      "difficulty_num": 31.2,
+      "difficulty": "31.5",
+      "difficulty_num": 31.5,
       "rating": 8.1,
-      "num_ratings": 32,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -117556,10 +117556,10 @@
     {
       "id": 15504,
       "name": "I wanna Survive",
-      "difficulty": "36.3",
-      "difficulty_num": 36.3,
+      "difficulty": "36.4",
+      "difficulty_num": 36.4,
       "rating": 7.0,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131459,7 +131459,7 @@
       "difficulty": "37.5",
       "difficulty_num": 37.5,
       "rating": 7.2,
-      "num_ratings": 64,
+      "num_ratings": 65,
       "is_needle": false,
       "is_avoidance": false
     },
