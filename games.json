@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 22:51:37",
+  "last_updated": "2026-04-06 23:45:06",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -58826,10 +58826,10 @@
     {
       "id": 28175,
       "name": "HEAVY TANUKI-SAN",
-      "difficulty": "56.4",
-      "difficulty_num": 56.4,
-      "rating": 9.3,
-      "num_ratings": 13,
+      "difficulty": "56.3",
+      "difficulty_num": 56.3,
+      "rating": 9.2,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -85936,10 +85936,10 @@
     {
       "id": 25306,
       "name": "I wanna be the multicultural",
-      "difficulty": "12.0",
-      "difficulty_num": 12.0,
+      "difficulty": "28.5",
+      "difficulty_num": 28.5,
       "rating": 0.1,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
