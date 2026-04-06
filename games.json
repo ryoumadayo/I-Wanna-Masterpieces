@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 07:35:51",
+  "last_updated": "2026-04-07 08:34:37",
   "announcements": [
     {
       "date": "2026/04/07",
@@ -34276,8 +34276,8 @@
     {
       "id": 19898,
       "name": "divisive game",
-      "difficulty": "83.0",
-      "difficulty_num": 83.0,
+      "difficulty": "82.9",
+      "difficulty_num": 82.9,
       "rating": 8.4,
       "num_ratings": 19,
       "is_needle": false,
@@ -46896,10 +46896,10 @@
     {
       "id": 17755,
       "name": "I wanna follow it",
-      "difficulty": "33.2",
-      "difficulty_num": 33.2,
+      "difficulty": "33.3",
+      "difficulty_num": 33.3,
       "rating": 8.0,
-      "num_ratings": 108,
+      "num_ratings": 109,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -48989,7 +48989,7 @@
       "difficulty": "33.5",
       "difficulty_num": 33.5,
       "rating": 6.0,
-      "num_ratings": 55,
+      "num_ratings": 56,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -50976,8 +50976,8 @@
     {
       "id": 11563,
       "name": "I wanna get the Shooting Star",
-      "difficulty": "46.7",
-      "difficulty_num": 46.7,
+      "difficulty": "46.8",
+      "difficulty_num": 46.8,
       "rating": 7.8,
       "num_ratings": 16,
       "is_needle": false,
@@ -58046,10 +58046,10 @@
     {
       "id": 17439,
       "name": "I wanna have a Random Adventure",
-      "difficulty": "26.8",
-      "difficulty_num": 26.8,
+      "difficulty": "26.9",
+      "difficulty_num": 26.9,
       "rating": 6.2,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -58789,7 +58789,7 @@
       "difficulty": "54.4",
       "difficulty_num": 54.4,
       "rating": 8.4,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79886,8 +79886,8 @@
     {
       "id": 18020,
       "name": "I wanna be the Machinary",
-      "difficulty": "26.7",
-      "difficulty_num": 26.7,
+      "difficulty": "26.8",
+      "difficulty_num": 26.8,
       "rating": 8.3,
       "num_ratings": 79,
       "is_needle": false,
