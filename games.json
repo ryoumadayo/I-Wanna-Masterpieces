@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 23:45:06",
+  "last_updated": "2026-04-07 00:44:47",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -44406,10 +44406,10 @@
     {
       "id": 46072,
       "name": "I wanna be the FFM",
-      "difficulty": "24.8",
-      "difficulty_num": 24.8,
+      "difficulty": "24.9",
+      "difficulty_num": 24.9,
       "rating": 8.0,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
