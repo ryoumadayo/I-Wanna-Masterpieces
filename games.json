@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 16:09:31",
+  "last_updated": "2026-04-06 17:52:54",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -32856,10 +32856,10 @@
     {
       "id": 18598,
       "name": "I wanna destroy the mars Easy",
-      "difficulty": "57.0",
-      "difficulty_num": 57.0,
+      "difficulty": "56.7",
+      "difficulty_num": 56.7,
       "rating": 6.9,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -76236,10 +76236,10 @@
     {
       "id": 46146,
       "name": "I Wanna Liar Dance",
-      "difficulty": "74.0",
-      "difficulty_num": 74.0,
+      "difficulty": "73.3",
+      "difficulty_num": 73.3,
       "rating": 9.6,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -127726,10 +127726,10 @@
     {
       "id": 19851,
       "name": "Untitled79",
-      "difficulty": "66.3",
-      "difficulty_num": 66.3,
-      "rating": 6.8,
-      "num_ratings": 6,
+      "difficulty": "66.4",
+      "difficulty_num": 66.4,
+      "rating": 6.7,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
