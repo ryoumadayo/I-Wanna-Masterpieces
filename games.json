@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 02:43:26",
+  "last_updated": "2026-04-07 03:58:00",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -42886,20 +42886,20 @@
     {
       "id": 10462,
       "name": "I wanna fa trap",
-      "difficulty": "26.1",
-      "difficulty_num": 26.1,
-      "rating": 7.3,
-      "num_ratings": 62,
+      "difficulty": "26.3",
+      "difficulty_num": 26.3,
+      "rating": 7.4,
+      "num_ratings": 63,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 19669,
       "name": "I wanna fa trap 2",
-      "difficulty": "28.2",
-      "difficulty_num": 28.2,
-      "rating": 7.4,
-      "num_ratings": 31,
+      "difficulty": "28.5",
+      "difficulty_num": 28.5,
+      "rating": 7.5,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -81839,7 +81839,7 @@
       "difficulty": "85.2",
       "difficulty_num": 85.2,
       "rating": 6.4,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
