@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 20:27:00",
+  "last_updated": "2026-04-06 21:05:38",
   "announcements": [
     {
       "date": "2026/04/06",
@@ -65766,10 +65766,10 @@
     {
       "id": 25914,
       "name": "Isopropylacrylamide",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 8.0,
-      "num_ratings": 1,
+      "difficulty": "88.0",
+      "difficulty_num": 88.0,
+      "rating": 8.6,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -89019,7 +89019,7 @@
       "difficulty": "11.0",
       "difficulty_num": 11.0,
       "rating": 6.5,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128016,10 +128016,10 @@
     {
       "id": 26083,
       "name": "I Wanna Use Sextant",
-      "difficulty": "75.1",
-      "difficulty_num": 75.1,
-      "rating": 8.2,
-      "num_ratings": 17,
+      "difficulty": "74.7",
+      "difficulty_num": 74.7,
+      "rating": 8.3,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
