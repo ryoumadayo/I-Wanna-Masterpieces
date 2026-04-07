@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 05:05:50",
+  "last_updated": "2026-04-08 06:10:56",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -26576,9 +26576,9 @@
     {
       "id": 11907,
       "name": "I wanna be the Computer!",
-      "difficulty": "27.5",
-      "difficulty_num": 27.5,
-      "rating": 4.3,
+      "difficulty": "32.5",
+      "difficulty_num": 32.5,
+      "rating": 4.8,
       "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
@@ -46248,8 +46248,8 @@
       "name": "I Wanna Fleeting Pink",
       "difficulty": "32.0",
       "difficulty_num": 32.0,
-      "rating": 5.1,
-      "num_ratings": 45,
+      "rating": 5.2,
+      "num_ratings": 46,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -85928,8 +85928,8 @@
       "name": "I wanna be the MU-GEEEEEEEEE",
       "difficulty": "32.2",
       "difficulty_num": 32.2,
-      "rating": 6.0,
-      "num_ratings": 49,
+      "rating": 6.1,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -113096,10 +113096,10 @@
     {
       "id": 19130,
       "name": "Solnyshko",
-      "difficulty": "30.9",
-      "difficulty_num": 30.9,
+      "difficulty": "30.8",
+      "difficulty_num": 30.8,
       "rating": 6.4,
-      "num_ratings": 58,
+      "num_ratings": 59,
       "is_needle": true,
       "is_avoidance": false
     },
