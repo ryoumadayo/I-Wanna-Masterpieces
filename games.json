@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 18:03:06",
+  "last_updated": "2026-04-07 19:34:11",
   "announcements": [
     {
       "date": "2026/04/07",
@@ -75256,10 +75256,10 @@
     {
       "id": 46103,
       "name": "Laser Game",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "47.0",
+      "difficulty_num": 47.0,
+      "rating": 6.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111784,6 +111784,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46166,
+      "name": "I wanna be the Skill game",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 11111,
       "name": "I wanna be the Skill game2",
       "difficulty": "41.4",
@@ -144136,10 +144146,10 @@
     {
       "id": 46091,
       "name": "白猫シロの大冒険！",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 3.0,
-      "num_ratings": 3,
+      "difficulty": "77.0",
+      "difficulty_num": 77.0,
+      "rating": 3.9,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
