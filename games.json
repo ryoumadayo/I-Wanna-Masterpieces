@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 19:06:50",
+  "last_updated": "2026-04-08 20:30:38",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -86866,10 +86866,10 @@
     {
       "id": 12038,
       "name": "I wanna be the Nasimoto2",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 7.5,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
