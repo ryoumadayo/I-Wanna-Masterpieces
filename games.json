@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 06:40:37",
+  "last_updated": "2026-04-09 07:37:40",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -101816,10 +101816,10 @@
     {
       "id": 17504,
       "name": "I wanna Reach Midnight",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
       "rating": 6.6,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": true,
       "is_avoidance": false
     },
