@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 23:08:41",
+  "last_updated": "2026-04-09 00:56:53",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -29036,10 +29036,10 @@
     {
       "id": 18332,
       "name": "I wanna CUBETECH",
-      "difficulty": "38.4",
-      "difficulty_num": 38.4,
+      "difficulty": "38.3",
+      "difficulty_num": 38.3,
       "rating": 7.0,
-      "num_ratings": 38,
+      "num_ratings": 39,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31996,10 +31996,10 @@
     {
       "id": 15654,
       "name": "I wanna be the Defiant",
-      "difficulty": "79.9",
-      "difficulty_num": 79.9,
-      "rating": 2.9,
-      "num_ratings": 24,
+      "difficulty": "77.1",
+      "difficulty_num": 77.1,
+      "rating": 3.1,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -32439,7 +32439,7 @@
       "difficulty": "29.1",
       "difficulty_num": 29.1,
       "rating": 6.3,
-      "num_ratings": 72,
+      "num_ratings": 73,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -41376,10 +41376,10 @@
     {
       "id": 17759,
       "name": "I wanna Especial",
-      "difficulty": "52.8",
-      "difficulty_num": 52.8,
+      "difficulty": "53.4",
+      "difficulty_num": 53.4,
       "rating": 5.5,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68886,10 +68886,10 @@
     {
       "id": 17727,
       "name": "I wanna be the Kataribe",
-      "difficulty": "34.5",
-      "difficulty_num": 34.5,
-      "rating": 7.7,
-      "num_ratings": 26,
+      "difficulty": "34.6",
+      "difficulty_num": 34.6,
+      "rating": 7.6,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -86956,10 +86956,10 @@
     {
       "id": 11654,
       "name": "I wanna NATTO needle",
-      "difficulty": "67.5",
-      "difficulty_num": 67.5,
-      "rating": 2.2,
-      "num_ratings": 7,
+      "difficulty": "67.4",
+      "difficulty_num": 67.4,
+      "rating": 2.3,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -112134,6 +112134,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46169,
+      "name": "I wanna Sleep All Day",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 15785,
       "name": "I wanna sleep and sleep",
       "difficulty": "43.0",
@@ -120366,10 +120376,10 @@
     {
       "id": 46058,
       "name": "Tetractys",
-      "difficulty": "76.5",
-      "difficulty_num": 76.5,
-      "rating": 7.6,
-      "num_ratings": 4,
+      "difficulty": "77.3",
+      "difficulty_num": 77.3,
+      "rating": 7.8,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -125636,10 +125646,10 @@
     {
       "id": 46168,
       "name": "I wanna be the True Noob",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 3.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
