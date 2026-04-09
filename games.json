@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 22:51:57",
+  "last_updated": "2026-04-10 00:21:47",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -27238,7 +27238,7 @@
       "name": "I wanna conquer the Gafro",
       "difficulty": "75.0",
       "difficulty_num": 75.0,
-      "rating": 3.8,
+      "rating": 3.6,
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
@@ -51786,10 +51786,10 @@
     {
       "id": 27327,
       "name": "I Wanna Give Trinkets To Friends And Family",
-      "difficulty": "81.1",
-      "difficulty_num": 81.1,
-      "rating": 8.8,
-      "num_ratings": 22,
+      "difficulty": "81.2",
+      "difficulty_num": 81.2,
+      "rating": 8.7,
+      "num_ratings": 23,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -79916,10 +79916,10 @@
     {
       "id": 23610,
       "name": "i wanna mabudati",
-      "difficulty": "20.0",
-      "difficulty_num": 20.0,
-      "rating": 1.0,
-      "num_ratings": 4,
+      "difficulty": "30.0",
+      "difficulty_num": 30.0,
+      "rating": 3.0,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104466,10 +104466,10 @@
     {
       "id": 24369,
       "name": "I wanna riatomo",
-      "difficulty": "22.3",
-      "difficulty_num": 22.3,
-      "rating": 4.9,
-      "num_ratings": 8,
+      "difficulty": "21.1",
+      "difficulty_num": 21.1,
+      "rating": 5.4,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122966,10 +122966,10 @@
     {
       "id": 27768,
       "name": "tmdt",
-      "difficulty": "23.0",
-      "difficulty_num": 23.0,
-      "rating": 1.7,
-      "num_ratings": 3,
+      "difficulty": "22.3",
+      "difficulty_num": 22.3,
+      "rating": 2.9,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -123646,10 +123646,10 @@
     {
       "id": 23607,
       "name": "i wanna tomodati",
-      "difficulty": "41.3",
-      "difficulty_num": 41.3,
-      "rating": 3.3,
-      "num_ratings": 11,
+      "difficulty": "41.1",
+      "difficulty_num": 41.1,
+      "rating": 3.4,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
