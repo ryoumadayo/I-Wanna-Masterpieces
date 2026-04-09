@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 19:57:59",
+  "last_updated": "2026-04-09 20:57:47",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -34466,10 +34466,10 @@
     {
       "id": 15593,
       "name": "I wanna do Escapism",
-      "difficulty": "47.2",
-      "difficulty_num": 47.2,
+      "difficulty": "47.1",
+      "difficulty_num": 47.1,
       "rating": 8.2,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93018,7 +93018,7 @@
       "name": "I Wanna Overtake",
       "difficulty": "75.0",
       "difficulty_num": 75.0,
-      "rating": 6.3,
+      "rating": 6.2,
       "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
