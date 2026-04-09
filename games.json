@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 08:37:20",
+  "last_updated": "2026-04-09 11:07:33",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -13226,10 +13226,10 @@
     {
       "id": 15191,
       "name": "I wanna be with you",
-      "difficulty": "34.6",
-      "difficulty_num": 34.6,
+      "difficulty": "34.8",
+      "difficulty_num": 34.8,
       "rating": 6.4,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47866,10 +47866,10 @@
     {
       "id": 27837,
       "name": "I wanna frolic in stella's garden",
-      "difficulty": "48.8",
-      "difficulty_num": 48.8,
+      "difficulty": "49.3",
+      "difficulty_num": 49.3,
       "rating": 7.6,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -49039,7 +49039,7 @@
       "difficulty": "33.5",
       "difficulty_num": 33.5,
       "rating": 6.0,
-      "num_ratings": 56,
+      "num_ratings": 57,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -64788,8 +64788,8 @@
       "name": "indigo needle",
       "difficulty": "36.2",
       "difficulty_num": 36.2,
-      "rating": 7.1,
-      "num_ratings": 97,
+      "rating": 7.2,
+      "num_ratings": 98,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79119,7 +79119,7 @@
       "difficulty": "38.4",
       "difficulty_num": 38.4,
       "rating": 7.1,
-      "num_ratings": 82,
+      "num_ratings": 83,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130839,7 +130839,7 @@
       "difficulty": "36.4",
       "difficulty_num": 36.4,
       "rating": 6.5,
-      "num_ratings": 63,
+      "num_ratings": 64,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143879,7 +143879,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
