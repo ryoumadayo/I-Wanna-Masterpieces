@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 13:56:49",
+  "last_updated": "2026-04-09 15:22:13",
   "announcements": [
     {
       "date": "2026/04/08",
@@ -112196,10 +112196,10 @@
     {
       "id": 46169,
       "name": "I wanna Sleep All Day",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "difficulty": "36.0",
+      "difficulty_num": 36.0,
+      "rating": 10.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
