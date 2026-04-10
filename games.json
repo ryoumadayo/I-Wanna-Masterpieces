@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 14:56:58",
+  "last_updated": "2026-04-10 16:45:49",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -104206,10 +104206,10 @@
     {
       "id": 18831,
       "name": "I wanna be the Reversible Campaign",
-      "difficulty": "67.8",
-      "difficulty_num": 67.8,
-      "rating": 8.1,
-      "num_ratings": 6,
+      "difficulty": "67.2",
+      "difficulty_num": 67.2,
+      "rating": 8.0,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
