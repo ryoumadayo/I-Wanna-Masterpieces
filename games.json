@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 16:45:49",
+  "last_updated": "2026-04-10 18:08:01",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -60396,10 +60396,10 @@
     {
       "id": 23619,
       "name": "I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See!",
-      "difficulty": "56.9",
-      "difficulty_num": 56.9,
+      "difficulty": "56.3",
+      "difficulty_num": 56.3,
       "rating": 7.2,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": false,
       "is_avoidance": true
     },
