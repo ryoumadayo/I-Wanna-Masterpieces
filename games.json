@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 01:50:24",
+  "last_updated": "2026-04-11 02:47:07",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -87206,10 +87206,10 @@
     {
       "id": 22631,
       "name": "I Wanna be the Nebula",
-      "difficulty": "61.5",
-      "difficulty_num": 61.5,
-      "rating": 5.6,
-      "num_ratings": 20,
+      "difficulty": "61.4",
+      "difficulty_num": 61.4,
+      "rating": 5.5,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
