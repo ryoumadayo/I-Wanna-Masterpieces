@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 19:04:14",
+  "last_updated": "2026-04-11 20:02:34",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -90921,7 +90921,7 @@
       "rating": 4.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 45764,
