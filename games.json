@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 20:53:24",
+  "last_updated": "2026-04-11 21:55:30",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -63326,11 +63326,11 @@
     {
       "id": 46180,
       "name": "I Want to Go Outside",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
-      "is_needle": true,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 8.5,
+      "num_ratings": 3,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -76329,7 +76329,7 @@
       "difficulty": "73.3",
       "difficulty_num": 73.3,
       "rating": 9.6,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -131166,10 +131166,10 @@
     {
       "id": 27471,
       "name": "Weird--",
-      "difficulty": "79.9",
-      "difficulty_num": 79.9,
+      "difficulty": "79.3",
+      "difficulty_num": 79.3,
       "rating": 9.2,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
