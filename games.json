@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 16:13:47",
+  "last_updated": "2026-04-11 17:03:40",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -90916,10 +90916,10 @@
     {
       "id": 18741,
       "name": "I wanna nurunuru",
-      "difficulty": "30.0",
-      "difficulty_num": 30.0,
-      "rating": 3.5,
-      "num_ratings": 2,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 4.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
