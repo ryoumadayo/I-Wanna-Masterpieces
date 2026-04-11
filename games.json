@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 05:32:24",
+  "last_updated": "2026-04-12 06:32:03",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -16178,8 +16178,8 @@
       "name": "Birthday Residence",
       "difficulty": "39.7",
       "difficulty_num": 39.7,
-      "rating": 7.7,
-      "num_ratings": 10,
+      "rating": 7.8,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -78616,10 +78616,10 @@
     {
       "id": 10491,
       "name": "I wanna love the Kid",
-      "difficulty": "0.4",
-      "difficulty_num": 0.4,
-      "rating": 4.2,
-      "num_ratings": 9,
+      "difficulty": "0.7",
+      "difficulty_num": 0.7,
+      "rating": 4.3,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
