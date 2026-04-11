@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 22:55:50",
+  "last_updated": "2026-04-11 23:36:16",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -27646,10 +27646,10 @@
     {
       "id": 46028,
       "name": "I wanna Convey the Echo",
-      "difficulty": "67.5",
-      "difficulty_num": 67.5,
-      "rating": 7.0,
-      "num_ratings": 5,
+      "difficulty": "61.7",
+      "difficulty_num": 61.7,
+      "rating": 6.0,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
