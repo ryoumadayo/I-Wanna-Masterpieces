@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 13:32:56",
+  "last_updated": "2026-04-11 14:59:51",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -58536,10 +58536,10 @@
     {
       "id": 27720,
       "name": "I wanna HB Needle",
-      "difficulty": "72.5",
-      "difficulty_num": 72.5,
-      "rating": 7.3,
-      "num_ratings": 2,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 6.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
