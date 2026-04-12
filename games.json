@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 23:08:54",
+  "last_updated": "2026-04-13 00:04:30",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -6066,10 +6066,10 @@
     {
       "id": 15326,
       "name": "I wanna be the Amethyst",
-      "difficulty": "37.7",
-      "difficulty_num": 37.7,
+      "difficulty": "37.8",
+      "difficulty_num": 37.8,
       "rating": 5.3,
-      "num_ratings": 50,
+      "num_ratings": 51,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -57806,10 +57806,10 @@
     {
       "id": 15168,
       "name": "I wanna be the Haru",
-      "difficulty": "36.8",
-      "difficulty_num": 36.8,
-      "rating": 5.2,
-      "num_ratings": 35,
+      "difficulty": "36.7",
+      "difficulty_num": 36.7,
+      "rating": 5.3,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143746,10 +143746,10 @@
     {
       "id": 28269,
       "name": "本想做个简单的游戏，结果搞砸了",
-      "difficulty": "98.2",
-      "difficulty_num": 98.2,
-      "rating": 4.8,
-      "num_ratings": 8,
+      "difficulty": "98.5",
+      "difficulty_num": 98.5,
+      "rating": 4.3,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
