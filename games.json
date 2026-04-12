@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 19:06:44",
+  "last_updated": "2026-04-12 20:06:07",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -3996,10 +3996,10 @@
     {
       "id": 24476,
       "name": "A. C. E.",
-      "difficulty": "87.3",
-      "difficulty_num": 87.3,
-      "rating": 9.1,
-      "num_ratings": 14,
+      "difficulty": "86.8",
+      "difficulty_num": 86.8,
+      "rating": 9.2,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -6556,8 +6556,8 @@
     {
       "id": 25497,
       "name": "I Wanna Anomaly",
-      "difficulty": "76.8",
-      "difficulty_num": 76.8,
+      "difficulty": "76.0",
+      "difficulty_num": 76.0,
       "rating": 7.8,
       "num_ratings": 11,
       "is_needle": false,
@@ -27736,10 +27736,10 @@
     {
       "id": 16237,
       "name": "I wanna be the Coolflowers 3",
-      "difficulty": "85.0",
-      "difficulty_num": 85.0,
-      "rating": 1.8,
-      "num_ratings": 14,
+      "difficulty": "83.2",
+      "difficulty_num": 83.2,
+      "rating": 2.0,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -34096,8 +34096,8 @@
     {
       "id": 22353,
       "name": "I wanna be the disparagement",
-      "difficulty": "60.4",
-      "difficulty_num": 60.4,
+      "difficulty": "60.1",
+      "difficulty_num": 60.1,
       "rating": 7.2,
       "num_ratings": 19,
       "is_needle": true,
@@ -35216,8 +35216,8 @@
     {
       "id": 21362,
       "name": "I wanna be the dop",
-      "difficulty": "91.7",
-      "difficulty_num": 91.7,
+      "difficulty": "91.1",
+      "difficulty_num": 91.1,
       "rating": 6.7,
       "num_ratings": 13,
       "is_needle": false,
@@ -56186,8 +56186,8 @@
     {
       "id": 14978,
       "name": "I Wanna Be the Hades",
-      "difficulty": "71.1",
-      "difficulty_num": 71.1,
+      "difficulty": "71.0",
+      "difficulty_num": 71.0,
       "rating": 6.7,
       "num_ratings": 74,
       "is_needle": true,
@@ -60506,10 +60506,10 @@
     {
       "id": 24002,
       "name": "I wanna be the HSP",
-      "difficulty": "84.4",
-      "difficulty_num": 84.4,
+      "difficulty": "84.1",
+      "difficulty_num": 84.1,
       "rating": 8.5,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -91376,8 +91376,8 @@
     {
       "id": 45831,
       "name": "I wanna oguo needle",
-      "difficulty": "52.4",
-      "difficulty_num": 52.4,
+      "difficulty": "51.8",
+      "difficulty_num": 51.8,
       "rating": 6.2,
       "num_ratings": 12,
       "is_needle": true,
@@ -125496,8 +125496,8 @@
     {
       "id": 11732,
       "name": "I wanna trial the 100trap",
-      "difficulty": "70.3",
-      "difficulty_num": 70.3,
+      "difficulty": "69.9",
+      "difficulty_num": 69.9,
       "rating": 5.5,
       "num_ratings": 29,
       "is_needle": true,
@@ -142466,8 +142466,8 @@
     {
       "id": 24137,
       "name": "I wanna be the 友達",
-      "difficulty": "66.0",
-      "difficulty_num": 66.0,
+      "difficulty": "64.4",
+      "difficulty_num": 64.4,
       "rating": 5.4,
       "num_ratings": 6,
       "is_needle": true,
