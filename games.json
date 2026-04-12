@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 15:53:18",
+  "last_updated": "2026-04-12 17:02:24",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -3936,10 +3936,10 @@
     {
       "id": 21077,
       "name": "A way to my hometown",
-      "difficulty": "64.8",
-      "difficulty_num": 64.8,
+      "difficulty": "64.5",
+      "difficulty_num": 64.5,
       "rating": 6.1,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -29896,10 +29896,10 @@
     {
       "id": 20684,
       "name": "I wanna Dance with fire and ice",
-      "difficulty": "71.0",
-      "difficulty_num": 71.0,
-      "rating": 5.7,
-      "num_ratings": 3,
+      "difficulty": "68.0",
+      "difficulty_num": 68.0,
+      "rating": 6.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -38968,8 +38968,8 @@
       "name": "I wanna end the Duo Blade",
       "difficulty": "85.4",
       "difficulty_num": 85.4,
-      "rating": 5.6,
-      "num_ratings": 7,
+      "rating": 5.0,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -42960,6 +42960,16 @@
       "difficulty_num": 28.5,
       "rating": 7.5,
       "num_ratings": 32,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46184,
+      "name": "I wanna fa uuz",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78891,6 +78901,16 @@
       "rating": 8.3,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46185,
+      "name": "I wanna be the lovely trip",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -123634,6 +123654,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46186,
+      "name": "I wanna be the tomatious trap",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 16512,
       "name": "I wanna be the tomato",
       "difficulty": "N/A",
@@ -136639,7 +136669,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
