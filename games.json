@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 11:28:49",
+  "last_updated": "2026-04-12 15:53:18",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -14246,10 +14246,10 @@
     {
       "id": 16051,
       "name": "I wanna beat the L-One Map",
-      "difficulty": "76.8",
-      "difficulty_num": 76.8,
-      "rating": 4.7,
-      "num_ratings": 7,
+      "difficulty": "76.6",
+      "difficulty_num": 76.6,
+      "rating": 4.4,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -48006,10 +48006,10 @@
     {
       "id": 26785,
       "name": "I Wanna Fuck Kamilia",
-      "difficulty": "44.6",
-      "difficulty_num": 44.6,
-      "rating": 4.6,
-      "num_ratings": 26,
+      "difficulty": "44.3",
+      "difficulty_num": 44.3,
+      "rating": 4.7,
+      "num_ratings": 27,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -102506,10 +102506,10 @@
     {
       "id": 15269,
       "name": "I wanna be the Red coin mania IIDX 2 Praxia",
-      "difficulty": "41.5",
-      "difficulty_num": 41.5,
+      "difficulty": "41.6",
+      "difficulty_num": 41.6,
       "rating": 7.1,
-      "num_ratings": 37,
+      "num_ratings": 38,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -108196,10 +108196,10 @@
     {
       "id": 11082,
       "name": "I wanna be the Secret",
-      "difficulty": "77.0",
-      "difficulty_num": 77.0,
-      "rating": 3.4,
-      "num_ratings": 7,
+      "difficulty": "76.0",
+      "difficulty_num": 76.0,
+      "rating": 4.0,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
