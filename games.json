@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 00:04:30",
+  "last_updated": "2026-04-13 00:59:11",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -24046,10 +24046,10 @@
     {
       "id": 18403,
       "name": "I wanna Cigarette",
-      "difficulty": "35.7",
-      "difficulty_num": 35.7,
+      "difficulty": "35.8",
+      "difficulty_num": 35.8,
       "rating": 6.7,
-      "num_ratings": 52,
+      "num_ratings": 53,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63356,10 +63356,10 @@
     {
       "id": 46180,
       "name": "I Want to Go Outside",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
-      "rating": 8.5,
-      "num_ratings": 4,
+      "difficulty": "63.5",
+      "difficulty_num": 63.5,
+      "rating": 8.3,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103456,10 +103456,10 @@
     {
       "id": 46023,
       "name": "Renko Needle",
-      "difficulty": "47.5",
-      "difficulty_num": 47.5,
-      "rating": 4.9,
-      "num_ratings": 7,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 4.8,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131639,7 +131639,7 @@
       "difficulty": "37.5",
       "difficulty_num": 37.5,
       "rating": 7.2,
-      "num_ratings": 65,
+      "num_ratings": 66,
       "is_needle": false,
       "is_avoidance": false
     },
