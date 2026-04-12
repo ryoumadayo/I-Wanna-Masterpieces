@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 01:52:30",
+  "last_updated": "2026-04-13 02:33:49",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -29079,7 +29079,7 @@
       "difficulty": "38.3",
       "difficulty_num": 38.3,
       "rating": 7.0,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63356,8 +63356,8 @@
     {
       "id": 46180,
       "name": "I Want to Go Outside",
-      "difficulty": "63.5",
-      "difficulty_num": 63.5,
+      "difficulty": "62.3",
+      "difficulty_num": 62.3,
       "rating": 8.3,
       "num_ratings": 5,
       "is_needle": false,
@@ -103138,8 +103138,8 @@
       "name": "I wanna rely the Needle 4",
       "difficulty": "41.3",
       "difficulty_num": 41.3,
-      "rating": 7.6,
-      "num_ratings": 58,
+      "rating": 7.5,
+      "num_ratings": 59,
       "is_needle": true,
       "is_avoidance": false
     },
