@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 14:41:16",
+  "last_updated": "2026-04-13 17:01:32",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -10106,10 +10106,10 @@
     {
       "id": 12207,
       "name": "I wanna BD Needle Trials",
-      "difficulty": "42.6",
-      "difficulty_num": 42.6,
-      "rating": 5.5,
-      "num_ratings": 31,
+      "difficulty": "43.5",
+      "difficulty_num": 43.5,
+      "rating": 5.4,
+      "num_ratings": 32,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143429,7 +143429,7 @@
       "difficulty": "60.0",
       "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
