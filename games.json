@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 05:31:57",
+  "last_updated": "2026-04-14 06:47:58",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -54966,11 +54966,11 @@
     {
       "id": 16810,
       "name": "I wanna be the grave guy",
-      "difficulty": "46.5",
-      "difficulty_num": 46.5,
-      "rating": 4.9,
-      "num_ratings": 2,
-      "is_needle": false,
+      "difficulty": "44.3",
+      "difficulty_num": 44.3,
+      "rating": 4.4,
+      "num_ratings": 3,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
