@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-13 17:01:32",
+  "last_updated": "2026-04-13 19:12:57",
   "announcements": [
+    {
+      "date": "2026/04/13",
+      "message": "I wanna Noisepikeの評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 10493
+    },
     {
       "date": "2026/04/09",
       "message": "I wanna collect achievements が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "YoYoYo Engine (Verve Edition) が新たに追加されました。",
       "type": "add",
       "id": 24342
-    },
-    {
-      "date": "2026/03/30",
-      "message": "Tool for avoidances 2.0 が新たに追加されました。",
-      "type": "add",
-      "id": 16202
     }
   ],
   "games": [
@@ -89748,8 +89748,8 @@
       "name": "I wanna Noisepike",
       "difficulty": "1.3",
       "difficulty_num": 1.3,
-      "rating": 6.0,
-      "num_ratings": 17,
+      "rating": 5.9,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -106896,10 +106896,10 @@
     {
       "id": 22325,
       "name": "I Wanna Save My Boy",
-      "difficulty": "69.2",
-      "difficulty_num": 69.2,
+      "difficulty": "69.1",
+      "difficulty_num": 69.1,
       "rating": 9.4,
-      "num_ratings": 56,
+      "num_ratings": 57,
       "is_needle": false,
       "is_avoidance": false
     },
