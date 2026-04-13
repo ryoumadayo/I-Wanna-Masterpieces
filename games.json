@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 19:12:57",
+  "last_updated": "2026-04-13 20:49:51",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -13540,6 +13540,16 @@
       "difficulty_num": 98.5,
       "rating": 0.5,
       "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46189,
+      "name": "I Wanna Beat Cabadoth",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -100728,8 +100738,8 @@
       "name": "I wanna be the Quarzious - Quarzious Mode",
       "difficulty": "6.9",
       "difficulty_num": 6.9,
-      "rating": 4.6,
-      "num_ratings": 50,
+      "rating": 4.5,
+      "num_ratings": 51,
       "is_needle": false,
       "is_avoidance": false
     },
