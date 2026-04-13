@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 11:33:53",
+  "last_updated": "2026-04-13 14:41:16",
   "announcements": [
     {
       "date": "2026/04/09",
@@ -5059,7 +5059,7 @@
       "difficulty": "46.1",
       "difficulty_num": 46.1,
       "rating": 7.5,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -8966,10 +8966,10 @@
     {
       "id": 11431,
       "name": "I wanna Awake",
-      "difficulty": "45.1",
-      "difficulty_num": 45.1,
+      "difficulty": "44.8",
+      "difficulty_num": 44.8,
       "rating": 6.7,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -64106,10 +64106,10 @@
     {
       "id": 25953,
       "name": "Ides of Noel",
-      "difficulty": "49.8",
-      "difficulty_num": 49.8,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
       "rating": 7.8,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130006,10 +130006,10 @@
     {
       "id": 46187,
       "name": "I wanna wait for you after rainy days",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
-      "rating": 7.5,
-      "num_ratings": 3,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
+      "rating": 8.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -143426,10 +143426,10 @@
     {
       "id": 46188,
       "name": "操你妈",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
