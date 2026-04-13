@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 00:01:37",
+  "last_updated": "2026-04-14 01:42:18",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -130016,10 +130016,10 @@
     {
       "id": 46187,
       "name": "I wanna wait for you after rainy days",
-      "difficulty": "49.0",
-      "difficulty_num": 49.0,
+      "difficulty": "49.3",
+      "difficulty_num": 49.3,
       "rating": 8.0,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
