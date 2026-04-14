@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 18:01:23",
+  "last_updated": "2026-04-14 19:45:09",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -45216,10 +45216,10 @@
     {
       "id": 45825,
       "name": "I Wanna Find The 7 Readme",
-      "difficulty": "26.7",
-      "difficulty_num": 26.7,
-      "rating": 8.7,
-      "num_ratings": 8,
+      "difficulty": "22.5",
+      "difficulty_num": 22.5,
+      "rating": 8.5,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
