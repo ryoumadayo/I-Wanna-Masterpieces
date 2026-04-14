@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 16:07:03",
+  "last_updated": "2026-04-14 18:01:23",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -90936,10 +90936,10 @@
     {
       "id": 16040,
       "name": "I wanna be the null game",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 3.2,
-      "num_ratings": 1,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 3.6,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
