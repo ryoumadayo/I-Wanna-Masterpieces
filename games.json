@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 03:04:11",
+  "last_updated": "2026-04-15 04:48:33",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -25068,8 +25068,8 @@
       "name": "I Wanna Climb The Snowy Tower",
       "difficulty": "37.7",
       "difficulty_num": 37.7,
-      "rating": 8.3,
-      "num_ratings": 35,
+      "rating": 8.2,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": false
     },
