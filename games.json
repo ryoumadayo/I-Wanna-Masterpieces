@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 16:08:05",
+  "last_updated": "2026-04-15 18:01:58",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -58896,10 +58896,10 @@
     {
       "id": 17332,
       "name": "Hearty Jewel",
-      "difficulty": "54.4",
-      "difficulty_num": 54.4,
-      "rating": 8.4,
-      "num_ratings": 27,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
+      "rating": 8.3,
+      "num_ratings": 28,
       "is_needle": false,
       "is_avoidance": false
     },
