@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 22:22:56",
+  "last_updated": "2026-04-15 23:53:38",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -11758,8 +11758,8 @@
       "name": "I wanna be in my safe space",
       "difficulty": "48.3",
       "difficulty_num": 48.3,
-      "rating": 7.1,
-      "num_ratings": 18,
+      "rating": 6.9,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -98008,8 +98008,8 @@
       "name": "I Wanna Potato 2",
       "difficulty": "70.5",
       "difficulty_num": 70.5,
-      "rating": 7.8,
-      "num_ratings": 33,
+      "rating": 7.9,
+      "num_ratings": 34,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -144628,7 +144628,7 @@
       "name": "科幻片",
       "difficulty": "63.5",
       "difficulty_num": 63.5,
-      "rating": 5.0,
+      "rating": 4.5,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
