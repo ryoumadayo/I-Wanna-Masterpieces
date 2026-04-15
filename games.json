@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-15 20:55:48",
+  "last_updated": "2026-04-15 22:22:56",
   "announcements": [
+    {
+      "date": "2026/04/15",
+      "message": "I wanna break two jewels が新たに追加されました。",
+      "type": "add",
+      "id": 15532
+    },
     {
       "date": "2026/04/13",
       "message": "I wanna Noisepikeの評価が基準値を下回ったことにより、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "Chungo's Gauntletが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 24884
-    },
-    {
-      "date": "2026/03/30",
-      "message": "YoYoYo Engine (Verve Edition) が新たに追加されました。",
-      "type": "add",
-      "id": 24342
     }
   ],
   "games": [
@@ -19616,10 +19616,10 @@
     {
       "id": 15532,
       "name": "I wanna break two jewels",
-      "difficulty": "76.7",
-      "difficulty_num": 76.7,
-      "rating": 7.2,
-      "num_ratings": 9,
+      "difficulty": "76.1",
+      "difficulty_num": 76.1,
+      "rating": 7.3,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -38976,9 +38976,9 @@
     {
       "id": 19890,
       "name": "I wanna end the Duo Blade",
-      "difficulty": "85.4",
-      "difficulty_num": 85.4,
-      "rating": 5.0,
+      "difficulty": "83.7",
+      "difficulty_num": 83.7,
+      "rating": 4.8,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
@@ -112336,10 +112336,10 @@
     {
       "id": 45804,
       "name": "sleepy screens",
-      "difficulty": "63.3",
-      "difficulty_num": 63.3,
-      "rating": 7.9,
-      "num_ratings": 5,
+      "difficulty": "63.0",
+      "difficulty_num": 63.0,
+      "rating": 8.0,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
