@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 18:01:58",
+  "last_updated": "2026-04-15 20:55:48",
   "announcements": [
     {
       "date": "2026/04/13",
@@ -61816,10 +61816,10 @@
     {
       "id": 12525,
       "name": "I don't wanna download this game",
-      "difficulty": "51.4",
-      "difficulty_num": 51.4,
-      "rating": 6.4,
-      "num_ratings": 24,
+      "difficulty": "49.1",
+      "difficulty_num": 49.1,
+      "rating": 6.3,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": false
     },
