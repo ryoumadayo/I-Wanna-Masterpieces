@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 01:04:29",
+  "last_updated": "2026-04-16 02:38:50",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -60659,7 +60659,7 @@
       "difficulty": "69.7",
       "difficulty_num": 69.7,
       "rating": 7.9,
-      "num_ratings": 30,
+      "num_ratings": 31,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -142982,6 +142982,16 @@
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46192,
+      "name": "i wanna be the 小4",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 19415,
