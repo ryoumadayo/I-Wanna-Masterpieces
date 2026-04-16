@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 21:42:04",
+  "last_updated": "2026-04-16 23:55:01",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -2400,6 +2400,16 @@
       "difficulty_num": 55.0,
       "rating": 0.0,
       "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46194,
+      "name": "30min3map1mood 20260325",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7229,7 +7239,7 @@
       "difficulty": "61.7",
       "difficulty_num": 61.7,
       "rating": 8.6,
-      "num_ratings": 27,
+      "num_ratings": 28,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -22439,7 +22449,7 @@
       "difficulty": "52.0",
       "difficulty_num": 52.0,
       "rating": 5.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -34482,6 +34492,16 @@
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46196,
+      "name": "I Wanna Do Death-Defying Magic: The Cherry Houdini Story",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 15593,
@@ -47256,10 +47276,10 @@
     {
       "id": 15572,
       "name": "I wanna be the Forgery",
-      "difficulty": "49.3",
-      "difficulty_num": 49.3,
-      "rating": 6.0,
-      "num_ratings": 4,
+      "difficulty": "49.4",
+      "difficulty_num": 49.4,
+      "rating": 6.2,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -105586,8 +105606,8 @@
     {
       "id": 12095,
       "name": "I wanna be the Rubik's Cube",
-      "difficulty": "86.3",
-      "difficulty_num": 86.3,
+      "difficulty": "86.2",
+      "difficulty_num": 86.2,
       "rating": 6.3,
       "num_ratings": 21,
       "is_needle": false,
@@ -117901,6 +117921,16 @@
       "rating": 4.4,
       "num_ratings": 8,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46195,
+      "name": "Sustain one",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -140524,6 +140554,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46193,
+      "name": "I wanna ス_ｻいㅏﾞ",
+      "difficulty": "72.0",
+      "difficulty_num": 72.0,
+      "rating": 7.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 24868,
       "name": "スコアが出る短編～中編程度のアイワナ",
       "difficulty": "N/A",
@@ -146282,6 +146322,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46197,
+      "name": "i wanna be the 鬱凪",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 11288,
