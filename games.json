@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 08:09:43",
+  "last_updated": "2026-04-16 09:06:13",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -90336,10 +90336,10 @@
     {
       "id": 16098,
       "name": "Not Another Magic Tower Game",
-      "difficulty": "77.5",
-      "difficulty_num": 77.5,
+      "difficulty": "77.4",
+      "difficulty_num": 77.4,
       "rating": 9.1,
-      "num_ratings": 84,
+      "num_ratings": 85,
       "is_needle": false,
       "is_avoidance": false
     },
