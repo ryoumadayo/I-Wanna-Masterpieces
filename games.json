@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 23:55:01",
+  "last_updated": "2026-04-17 01:22:20",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -13259,7 +13259,7 @@
       "difficulty": "55.5",
       "difficulty_num": 55.5,
       "rating": 7.3,
-      "num_ratings": 4,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -65146,11 +65146,11 @@
     {
       "id": 16361,
       "name": "I wanna be the Insane",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "46.0",
+      "difficulty_num": 46.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -100792,6 +100792,16 @@
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46198,
+      "name": "I wanna be the queen of attack",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 15012,
