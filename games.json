@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 15:00:58",
+  "last_updated": "2026-04-16 17:12:38",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -54996,10 +54996,10 @@
     {
       "id": 16010,
       "name": "I wanna be the Gravity",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
+      "difficulty": "37.5",
+      "difficulty_num": 37.5,
       "rating": 3.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
