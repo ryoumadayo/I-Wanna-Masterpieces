@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 02:51:19",
+  "last_updated": "2026-04-17 05:10:00",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -28706,10 +28706,10 @@
     {
       "id": 27435,
       "name": "Crimson Needle 2.5",
-      "difficulty": "89.6",
-      "difficulty_num": 89.6,
-      "rating": 9.1,
-      "num_ratings": 45,
+      "difficulty": "89.8",
+      "difficulty_num": 89.8,
+      "rating": 9.0,
+      "num_ratings": 46,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -34499,7 +34499,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
