@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 20:52:15",
+  "last_updated": "2026-04-17 22:17:08",
   "announcements": [
     {
       "date": "2026/04/15",
@@ -110434,6 +110434,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46199,
+      "name": "i wanna shit and die",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 20692,
       "name": "I Wanna Shit Series",
       "difficulty": "71.7",
@@ -113059,7 +113069,7 @@
       "difficulty": "61.1",
       "difficulty_num": 61.1,
       "rating": 4.9,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
