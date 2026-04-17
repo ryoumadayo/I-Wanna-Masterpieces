@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 05:42:37",
+  "last_updated": "2026-04-18 06:40:31",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -80976,10 +80976,10 @@
     {
       "id": 19153,
       "name": "I wanna make onemore",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 2.0,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -81686,10 +81686,10 @@
     {
       "id": 16802,
       "name": "I wanna make you happy",
-      "difficulty": "10.0",
-      "difficulty_num": 10.0,
+      "difficulty": "12.5",
+      "difficulty_num": 12.5,
       "rating": 3.5,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -96206,10 +96206,10 @@
     {
       "id": 15255,
       "name": "I wanna play summer",
-      "difficulty": "33.5",
-      "difficulty_num": 33.5,
+      "difficulty": "33.6",
+      "difficulty_num": 33.6,
       "rating": 6.1,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -100006,10 +100006,10 @@
     {
       "id": 46143,
       "name": "Purify Needle",
-      "difficulty": "60.5",
-      "difficulty_num": 60.5,
+      "difficulty": "60.4",
+      "difficulty_num": 60.4,
       "rating": 7.9,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
