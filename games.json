@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 18:46:57",
+  "last_updated": "2026-04-18 19:39:05",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -80366,10 +80366,10 @@
     {
       "id": 17881,
       "name": "I wanna be the Magnificent Stumble",
-      "difficulty": "76.2",
-      "difficulty_num": 76.2,
+      "difficulty": "76.0",
+      "difficulty_num": 76.0,
       "rating": 8.2,
-      "num_ratings": 47,
+      "num_ratings": 48,
       "is_needle": true,
       "is_avoidance": false
     },
