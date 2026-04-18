@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 05:46:45",
+  "last_updated": "2026-04-19 06:33:54",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -34496,11 +34496,11 @@
     {
       "id": 46196,
       "name": "I Wanna Do Death-Defying Magic: The Cherry Houdini Story",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
-      "rating": 7.8,
-      "num_ratings": 3,
-      "is_needle": false,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 8.3,
+      "num_ratings": 4,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
