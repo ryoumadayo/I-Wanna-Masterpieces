@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 11:11:43",
+  "last_updated": "2026-04-18 13:54:59",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -22886,10 +22886,10 @@
     {
       "id": 10604,
       "name": "I wanna be the Chaos&difficult!",
-      "difficulty": "36.0",
-      "difficulty_num": 36.0,
-      "rating": 1.2,
-      "num_ratings": 2,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
+      "rating": 2.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72826,10 +72826,10 @@
     {
       "id": 12389,
       "name": "I wanna kill the Potana",
-      "difficulty": "70.3",
-      "difficulty_num": 70.3,
-      "rating": 4.5,
-      "num_ratings": 7,
+      "difficulty": "68.6",
+      "difficulty_num": 68.6,
+      "rating": 4.2,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
