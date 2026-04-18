@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 15:12:51",
+  "last_updated": "2026-04-18 16:41:41",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -87348,8 +87348,8 @@
       "name": "I wanna Nectar",
       "difficulty": "81.6",
       "difficulty_num": 81.6,
-      "rating": 8.6,
-      "num_ratings": 10,
+      "rating": 8.5,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
