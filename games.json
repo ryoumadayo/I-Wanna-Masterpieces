@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 17:08:22",
+  "last_updated": "2026-04-19 18:13:11",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -26539,7 +26539,7 @@
       "difficulty": "62.8",
       "difficulty_num": 62.8,
       "rating": 7.3,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -83888,8 +83888,8 @@
       "name": "I wanna be the messenger",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 8.6,
-      "num_ratings": 3,
+      "rating": 8.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -92776,10 +92776,10 @@
     {
       "id": 20973,
       "name": "I wanna be the OTSD",
-      "difficulty": "81.4",
-      "difficulty_num": 81.4,
+      "difficulty": "81.5",
+      "difficulty_num": 81.5,
       "rating": 7.0,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -121716,10 +121716,10 @@
     {
       "id": 25972,
       "name": "The Kid's Whimsical Adventure!",
-      "difficulty": "45.2",
-      "difficulty_num": 45.2,
-      "rating": 6.4,
-      "num_ratings": 14,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 6.5,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126939,7 +126939,7 @@
       "difficulty": "58.9",
       "difficulty_num": 58.9,
       "rating": 7.0,
-      "num_ratings": 130,
+      "num_ratings": 131,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129308,8 +129308,8 @@
       "name": "I wanna Vine Journey",
       "difficulty": "57.4",
       "difficulty_num": 57.4,
-      "rating": 8.1,
-      "num_ratings": 39,
+      "rating": 8.0,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
