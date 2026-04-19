@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 11:33:18",
+  "last_updated": "2026-04-19 14:27:52",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -135356,10 +135356,10 @@
     {
       "id": 12162,
       "name": "I wanna be the ^shekq^",
-      "difficulty": "86.9",
-      "difficulty_num": 86.9,
-      "rating": 5.2,
-      "num_ratings": 13,
+      "difficulty": "86.6",
+      "difficulty_num": 86.6,
+      "rating": 5.1,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
