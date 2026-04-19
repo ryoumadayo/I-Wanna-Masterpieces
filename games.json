@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 15:57:58",
+  "last_updated": "2026-04-19 17:08:22",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -2406,10 +2406,10 @@
     {
       "id": 46194,
       "name": "30min3map1mood 20260325",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "61.0",
+      "difficulty_num": 61.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -28626,10 +28626,10 @@
     {
       "id": 22766,
       "name": "Crickets!",
-      "difficulty": "13.5",
-      "difficulty_num": 13.5,
-      "rating": 7.5,
-      "num_ratings": 21,
+      "difficulty": "13.8",
+      "difficulty_num": 13.8,
+      "rating": 7.4,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -30886,10 +30886,10 @@
     {
       "id": 17933,
       "name": "I wanna Decisive Taisa",
-      "difficulty": "88.0",
-      "difficulty_num": 88.0,
-      "rating": 9.2,
-      "num_ratings": 10,
+      "difficulty": "87.4",
+      "difficulty_num": 87.4,
+      "rating": 9.1,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -82338,7 +82338,7 @@
       "name": "i wanna be the master",
       "difficulty": "26.3",
       "difficulty_num": 26.3,
-      "rating": 1.1,
+      "rating": 1.3,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -117946,10 +117946,10 @@
     {
       "id": 46195,
       "name": "Sustain one",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
