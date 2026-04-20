@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 20:51:13",
+  "last_updated": "2026-04-20 22:26:54",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -8478,8 +8478,8 @@
       "name": "I wanna avoid myself",
       "difficulty": "80.0",
       "difficulty_num": 80.0,
-      "rating": 8.3,
-      "num_ratings": 4,
+      "rating": 8.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -41516,10 +41516,10 @@
     {
       "id": 46140,
       "name": "I Wanna Establish Capitalism 0",
-      "difficulty": "69.8",
-      "difficulty_num": 69.8,
-      "rating": 8.0,
-      "num_ratings": 7,
+      "difficulty": "69.6",
+      "difficulty_num": 69.6,
+      "rating": 8.4,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78368,7 +78368,7 @@
       "name": "I wanna love driver3",
       "difficulty": "59.0",
       "difficulty_num": 59.0,
-      "rating": 8.4,
+      "rating": 8.5,
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
@@ -85776,10 +85776,10 @@
     {
       "id": 15048,
       "name": "I wanna Mother of Gafro",
-      "difficulty": "57.5",
-      "difficulty_num": 57.5,
-      "rating": 2.0,
-      "num_ratings": 6,
+      "difficulty": "58.3",
+      "difficulty_num": 58.3,
+      "rating": 1.6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -93608,7 +93608,7 @@
       "name": "I wanna be the Paprika",
       "difficulty": "56.3",
       "difficulty_num": 56.3,
-      "rating": 8.1,
+      "rating": 8.0,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
