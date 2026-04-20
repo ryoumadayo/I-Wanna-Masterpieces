@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 02:56:28",
+  "last_updated": "2026-04-21 04:07:16",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -21338,7 +21338,7 @@
       "name": "Castle Guy",
       "difficulty": "45.5",
       "difficulty_num": 45.5,
-      "rating": 9.0,
+      "rating": 9.1,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -73246,10 +73246,10 @@
     {
       "id": 15529,
       "name": "I wanna Kill The Steak",
-      "difficulty": "93.2",
-      "difficulty_num": 93.2,
-      "rating": 0.9,
-      "num_ratings": 17,
+      "difficulty": "91.7",
+      "difficulty_num": 91.7,
+      "rating": 1.3,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
