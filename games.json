@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 11:34:03",
+  "last_updated": "2026-04-20 14:40:12",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -2406,10 +2406,10 @@
     {
       "id": 46194,
       "name": "30min3map1mood 20260325",
-      "difficulty": "60.5",
-      "difficulty_num": 60.5,
-      "rating": 7.5,
-      "num_ratings": 3,
+      "difficulty": "57.0",
+      "difficulty_num": 57.0,
+      "rating": 6.8,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -58708,7 +58708,7 @@
       "name": "I wanna Head over Heels in Love",
       "difficulty": "60.5",
       "difficulty_num": 60.5,
-      "rating": 9.0,
+      "rating": 8.7,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
