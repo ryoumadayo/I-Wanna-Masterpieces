@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 06:43:38",
+  "last_updated": "2026-04-22 07:36:59",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -9876,10 +9876,10 @@
     {
       "id": 11433,
       "name": "I wanna Baton touch !",
-      "difficulty": "39.3",
-      "difficulty_num": 39.3,
-      "rating": 6.6,
-      "num_ratings": 8,
+      "difficulty": "39.6",
+      "difficulty_num": 39.6,
+      "rating": 6.5,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
