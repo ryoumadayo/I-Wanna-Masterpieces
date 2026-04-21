@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 20:17:44",
+  "last_updated": "2026-04-21 21:13:20",
   "announcements": [
     {
       "date": "2026/04/17",
@@ -23451,6 +23451,16 @@
       "rating": 8.0,
       "num_ratings": 1,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46203,
+      "name": "Chile Can!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -55800,6 +55810,16 @@
       "difficulty_num": 52.0,
       "rating": 1.2,
       "num_ratings": 3,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46202,
+      "name": "I wanna be the Guy for Kids",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -91274,6 +91294,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46205,
+      "name": "Ocio",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 12057,
       "name": "I wanna be the Octophobia",
       "difficulty": "24.7",
@@ -117754,6 +117784,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46206,
+      "name": "Surfer",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 23110,
       "name": "I wanna be the Surge",
       "difficulty": "3.0",
@@ -121131,6 +121171,16 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46204,
+      "name": "That Fucking Game",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
