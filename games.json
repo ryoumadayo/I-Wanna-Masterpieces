@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 01:58:29",
+  "last_updated": "2026-04-23 03:04:00",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -21336,8 +21336,8 @@
     {
       "id": 46176,
       "name": "Castle Guy",
-      "difficulty": "45.5",
-      "difficulty_num": 45.5,
+      "difficulty": "42.0",
+      "difficulty_num": 42.0,
       "rating": 9.1,
       "num_ratings": 3,
       "is_needle": false,
@@ -128726,10 +128726,10 @@
     {
       "id": 46201,
       "name": "valley of insanity",
-      "difficulty": "56.3",
-      "difficulty_num": 56.3,
-      "rating": 7.9,
-      "num_ratings": 4,
+      "difficulty": "55.8",
+      "difficulty_num": 55.8,
+      "rating": 8.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
