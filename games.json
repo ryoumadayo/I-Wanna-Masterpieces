@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 03:04:00",
+  "last_updated": "2026-04-23 04:46:32",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -21338,8 +21338,8 @@
       "name": "Castle Guy",
       "difficulty": "42.0",
       "difficulty_num": 42.0,
-      "rating": 9.1,
-      "num_ratings": 3,
+      "rating": 9.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -31876,8 +31876,8 @@
     {
       "id": 25556,
       "name": "I Wanna Defeat The Tank",
-      "difficulty": "26.0",
-      "difficulty_num": 26.0,
+      "difficulty": "52.0",
+      "difficulty_num": 52.0,
       "rating": 0.1,
       "num_ratings": 2,
       "is_needle": false,
@@ -34508,8 +34508,8 @@
       "name": "I Wanna Do Death-Defying Magic: The Cherry Houdini Story",
       "difficulty": "40.3",
       "difficulty_num": 40.3,
-      "rating": 8.1,
-      "num_ratings": 5,
+      "rating": 8.2,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45548,9 +45548,9 @@
       "name": "I wanna find the troll",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.1,
-      "num_ratings": 2,
-      "is_needle": true,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -63519,7 +63519,7 @@
       "difficulty": "48.8",
       "difficulty_num": 48.8,
       "rating": 8.6,
-      "num_ratings": 30,
+      "num_ratings": 31,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -71509,7 +71509,7 @@
       "difficulty": "47.3",
       "difficulty_num": 47.3,
       "rating": 9.1,
-      "num_ratings": 150,
+      "num_ratings": 151,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -88759,7 +88759,7 @@
       "difficulty": "26.4",
       "difficulty_num": 26.4,
       "rating": 6.6,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -95286,8 +95286,8 @@
     {
       "id": 12535,
       "name": "Pickory",
-      "difficulty": "50.6",
-      "difficulty_num": 50.6,
+      "difficulty": "51.9",
+      "difficulty_num": 51.9,
       "rating": 6.0,
       "num_ratings": 9,
       "is_needle": false,
@@ -113228,8 +113228,8 @@
       "name": "Sokoguy",
       "difficulty": "25.0",
       "difficulty_num": 25.0,
-      "rating": 8.5,
-      "num_ratings": 4,
+      "rating": 8.7,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
