@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 20:59:23",
+  "last_updated": "2026-04-22 23:01:53",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -128726,10 +128726,10 @@
     {
       "id": 46201,
       "name": "valley of insanity",
-      "difficulty": "58.0",
-      "difficulty_num": 58.0,
-      "rating": 7.8,
-      "num_ratings": 3,
+      "difficulty": "56.3",
+      "difficulty_num": 56.3,
+      "rating": 7.9,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
