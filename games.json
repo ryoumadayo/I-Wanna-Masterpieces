@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-22 18:05:56",
+  "last_updated": "2026-04-22 19:47:23",
   "announcements": [
+    {
+      "date": "2026/04/22",
+      "message": "I wanna borrow three tilesets が新たに追加されました。",
+      "type": "add",
+      "id": 45894
+    },
     {
       "date": "2026/04/17",
       "message": "I wanna escape the Hell が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the Engine yuuutu editionが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 10483
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna be the Engine trialが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 10473
     }
   ],
   "games": [
@@ -17586,10 +17586,10 @@
     {
       "id": 45894,
       "name": "I wanna borrow three tilesets",
-      "difficulty": "73.7",
-      "difficulty_num": 73.7,
-      "rating": 8.7,
-      "num_ratings": 9,
+      "difficulty": "72.9",
+      "difficulty_num": 72.9,
+      "rating": 8.6,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
