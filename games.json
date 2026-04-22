@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 04:46:32",
+  "last_updated": "2026-04-23 05:54:16",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -9506,9 +9506,9 @@
     {
       "id": 26280,
       "name": "I wanna be the Baffling",
-      "difficulty": "52.3",
-      "difficulty_num": 52.3,
-      "rating": 5.3,
+      "difficulty": "51.4",
+      "difficulty_num": 51.4,
+      "rating": 5.5,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -17728,7 +17728,7 @@
       "name": "Boshy Strikes Back",
       "difficulty": "37.1",
       "difficulty_num": 37.1,
-      "rating": 5.4,
+      "rating": 5.0,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
@@ -31816,9 +31816,9 @@
     {
       "id": 25126,
       "name": "I Wanna Defeat The Sinistar",
-      "difficulty": "57.8",
-      "difficulty_num": 57.8,
-      "rating": 5.1,
+      "difficulty": "57.5",
+      "difficulty_num": 57.5,
+      "rating": 4.9,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -36428,7 +36428,7 @@
       "name": "I wanna be the Dude!",
       "difficulty": "33.3",
       "difficulty_num": 33.3,
-      "rating": 6.8,
+      "rating": 6.6,
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
@@ -79108,7 +79108,7 @@
       "name": "LSDKid",
       "difficulty": "56.0",
       "difficulty_num": 56.0,
-      "rating": 5.8,
+      "rating": 6.0,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -80108,7 +80108,7 @@
       "name": "I wanna be the Macho!",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 6.4,
+      "rating": 6.2,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -81946,9 +81946,9 @@
     {
       "id": 25888,
       "name": "MANSNOG",
-      "difficulty": "28.7",
-      "difficulty_num": 28.7,
-      "rating": 6.9,
+      "difficulty": "28.8",
+      "difficulty_num": 28.8,
+      "rating": 6.6,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
