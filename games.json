@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 05:31:17",
+  "last_updated": "2026-04-24 06:44:02",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -97676,10 +97676,10 @@
     {
       "id": 22679,
       "name": "I Wanna Pointillism",
-      "difficulty": "73.2",
-      "difficulty_num": 73.2,
+      "difficulty": "73.3",
+      "difficulty_num": 73.3,
       "rating": 9.2,
-      "num_ratings": 38,
+      "num_ratings": 39,
       "is_needle": false,
       "is_avoidance": false
     },
