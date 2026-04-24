@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 01:04:07",
+  "last_updated": "2026-04-25 02:29:59",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -7678,7 +7678,7 @@
       "name": "I wanna Ascend",
       "difficulty": "97.8",
       "difficulty_num": 97.8,
-      "rating": 9.4,
+      "rating": 9.5,
       "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
@@ -9620,6 +9620,16 @@
       "difficulty_num": 38.0,
       "rating": 5.1,
       "num_ratings": 9,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46208,
+      "name": "I wanna be the ball (test game)",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -56036,10 +56046,10 @@
     {
       "id": 11859,
       "name": "I wanna be the Guy:Gaiden(本家2)",
-      "difficulty": "46.2",
-      "difficulty_num": 46.2,
+      "difficulty": "46.3",
+      "difficulty_num": 46.3,
       "rating": 7.0,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": false
     },
