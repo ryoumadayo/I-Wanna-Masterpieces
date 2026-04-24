@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 22:21:46",
+  "last_updated": "2026-04-24 23:53:09",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -21296,8 +21296,8 @@
     {
       "id": 46207,
       "name": "I Wanna Carve My Own Grave",
-      "difficulty": "17.5",
-      "difficulty_num": 17.5,
+      "difficulty": "22.5",
+      "difficulty_num": 22.5,
       "rating": 8.8,
       "num_ratings": 3,
       "is_needle": false,
@@ -129048,7 +129048,7 @@
       "name": "Verse0",
       "difficulty": "79.0",
       "difficulty_num": 79.0,
-      "rating": 4.0,
+      "rating": 5.8,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
