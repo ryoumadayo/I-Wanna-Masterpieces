@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 19:04:40",
+  "last_updated": "2026-04-24 20:40:28",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -826,10 +826,10 @@
     {
       "id": 45787,
       "name": "i wanna 0",
-      "difficulty": "38.7",
-      "difficulty_num": 38.7,
-      "rating": 2.7,
-      "num_ratings": 4,
+      "difficulty": "39.0",
+      "difficulty_num": 39.0,
+      "rating": 2.1,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -5619,7 +5619,7 @@
       "difficulty": "63.8",
       "difficulty_num": 63.8,
       "rating": 8.4,
-      "num_ratings": 55,
+      "num_ratings": 56,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -7676,10 +7676,10 @@
     {
       "id": 25004,
       "name": "I wanna Ascend",
-      "difficulty": "97.9",
-      "difficulty_num": 97.9,
+      "difficulty": "97.8",
+      "difficulty_num": 97.8,
       "rating": 9.4,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -77646,10 +77646,10 @@
     {
       "id": 21810,
       "name": "I wanna LM",
-      "difficulty": "93.0",
-      "difficulty_num": 93.0,
-      "rating": 1.2,
-      "num_ratings": 6,
+      "difficulty": "72.3",
+      "difficulty_num": 72.3,
+      "rating": 2.2,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79346,10 +79346,10 @@
     {
       "id": 21510,
       "name": "I Wanna be the Lucky Jump 2 Online",
-      "difficulty": "92.0",
-      "difficulty_num": 92.0,
-      "rating": 6.8,
-      "num_ratings": 3,
+      "difficulty": "73.3",
+      "difficulty_num": 73.3,
+      "rating": 7.2,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
