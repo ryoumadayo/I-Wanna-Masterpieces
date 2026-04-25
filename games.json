@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 22:01:53",
+  "last_updated": "2026-04-25 23:13:38",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -65626,8 +65626,8 @@
     {
       "id": 26216,
       "name": "I wanna Invariant",
-      "difficulty": "78.0",
-      "difficulty_num": 78.0,
+      "difficulty": "79.0",
+      "difficulty_num": 79.0,
       "rating": 5.8,
       "num_ratings": 5,
       "is_needle": false,
