@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 09:04:03",
+  "last_updated": "2026-04-25 12:39:47",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -72136,10 +72136,10 @@
     {
       "id": 21999,
       "name": "I wanna Kill The KingTheSlendyKiller 2",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
+      "rating": 7.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -101799,7 +101799,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
