@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 02:37:32",
+  "last_updated": "2026-04-27 03:53:00",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -54352,6 +54352,16 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46212,
+      "name": "I wanna be the God Wind-up Toy ver1.0",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 22423,
@@ -129049,7 +129059,7 @@
       "difficulty": "67.5",
       "difficulty_num": 67.5,
       "rating": 9.1,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -130332,6 +130342,16 @@
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46211,
+      "name": "I Wanna Walk in the Rain",
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 7.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 23151,
