@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 06:52:34",
+  "last_updated": "2026-04-28 07:51:10",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -102706,10 +102706,10 @@
     {
       "id": 15269,
       "name": "I wanna be the Red coin mania IIDX 2 Praxia",
-      "difficulty": "41.6",
-      "difficulty_num": 41.6,
+      "difficulty": "41.5",
+      "difficulty_num": 41.5,
       "rating": 7.1,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
     },
