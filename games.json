@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 07:51:10",
+  "last_updated": "2026-04-28 08:52:34",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -146772,6 +146772,26 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46217,
+      "name": "아이워너비더철덕",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46218,
+      "name": "아이워너비더철덕 - 큐브월드 리믹스",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 27585,
