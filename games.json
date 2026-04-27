@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 01:25:31",
+  "last_updated": "2026-04-28 02:48:34",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -51564,6 +51564,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46216,
+      "name": "I wanna be the gimmick game hard",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 46150,
       "name": "I wanna be the gimmick game2",
       "difficulty": "40.0",
@@ -71910,6 +71920,16 @@
       "difficulty_num": 98.9,
       "rating": 7.8,
       "num_ratings": 13,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46213,
+      "name": "i wanna kill the kairu",
+      "difficulty": "36.0",
+      "difficulty_num": 36.0,
+      "rating": 2.2,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -99552,6 +99572,26 @@
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46214,
+      "name": "I wanna be the Pseudo 3D",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46215,
+      "name": "I wanna be the Pseudo 3D Needle",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 24022,
