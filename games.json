@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 22:13:16",
+  "last_updated": "2026-04-29 00:43:47",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -14876,10 +14876,10 @@
     {
       "id": 12234,
       "name": "I wanna beat the wannabes",
-      "difficulty": "62.8",
-      "difficulty_num": 62.8,
-      "rating": 5.7,
-      "num_ratings": 13,
+      "difficulty": "58.8",
+      "difficulty_num": 58.8,
+      "rating": 5.6,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103126,10 +103126,10 @@
     {
       "id": 21899,
       "name": "I Wanna Reject the Uhuhu",
-      "difficulty": "54.1",
-      "difficulty_num": 54.1,
+      "difficulty": "54.5",
+      "difficulty_num": 54.5,
       "rating": 5.8,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -109936,10 +109936,10 @@
     {
       "id": 21396,
       "name": "I Wanna Sertraline",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
+      "difficulty": "50.1",
+      "difficulty_num": 50.1,
       "rating": 7.5,
-      "num_ratings": 47,
+      "num_ratings": 48,
       "is_needle": true,
       "is_avoidance": false
     },
