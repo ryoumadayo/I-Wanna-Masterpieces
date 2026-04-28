@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 08:52:34",
+  "last_updated": "2026-04-28 11:46:35",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -85686,10 +85686,10 @@
     {
       "id": 18122,
       "name": "I wanna more beautiful and delicious",
-      "difficulty": "33.0",
-      "difficulty_num": 33.0,
+      "difficulty": "33.1",
+      "difficulty_num": 33.1,
       "rating": 5.4,
-      "num_ratings": 42,
+      "num_ratings": 43,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -104119,7 +104119,7 @@
       "difficulty": "38.6",
       "difficulty_num": 38.6,
       "rating": 6.8,
-      "num_ratings": 49,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126816,10 +126816,10 @@
     {
       "id": 16121,
       "name": "I wanna be the Twinkle Days",
-      "difficulty": "63.0",
-      "difficulty_num": 63.0,
+      "difficulty": "63.2",
+      "difficulty_num": 63.2,
       "rating": 8.6,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
