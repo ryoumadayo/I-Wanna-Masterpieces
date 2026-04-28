@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 07:31:17",
+  "last_updated": "2026-04-29 08:54:46",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -24749,7 +24749,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -37299,7 +37299,7 @@
       "difficulty": "39.3",
       "difficulty_num": 39.3,
       "rating": 2.4,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -71748,8 +71748,8 @@
       "name": "I wanna kill the Hinalyte 2",
       "difficulty": "100.0",
       "difficulty_num": 100.0,
-      "rating": 5.2,
-      "num_ratings": 3,
+      "rating": 6.3,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -82169,7 +82169,7 @@
       "difficulty": "69.7",
       "difficulty_num": 69.7,
       "rating": 6.8,
-      "num_ratings": 6,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130959,7 +130959,7 @@
       "difficulty": "55.5",
       "difficulty_num": 55.5,
       "rating": 7.4,
-      "num_ratings": 9,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
