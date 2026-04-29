@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 11:46:01",
+  "last_updated": "2026-04-29 17:14:48",
   "announcements": [
     {
       "date": "2026/04/22",
@@ -28366,10 +28366,10 @@
     {
       "id": 27074,
       "name": "Crazy Back Dancers",
-      "difficulty": "70.5",
-      "difficulty_num": 70.5,
-      "rating": 8.3,
-      "num_ratings": 3,
+      "difficulty": "73.0",
+      "difficulty_num": 73.0,
+      "rating": 4.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
