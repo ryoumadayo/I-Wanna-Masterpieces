@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-30 02:57:07",
+  "last_updated": "2026-04-30 04:28:57",
   "announcements": [
+    {
+      "date": "2026/04/30",
+      "message": "I wanna be the Vine Tutorial が新たに追加されました。",
+      "type": "add",
+      "id": 16954
+    },
     {
       "date": "2026/04/22",
       "message": "I wanna borrow three tilesets が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "DeadSplit - A Fangame Death Counterが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 18844
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna be the Engine yuuutu editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 10483
     }
   ],
   "games": [
@@ -34526,10 +34526,10 @@
     {
       "id": 46196,
       "name": "I Wanna Do Death-Defying Magic: The Cherry Houdini Story",
-      "difficulty": "40.3",
-      "difficulty_num": 40.3,
+      "difficulty": "39.5",
+      "difficulty_num": 39.5,
       "rating": 8.2,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -95706,10 +95706,10 @@
     {
       "id": 23112,
       "name": "I wanna be the Plane Jump",
-      "difficulty": "24.6",
-      "difficulty_num": 24.6,
-      "rating": 0.7,
-      "num_ratings": 6,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 1.1,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129476,10 +129476,10 @@
     {
       "id": 16954,
       "name": "I wanna be the Vine Tutorial",
-      "difficulty": "14.8",
-      "difficulty_num": 14.8,
-      "rating": 5.8,
-      "num_ratings": 13,
+      "difficulty": "14.6",
+      "difficulty_num": 14.6,
+      "rating": 6.0,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130196,8 +130196,8 @@
     {
       "id": 18374,
       "name": "I Wanna Be The Wait",
-      "difficulty": "11.5",
-      "difficulty_num": 11.5,
+      "difficulty": "12.3",
+      "difficulty_num": 12.3,
       "rating": 3.2,
       "num_ratings": 6,
       "is_needle": true,
@@ -130356,10 +130356,10 @@
     {
       "id": 19855,
       "name": "I WANNA WALK",
-      "difficulty": "0.9",
-      "difficulty_num": 0.9,
-      "rating": 1.8,
-      "num_ratings": 21,
+      "difficulty": "1.5",
+      "difficulty_num": 1.5,
+      "rating": 1.9,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": false
     },
