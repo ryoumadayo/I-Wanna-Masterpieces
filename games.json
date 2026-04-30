@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 00:27:41",
+  "last_updated": "2026-05-01 01:58:14",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -94222,6 +94222,16 @@
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46222,
+      "name": "I Wanna Be The Patata 2!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 15250,
