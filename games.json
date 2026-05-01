@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 14:06:27",
+  "last_updated": "2026-05-01 16:41:15",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -19636,8 +19636,8 @@
     {
       "id": 15532,
       "name": "I wanna break two jewels",
-      "difficulty": "76.1",
-      "difficulty_num": 76.1,
+      "difficulty": "75.9",
+      "difficulty_num": 75.9,
       "rating": 7.3,
       "num_ratings": 10,
       "is_needle": true,
@@ -52276,8 +52276,8 @@
     {
       "id": 15211,
       "name": "I wanna Go Attack",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
+      "difficulty": "74.8",
+      "difficulty_num": 74.8,
       "rating": 5.4,
       "num_ratings": 15,
       "is_needle": false,
@@ -131416,8 +131416,8 @@
     {
       "id": 17460,
       "name": "I wanna weeb out with needle",
-      "difficulty": "75.1",
-      "difficulty_num": 75.1,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
       "rating": 6.8,
       "num_ratings": 9,
       "is_needle": true,
