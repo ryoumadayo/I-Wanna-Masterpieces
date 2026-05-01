@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 10:21:42",
+  "last_updated": "2026-05-01 14:06:27",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -26319,7 +26319,7 @@
       "difficulty": "77.5",
       "difficulty_num": 77.5,
       "rating": 7.1,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -32969,7 +32969,7 @@
       "difficulty": "45.7",
       "difficulty_num": 45.7,
       "rating": 7.3,
-      "num_ratings": 61,
+      "num_ratings": 62,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99586,11 +99586,11 @@
     {
       "id": 46214,
       "name": "I wanna be the Pseudo 3D",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
-      "is_needle": false,
+      "difficulty": "33.0",
+      "difficulty_num": 33.0,
+      "rating": 7.1,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -146849,7 +146849,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
