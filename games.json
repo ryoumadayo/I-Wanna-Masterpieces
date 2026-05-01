@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 06:26:51",
+  "last_updated": "2026-05-02 08:26:41",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -46016,10 +46016,10 @@
     {
       "id": 10717,
       "name": "I wanna be the Fish",
-      "difficulty": "81.8",
-      "difficulty_num": 81.8,
+      "difficulty": "81.9",
+      "difficulty_num": 81.9,
       "rating": 7.5,
-      "num_ratings": 40,
+      "num_ratings": 41,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103489,7 +103489,7 @@
       "difficulty": "52.5",
       "difficulty_num": 52.5,
       "rating": 7.7,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
