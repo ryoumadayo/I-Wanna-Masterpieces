@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 04:19:51",
+  "last_updated": "2026-05-02 05:28:01",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -21366,10 +21366,10 @@
     {
       "id": 46176,
       "name": "Castle Guy",
-      "difficulty": "42.0",
-      "difficulty_num": 42.0,
+      "difficulty": "41.3",
+      "difficulty_num": 41.3,
       "rating": 9.0,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90536,11 +90536,11 @@
     {
       "id": 46151,
       "name": "Not Another SB Game - Chapter II",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
+      "difficulty": "43.3",
+      "difficulty_num": 43.3,
       "rating": 8.0,
-      "num_ratings": 4,
-      "is_needle": true,
+      "num_ratings": 5,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
