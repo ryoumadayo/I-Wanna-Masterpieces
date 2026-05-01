@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 16:41:15",
+  "last_updated": "2026-05-01 18:44:46",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -19656,11 +19656,11 @@
     {
       "id": 23447,
       "name": "I Wanna Break You",
-      "difficulty": "87.0",
-      "difficulty_num": 87.0,
-      "rating": 5.4,
-      "num_ratings": 2,
-      "is_needle": false,
+      "difficulty": "86.5",
+      "difficulty_num": 86.5,
+      "rating": 6.0,
+      "num_ratings": 3,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
