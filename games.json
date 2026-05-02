@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 17:07:10",
+  "last_updated": "2026-05-02 18:42:27",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -30436,10 +30436,10 @@
     {
       "id": 11926,
       "name": "I wanna be the Darude - Sandstorm",
-      "difficulty": "53.5",
-      "difficulty_num": 53.5,
-      "rating": 5.3,
-      "num_ratings": 2,
+      "difficulty": "54.0",
+      "difficulty_num": 54.0,
+      "rating": 5.2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101116,10 +101116,10 @@
     {
       "id": 46221,
       "name": "I wanna QuRaSi",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "94.0",
+      "difficulty_num": 94.0,
+      "rating": 9.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
