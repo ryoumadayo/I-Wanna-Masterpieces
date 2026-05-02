@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 12:59:45",
+  "last_updated": "2026-05-02 15:17:41",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -5908,7 +5908,7 @@
       "name": "I Wanna Alter The Earth",
       "difficulty": "27.0",
       "difficulty_num": 27.0,
-      "rating": 0.0,
+      "rating": 4.6,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -65248,7 +65248,7 @@
       "name": "I wanna be the Insane",
       "difficulty": "46.0",
       "difficulty_num": 46.0,
-      "rating": 0.0,
+      "rating": 4.0,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
@@ -121676,10 +121676,10 @@
     {
       "id": 22919,
       "name": "The First IW By roubaozi",
-      "difficulty": "27.7",
-      "difficulty_num": 27.7,
-      "rating": 1.7,
-      "num_ratings": 4,
+      "difficulty": "26.8",
+      "difficulty_num": 26.8,
+      "rating": 2.2,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
