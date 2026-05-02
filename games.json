@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 22:07:51",
+  "last_updated": "2026-05-02 23:29:44",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -88006,10 +88006,10 @@
     {
       "id": 12423,
       "name": "I wanna Needle Of Knight",
-      "difficulty": "73.0",
-      "difficulty_num": 73.0,
-      "rating": 5.2,
-      "num_ratings": 7,
+      "difficulty": "73.1",
+      "difficulty_num": 73.1,
+      "rating": 5.0,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130286,10 +130286,10 @@
     {
       "id": 46187,
       "name": "I wanna wait for you after rainy days",
-      "difficulty": "49.3",
-      "difficulty_num": 49.3,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
       "rating": 8.0,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
