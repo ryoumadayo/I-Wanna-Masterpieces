@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 02:13:43",
+  "last_updated": "2026-05-03 03:09:22",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -19766,10 +19766,10 @@
     {
       "id": 22386,
       "name": "I wanna bright my sky",
-      "difficulty": "30.9",
-      "difficulty_num": 30.9,
+      "difficulty": "31.6",
+      "difficulty_num": 31.6,
       "rating": 5.2,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -33076,10 +33076,10 @@
     {
       "id": 17594,
       "name": "I wanna destroy the venus",
-      "difficulty": "61.1",
-      "difficulty_num": 61.1,
+      "difficulty": "61.3",
+      "difficulty_num": 61.3,
       "rating": 6.8,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -83848,8 +83848,8 @@
       "name": "I Wanna Be The Mercury",
       "difficulty": "59.4",
       "difficulty_num": 59.4,
-      "rating": 6.6,
-      "num_ratings": 19,
+      "rating": 6.5,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
