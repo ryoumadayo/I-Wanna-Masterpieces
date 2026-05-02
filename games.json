@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 07:39:32",
+  "last_updated": "2026-05-03 08:41:30",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -13168,7 +13168,7 @@
       "name": "I wanna be Undecided",
       "difficulty": "67.8",
       "difficulty_num": 67.8,
-      "rating": 8.3,
+      "rating": 8.2,
       "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
@@ -69499,7 +69499,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -141139,7 +141139,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
