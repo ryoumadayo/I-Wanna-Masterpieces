@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 15:17:41",
+  "last_updated": "2026-05-02 17:07:10",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -60626,10 +60626,10 @@
     {
       "id": 24002,
       "name": "I wanna be the HSP",
-      "difficulty": "84.1",
-      "difficulty_num": 84.1,
-      "rating": 8.5,
-      "num_ratings": 29,
+      "difficulty": "84.0",
+      "difficulty_num": 84.0,
+      "rating": 8.4,
+      "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -111586,10 +111586,10 @@
     {
       "id": 15629,
       "name": "I wanna be the Simple Needle",
-      "difficulty": "76.1",
-      "difficulty_num": 76.1,
+      "difficulty": "76.0",
+      "difficulty_num": 76.0,
       "rating": 7.0,
-      "num_ratings": 53,
+      "num_ratings": 54,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128209,7 +128209,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
