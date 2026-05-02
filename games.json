@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 03:09:22",
+  "last_updated": "2026-05-03 04:34:37",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -41586,10 +41586,10 @@
     {
       "id": 20699,
       "name": "I Wanna Be The Eternal Quest!",
-      "difficulty": "43.5",
-      "difficulty_num": 43.5,
+      "difficulty": "42.3",
+      "difficulty_num": 42.3,
       "rating": 8.5,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -87829,7 +87829,7 @@
       "difficulty": "66.5",
       "difficulty_num": 66.5,
       "rating": 7.7,
-      "num_ratings": 42,
+      "num_ratings": 43,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -91189,7 +91189,7 @@
       "difficulty": "53.5",
       "difficulty_num": 53.5,
       "rating": 7.4,
-      "num_ratings": 72,
+      "num_ratings": 73,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118916,8 +118916,8 @@
     {
       "id": 25437,
       "name": "I Wanna Take A Walk In The Sun",
-      "difficulty": "76.0",
-      "difficulty_num": 76.0,
+      "difficulty": "75.9",
+      "difficulty_num": 75.9,
       "rating": 6.8,
       "num_ratings": 10,
       "is_needle": false,
