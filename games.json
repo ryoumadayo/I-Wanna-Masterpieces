@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 09:13:57",
+  "last_updated": "2026-05-02 12:59:45",
   "announcements": [
     {
       "date": "2026/04/30",
@@ -30156,10 +30156,10 @@
     {
       "id": 22973,
       "name": "I wanna be the daphne",
-      "difficulty": "30.8",
-      "difficulty_num": 30.8,
-      "rating": 4.9,
-      "num_ratings": 6,
+      "difficulty": "31.4",
+      "difficulty_num": 31.4,
+      "rating": 5.1,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -57926,10 +57926,10 @@
     {
       "id": 15168,
       "name": "I wanna be the Haru",
-      "difficulty": "36.7",
-      "difficulty_num": 36.7,
+      "difficulty": "36.8",
+      "difficulty_num": 36.8,
       "rating": 5.3,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -69386,10 +69386,10 @@
     {
       "id": 15150,
       "name": "I wanna keep on dancing 2",
-      "difficulty": "34.9",
-      "difficulty_num": 34.9,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
       "rating": 5.8,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -87836,10 +87836,10 @@
     {
       "id": 15607,
       "name": "I wanna be the Needle Hell",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
       "rating": 5.5,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
