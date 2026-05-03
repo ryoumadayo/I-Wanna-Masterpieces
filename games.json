@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 19:54:28",
+  "last_updated": "2026-05-03 20:41:06",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -44576,10 +44576,10 @@
     {
       "id": 14686,
       "name": "I wanna fib",
-      "difficulty": "31.3",
-      "difficulty_num": 31.3,
+      "difficulty": "31.1",
+      "difficulty_num": 31.1,
       "rating": 6.8,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -76508,7 +76508,7 @@
       "name": "I Wanna Liar Dance",
       "difficulty": "73.3",
       "difficulty_num": 73.3,
-      "rating": 9.6,
+      "rating": 9.7,
       "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
