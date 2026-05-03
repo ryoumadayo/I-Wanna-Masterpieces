@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 00:11:21",
+  "last_updated": "2026-05-04 01:08:24",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -6866,8 +6866,8 @@
     {
       "id": 45774,
       "name": "I wanna be the Aphrodite",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
+      "difficulty": "67.2",
+      "difficulty_num": 67.2,
       "rating": 6.7,
       "num_ratings": 7,
       "is_needle": true,
@@ -51604,6 +51604,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46232,
+      "name": "I wanna be the gimmick hard2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 46000,
       "name": "I Wanna Be The gimmick needle game",
       "difficulty": "90.0",
@@ -54430,6 +54440,26 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46230,
+      "name": "I wanna be the GOK",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46233,
+      "name": "I wanna be the GOK2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -88804,6 +88834,26 @@
       "is_avoidance": false
     },
     {
+      "id": 46228,
+      "name": "New I wanna be the gimmick",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46231,
+      "name": "New I wanna be the gimmick2",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 24092,
       "name": "I wanna be the new hands",
       "difficulty": "N/A",
@@ -94330,6 +94380,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46229,
+      "name": "I wanna PC operation",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
