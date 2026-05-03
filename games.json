@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 14:58:09",
+  "last_updated": "2026-05-03 17:07:28",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -44206,10 +44206,10 @@
     {
       "id": 28268,
       "name": "I Wanna Feel Calm",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
+      "difficulty": "54.7",
+      "difficulty_num": 54.7,
       "rating": 7.6,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63476,10 +63476,10 @@
     {
       "id": 46180,
       "name": "I Want to Go Outside",
-      "difficulty": "64.3",
-      "difficulty_num": 64.3,
-      "rating": 8.2,
-      "num_ratings": 6,
+      "difficulty": "65.2",
+      "difficulty_num": 65.2,
+      "rating": 8.1,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -101266,10 +101266,10 @@
     {
       "id": 28080,
       "name": "Radiance",
-      "difficulty": "84.5",
-      "difficulty_num": 84.5,
-      "rating": 5.1,
-      "num_ratings": 4,
+      "difficulty": "87.0",
+      "difficulty_num": 87.0,
+      "rating": 4.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -111026,10 +111026,10 @@
     {
       "id": 17304,
       "name": "I wanna be the shuzo!",
-      "difficulty": "28.5",
-      "difficulty_num": 28.5,
-      "rating": 0.7,
-      "num_ratings": 2,
+      "difficulty": "29.0",
+      "difficulty_num": 29.0,
+      "rating": 1.1,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -116428,8 +116428,8 @@
       "name": "I Wanna Stress",
       "difficulty": "29.1",
       "difficulty_num": 29.1,
-      "rating": 7.4,
-      "num_ratings": 18,
+      "rating": 7.3,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
     },
