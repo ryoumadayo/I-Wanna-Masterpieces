@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 18:47:39",
+  "last_updated": "2026-05-03 19:54:28",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -60618,7 +60618,7 @@
       "name": "I wanna be the HSP",
       "difficulty": "84.0",
       "difficulty_num": 84.0,
-      "rating": 8.5,
+      "rating": 8.2,
       "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": true
@@ -128209,7 +128209,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
