@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 17:07:28",
+  "last_updated": "2026-05-03 18:47:39",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -6519,7 +6519,7 @@
       "difficulty": "56.8",
       "difficulty_num": 56.8,
       "rating": 6.3,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -95426,10 +95426,10 @@
     {
       "id": 46063,
       "name": "Pigeon Impact: Song of the Winter Moon",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "71.0",
+      "difficulty_num": 71.0,
+      "rating": 6.0,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -137536,10 +137536,10 @@
     {
       "id": 15550,
       "name": "あほげ3",
-      "difficulty": "57.0",
-      "difficulty_num": 57.0,
-      "rating": 3.5,
-      "num_ratings": 3,
+      "difficulty": "51.0",
+      "difficulty_num": 51.0,
+      "rating": 3.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -137656,10 +137656,10 @@
     {
       "id": 21795,
       "name": "うちでアイワナやろう",
-      "difficulty": "45.8",
-      "difficulty_num": 45.8,
-      "rating": 7.4,
-      "num_ratings": 18,
+      "difficulty": "46.1",
+      "difficulty_num": 46.1,
+      "rating": 7.3,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
     },
