@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 07:39:41",
+  "last_updated": "2026-05-04 11:43:38",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -19869,7 +19869,7 @@
       "difficulty": "38.8",
       "difficulty_num": 38.8,
       "rating": 7.5,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -116269,7 +116269,7 @@
       "difficulty": "53.0",
       "difficulty_num": 53.0,
       "rating": 9.0,
-      "num_ratings": 67,
+      "num_ratings": 68,
       "is_needle": false,
       "is_avoidance": false
     },
