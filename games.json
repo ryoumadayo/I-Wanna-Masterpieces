@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 02:14:07",
+  "last_updated": "2026-05-05 04:04:08",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -27209,7 +27209,7 @@
       "difficulty": "19.4",
       "difficulty_num": 19.4,
       "rating": 5.6,
-      "num_ratings": 136,
+      "num_ratings": 137,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -28036,10 +28036,10 @@
     {
       "id": 18883,
       "name": "I wanna Count 0",
-      "difficulty": "83.8",
-      "difficulty_num": 83.8,
-      "rating": 8.8,
-      "num_ratings": 28,
+      "difficulty": "83.6",
+      "difficulty_num": 83.6,
+      "rating": 8.7,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -45489,7 +45489,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
