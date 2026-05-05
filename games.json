@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 21:46:41",
+  "last_updated": "2026-05-06 02:04:01",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -55759,7 +55759,7 @@
       "difficulty": "42.7",
       "difficulty_num": 42.7,
       "rating": 6.9,
-      "num_ratings": 154,
+      "num_ratings": 155,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55929,7 +55929,7 @@
       "difficulty": "43.7",
       "difficulty_num": 43.7,
       "rating": 8.8,
-      "num_ratings": 153,
+      "num_ratings": 154,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -73386,8 +73386,8 @@
     {
       "id": 15529,
       "name": "I wanna Kill The Steak",
-      "difficulty": "92.0",
-      "difficulty_num": 92.0,
+      "difficulty": "91.9",
+      "difficulty_num": 91.9,
       "rating": 1.2,
       "num_ratings": 18,
       "is_needle": true,
@@ -101129,7 +101129,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130736,10 +130736,10 @@
     {
       "id": 20073,
       "name": "I wanna walk to the store",
-      "difficulty": "20.8",
-      "difficulty_num": 20.8,
-      "rating": 4.9,
-      "num_ratings": 25,
+      "difficulty": "20.3",
+      "difficulty_num": 20.3,
+      "rating": 4.8,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
