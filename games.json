@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 08:02:03",
+  "last_updated": "2026-05-05 10:11:06",
   "announcements": [
     {
       "date": "2026/05/03",
@@ -59428,8 +59428,8 @@
       "name": "I wanna be the Hermes",
       "difficulty": "75.4",
       "difficulty_num": 75.4,
-      "rating": 7.7,
-      "num_ratings": 14,
+      "rating": 7.6,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
