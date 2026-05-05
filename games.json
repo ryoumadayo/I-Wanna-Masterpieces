@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-05 16:15:37",
+  "last_updated": "2026-05-05 18:26:42",
   "announcements": [
+    {
+      "date": "2026/05/05",
+      "message": "Seven Nights At Series Z が新たに追加されました。",
+      "type": "add",
+      "id": 27883
+    },
     {
       "date": "2026/05/03",
       "message": "I wanna be the Saturnの評価が基準値を下回ったことにより、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna Makerが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 21558
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna play onlineが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 21490
     }
   ],
   "games": [
@@ -32438,7 +32438,7 @@
       "name": "I wanna be the Denparadox",
       "difficulty": "83.7",
       "difficulty_num": 83.7,
-      "rating": 8.5,
+      "rating": 8.6,
       "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": true
@@ -72046,8 +72046,8 @@
     {
       "id": 21715,
       "name": "I wanna kill the Kamilia 2 WARPED",
-      "difficulty": "86.8",
-      "difficulty_num": 86.8,
+      "difficulty": "86.9",
+      "difficulty_num": 86.9,
       "rating": 7.0,
       "num_ratings": 30,
       "is_needle": false,
@@ -75376,10 +75376,10 @@
     {
       "id": 26500,
       "name": "La-Mulana physics mod for IWBTGR",
-      "difficulty": "58.5",
-      "difficulty_num": 58.5,
-      "rating": 9.6,
-      "num_ratings": 3,
+      "difficulty": "60.7",
+      "difficulty_num": 60.7,
+      "rating": 9.3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -110116,10 +110116,10 @@
     {
       "id": 27883,
       "name": "Seven Nights At Series Z",
-      "difficulty": "65.2",
-      "difficulty_num": 65.2,
+      "difficulty": "64.8",
+      "difficulty_num": 64.8,
       "rating": 9.4,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
