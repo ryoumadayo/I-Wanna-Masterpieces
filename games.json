@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 20:01:00",
+  "last_updated": "2026-05-05 21:46:41",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -61866,10 +61866,10 @@
     {
       "id": 16054,
       "name": "I don't wanna bye the Ha[51]",
-      "difficulty": "67.0",
-      "difficulty_num": 67.0,
-      "rating": 7.6,
-      "num_ratings": 2,
+      "difficulty": "64.5",
+      "difficulty_num": 64.5,
+      "rating": 5.6,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -80699,7 +80699,7 @@
       "difficulty": "20.0",
       "difficulty_num": 20.0,
       "rating": 5.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -110926,11 +110926,11 @@
     {
       "id": 18200,
       "name": "I wanna be the Short trap easy game",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "41.0",
+      "difficulty_num": 41.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
