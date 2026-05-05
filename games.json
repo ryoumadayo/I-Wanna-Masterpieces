@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 05:06:29",
+  "last_updated": "2026-05-06 06:35:11",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -59376,30 +59376,30 @@
     {
       "id": 15627,
       "name": "I Wanna be the Hereditary Baldness",
-      "difficulty": "64.3",
-      "difficulty_num": 64.3,
+      "difficulty": "63.1",
+      "difficulty_num": 63.1,
       "rating": 6.2,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 11979,
       "name": "I wanna be the Hereditary Baldness 2",
-      "difficulty": "69.4",
-      "difficulty_num": 69.4,
+      "difficulty": "68.8",
+      "difficulty_num": 68.8,
       "rating": 6.3,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 15628,
       "name": "I Wanna be the Hereditary Baldness 2 Part 2",
-      "difficulty": "64.5",
-      "difficulty_num": 64.5,
-      "rating": 7.4,
-      "num_ratings": 10,
+      "difficulty": "64.7",
+      "difficulty_num": 64.7,
+      "rating": 7.0,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
