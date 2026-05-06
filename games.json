@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 21:26:40",
+  "last_updated": "2026-05-07 00:11:39",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -10326,10 +10326,10 @@
     {
       "id": 19833,
       "name": "I wanna be a Fruit of a plant",
-      "difficulty": "83.8",
-      "difficulty_num": 83.8,
-      "rating": 5.5,
-      "num_ratings": 12,
+      "difficulty": "83.6",
+      "difficulty_num": 83.6,
+      "rating": 5.0,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68799,7 +68799,7 @@
       "difficulty": "22.3",
       "difficulty_num": 22.3,
       "rating": 7.0,
-      "num_ratings": 115,
+      "num_ratings": 116,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68809,7 +68809,7 @@
       "difficulty": "23.9",
       "difficulty_num": 23.9,
       "rating": 7.1,
-      "num_ratings": 111,
+      "num_ratings": 112,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -86608,8 +86608,8 @@
       "name": "I wanna be the My heart goes on",
       "difficulty": "5.9",
       "difficulty_num": 5.9,
-      "rating": 5.7,
-      "num_ratings": 141,
+      "rating": 5.6,
+      "num_ratings": 142,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104096,10 +104096,10 @@
     {
       "id": 16145,
       "name": "I wanna ReStaff",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
-      "rating": 4.1,
-      "num_ratings": 4,
+      "difficulty": "58.7",
+      "difficulty_num": 58.7,
+      "rating": 4.4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -116616,10 +116616,10 @@
     {
       "id": 16263,
       "name": "I wanna be the Strongest Fairy",
-      "difficulty": "26.9",
-      "difficulty_num": 26.9,
+      "difficulty": "27.0",
+      "difficulty_num": 27.0,
       "rating": 7.4,
-      "num_ratings": 149,
+      "num_ratings": 150,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -138546,11 +138546,11 @@
     {
       "id": 11299,
       "name": "I wanna be the さかもっちー",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "31.0",
+      "difficulty_num": 31.0,
+      "rating": 3.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
