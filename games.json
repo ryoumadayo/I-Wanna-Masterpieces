@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07 04:09:39",
+  "last_updated": "2026-05-07 05:52:40",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -52236,8 +52236,8 @@
     {
       "id": 11567,
       "name": "I wanna go across the Rainbow",
-      "difficulty": "42.6",
-      "difficulty_num": 42.6,
+      "difficulty": "42.5",
+      "difficulty_num": 42.5,
       "rating": 7.4,
       "num_ratings": 129,
       "is_needle": false,
@@ -58206,8 +58206,8 @@
     {
       "id": 22881,
       "name": "I wanna have a good WiFi",
-      "difficulty": "41.7",
-      "difficulty_num": 41.7,
+      "difficulty": "41.8",
+      "difficulty_num": 41.8,
       "rating": 8.7,
       "num_ratings": 54,
       "is_needle": false,
