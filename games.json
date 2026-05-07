@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07 20:26:10",
+  "last_updated": "2026-05-07 22:15:22",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -119986,8 +119986,8 @@
     {
       "id": 24510,
       "name": "TDN spike",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
+      "difficulty": "71.0",
+      "difficulty_num": 71.0,
       "rating": 7.3,
       "num_ratings": 2,
       "is_needle": true,
