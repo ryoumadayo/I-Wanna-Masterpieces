@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07 11:44:02",
+  "last_updated": "2026-05-07 15:09:27",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -125666,10 +125666,10 @@
     {
       "id": 27567,
       "name": "I wanna traverse the Interstellar",
-      "difficulty": "65.7",
-      "difficulty_num": 65.7,
-      "rating": 8.3,
-      "num_ratings": 4,
+      "difficulty": "64.3",
+      "difficulty_num": 64.3,
+      "rating": 8.1,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131009,7 +131009,7 @@
       "difficulty": "50.2",
       "difficulty_num": 50.2,
       "rating": 8.8,
-      "num_ratings": 88,
+      "num_ratings": 89,
       "is_needle": false,
       "is_avoidance": false
     },
