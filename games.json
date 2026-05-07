@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 04:41:43",
+  "last_updated": "2026-05-08 06:03:34",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -9626,10 +9626,10 @@
     {
       "id": 46208,
       "name": "I wanna be the ball (test game)",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
+      "rating": 3.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -95908,7 +95908,7 @@
       "name": "I wanna be the Platinum",
       "difficulty": "21.5",
       "difficulty_num": 21.5,
-      "rating": 4.7,
+      "rating": 4.9,
       "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": false
@@ -146676,10 +146676,10 @@
     {
       "id": 46197,
       "name": "i wanna be the 鬱凪",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 5.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
