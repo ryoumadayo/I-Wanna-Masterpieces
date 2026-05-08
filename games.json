@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 05:58:43",
+  "last_updated": "2026-05-09 07:03:37",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -102388,8 +102388,8 @@
       "name": "I Wanna Reach The Unity",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "rating": 6.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
