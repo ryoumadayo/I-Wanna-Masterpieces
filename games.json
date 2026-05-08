@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 16:07:20",
+  "last_updated": "2026-05-08 17:55:32",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -5278,8 +5278,8 @@
       "name": "AHOFの中で一番難しいアイワナ",
       "difficulty": "99.2",
       "difficulty_num": 99.2,
-      "rating": 7.3,
-      "num_ratings": 14,
+      "rating": 6.7,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": true
     },
