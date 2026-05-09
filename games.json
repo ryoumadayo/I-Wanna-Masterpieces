@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 06:42:55",
+  "last_updated": "2026-05-10 07:41:48",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -13919,7 +13919,7 @@
       "difficulty": "69.6",
       "difficulty_num": 69.6,
       "rating": 6.7,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63549,7 +63549,7 @@
       "difficulty": "48.8",
       "difficulty_num": 48.8,
       "rating": 3.9,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -100106,10 +100106,10 @@
     {
       "id": 26200,
       "name": "I wanna be the Pure Guy",
-      "difficulty": "22.5",
-      "difficulty_num": 22.5,
-      "rating": 3.5,
-      "num_ratings": 2,
+      "difficulty": "28.3",
+      "difficulty_num": 28.3,
+      "rating": 3.4,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104649,7 +104649,7 @@
       "difficulty": "10.0",
       "difficulty_num": 10.0,
       "rating": 0.2,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128766,10 +128766,10 @@
     {
       "id": 15099,
       "name": "I Wanna Usurp the Celestial Jump",
-      "difficulty": "52.2",
-      "difficulty_num": 52.2,
+      "difficulty": "52.1",
+      "difficulty_num": 52.1,
       "rating": 8.1,
-      "num_ratings": 27,
+      "num_ratings": 28,
       "is_needle": false,
       "is_avoidance": false
     },
