@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 19:10:05",
+  "last_updated": "2026-05-09 20:25:34",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -49208,8 +49208,8 @@
       "name": "Gate of Youth",
       "difficulty": "35.0",
       "difficulty_num": 35.0,
-      "rating": 6.0,
-      "num_ratings": 3,
+      "rating": 5.8,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
