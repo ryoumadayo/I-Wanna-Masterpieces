@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 13:46:59",
+  "last_updated": "2026-05-09 16:06:05",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -3706,10 +3706,10 @@
     {
       "id": 24754,
       "name": "A little bird told me",
-      "difficulty": "28.0",
-      "difficulty_num": 28.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "41.5",
+      "difficulty_num": 41.5,
+      "rating": 6.0,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -27298,8 +27298,8 @@
       "name": "I wanna conquer the Gafro",
       "difficulty": "75.0",
       "difficulty_num": 75.0,
-      "rating": 3.6,
-      "num_ratings": 5,
+      "rating": 2.8,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -32416,10 +32416,10 @@
     {
       "id": 10654,
       "name": "I wanna be the Denegeration",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
+      "difficulty": "74.0",
+      "difficulty_num": 74.0,
       "rating": 7.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43376,10 +43376,10 @@
     {
       "id": 26959,
       "name": "I Wanna Be The Fairy",
-      "difficulty": "35.3",
-      "difficulty_num": 35.3,
+      "difficulty": "36.3",
+      "difficulty_num": 36.3,
       "rating": 6.1,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68966,10 +68966,10 @@
     {
       "id": 27741,
       "name": "I Wanna KamiKamiKami",
-      "difficulty": "56.8",
-      "difficulty_num": 56.8,
-      "rating": 7.9,
-      "num_ratings": 25,
+      "difficulty": "56.5",
+      "difficulty_num": 56.5,
+      "rating": 7.8,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -138916,10 +138916,10 @@
     {
       "id": 11323,
       "name": "I wanna be the たったのこれだけｗｗｗ４",
-      "difficulty": "45.9",
-      "difficulty_num": 45.9,
-      "rating": 1.6,
-      "num_ratings": 9,
+      "difficulty": "46.1",
+      "difficulty_num": 46.1,
+      "rating": 1.7,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -146606,8 +146606,8 @@
     {
       "id": 28044,
       "name": "面白針ゲー",
-      "difficulty": "42.2",
-      "difficulty_num": 42.2,
+      "difficulty": "42.5",
+      "difficulty_num": 42.5,
       "rating": 4.9,
       "num_ratings": 8,
       "is_needle": true,
