@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 08:46:42",
+  "last_updated": "2026-05-10 11:48:24",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -1829,7 +1829,7 @@
       "difficulty": "27.2",
       "difficulty_num": 27.2,
       "rating": 5.2,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -15679,7 +15679,7 @@
       "difficulty": "50.6",
       "difficulty_num": 50.6,
       "rating": 9.1,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -40706,10 +40706,10 @@
     {
       "id": 23932,
       "name": "I Wanna Escape Heavenly Host",
-      "difficulty": "43.4",
-      "difficulty_num": 43.4,
+      "difficulty": "43.3",
+      "difficulty_num": 43.3,
       "rating": 9.5,
-      "num_ratings": 108,
+      "num_ratings": 109,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -107369,7 +107369,7 @@
       "difficulty": "63.5",
       "difficulty_num": 63.5,
       "rating": 2.2,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -132208,7 +132208,7 @@
       "name": "whiteinky's Cloud I Wanna Collection!",
       "difficulty": "44.0",
       "difficulty_num": 44.0,
-      "rating": 7.3,
+      "rating": 7.5,
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
