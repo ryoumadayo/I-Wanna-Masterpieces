@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-10 18:54:11",
+  "last_updated": "2026-05-10 19:59:34",
   "announcements": [
+    {
+      "date": "2026/05/10",
+      "message": "I Wanna Beat The Challenge 3 が新たに追加されました。",
+      "type": "add",
+      "id": 24915
+    },
     {
       "date": "2026/05/05",
       "message": "Seven Nights At Series Z が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "japetoolが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 22681
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I Wanna Makerが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 21558
     }
   ],
   "games": [
@@ -13946,10 +13946,10 @@
     {
       "id": 24915,
       "name": "I Wanna Beat The Challenge 3",
-      "difficulty": "81.4",
-      "difficulty_num": 81.4,
+      "difficulty": "81.5",
+      "difficulty_num": 81.5,
       "rating": 8.2,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -30328,8 +30328,8 @@
       "name": "Dark Sambaland",
       "difficulty": "77.1",
       "difficulty_num": 77.1,
-      "rating": 7.9,
-      "num_ratings": 15,
+      "rating": 8.0,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -71476,10 +71476,10 @@
     {
       "id": 11609,
       "name": "I wanna kill the Evil god",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
-      "rating": 3.0,
-      "num_ratings": 1,
+      "difficulty": "39.5",
+      "difficulty_num": 39.5,
+      "rating": 3.3,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
