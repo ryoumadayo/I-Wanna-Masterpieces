@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 22:44:40",
+  "last_updated": "2026-05-10 23:51:31",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -60566,10 +60566,10 @@
     {
       "id": 45740,
       "name": "How I Found Out About My Harsh Reality",
-      "difficulty": "48.0",
-      "difficulty_num": 48.0,
-      "rating": 7.1,
-      "num_ratings": 7,
+      "difficulty": "48.3",
+      "difficulty_num": 48.3,
+      "rating": 7.2,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93676,8 +93676,8 @@
     {
       "id": 22871,
       "name": "Panasonic Bluray",
-      "difficulty": "52.1",
-      "difficulty_num": 52.1,
+      "difficulty": "52.2",
+      "difficulty_num": 52.2,
       "rating": 8.7,
       "num_ratings": 81,
       "is_needle": false,
