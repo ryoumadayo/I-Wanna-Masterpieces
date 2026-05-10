@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 19:59:34",
+  "last_updated": "2026-05-10 20:58:51",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -137686,8 +137686,8 @@
     {
       "id": 15551,
       "name": "あほげ4",
-      "difficulty": "40.4",
-      "difficulty_num": 40.4,
+      "difficulty": "40.2",
+      "difficulty_num": 40.2,
       "rating": 3.9,
       "num_ratings": 6,
       "is_needle": false,
