@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 15:10:51",
+  "last_updated": "2026-05-10 17:26:19",
   "announcements": [
     {
       "date": "2026/05/05",
@@ -68946,10 +68946,10 @@
     {
       "id": 26728,
       "name": "Kami No Kotoba",
-      "difficulty": "77.8",
-      "difficulty_num": 77.8,
-      "rating": 7.5,
-      "num_ratings": 10,
+      "difficulty": "77.2",
+      "difficulty_num": 77.2,
+      "rating": 7.4,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
