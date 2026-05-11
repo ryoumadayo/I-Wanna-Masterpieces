@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11 23:47:06",
+  "last_updated": "2026-05-12 02:23:54",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -81036,10 +81036,10 @@
     {
       "id": 28094,
       "name": "Make it Angry a little",
-      "difficulty": "52.3",
-      "difficulty_num": 52.3,
-      "rating": 7.2,
-      "num_ratings": 5,
+      "difficulty": "53.0",
+      "difficulty_num": 53.0,
+      "rating": 6.6,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -102176,10 +102176,10 @@
     {
       "id": 22666,
       "name": "I Wanna Reach Bottom of the Abyss",
-      "difficulty": "85.8",
-      "difficulty_num": 85.8,
-      "rating": 4.6,
-      "num_ratings": 5,
+      "difficulty": "86.0",
+      "difficulty_num": 86.0,
+      "rating": 5.1,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
