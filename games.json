@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11 20:41:50",
+  "last_updated": "2026-05-11 23:47:06",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -53036,10 +53036,10 @@
     {
       "id": 11576,
       "name": "I wanna go the DotKid! Easymode",
-      "difficulty": "73.5",
-      "difficulty_num": 73.5,
+      "difficulty": "73.6",
+      "difficulty_num": 73.6,
       "rating": 6.8,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -96056,10 +96056,10 @@
     {
       "id": 21288,
       "name": "I wanna play a simple avoidance",
-      "difficulty": "38.8",
-      "difficulty_num": 38.8,
-      "rating": 7.5,
-      "num_ratings": 11,
+      "difficulty": "38.2",
+      "difficulty_num": 38.2,
+      "rating": 7.4,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -99736,10 +99736,10 @@
     {
       "id": 46215,
       "name": "I wanna be the Pseudo 3D Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "73.0",
+      "difficulty_num": 73.0,
+      "rating": 6.1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129466,10 +129466,10 @@
     {
       "id": 23798,
       "name": "Very Simple Avoidance",
-      "difficulty": "27.8",
-      "difficulty_num": 27.8,
+      "difficulty": "27.7",
+      "difficulty_num": 27.7,
       "rating": 7.5,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
