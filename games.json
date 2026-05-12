@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 01:00:59",
+  "last_updated": "2026-05-13 03:21:32",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -8176,10 +8176,10 @@
     {
       "id": 46241,
       "name": "I Wanna Auf Und Auf Voll Lebenslust",
-      "difficulty": "78.0",
-      "difficulty_num": 78.0,
-      "rating": 9.0,
-      "num_ratings": 3,
+      "difficulty": "80.0",
+      "difficulty_num": 80.0,
+      "rating": 9.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -32184,6 +32184,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46245,
+      "name": "I wanna Delete the Emoji",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 22281,
       "name": "I wanna delete the Gakmok",
       "difficulty": "7.8",
@@ -50361,6 +50371,16 @@
       "rating": 0.0,
       "num_ratings": 0,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46246,
+      "name": "get out of my car now",
+      "difficulty": "1.0",
+      "difficulty_num": 1.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -113484,6 +113504,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46247,
+      "name": "Soft & Wet: Go Beyond",
+      "difficulty": "97.0",
+      "difficulty_num": 97.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 46152,
       "name": "Sokoguy",
       "difficulty": "25.0",
@@ -115566,10 +115596,10 @@
     {
       "id": 20978,
       "name": "I wanna Start from Here",
-      "difficulty": "44.6",
-      "difficulty_num": 44.6,
+      "difficulty": "44.2",
+      "difficulty_num": 44.2,
       "rating": 7.7,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -127746,8 +127776,8 @@
     {
       "id": 26201,
       "name": "Unidentified Flying Object",
-      "difficulty": "90.0",
-      "difficulty_num": 90.0,
+      "difficulty": "88.5",
+      "difficulty_num": 88.5,
       "rating": 6.8,
       "num_ratings": 6,
       "is_needle": false,
