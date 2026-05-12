@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12 14:00:38",
+  "last_updated": "2026-05-12 17:08:18",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -90206,10 +90206,10 @@
     {
       "id": 23799,
       "name": "I wanna Noodle Ripper",
-      "difficulty": "73.0",
-      "difficulty_num": 73.0,
-      "rating": 9.0,
-      "num_ratings": 2,
+      "difficulty": "75.5",
+      "difficulty_num": 75.5,
+      "rating": 8.2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -134696,10 +134696,10 @@
     {
       "id": 21454,
       "name": "You Suffer",
-      "difficulty": "20.5",
-      "difficulty_num": 20.5,
-      "rating": 0.8,
-      "num_ratings": 5,
+      "difficulty": "20.4",
+      "difficulty_num": 20.4,
+      "rating": 0.6,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
