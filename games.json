@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 05:14:51",
+  "last_updated": "2026-05-13 06:48:54",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -10446,10 +10446,10 @@
     {
       "id": 16089,
       "name": "I wanna be a little girl: yuri edition",
-      "difficulty": "59.0",
-      "difficulty_num": 59.0,
+      "difficulty": "61.2",
+      "difficulty_num": 61.2,
       "rating": 4.8,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -82779,7 +82779,7 @@
       "difficulty": "50.8",
       "difficulty_num": 50.8,
       "rating": 8.4,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -88496,10 +88496,10 @@
     {
       "id": 23143,
       "name": "Needle１",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
-      "rating": 3.6,
-      "num_ratings": 2,
+      "difficulty": "72.0",
+      "difficulty_num": 72.0,
+      "rating": 5.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
