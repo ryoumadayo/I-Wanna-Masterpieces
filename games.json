@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 02:34:24",
+  "last_updated": "2026-05-14 04:52:27",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -28756,10 +28756,10 @@
     {
       "id": 27435,
       "name": "Crimson Needle 2.5",
-      "difficulty": "89.8",
-      "difficulty_num": 89.8,
+      "difficulty": "89.7",
+      "difficulty_num": 89.7,
       "rating": 9.0,
-      "num_ratings": 46,
+      "num_ratings": 47,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -37571,16 +37571,6 @@
       "rating": 2.5,
       "num_ratings": 3,
       "is_needle": true,
-      "is_avoidance": false
-    },
-    {
-      "id": 46154,
-      "name": "I Wanna Eat The Kamilia",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -63486,10 +63476,10 @@
     {
       "id": 24457,
       "name": "i want to delete this disgusting fangame",
-      "difficulty": "22.5",
-      "difficulty_num": 22.5,
+      "difficulty": "31.7",
+      "difficulty_num": 31.7,
       "rating": 1.0,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -115578,7 +115568,7 @@
       "name": "I Wanna Start A Party",
       "difficulty": "21.3",
       "difficulty_num": 21.3,
-      "rating": 9.8,
+      "rating": 9.7,
       "num_ratings": 80,
       "is_needle": false,
       "is_avoidance": true
@@ -137226,10 +137216,10 @@
     {
       "id": 46243,
       "name": "i wanna ◻◼",
-      "difficulty": "48.7",
-      "difficulty_num": 48.7,
-      "rating": 7.0,
-      "num_ratings": 4,
+      "difficulty": "44.3",
+      "difficulty_num": 44.3,
+      "rating": 7.6,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
