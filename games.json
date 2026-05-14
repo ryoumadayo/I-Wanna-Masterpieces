@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15 01:26:37",
+  "last_updated": "2026-05-15 03:16:36",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -17300,6 +17300,16 @@
       "difficulty_num": 33.3,
       "rating": 6.7,
       "num_ratings": 3,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46250,
+      "name": "Bobble",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50182,6 +50192,16 @@
       "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46249,
+      "name": "Get em up to D.O.U.B.T",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 21127,
