@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 18:33:28",
+  "last_updated": "2026-05-14 20:51:19",
   "announcements": [
     {
       "date": "2026/05/10",
@@ -39789,7 +39789,7 @@
       "difficulty": "19.7",
       "difficulty_num": 19.7,
       "rating": 4.4,
-      "num_ratings": 95,
+      "num_ratings": 96,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104032,6 +104032,16 @@
       "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46248,
+      "name": "I wanna RESIST",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 11050,
