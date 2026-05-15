@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-15 12:36:46",
+  "last_updated": "2026-05-15 15:54:29",
   "announcements": [
+    {
+      "date": "2026/05/15",
+      "message": "AsTatine が新たに追加されました。",
+      "type": "add",
+      "id": 18903
+    },
     {
       "date": "2026/05/15",
       "message": "I wanna Hurtful&Painful が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the engine Seph editionが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 14908
-    },
-    {
-      "date": "2026/03/30",
-      "message": "K&R GMS2 Engineが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 23099
     }
   ],
   "games": [
@@ -7866,10 +7866,10 @@
     {
       "id": 18903,
       "name": "AsTatine",
-      "difficulty": "65.1",
-      "difficulty_num": 65.1,
-      "rating": 7.0,
-      "num_ratings": 9,
+      "difficulty": "65.8",
+      "difficulty_num": 65.8,
+      "rating": 6.5,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
