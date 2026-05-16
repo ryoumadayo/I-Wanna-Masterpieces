@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 14:53:30",
+  "last_updated": "2026-05-16 17:01:59",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -18694,6 +18694,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46251,
+      "name": "I Wanna Break The Fourth Wall",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 19636,
       "name": "I wanna Break the GellTHE Spike",
       "difficulty": "42.8",
@@ -19198,8 +19208,8 @@
       "name": "I wanna break the Series Z 3 EX",
       "difficulty": "96.8",
       "difficulty_num": 96.8,
-      "rating": 7.2,
-      "num_ratings": 7,
+      "rating": 5.8,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128892,6 +128902,16 @@
       "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46252,
+      "name": "uuh noodle",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 19877,
