@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 05:11:20",
+  "last_updated": "2026-05-17 06:12:00",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -110566,10 +110566,10 @@
     {
       "id": 27283,
       "name": "Sheeper Needle",
-      "difficulty": "70.7",
-      "difficulty_num": 70.7,
-      "rating": 6.5,
-      "num_ratings": 3,
+      "difficulty": "69.3",
+      "difficulty_num": 69.3,
+      "rating": 6.7,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
