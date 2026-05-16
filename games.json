@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16 17:01:59",
+  "last_updated": "2026-05-16 20:01:54",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -37986,10 +37986,10 @@
     {
       "id": 45905,
       "name": "I wanna Echo the Mas",
-      "difficulty": "63.0",
-      "difficulty_num": 63.0,
-      "rating": 8.8,
-      "num_ratings": 8,
+      "difficulty": "62.5",
+      "difficulty_num": 62.5,
+      "rating": 8.5,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -63586,10 +63586,10 @@
     {
       "id": 46180,
       "name": "I Want to Go Outside",
-      "difficulty": "65.2",
-      "difficulty_num": 65.2,
-      "rating": 8.1,
-      "num_ratings": 7,
+      "difficulty": "66.3",
+      "difficulty_num": 66.3,
+      "rating": 8.2,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -84598,8 +84598,8 @@
       "name": "Milky Ways",
       "difficulty": "62.4",
       "difficulty_num": 62.4,
-      "rating": 8.6,
-      "num_ratings": 49,
+      "rating": 8.5,
+      "num_ratings": 50,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -121940,6 +121940,16 @@
       "difficulty_num": 45.4,
       "rating": 2.0,
       "num_ratings": 6,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46253,
+      "name": "The Gradient Odyssey",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
