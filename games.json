@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 10:23:16",
+  "last_updated": "2026-05-17 14:08:38",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -92806,10 +92806,10 @@
     {
       "id": 25723,
       "name": "I wanna be the Ordinary Needle",
-      "difficulty": "86.0",
-      "difficulty_num": 86.0,
-      "rating": 7.4,
-      "num_ratings": 10,
+      "difficulty": "86.7",
+      "difficulty_num": 86.7,
+      "rating": 7.7,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -114006,10 +114006,10 @@
     {
       "id": 23238,
       "name": "Sorry We Missed You",
-      "difficulty": "37.9",
-      "difficulty_num": 37.9,
+      "difficulty": "37.5",
+      "difficulty_num": 37.5,
       "rating": 7.0,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
