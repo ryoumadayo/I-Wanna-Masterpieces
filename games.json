@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 02:57:30",
+  "last_updated": "2026-05-18 04:14:07",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -20668,8 +20668,8 @@
       "name": "I wanna bye the Bye",
       "difficulty": "73.5",
       "difficulty_num": 73.5,
-      "rating": 7.4,
-      "num_ratings": 49,
+      "rating": 7.2,
+      "num_ratings": 50,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -44646,10 +44646,10 @@
     {
       "id": 14686,
       "name": "I wanna fib",
-      "difficulty": "31.1",
-      "difficulty_num": 31.1,
+      "difficulty": "31.0",
+      "difficulty_num": 31.0,
       "rating": 6.8,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": true
     },
