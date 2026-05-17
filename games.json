@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 01:56:18",
+  "last_updated": "2026-05-18 02:57:30",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -8466,11 +8466,11 @@
     {
       "id": 15284,
       "name": "I wanna avoid Little Bullets",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
+      "rating": 0.5,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18699,7 +18699,7 @@
       "difficulty": "95.0",
       "difficulty_num": 95.0,
       "rating": 6.0,
-      "num_ratings": 3,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -42139,8 +42139,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
