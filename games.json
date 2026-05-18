@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 10:30:12",
+  "last_updated": "2026-05-18 14:50:11",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -16416,10 +16416,10 @@
     {
       "id": 45694,
       "name": "I Wanna Black Another",
-      "difficulty": "75.5",
-      "difficulty_num": 75.5,
+      "difficulty": "75.8",
+      "difficulty_num": 75.8,
       "rating": 9.0,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -25336,10 +25336,10 @@
     {
       "id": 24014,
       "name": "I wanna close the tomodati",
-      "difficulty": "95.3",
-      "difficulty_num": 95.3,
-      "rating": 6.6,
-      "num_ratings": 5,
+      "difficulty": "95.2",
+      "difficulty_num": 95.2,
+      "rating": 7.0,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
