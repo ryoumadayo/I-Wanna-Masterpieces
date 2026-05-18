@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 05:23:42",
+  "last_updated": "2026-05-19 06:46:16",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -62544,6 +62544,16 @@
       "is_avoidance": false
     },
     {
+      "id": 26686,
+      "name": "I hate Time Travel!",
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 5.9,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 15943,
       "name": "I jealous of X`mas!!!",
       "difficulty": "N/A",
@@ -62650,16 +62660,6 @@
       "difficulty_num": 40.0,
       "rating": 6.0,
       "num_ratings": 1,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
-      "id": 26686,
-      "name": "I love Time Travel!",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
-      "rating": 5.9,
-      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
