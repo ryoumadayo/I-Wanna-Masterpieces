@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 06:18:22",
+  "last_updated": "2026-05-20 07:44:51",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -9286,10 +9286,10 @@
     {
       "id": 26130,
       "name": "I wanna be the B-girl",
-      "difficulty": "72.4",
-      "difficulty_num": 72.4,
-      "rating": 8.6,
-      "num_ratings": 10,
+      "difficulty": "72.8",
+      "difficulty_num": 72.8,
+      "rating": 8.7,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
