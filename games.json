@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 17:26:20",
+  "last_updated": "2026-05-19 20:39:39",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -24038,8 +24038,8 @@
       "name": "I Wanna Be The Chrome Extension",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "rating": 9.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
