@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 20:27:14",
+  "last_updated": "2026-05-20 23:05:35",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -27526,10 +27526,10 @@
     {
       "id": 21160,
       "name": "I wanna be the Consonance",
-      "difficulty": "70.5",
-      "difficulty_num": 70.5,
-      "rating": 7.6,
-      "num_ratings": 25,
+      "difficulty": "70.3",
+      "difficulty_num": 70.3,
+      "rating": 7.5,
+      "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43546,10 +43546,10 @@
     {
       "id": 22182,
       "name": "I wanna Fall into Depression and never be Happy Again",
-      "difficulty": "67.9",
-      "difficulty_num": 67.9,
+      "difficulty": "67.6",
+      "difficulty_num": 67.6,
       "rating": 7.5,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -78589,7 +78589,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -121996,10 +121996,10 @@
     {
       "id": 46253,
       "name": "The Gradient Odyssey",
-      "difficulty": "62.7",
-      "difficulty_num": 62.7,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
       "rating": 7.4,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130266,8 +130266,8 @@
     {
       "id": 17957,
       "name": "VOX Diamond",
-      "difficulty": "86.4",
-      "difficulty_num": 86.4,
+      "difficulty": "86.5",
+      "difficulty_num": 86.5,
       "rating": 4.5,
       "num_ratings": 31,
       "is_needle": false,
