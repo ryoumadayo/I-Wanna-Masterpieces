@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21 05:12:54",
+  "last_updated": "2026-05-21 07:10:24",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -107206,8 +107206,8 @@
     {
       "id": 16778,
       "name": "I wanna be the Satori",
-      "difficulty": "39.6",
-      "difficulty_num": 39.6,
+      "difficulty": "39.2",
+      "difficulty_num": 39.2,
       "rating": 6.7,
       "num_ratings": 13,
       "is_needle": false,
@@ -112296,10 +112296,10 @@
     {
       "id": 12109,
       "name": "I wanna be the SK 0",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
-      "rating": 5.1,
-      "num_ratings": 2,
+      "difficulty": "44.5",
+      "difficulty_num": 44.5,
+      "rating": 5.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -120398,8 +120398,8 @@
       "name": "I wanna be the Tellurium",
       "difficulty": "77.0",
       "difficulty_num": 77.0,
-      "rating": 6.0,
-      "num_ratings": 3,
+      "rating": 6.4,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143166,10 +143166,10 @@
     {
       "id": 28103,
       "name": "君しかいないんだよ",
-      "difficulty": "60.7",
-      "difficulty_num": 60.7,
-      "rating": 3.8,
-      "num_ratings": 4,
+      "difficulty": "61.0",
+      "difficulty_num": 61.0,
+      "rating": 4.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
