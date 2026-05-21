@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-21 12:32:25",
+  "last_updated": "2026-05-21 16:50:31",
   "announcements": [
+    {
+      "date": "2026/05/21",
+      "message": "I wanna be the adventurer が新たに追加されました。",
+      "type": "add",
+      "id": 26374
+    },
     {
       "date": "2026/05/15",
       "message": "AsTatine が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "renex engineが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23320
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna be the engine Seph editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 14908
     }
   ],
   "games": [
@@ -5026,10 +5026,10 @@
     {
       "id": 26374,
       "name": "I wanna be the adventurer",
-      "difficulty": "46.3",
-      "difficulty_num": 46.3,
+      "difficulty": "46.4",
+      "difficulty_num": 46.4,
       "rating": 7.2,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59436,10 +59436,10 @@
     {
       "id": 17541,
       "name": "Hendeca Corner",
-      "difficulty": "90.3",
-      "difficulty_num": 90.3,
-      "rating": 6.6,
-      "num_ratings": 16,
+      "difficulty": "89.9",
+      "difficulty_num": 89.9,
+      "rating": 6.7,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -106546,10 +106546,10 @@
     {
       "id": 11069,
       "name": "I wanna be the RZ",
-      "difficulty": "79.1",
-      "difficulty_num": 79.1,
-      "rating": 7.1,
-      "num_ratings": 32,
+      "difficulty": "79.2",
+      "difficulty_num": 79.2,
+      "rating": 7.2,
+      "num_ratings": 33,
       "is_needle": true,
       "is_avoidance": false
     },
