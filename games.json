@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21 08:48:54",
+  "last_updated": "2026-05-21 12:32:25",
   "announcements": [
     {
       "date": "2026/05/15",
@@ -17188,8 +17188,8 @@
       "name": "Blueberry Juice Compilation",
       "difficulty": "77.3",
       "difficulty_num": 77.3,
-      "rating": 8.4,
-      "num_ratings": 4,
+      "rating": 8.5,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -104079,9 +104079,9 @@
       "difficulty": "58.0",
       "difficulty_num": 58.0,
       "rating": 3.9,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19499,
@@ -128969,7 +128969,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
