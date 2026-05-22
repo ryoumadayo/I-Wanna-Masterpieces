@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22 17:21:00",
+  "last_updated": "2026-05-22 20:23:56",
   "announcements": [
     {
       "date": "2026/05/21",
@@ -22640,6 +22640,16 @@
       "difficulty_num": 65.3,
       "rating": 5.2,
       "num_ratings": 8,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46263,
+      "name": "I Wanna Challenge the Yakisoban",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50666,10 +50676,10 @@
     {
       "id": 45874,
       "name": "I Wanna Get the 7 Colored Needles",
-      "difficulty": "71.0",
-      "difficulty_num": 71.0,
-      "rating": 6.6,
-      "num_ratings": 3,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 5.7,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -60266,10 +60276,10 @@
     {
       "id": 28238,
       "name": "I Wanna Hold the Sunset",
-      "difficulty": "55.3",
-      "difficulty_num": 55.3,
-      "rating": 7.8,
-      "num_ratings": 5,
+      "difficulty": "59.0",
+      "difficulty_num": 59.0,
+      "rating": 8.0,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
