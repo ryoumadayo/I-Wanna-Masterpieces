@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 06:43:00",
+  "last_updated": "2026-05-23 07:57:26",
   "announcements": [
     {
       "date": "2026/05/21",
@@ -61566,10 +61566,10 @@
     {
       "id": 16425,
       "name": "I bless HARIMAo community's memory",
-      "difficulty": "56.0",
-      "difficulty_num": 56.0,
-      "rating": 4.8,
-      "num_ratings": 2,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 5.7,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -131179,7 +131179,7 @@
       "difficulty": "56.5",
       "difficulty_num": 56.5,
       "rating": 9.3,
-      "num_ratings": 91,
+      "num_ratings": 92,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -146256,10 +146256,10 @@
     {
       "id": 11841,
       "name": "配置げーがしたい？なら作ればええやん３",
-      "difficulty": "61.6",
-      "difficulty_num": 61.6,
-      "rating": 5.2,
-      "num_ratings": 12,
+      "difficulty": "61.2",
+      "difficulty_num": 61.2,
+      "rating": 5.1,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
