@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 01:07:49",
+  "last_updated": "2026-05-24 02:33:35",
   "announcements": [
     {
       "date": "2026/05/23",
@@ -20666,8 +20666,8 @@
     {
       "id": 11451,
       "name": "I wanna bye the Bye",
-      "difficulty": "73.5",
-      "difficulty_num": 73.5,
+      "difficulty": "73.6",
+      "difficulty_num": 73.6,
       "rating": 7.2,
       "num_ratings": 50,
       "is_needle": false,
@@ -30996,10 +30996,10 @@
     {
       "id": 17933,
       "name": "I wanna Decisive Taisa",
-      "difficulty": "87.4",
-      "difficulty_num": 87.4,
-      "rating": 9.1,
-      "num_ratings": 11,
+      "difficulty": "86.9",
+      "difficulty_num": 86.9,
+      "rating": 8.6,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
