@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 07:57:26",
+  "last_updated": "2026-05-23 09:09:24",
   "announcements": [
     {
       "date": "2026/05/21",
@@ -55016,10 +55016,10 @@
     {
       "id": 10763,
       "name": "I wanna be the GR",
-      "difficulty": "72.5",
-      "difficulty_num": 72.5,
+      "difficulty": "72.4",
+      "difficulty_num": 72.4,
       "rating": 5.5,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -100676,10 +100676,10 @@
     {
       "id": 11034,
       "name": "I wanna be the PYF",
-      "difficulty": "73.5",
-      "difficulty_num": 73.5,
+      "difficulty": "73.4",
+      "difficulty_num": 73.4,
       "rating": 5.2,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -115216,10 +115216,10 @@
     {
       "id": 11138,
       "name": "I wanna be the SSR",
-      "difficulty": "67.2",
-      "difficulty_num": 67.2,
-      "rating": 4.4,
-      "num_ratings": 22,
+      "difficulty": "67.1",
+      "difficulty_num": 67.1,
+      "rating": 4.5,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
