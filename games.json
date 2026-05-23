@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 05:25:13",
+  "last_updated": "2026-05-24 06:25:54",
   "announcements": [
     {
       "date": "2026/05/23",
@@ -33906,10 +33906,10 @@
     {
       "id": 17465,
       "name": "I wanna Diminish the Colors",
-      "difficulty": "56.3",
-      "difficulty_num": 56.3,
-      "rating": 6.2,
-      "num_ratings": 19,
+      "difficulty": "56.2",
+      "difficulty_num": 56.2,
+      "rating": 6.1,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
