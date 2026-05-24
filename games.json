@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25 02:57:59",
+  "last_updated": "2026-05-25 04:23:37",
   "announcements": [
     {
       "date": "2026/05/23",
@@ -113596,8 +113596,8 @@
     {
       "id": 16395,
       "name": "I wanna be the Sober",
-      "difficulty": "61.0",
-      "difficulty_num": 61.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 4.9,
       "num_ratings": 4,
       "is_needle": false,
