@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 21:00:05",
+  "last_updated": "2026-05-24 22:54:13",
   "announcements": [
     {
       "date": "2026/05/23",
@@ -10580,6 +10580,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46265,
+      "name": "I wanna be a person without pressure",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
