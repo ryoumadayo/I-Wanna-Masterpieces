@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 15:00:37",
+  "last_updated": "2026-05-24 17:42:42",
   "announcements": [
     {
       "date": "2026/05/23",
@@ -23076,10 +23076,10 @@
     {
       "id": 18852,
       "name": "I wanna be the Charisma Breaker",
-      "difficulty": "82.7",
-      "difficulty_num": 82.7,
+      "difficulty": "80.7",
+      "difficulty_num": 80.7,
       "rating": 6.2,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -46178,7 +46178,7 @@
       "name": "I wanna be the Fishing Temple",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 4.5,
+      "rating": 4.6,
       "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
@@ -59518,7 +59518,7 @@
       "name": "I Wanna be the Hereditary Baldness",
       "difficulty": "63.1",
       "difficulty_num": 63.1,
-      "rating": 6.2,
+      "rating": 6.3,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
@@ -63776,11 +63776,11 @@
     {
       "id": 45777,
       "name": "I want to open",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "64.0",
+      "difficulty_num": 64.0,
+      "rating": 6.5,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83908,7 +83908,7 @@
       "name": "I wanna be the Memory Temple",
       "difficulty": "50.9",
       "difficulty_num": 50.9,
-      "rating": 5.5,
+      "rating": 5.6,
       "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
@@ -88296,10 +88296,10 @@
     {
       "id": 18789,
       "name": "I wanna be the Needle Reaper GX",
-      "difficulty": "66.6",
-      "difficulty_num": 66.6,
+      "difficulty": "66.1",
+      "difficulty_num": 66.1,
       "rating": 6.3,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
