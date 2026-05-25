@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25 14:02:53",
+  "last_updated": "2026-05-25 18:10:56",
   "announcements": [
     {
       "date": "2026/05/25",
@@ -137030,6 +137030,16 @@
       "difficulty_num": 83.3,
       "rating": 8.5,
       "num_ratings": 6,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46266,
+      "name": "I wanna →→→ stream!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
