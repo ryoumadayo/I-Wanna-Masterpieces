@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25 18:10:56",
+  "last_updated": "2026-05-26 00:49:50",
   "announcements": [
     {
       "date": "2026/05/25",
@@ -78656,8 +78656,8 @@
     {
       "id": 46099,
       "name": "I wanna be the Love attribute",
-      "difficulty": "76.0",
-      "difficulty_num": 76.0,
+      "difficulty": "77.0",
+      "difficulty_num": 77.0,
       "rating": 6.6,
       "num_ratings": 3,
       "is_needle": false,
@@ -94196,10 +94196,10 @@
     {
       "id": 18299,
       "name": "I wanna be the Partysu III",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
-      "rating": 7.2,
-      "num_ratings": 13,
+      "difficulty": "75.1",
+      "difficulty_num": 75.1,
+      "rating": 7.1,
+      "num_ratings": 14,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118728,7 +118728,7 @@
       "name": "SYNTAGM.",
       "difficulty": "66.0",
       "difficulty_num": 66.0,
-      "rating": 7.4,
+      "rating": 7.6,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
