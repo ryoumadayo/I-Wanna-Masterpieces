@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-25 09:01:47",
+  "last_updated": "2026-05-25 14:02:53",
   "announcements": [
+    {
+      "date": "2026/05/25",
+      "message": "I wanna Necro が新たに追加されました。",
+      "type": "add",
+      "id": 21572
+    },
     {
       "date": "2026/05/23",
       "message": "I Wanna Be The 32px Needle が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Fangame Patch Tools (gm8x_fix, DBGHELP.dll, melatonin)が削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23606
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna be the Studio Engine YoYoYo Editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 15347
     }
   ],
   "games": [
@@ -87646,10 +87646,10 @@
     {
       "id": 21572,
       "name": "I wanna Necro",
-      "difficulty": "62.3",
-      "difficulty_num": 62.3,
-      "rating": 6.7,
-      "num_ratings": 9,
+      "difficulty": "62.6",
+      "difficulty_num": 62.6,
+      "rating": 6.6,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -115706,10 +115706,10 @@
     {
       "id": 26245,
       "name": "I Wanna Start A Party",
-      "difficulty": "21.3",
-      "difficulty_num": 21.3,
+      "difficulty": "20.0",
+      "difficulty_num": 20.0,
       "rating": 9.7,
-      "num_ratings": 80,
+      "num_ratings": 81,
       "is_needle": false,
       "is_avoidance": true
     },
