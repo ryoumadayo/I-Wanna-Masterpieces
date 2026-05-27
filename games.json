@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27 23:26:16",
+  "last_updated": "2026-05-28 02:40:58",
   "announcements": [
     {
       "date": "2026/05/26",
@@ -52826,10 +52826,10 @@
     {
       "id": 46260,
       "name": "I Wanna Go On A Critter Journey",
-      "difficulty": "25.7",
-      "difficulty_num": 25.7,
-      "rating": 5.2,
-      "num_ratings": 5,
+      "difficulty": "28.0",
+      "difficulty_num": 28.0,
+      "rating": 5.6,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55409,7 +55409,7 @@
       "difficulty": "45.0",
       "difficulty_num": 45.0,
       "rating": 5.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -88719,7 +88719,7 @@
       "difficulty": "79.7",
       "difficulty_num": 79.7,
       "rating": 2.7,
-      "num_ratings": 5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -94408,8 +94408,8 @@
       "name": "I Wanna Pass Various Levels",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 2.5,
-      "num_ratings": 2,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -101708,8 +101708,8 @@
       "name": "I wanna Rain flutter Romance",
       "difficulty": "60.8",
       "difficulty_num": 60.8,
-      "rating": 5.8,
-      "num_ratings": 8,
+      "rating": 6.1,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -123466,10 +123466,10 @@
     {
       "id": 24535,
       "name": "Tiny Fantazm",
-      "difficulty": "32.0",
-      "difficulty_num": 32.0,
+      "difficulty": "31.6",
+      "difficulty_num": 31.6,
       "rating": 7.3,
-      "num_ratings": 27,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -142936,10 +142936,10 @@
     {
       "id": 26859,
       "name": "创意跳脸耐久（无硅胶，简单抄）",
-      "difficulty": "23.0",
-      "difficulty_num": 23.0,
-      "rating": 3.2,
-      "num_ratings": 7,
+      "difficulty": "25.5",
+      "difficulty_num": 25.5,
+      "rating": 2.5,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -143166,10 +143166,10 @@
     {
       "id": 26927,
       "name": "十六速",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "39.0",
+      "difficulty_num": 39.0,
+      "rating": 1.2,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
