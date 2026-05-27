@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27 15:19:42",
+  "last_updated": "2026-05-27 19:37:07",
   "announcements": [
     {
       "date": "2026/05/26",
@@ -41546,10 +41546,10 @@
     {
       "id": 11536,
       "name": "I wanna escape the Weird museum",
-      "difficulty": "57.3",
-      "difficulty_num": 57.3,
-      "rating": 5.9,
-      "num_ratings": 5,
+      "difficulty": "57.0",
+      "difficulty_num": 57.0,
+      "rating": 6.1,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -109816,10 +109816,10 @@
     {
       "id": 21450,
       "name": "I wanna Segno",
-      "difficulty": "84.8",
-      "difficulty_num": 84.8,
-      "rating": 7.9,
-      "num_ratings": 10,
+      "difficulty": "84.7",
+      "difficulty_num": 84.7,
+      "rating": 8.0,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118756,10 +118756,10 @@
     {
       "id": 46262,
       "name": "SYNTAGM.",
-      "difficulty": "66.0",
-      "difficulty_num": 66.0,
-      "rating": 7.6,
-      "num_ratings": 3,
+      "difficulty": "69.0",
+      "difficulty_num": 69.0,
+      "rating": 7.3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -142306,10 +142306,10 @@
     {
       "id": 26885,
       "name": "下雪了",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
+      "rating": 1.4,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -143746,10 +143746,10 @@
     {
       "id": 26892,
       "name": "开新车",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 4,
+      "difficulty": "44.0",
+      "difficulty_num": 44.0,
+      "rating": 2.5,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -144176,10 +144176,10 @@
     {
       "id": 27048,
       "name": "操大逼",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "30.0",
+      "difficulty_num": 30.0,
       "rating": 0.0,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -144636,10 +144636,10 @@
     {
       "id": 26881,
       "name": "果引擎",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 1.8,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -146796,8 +146796,8 @@
     {
       "id": 19533,
       "name": "I wanna be the 難しいアイワナ",
-      "difficulty": "87.5",
-      "difficulty_num": 87.5,
+      "difficulty": "87.4",
+      "difficulty_num": 87.4,
       "rating": 1.9,
       "num_ratings": 12,
       "is_needle": true,
