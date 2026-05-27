@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28 02:40:58",
+  "last_updated": "2026-05-28 05:13:27",
   "announcements": [
     {
       "date": "2026/05/26",
@@ -99746,10 +99746,10 @@
     {
       "id": 18891,
       "name": "ProMethium",
-      "difficulty": "53.0",
-      "difficulty_num": 53.0,
-      "rating": 5.6,
-      "num_ratings": 28,
+      "difficulty": "53.1",
+      "difficulty_num": 53.1,
+      "rating": 5.7,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
