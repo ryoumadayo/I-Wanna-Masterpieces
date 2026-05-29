@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-30 04:08:33",
+  "last_updated": "2026-05-30 07:50:32",
   "announcements": [
+    {
+      "date": "2026/05/30",
+      "message": "I wanna weeb out with needle が新たに追加されました。",
+      "type": "add",
+      "id": 17460
+    },
     {
       "date": "2026/05/26",
       "message": "Afterglow が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Game Maker Patch Tool - Debugger Helperが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23936
-    },
-    {
-      "date": "2026/03/30",
-      "message": "Jtoolが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 15691
     }
   ],
   "games": [
@@ -21358,8 +21358,8 @@
       "name": "I Wanna Carve My Own Grave",
       "difficulty": "23.3",
       "difficulty_num": 23.3,
-      "rating": 9.0,
-      "num_ratings": 4,
+      "rating": 9.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -38076,10 +38076,10 @@
     {
       "id": 20642,
       "name": "I wanna be the Echthros 2",
-      "difficulty": "72.8",
-      "difficulty_num": 72.8,
-      "rating": 5.6,
-      "num_ratings": 10,
+      "difficulty": "72.7",
+      "difficulty_num": 72.7,
+      "rating": 5.8,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52828,8 +52828,8 @@
       "name": "I Wanna Go On A Critter Journey",
       "difficulty": "32.4",
       "difficulty_num": 32.4,
-      "rating": 6.8,
-      "num_ratings": 7,
+      "rating": 7.3,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78728,8 +78728,8 @@
       "name": "I wanna love fumiya 緩和版",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "rating": 0.5,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -129279,7 +129279,7 @@
       "difficulty": "71.4",
       "difficulty_num": 71.4,
       "rating": 9.3,
-      "num_ratings": 140,
+      "num_ratings": 141,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -131826,10 +131826,10 @@
     {
       "id": 17460,
       "name": "I wanna weeb out with needle",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
+      "difficulty": "74.5",
+      "difficulty_num": 74.5,
       "rating": 6.8,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -135248,8 +135248,8 @@
       "name": "I wanna be the Yukkevelers",
       "difficulty": "45.0",
       "difficulty_num": 45.0,
-      "rating": 4.8,
-      "num_ratings": 3,
+      "rating": 5.4,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
