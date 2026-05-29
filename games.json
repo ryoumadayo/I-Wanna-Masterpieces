@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 01:14:57",
+  "last_updated": "2026-05-30 04:08:33",
   "announcements": [
     {
       "date": "2026/05/26",
@@ -20686,8 +20686,8 @@
     {
       "id": 11451,
       "name": "I wanna bye the Bye",
-      "difficulty": "73.6",
-      "difficulty_num": 73.6,
+      "difficulty": "73.5",
+      "difficulty_num": 73.5,
       "rating": 7.2,
       "num_ratings": 50,
       "is_needle": false,
@@ -93506,10 +93506,10 @@
     {
       "id": 28182,
       "name": "I Wanna Overtake",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
+      "difficulty": "75.2",
+      "difficulty_num": 75.2,
       "rating": 6.2,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
