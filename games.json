@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 20:37:50",
+  "last_updated": "2026-05-30 22:26:02",
   "announcements": [
     {
       "date": "2026/05/30",
@@ -30224,6 +30224,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46272,
+      "name": "DanMario Demise",
+      "difficulty": "93.0",
+      "difficulty_num": 93.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 11923,
       "name": "I wanna be the Danny tanner",
       "difficulty": "22.9",
@@ -41506,12 +41516,12 @@
     {
       "id": 17054,
       "name": "I wanna escape the Spike and Apple World",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "81.0",
+      "difficulty_num": 81.0,
+      "rating": 8.5,
+      "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 45974,
@@ -119074,6 +119084,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46273,
+      "name": "I Wanna Tag Team",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 23283,
       "name": "Tagged As Avoidance (1)",
       "difficulty": "2.5",
@@ -124866,10 +124886,10 @@
     {
       "id": 12496,
       "name": "I wanna touch the Entrance",
-      "difficulty": "84.0",
-      "difficulty_num": 84.0,
-      "rating": 5.3,
-      "num_ratings": 18,
+      "difficulty": "84.2",
+      "difficulty_num": 84.2,
+      "rating": 5.2,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -132096,10 +132116,10 @@
     {
       "id": 46270,
       "name": "I Wanna What I Want",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
+      "difficulty": "43.0",
+      "difficulty_num": 43.0,
       "rating": 6.5,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -144739,7 +144759,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 1.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
