@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 07:00:36",
+  "last_updated": "2026-05-31 08:08:57",
   "announcements": [
     {
       "date": "2026/05/31",
@@ -123528,8 +123528,8 @@
       "name": "I Wanna be the TIS",
       "difficulty": "89.4",
       "difficulty_num": 89.4,
-      "rating": 7.4,
-      "num_ratings": 19,
+      "rating": 7.2,
+      "num_ratings": 20,
       "is_needle": false,
       "is_avoidance": true
     },
