@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-31 05:32:32",
+  "last_updated": "2026-05-31 07:00:36",
   "announcements": [
+    {
+      "date": "2026/05/31",
+      "message": "Happy Fantazmaの評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 20576
+    },
+    {
+      "date": "2026/05/31",
+      "message": "I wanna be the Acid が新たに追加されました。",
+      "type": "add",
+      "id": 19797
+    },
     {
       "date": "2026/05/30",
       "message": "I wanna weeb out with needle が新たに追加されました。",
@@ -168,18 +180,6 @@
       "message": "Tool for avoidances 2.0が削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 16202
-    },
-    {
-      "date": "2026/03/30",
-      "message": "YoYoYo Engine (Verve Edition)が削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 24342
-    },
-    {
-      "date": "2026/03/30",
-      "message": "Game Maker Patch Tool - Debugger Helperが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 23936
     }
   ],
   "games": [
@@ -4556,10 +4556,10 @@
     {
       "id": 19797,
       "name": "I wanna be the Acid",
-      "difficulty": "69.7",
-      "difficulty_num": 69.7,
-      "rating": 7.2,
-      "num_ratings": 9,
+      "difficulty": "67.6",
+      "difficulty_num": 67.6,
+      "rating": 6.9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -4919,7 +4919,7 @@
       "difficulty": "54.1",
       "difficulty_num": 54.1,
       "rating": 7.3,
-      "num_ratings": 74,
+      "num_ratings": 75,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7828,8 +7828,8 @@
       "name": "I wanna Assemble the 12",
       "difficulty": "84.3",
       "difficulty_num": 84.3,
-      "rating": 7.7,
-      "num_ratings": 6,
+      "rating": 7.3,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -20398,8 +20398,8 @@
       "name": "I Wanna be the Butterfly Collab",
       "difficulty": "75.4",
       "difficulty_num": 75.4,
-      "rating": 6.8,
-      "num_ratings": 30,
+      "rating": 6.7,
+      "num_ratings": 31,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -21698,8 +21698,8 @@
       "name": "I Wanna Cautiously Observe The Goober From A Safe Distance",
       "difficulty": "67.5",
       "difficulty_num": 67.5,
-      "rating": 8.6,
-      "num_ratings": 6,
+      "rating": 8.3,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -24398,8 +24398,8 @@
       "name": "Classical VIP",
       "difficulty": "93.0",
       "difficulty_num": 93.0,
-      "rating": 7.6,
-      "num_ratings": 7,
+      "rating": 6.2,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -28288,8 +28288,8 @@
       "name": "i wanna crack the candy",
       "difficulty": "93.8",
       "difficulty_num": 93.8,
-      "rating": 5.6,
-      "num_ratings": 9,
+      "rating": 5.2,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -30458,8 +30458,8 @@
       "name": "I wanna Dark Side of Insanity",
       "difficulty": "71.3",
       "difficulty_num": 71.3,
-      "rating": 5.9,
-      "num_ratings": 11,
+      "rating": 5.7,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31279,7 +31279,7 @@
       "difficulty": "45.0",
       "difficulty_num": 45.0,
       "rating": 6.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -32118,8 +32118,8 @@
       "name": "I Wanna Defeat The VK Makers",
       "difficulty": "77.4",
       "difficulty_num": 77.4,
-      "rating": 7.0,
-      "num_ratings": 27,
+      "rating": 6.9,
+      "num_ratings": 28,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35298,8 +35298,8 @@
       "name": "I wanna be the Doner",
       "difficulty": "75.6",
       "difficulty_num": 75.6,
-      "rating": 5.9,
-      "num_ratings": 12,
+      "rating": 5.2,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35569,7 +35569,7 @@
       "difficulty": "76.3",
       "difficulty_num": 76.3,
       "rating": 7.3,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -36928,8 +36928,8 @@
       "name": "I wanna be the Earth",
       "difficulty": "61.0",
       "difficulty_num": 61.0,
-      "rating": 7.2,
-      "num_ratings": 31,
+      "rating": 7.1,
+      "num_ratings": 32,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -42878,8 +42878,8 @@
       "name": "I wanna ezileG",
       "difficulty": "57.8",
       "difficulty_num": 57.8,
-      "rating": 6.5,
-      "num_ratings": 10,
+      "rating": 6.2,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -48558,8 +48558,8 @@
       "name": "I wanna be the Future Dominators",
       "difficulty": "94.0",
       "difficulty_num": 94.0,
-      "rating": 7.9,
-      "num_ratings": 5,
+      "rating": 6.4,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -55138,8 +55138,8 @@
       "name": "I wanna grand of the perfect bear",
       "difficulty": "91.9",
       "difficulty_num": 91.9,
-      "rating": 7.7,
-      "num_ratings": 23,
+      "rating": 7.4,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -56708,8 +56708,8 @@
       "name": "I wanna Hallucination",
       "difficulty": "62.6",
       "difficulty_num": 62.6,
-      "rating": 5.9,
-      "num_ratings": 7,
+      "rating": 5.8,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -57566,10 +57566,10 @@
     {
       "id": 20576,
       "name": "Happy Fantazma",
-      "difficulty": "92.5",
-      "difficulty_num": 92.5,
-      "rating": 6.0,
-      "num_ratings": 16,
+      "difficulty": "91.9",
+      "difficulty_num": 91.9,
+      "rating": 5.7,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -59528,8 +59528,8 @@
       "name": "I wanna be the Heracles",
       "difficulty": "75.3",
       "difficulty_num": 75.3,
-      "rating": 6.7,
-      "num_ratings": 16,
+      "rating": 6.4,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -64788,8 +64788,8 @@
       "name": "I wanna be the Immature Life",
       "difficulty": "92.0",
       "difficulty_num": 92.0,
-      "rating": 7.8,
-      "num_ratings": 10,
+      "rating": 7.4,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -90148,8 +90148,8 @@
       "name": "I wanna be the Noesis",
       "difficulty": "91.8",
       "difficulty_num": 91.8,
-      "rating": 8.9,
-      "num_ratings": 34,
+      "rating": 8.8,
+      "num_ratings": 35,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93818,8 +93818,8 @@
       "name": "I wanna be the Palladium",
       "difficulty": "91.5",
       "difficulty_num": 91.5,
-      "rating": 8.0,
-      "num_ratings": 8,
+      "rating": 7.2,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -100669,7 +100669,7 @@
       "difficulty": "73.5",
       "difficulty_num": 73.5,
       "rating": 7.6,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103408,8 +103408,8 @@
       "name": "I wanna be the Reiji",
       "difficulty": "79.3",
       "difficulty_num": 79.3,
-      "rating": 5.7,
-      "num_ratings": 8,
+      "rating": 5.4,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -108198,8 +108198,8 @@
       "name": "Scattered Faith",
       "difficulty": "93.8",
       "difficulty_num": 93.8,
-      "rating": 6.4,
-      "num_ratings": 22,
+      "rating": 6.1,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -118228,8 +118228,8 @@
       "name": "I wanna be the Supernova",
       "difficulty": "80.0",
       "difficulty_num": 80.0,
-      "rating": 5.1,
-      "num_ratings": 9,
+      "rating": 4.5,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124978,8 +124978,8 @@
       "name": "I wanna touch the Stockings",
       "difficulty": "81.3",
       "difficulty_num": 81.3,
-      "rating": 3.3,
-      "num_ratings": 4,
+      "rating": 4.1,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129896,10 +129896,10 @@
     {
       "id": 20431,
       "name": "I Wanna Vigorously",
-      "difficulty": "36.9",
-      "difficulty_num": 36.9,
-      "rating": 4.8,
-      "num_ratings": 12,
+      "difficulty": "36.3",
+      "difficulty_num": 36.3,
+      "rating": 4.9,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
