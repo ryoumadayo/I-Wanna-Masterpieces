@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 02:35:12",
+  "last_updated": "2026-05-31 04:12:28",
   "announcements": [
     {
       "date": "2026/05/30",
@@ -36936,8 +36936,8 @@
     {
       "id": 15279,
       "name": "I wanna be the Earth Temple",
-      "difficulty": "12.6",
-      "difficulty_num": 12.6,
+      "difficulty": "13.8",
+      "difficulty_num": 13.8,
       "rating": 2.9,
       "num_ratings": 23,
       "is_needle": false,
@@ -36946,9 +36946,9 @@
     {
       "id": 15280,
       "name": "I wanna be the Earth Temple 2",
-      "difficulty": "18.8",
-      "difficulty_num": 18.8,
-      "rating": 2.4,
+      "difficulty": "19.4",
+      "difficulty_num": 19.4,
+      "rating": 2.6,
       "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
@@ -45888,7 +45888,7 @@
       "name": "I wanna be the Fire Temple",
       "difficulty": "36.0",
       "difficulty_num": 36.0,
-      "rating": 1.4,
+      "rating": 0.6,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -49916,10 +49916,10 @@
     {
       "id": 16095,
       "name": "I wanna be the Genie Temple",
-      "difficulty": "25.4",
-      "difficulty_num": 25.4,
-      "rating": 1.1,
-      "num_ratings": 9,
+      "difficulty": "26.2",
+      "difficulty_num": 26.2,
+      "rating": 1.4,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
