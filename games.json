@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 13:33:44",
+  "last_updated": "2026-05-30 16:40:35",
   "announcements": [
     {
       "date": "2026/05/30",
@@ -33276,10 +33276,10 @@
     {
       "id": 10659,
       "name": "I wanna be the Detective",
-      "difficulty": "36.3",
-      "difficulty_num": 36.3,
-      "rating": 7.1,
-      "num_ratings": 11,
+      "difficulty": "36.6",
+      "difficulty_num": 36.6,
+      "rating": 7.2,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
