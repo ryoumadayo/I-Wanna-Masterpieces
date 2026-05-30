@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 09:09:09",
+  "last_updated": "2026-05-30 13:33:44",
   "announcements": [
     {
       "date": "2026/05/30",
@@ -44489,7 +44489,7 @@
       "difficulty": "73.0",
       "difficulty_num": 73.0,
       "rating": 7.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -103636,10 +103636,10 @@
     {
       "id": 16986,
       "name": "I wanna rely the Needle 2",
-      "difficulty": "54.2",
-      "difficulty_num": 54.2,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
       "rating": 7.0,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -145756,10 +145756,10 @@
     {
       "id": 19980,
       "name": "股間強打キッド",
-      "difficulty": "30.6",
-      "difficulty_num": 30.6,
-      "rating": 3.4,
-      "num_ratings": 7,
+      "difficulty": "30.2",
+      "difficulty_num": 30.2,
+      "rating": 3.2,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
