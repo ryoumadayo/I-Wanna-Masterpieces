@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 08:08:57",
+  "last_updated": "2026-05-31 10:34:25",
   "announcements": [
     {
       "date": "2026/05/31",
@@ -7406,10 +7406,10 @@
     {
       "id": 24959,
       "name": "I wanna be the ARF",
-      "difficulty": "30.0",
-      "difficulty_num": 30.0,
-      "rating": 1.0,
-      "num_ratings": 3,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 1.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -74416,10 +74416,10 @@
     {
       "id": 25016,
       "name": "I wanna be the KKD",
-      "difficulty": "63.7",
-      "difficulty_num": 63.7,
-      "rating": 5.2,
-      "num_ratings": 4,
+      "difficulty": "60.3",
+      "difficulty_num": 60.3,
+      "rating": 5.4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -113206,10 +113206,10 @@
     {
       "id": 24947,
       "name": "I wanna be the SND",
-      "difficulty": "55.5",
-      "difficulty_num": 55.5,
-      "rating": 6.0,
-      "num_ratings": 3,
+      "difficulty": "57.0",
+      "difficulty_num": 57.0,
+      "rating": 5.4,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -125869,7 +125869,7 @@
       "difficulty": "41.2",
       "difficulty_num": 41.2,
       "rating": 7.9,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
