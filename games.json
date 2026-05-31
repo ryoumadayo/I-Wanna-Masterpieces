@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-01 01:06:31",
+  "last_updated": "2026-06-01 02:37:47",
   "announcements": [
+    {
+      "date": "2026/06/01",
+      "message": "I wanna be the 2006の評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 15758
+    },
+    {
+      "date": "2026/06/01",
+      "message": "SuperMedleyの評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 27006
+    },
     {
       "date": "2026/05/31",
       "message": "Happy Fantazmaの評価が基準値を下回ったことにより、除外対象となりました。",
@@ -168,18 +180,6 @@
       "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 16329
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna create a bossが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 16235
-    },
-    {
-      "date": "2026/03/30",
-      "message": "Tool for avoidances 2.0が削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 16202
     }
   ],
   "games": [
@@ -1858,7 +1858,7 @@
       "name": "I wanna be the 2006",
       "difficulty": "87.3",
       "difficulty_num": 87.3,
-      "rating": 6.1,
+      "rating": 5.9,
       "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
@@ -11856,10 +11856,10 @@
     {
       "id": 26357,
       "name": "I wanna be Infinite",
-      "difficulty": "93.3",
-      "difficulty_num": 93.3,
-      "rating": 9.9,
-      "num_ratings": 7,
+      "difficulty": "94.0",
+      "difficulty_num": 94.0,
+      "rating": 10.0,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -19238,7 +19238,7 @@
       "name": "I wanna break the Series Z 3 EX",
       "difficulty": "96.8",
       "difficulty_num": 96.8,
-      "rating": 5.8,
+      "rating": 5.2,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
@@ -24398,7 +24398,7 @@
       "name": "Classical VIP",
       "difficulty": "93.0",
       "difficulty_num": 93.0,
-      "rating": 6.2,
+      "rating": 6.6,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
@@ -28308,7 +28308,7 @@
       "name": "I wanna be the Cradow",
       "difficulty": "69.0",
       "difficulty_num": 69.0,
-      "rating": 4.0,
+      "rating": 3.9,
       "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
@@ -30978,7 +30978,7 @@
       "name": "I Wanna Debut",
       "difficulty": "97.9",
       "difficulty_num": 97.9,
-      "rating": 6.8,
+      "rating": 7.8,
       "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
@@ -31458,7 +31458,7 @@
       "name": "I wanna defeat the discord makers JP side",
       "difficulty": "88.2",
       "difficulty_num": 88.2,
-      "rating": 8.0,
+      "rating": 7.8,
       "num_ratings": 27,
       "is_needle": true,
       "is_avoidance": false
@@ -39448,7 +39448,7 @@
       "name": "Endurance Medley Party!",
       "difficulty": "87.2",
       "difficulty_num": 87.2,
-      "rating": 5.6,
+      "rating": 6.3,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
@@ -49876,9 +49876,9 @@
     {
       "id": 23128,
       "name": "Genetic World",
-      "difficulty": "43.9",
-      "difficulty_num": 43.9,
-      "rating": 4.1,
+      "difficulty": "48.1",
+      "difficulty_num": 48.1,
+      "rating": 3.9,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
@@ -55138,7 +55138,7 @@
       "name": "I wanna grand of the perfect bear",
       "difficulty": "91.9",
       "difficulty_num": 91.9,
-      "rating": 7.4,
+      "rating": 7.5,
       "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": true
@@ -57568,7 +57568,7 @@
       "name": "Happy Fantazma",
       "difficulty": "91.9",
       "difficulty_num": 91.9,
-      "rating": 5.7,
+      "rating": 5.9,
       "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
@@ -59858,7 +59858,7 @@
       "name": "I wanna be the Hidden++",
       "difficulty": "88.7",
       "difficulty_num": 88.7,
-      "rating": 7.7,
+      "rating": 7.3,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
@@ -64368,7 +64368,7 @@
       "name": "I wanna be the ichor easymode",
       "difficulty": "31.2",
       "difficulty_num": 31.2,
-      "rating": 6.4,
+      "rating": 6.5,
       "num_ratings": 27,
       "is_needle": true,
       "is_avoidance": false
@@ -72266,9 +72266,9 @@
     {
       "id": 14681,
       "name": "I Wanna Kill The Kamilia 3",
-      "difficulty": "91.3",
-      "difficulty_num": 91.3,
-      "rating": 8.0,
+      "difficulty": "91.2",
+      "difficulty_num": 91.2,
+      "rating": 8.1,
       "num_ratings": 182,
       "is_needle": false,
       "is_avoidance": false
@@ -72278,7 +72278,7 @@
       "name": "I Wanna Kill The Kamilia 3 EZ",
       "difficulty": "68.2",
       "difficulty_num": 68.2,
-      "rating": 7.4,
+      "rating": 7.6,
       "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": false
@@ -73528,7 +73528,7 @@
       "name": "i wanna kill the slime",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 4.2,
+      "rating": 3.8,
       "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
@@ -84018,7 +84018,7 @@
       "name": "Menacing Taisa",
       "difficulty": "74.7",
       "difficulty_num": 74.7,
-      "rating": 8.4,
+      "rating": 8.2,
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
@@ -85778,7 +85778,7 @@
       "name": "I Wanna Be The Mood Breaker",
       "difficulty": "92.6",
       "difficulty_num": 92.6,
-      "rating": 7.7,
+      "rating": 7.9,
       "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
@@ -88428,7 +88428,7 @@
       "name": "I wanna be the needle test!!",
       "difficulty": "63.2",
       "difficulty_num": 63.2,
-      "rating": 3.7,
+      "rating": 3.4,
       "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
@@ -89348,7 +89348,7 @@
       "name": "I wanna NF",
       "difficulty": "69.0",
       "difficulty_num": 69.0,
-      "rating": 4.6,
+      "rating": 5.3,
       "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
@@ -91156,9 +91156,9 @@
     {
       "id": 24923,
       "name": "I wanna NPM",
-      "difficulty": "70.8",
-      "difficulty_num": 70.8,
-      "rating": 7.0,
+      "difficulty": "73.8",
+      "difficulty_num": 73.8,
+      "rating": 7.1,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
@@ -94858,7 +94858,7 @@
       "name": "I Wanna Be The Penger",
       "difficulty": "91.8",
       "difficulty_num": 91.8,
-      "rating": 7.6,
+      "rating": 7.7,
       "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
@@ -108348,7 +108348,7 @@
       "name": "Schwarlitz's Requiem",
       "difficulty": "95.3",
       "difficulty_num": 95.3,
-      "rating": 8.3,
+      "rating": 8.0,
       "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
@@ -118188,7 +118188,7 @@
       "name": "SuperMedley",
       "difficulty": "56.5",
       "difficulty_num": 56.5,
-      "rating": 6.2,
+      "rating": 5.8,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
@@ -119768,7 +119768,7 @@
       "name": "Talent Shredder",
       "difficulty": "86.8",
       "difficulty_num": 86.8,
-      "rating": 6.9,
+      "rating": 6.6,
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
@@ -119838,7 +119838,7 @@
       "name": "Tantsor Rebalanced",
       "difficulty": "84.5",
       "difficulty_num": 84.5,
-      "rating": 8.3,
+      "rating": 8.0,
       "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
@@ -121178,7 +121178,7 @@
       "name": "TF2 TickTock",
       "difficulty": "37.3",
       "difficulty_num": 37.3,
-      "rating": 6.9,
+      "rating": 6.6,
       "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
@@ -121758,7 +121758,7 @@
       "name": "The Avoidance Complex",
       "difficulty": "90.0",
       "difficulty_num": 90.0,
-      "rating": 8.3,
+      "rating": 8.4,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
@@ -127228,7 +127228,7 @@
       "name": "Twenty-Seven",
       "difficulty": "88.5",
       "difficulty_num": 88.5,
-      "rating": 7.3,
+      "rating": 7.4,
       "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
@@ -127298,7 +127298,7 @@
       "name": "Twisted Drop Party",
       "difficulty": "89.3",
       "difficulty_num": 89.3,
-      "rating": 7.3,
+      "rating": 7.5,
       "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
@@ -130398,7 +130398,7 @@
       "name": "VOX Diamond",
       "difficulty": "86.5",
       "difficulty_num": 86.5,
-      "rating": 4.5,
+      "rating": 4.3,
       "num_ratings": 31,
       "is_needle": false,
       "is_avoidance": true
