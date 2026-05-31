@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 20:17:28",
+  "last_updated": "2026-05-31 21:56:59",
   "announcements": [
     {
       "date": "2026/05/31",
@@ -30236,8 +30236,8 @@
     {
       "id": 46272,
       "name": "DanMario Demise",
-      "difficulty": "93.0",
-      "difficulty_num": 93.0,
+      "difficulty": "92.0",
+      "difficulty_num": 92.0,
       "rating": 0.0,
       "num_ratings": 3,
       "is_needle": false,
@@ -52716,10 +52716,10 @@
     {
       "id": 27340,
       "name": "I Wanna Go Gambling",
-      "difficulty": "45.8",
-      "difficulty_num": 45.8,
+      "difficulty": "45.9",
+      "difficulty_num": 45.9,
       "rating": 7.7,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -70886,10 +70886,10 @@
     {
       "id": 12371,
       "name": "I wanna kill the Blue Mage",
-      "difficulty": "64.5",
-      "difficulty_num": 64.5,
-      "rating": 7.5,
-      "num_ratings": 29,
+      "difficulty": "64.7",
+      "difficulty_num": 64.7,
+      "rating": 7.6,
+      "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": false
     },
