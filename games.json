@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 08:05:19",
+  "last_updated": "2026-06-01 10:38:35",
   "announcements": [
     {
       "date": "2026/06/01",
@@ -115146,10 +115146,10 @@
     {
       "id": 17794,
       "name": "I Wanna Spook Jam",
-      "difficulty": "49.1",
-      "difficulty_num": 49.1,
+      "difficulty": "49.2",
+      "difficulty_num": 49.2,
       "rating": 8.8,
-      "num_ratings": 111,
+      "num_ratings": 112,
       "is_needle": false,
       "is_avoidance": false
     },
