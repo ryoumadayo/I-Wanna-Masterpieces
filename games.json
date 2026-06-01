@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 03:38:15",
+  "last_updated": "2026-06-02 07:10:12",
   "announcements": [
     {
       "date": "2026/06/01",
@@ -4286,10 +4286,10 @@
     {
       "id": 24529,
       "name": "I wanna be the ABS",
-      "difficulty": "28.8",
-      "difficulty_num": 28.8,
-      "rating": 3.6,
-      "num_ratings": 6,
+      "difficulty": "27.3",
+      "difficulty_num": 27.3,
+      "rating": 3.7,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -4568,8 +4568,8 @@
       "name": "I wanna be the ACJ",
       "difficulty": "30.0",
       "difficulty_num": 30.0,
-      "rating": 4.0,
-      "num_ratings": 3,
+      "rating": 4.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -5176,10 +5176,10 @@
     {
       "id": 26271,
       "name": "I wanna be the AGI",
-      "difficulty": "28.0",
-      "difficulty_num": 28.0,
-      "rating": 3.1,
-      "num_ratings": 3,
+      "difficulty": "30.3",
+      "difficulty_num": 30.3,
+      "rating": 2.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -5316,10 +5316,10 @@
     {
       "id": 24687,
       "name": "I wanna be the AHZ",
-      "difficulty": "36.3",
-      "difficulty_num": 36.3,
-      "rating": 2.2,
-      "num_ratings": 5,
+      "difficulty": "35.6",
+      "difficulty_num": 35.6,
+      "rating": 2.4,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -5556,10 +5556,10 @@
     {
       "id": 25284,
       "name": "I wanna be the AKR",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 4.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -6066,10 +6066,10 @@
     {
       "id": 24583,
       "name": "I wanna be the AMC",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 1.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -6086,10 +6086,10 @@
     {
       "id": 24553,
       "name": "I wanna be the AMG",
-      "difficulty": "31.7",
-      "difficulty_num": 31.7,
-      "rating": 2.5,
-      "num_ratings": 4,
+      "difficulty": "31.3",
+      "difficulty_num": 31.3,
+      "rating": 2.3,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -6106,10 +6106,10 @@
     {
       "id": 24708,
       "name": "I wanna be the AMN",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
-      "rating": 4.9,
-      "num_ratings": 3,
+      "difficulty": "55.7",
+      "difficulty_num": 55.7,
+      "rating": 5.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -6656,10 +6656,10 @@
     {
       "id": 24586,
       "name": "I wanna be the ANR",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
-      "rating": 1.6,
-      "num_ratings": 2,
+      "difficulty": "37.5",
+      "difficulty_num": 37.5,
+      "rating": 3.3,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -7406,10 +7406,10 @@
     {
       "id": 24959,
       "name": "I wanna be the ARF",
-      "difficulty": "25.0",
-      "difficulty_num": 25.0,
-      "rating": 1.5,
-      "num_ratings": 4,
+      "difficulty": "29.3",
+      "difficulty_num": 29.3,
+      "rating": 2.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -7676,10 +7676,10 @@
     {
       "id": 25117,
       "name": "I wanna be the ASB",
-      "difficulty": "47.3",
-      "difficulty_num": 47.3,
-      "rating": 6.4,
-      "num_ratings": 5,
+      "difficulty": "46.2",
+      "difficulty_num": 46.2,
+      "rating": 6.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -8016,10 +8016,10 @@
     {
       "id": 24677,
       "name": "I wanna be the ATI",
-      "difficulty": "30.0",
-      "difficulty_num": 30.0,
-      "rating": 1.2,
-      "num_ratings": 4,
+      "difficulty": "28.8",
+      "difficulty_num": 28.8,
+      "rating": 1.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
