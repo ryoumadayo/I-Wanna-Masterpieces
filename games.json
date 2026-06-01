@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 15:54:38",
+  "last_updated": "2026-06-01 21:36:04",
   "announcements": [
     {
       "date": "2026/06/01",
@@ -81228,8 +81228,8 @@
       "name": "Make it Lime",
       "difficulty": "90.0",
       "difficulty_num": 90.0,
-      "rating": 0.1,
-      "num_ratings": 3,
+      "rating": 5.1,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -91988,8 +91988,8 @@
       "name": "I Wanna OMAKENO Stroke+",
       "difficulty": "75.0",
       "difficulty_num": 75.0,
-      "rating": 5.0,
-      "num_ratings": 3,
+      "rating": 4.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
