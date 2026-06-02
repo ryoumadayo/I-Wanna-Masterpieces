@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 08:49:56",
+  "last_updated": "2026-06-02 12:47:19",
   "announcements": [
     {
       "date": "2026/06/01",
@@ -21296,10 +21296,10 @@
     {
       "id": 23042,
       "name": "I Wanna Be The Caretaker",
-      "difficulty": "47.3",
-      "difficulty_num": 47.3,
-      "rating": 8.8,
-      "num_ratings": 56,
+      "difficulty": "47.1",
+      "difficulty_num": 47.1,
+      "rating": 8.7,
+      "num_ratings": 57,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -120446,8 +120446,8 @@
     {
       "id": 27994,
       "name": "I WANNA TELL THE UNDER'S TALE",
-      "difficulty": "37.0",
-      "difficulty_num": 37.0,
+      "difficulty": "44.0",
+      "difficulty_num": 44.0,
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
