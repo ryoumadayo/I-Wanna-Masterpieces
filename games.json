@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-03 02:02:32",
+  "last_updated": "2026-06-03 05:24:44",
   "announcements": [
+    {
+      "date": "2026/06/03",
+      "message": "I wanna be the Super Needle! が新たに追加されました。",
+      "type": "add",
+      "id": 16582
+    },
     {
       "date": "2026/06/01",
       "message": "I wanna be the 2006の評価が基準値を下回ったことにより、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna WTF!? が新たに追加されました。",
       "type": "add",
       "id": 28233
-    },
-    {
-      "date": "2026/03/30",
-      "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 16329
     }
   ],
   "games": [
@@ -2166,10 +2166,10 @@
     {
       "id": 10528,
       "name": "I wanna be the 25 trap",
-      "difficulty": "43.3",
-      "difficulty_num": 43.3,
-      "rating": 3.8,
-      "num_ratings": 4,
+      "difficulty": "44.6",
+      "difficulty_num": 44.6,
+      "rating": 4.6,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7146,10 +7146,10 @@
     {
       "id": 21118,
       "name": "I Wanna Appreciate the Wolf's Enthusiasm",
-      "difficulty": "63.1",
-      "difficulty_num": 63.1,
+      "difficulty": "63.3",
+      "difficulty_num": 63.3,
       "rating": 8.2,
-      "num_ratings": 45,
+      "num_ratings": 46,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7309,7 +7309,7 @@
       "difficulty": "65.8",
       "difficulty_num": 65.8,
       "rating": 7.9,
-      "num_ratings": 89,
+      "num_ratings": 90,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -8199,7 +8199,7 @@
       "difficulty": "60.6",
       "difficulty_num": 60.6,
       "rating": 8.4,
-      "num_ratings": 46,
+      "num_ratings": 47,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -15649,7 +15649,7 @@
       "difficulty": "57.6",
       "difficulty_num": 57.6,
       "rating": 7.7,
-      "num_ratings": 71,
+      "num_ratings": 72,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -21659,7 +21659,7 @@
       "difficulty": "66.4",
       "difficulty_num": 66.4,
       "rating": 8.2,
-      "num_ratings": 101,
+      "num_ratings": 102,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -23639,7 +23639,7 @@
       "difficulty": "57.9",
       "difficulty_num": 57.9,
       "rating": 8.9,
-      "num_ratings": 60,
+      "num_ratings": 61,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -25579,7 +25579,7 @@
       "difficulty": "59.9",
       "difficulty_num": 59.9,
       "rating": 9.2,
-      "num_ratings": 103,
+      "num_ratings": 104,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -26319,7 +26319,7 @@
       "difficulty": "50.8",
       "difficulty_num": 50.8,
       "rating": 7.7,
-      "num_ratings": 72,
+      "num_ratings": 73,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -28806,10 +28806,10 @@
     {
       "id": 16294,
       "name": "I wanna be the Crimson Collab",
-      "difficulty": "71.2",
-      "difficulty_num": 71.2,
+      "difficulty": "71.1",
+      "difficulty_num": 71.1,
       "rating": 7.5,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -40516,10 +40516,10 @@
     {
       "id": 16318,
       "name": "I wanna be the Eris",
-      "difficulty": "60.8",
-      "difficulty_num": 60.8,
+      "difficulty": "60.7",
+      "difficulty_num": 60.7,
       "rating": 6.4,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -42546,10 +42546,10 @@
     {
       "id": 18744,
       "name": "I wanna explore the Mountains",
-      "difficulty": "71.9",
-      "difficulty_num": 71.9,
-      "rating": 8.3,
-      "num_ratings": 37,
+      "difficulty": "71.8",
+      "difficulty_num": 71.8,
+      "rating": 8.4,
+      "num_ratings": 38,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47659,7 +47659,7 @@
       "difficulty": "45.3",
       "difficulty_num": 45.3,
       "rating": 6.7,
-      "num_ratings": 56,
+      "num_ratings": 57,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -50426,10 +50426,10 @@
     {
       "id": 17411,
       "name": "I wanna get my daily recommended amount of fiber",
-      "difficulty": "70.3",
-      "difficulty_num": 70.3,
+      "difficulty": "70.2",
+      "difficulty_num": 70.2,
       "rating": 7.8,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52386,10 +52386,10 @@
     {
       "id": 11566,
       "name": "I wanna go across the Crimson Rainbow",
-      "difficulty": "67.7",
-      "difficulty_num": 67.7,
+      "difficulty": "67.8",
+      "difficulty_num": 67.8,
       "rating": 7.5,
-      "num_ratings": 61,
+      "num_ratings": 62,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63339,7 +63339,7 @@
       "difficulty": "50.3",
       "difficulty_num": 50.3,
       "rating": 6.2,
-      "num_ratings": 48,
+      "num_ratings": 49,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -82566,10 +82566,10 @@
     {
       "id": 17557,
       "name": "I wanna be the Mars",
-      "difficulty": "63.0",
-      "difficulty_num": 63.0,
+      "difficulty": "62.9",
+      "difficulty_num": 62.9,
       "rating": 7.2,
-      "num_ratings": 53,
+      "num_ratings": 54,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -90799,7 +90799,7 @@
       "difficulty": "68.6",
       "difficulty_num": 68.6,
       "rating": 9.2,
-      "num_ratings": 291,
+      "num_ratings": 292,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -92156,10 +92156,10 @@
     {
       "id": 15767,
       "name": "I wanna one attack in soul",
-      "difficulty": "68.7",
-      "difficulty_num": 68.7,
-      "rating": 7.2,
-      "num_ratings": 20,
+      "difficulty": "68.8",
+      "difficulty_num": 68.8,
+      "rating": 7.3,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -94229,7 +94229,7 @@
       "difficulty": "53.4",
       "difficulty_num": 53.4,
       "rating": 6.9,
-      "num_ratings": 37,
+      "num_ratings": 38,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -98459,7 +98459,7 @@
       "difficulty": "70.5",
       "difficulty_num": 70.5,
       "rating": 7.9,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -101036,10 +101036,10 @@
     {
       "id": 17025,
       "name": "I wanna qoqoqo 2",
-      "difficulty": "72.1",
-      "difficulty_num": 72.1,
+      "difficulty": "72.2",
+      "difficulty_num": 72.2,
       "rating": 7.7,
-      "num_ratings": 43,
+      "num_ratings": 44,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101056,10 +101056,10 @@
     {
       "id": 20217,
       "name": "I wanna qoqoqo 300 EasyVer",
-      "difficulty": "70.9",
-      "difficulty_num": 70.9,
+      "difficulty": "71.3",
+      "difficulty_num": 71.3,
       "rating": 8.5,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -103646,10 +103646,10 @@
     {
       "id": 16636,
       "name": "I wanna rely the Needle",
-      "difficulty": "43.9",
-      "difficulty_num": 43.9,
+      "difficulty": "44.0",
+      "difficulty_num": 44.0,
       "rating": 7.1,
-      "num_ratings": 61,
+      "num_ratings": 62,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -106329,7 +106329,7 @@
       "difficulty": "52.0",
       "difficulty_num": 52.0,
       "rating": 9.1,
-      "num_ratings": 186,
+      "num_ratings": 187,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111926,20 +111926,20 @@
     {
       "id": 22569,
       "name": "Simple Hentai",
-      "difficulty": "33.6",
-      "difficulty_num": 33.6,
+      "difficulty": "33.5",
+      "difficulty_num": 33.5,
       "rating": 5.1,
-      "num_ratings": 37,
+      "num_ratings": 38,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 15629,
       "name": "I wanna be the Simple Needle",
-      "difficulty": "76.0",
-      "difficulty_num": 76.0,
+      "difficulty": "76.1",
+      "difficulty_num": 76.1,
       "rating": 7.0,
-      "num_ratings": 54,
+      "num_ratings": 55,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -115149,7 +115149,7 @@
       "difficulty": "49.2",
       "difficulty_num": 49.2,
       "rating": 8.8,
-      "num_ratings": 112,
+      "num_ratings": 113,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -118076,10 +118076,10 @@
     {
       "id": 16582,
       "name": "I wanna be the Super Needle!",
-      "difficulty": "67.4",
-      "difficulty_num": 67.4,
-      "rating": 6.9,
-      "num_ratings": 9,
+      "difficulty": "67.7",
+      "difficulty_num": 67.7,
+      "rating": 7.0,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -123096,10 +123096,10 @@
     {
       "id": 17290,
       "name": "I wanna thread the Needle",
-      "difficulty": "71.0",
-      "difficulty_num": 71.0,
+      "difficulty": "71.1",
+      "difficulty_num": 71.1,
       "rating": 8.2,
-      "num_ratings": 57,
+      "num_ratings": 58,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126009,7 +126009,7 @@
       "difficulty": "51.1",
       "difficulty_num": 51.1,
       "rating": 7.7,
-      "num_ratings": 52,
+      "num_ratings": 53,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -127509,7 +127509,7 @@
       "difficulty": "46.7",
       "difficulty_num": 46.7,
       "rating": 6.5,
-      "num_ratings": 140,
+      "num_ratings": 141,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -127519,7 +127519,7 @@
       "difficulty": "49.1",
       "difficulty_num": 49.1,
       "rating": 7.4,
-      "num_ratings": 165,
+      "num_ratings": 166,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -127529,7 +127529,7 @@
       "difficulty": "58.9",
       "difficulty_num": 58.9,
       "rating": 7.0,
-      "num_ratings": 131,
+      "num_ratings": 132,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130156,10 +130156,10 @@
     {
       "id": 16127,
       "name": "I wanna vivid",
-      "difficulty": "58.5",
-      "difficulty_num": 58.5,
-      "rating": 6.1,
-      "num_ratings": 5,
+      "difficulty": "58.4",
+      "difficulty_num": 58.4,
+      "rating": 6.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -130431,6 +130431,16 @@
       "rating": 6.2,
       "num_ratings": 8,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46275,
+      "name": "I Wanna VS",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -136071,16 +136081,6 @@
       "rating": 5.4,
       "num_ratings": 1,
       "is_needle": true,
-      "is_avoidance": false
-    },
-    {
-      "id": 16633,
-      "name": "I wanna be the ___",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
       "is_avoidance": false
     },
     {
