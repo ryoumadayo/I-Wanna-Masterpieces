@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 17:28:41",
+  "last_updated": "2026-06-02 21:26:59",
   "announcements": [
     {
       "date": "2026/06/01",
@@ -49276,10 +49276,10 @@
     {
       "id": 19457,
       "name": "I Wanna Garuda",
-      "difficulty": "50.6",
-      "difficulty_num": 50.6,
-      "rating": 5.5,
-      "num_ratings": 12,
+      "difficulty": "50.7",
+      "difficulty_num": 50.7,
+      "rating": 5.4,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": true
     },
