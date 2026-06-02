@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 05:24:44",
+  "last_updated": "2026-06-03 07:33:55",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -132456,10 +132456,10 @@
     {
       "id": 11749,
       "name": "I wanna White new year",
-      "difficulty": "42.3",
-      "difficulty_num": 42.3,
+      "difficulty": "40.6",
+      "difficulty_num": 40.6,
       "rating": 6.3,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -132506,10 +132506,10 @@
     {
       "id": 11750,
       "name": "I wanna white Xmas",
-      "difficulty": "28.5",
-      "difficulty_num": 28.5,
-      "rating": 4.6,
-      "num_ratings": 28,
+      "difficulty": "28.4",
+      "difficulty_num": 28.4,
+      "rating": 4.7,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
