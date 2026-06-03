@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 04:06:09",
+  "last_updated": "2026-06-04 07:10:31",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -15926,10 +15926,10 @@
     {
       "id": 27000,
       "name": "I wanna be the BGN",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 5.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -17306,10 +17306,10 @@
     {
       "id": 26286,
       "name": "I wanna be the BNH",
-      "difficulty": "54.0",
-      "difficulty_num": 54.0,
-      "rating": 6.6,
-      "num_ratings": 3,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
+      "rating": 5.9,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -18296,10 +18296,10 @@
     {
       "id": 25391,
       "name": "I wanna be the BRB",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.2,
-      "num_ratings": 4,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 0.8,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -19876,10 +19876,10 @@
     {
       "id": 24956,
       "name": "I wanna be the BRK",
-      "difficulty": "35.0",
-      "difficulty_num": 35.0,
-      "rating": 2.4,
-      "num_ratings": 5,
+      "difficulty": "37.5",
+      "difficulty_num": 37.5,
+      "rating": 1.9,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -20016,20 +20016,20 @@
     {
       "id": 25109,
       "name": "I wanna be the BTR",
-      "difficulty": "22.0",
-      "difficulty_num": 22.0,
-      "rating": 4.2,
-      "num_ratings": 4,
+      "difficulty": "20.3",
+      "difficulty_num": 20.3,
+      "rating": 4.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 24185,
       "name": "I wanna be the BTT",
-      "difficulty": "26.0",
-      "difficulty_num": 26.0,
-      "rating": 5.6,
-      "num_ratings": 6,
+      "difficulty": "26.7",
+      "difficulty_num": 26.7,
+      "rating": 5.8,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -23726,10 +23726,10 @@
     {
       "id": 24692,
       "name": "I wanna be the CHM",
-      "difficulty": "44.0",
-      "difficulty_num": 44.0,
-      "rating": 0.4,
-      "num_ratings": 3,
+      "difficulty": "34.5",
+      "difficulty_num": 34.5,
+      "rating": 0.3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -24336,10 +24336,10 @@
     {
       "id": 26308,
       "name": "I wanna be the CKM",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
-      "rating": 1.7,
-      "num_ratings": 3,
+      "difficulty": "44.0",
+      "difficulty_num": 44.0,
+      "rating": 3.1,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -25546,10 +25546,10 @@
     {
       "id": 26903,
       "name": "I wanna be the CLT",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
+      "rating": 0.1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -25566,10 +25566,10 @@
     {
       "id": 26437,
       "name": "I wanna be the CMK",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "32.0",
+      "difficulty_num": 32.0,
+      "rating": 2.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -29226,10 +29226,10 @@
     {
       "id": 24706,
       "name": "I wanna be the CSZ",
-      "difficulty": "43.0",
-      "difficulty_num": 43.0,
-      "rating": 5.3,
-      "num_ratings": 2,
+      "difficulty": "34.5",
+      "difficulty_num": 34.5,
+      "rating": 5.2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -31006,8 +31006,8 @@
     {
       "id": 19802,
       "name": "Decession",
-      "difficulty": "88.7",
-      "difficulty_num": 88.7,
+      "difficulty": "88.5",
+      "difficulty_num": 88.5,
       "rating": 8.5,
       "num_ratings": 30,
       "is_needle": true,
@@ -79226,10 +79226,10 @@
     {
       "id": 22725,
       "name": "Love. Memory. Hope. Forgiveness. Tragedy. Death...",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
-      "rating": 7.8,
-      "num_ratings": 28,
+      "difficulty": "71.9",
+      "difficulty_num": 71.9,
+      "rating": 7.9,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -90056,10 +90056,10 @@
     {
       "id": 10949,
       "name": "I wanna be the No Threat! -prologue-",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
-      "rating": 3.8,
-      "num_ratings": 1,
+      "difficulty": "44.5",
+      "difficulty_num": 44.5,
+      "rating": 3.9,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111369,7 +111369,7 @@
       "difficulty": "89.4",
       "difficulty_num": 89.4,
       "rating": 2.9,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
