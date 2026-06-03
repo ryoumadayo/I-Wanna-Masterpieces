@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-03 09:26:25",
+  "last_updated": "2026-06-03 14:26:27",
   "announcements": [
+    {
+      "date": "2026/06/03",
+      "message": "Unicorn Tail Dustboxxxx RMX が新たに追加されました。",
+      "type": "add",
+      "id": 15554
+    },
     {
       "date": "2026/06/03",
       "message": "I wanna be the Super Needle! が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "SONAFLEKI が新たに追加されました。",
       "type": "add",
       "id": 46031
-    },
-    {
-      "date": "2026/03/31",
-      "message": "I Wanna WTF!? が新たに追加されました。",
-      "type": "add",
-      "id": 28233
     }
   ],
   "games": [
@@ -59806,10 +59806,10 @@
     {
       "id": 24663,
       "name": "I wanna be the HHO",
-      "difficulty": "25.0",
-      "difficulty_num": 25.0,
-      "rating": 2.9,
-      "num_ratings": 4,
+      "difficulty": "23.8",
+      "difficulty_num": 23.8,
+      "rating": 2.7,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72248,7 +72248,7 @@
       "name": "I wanna kill the Kamilia 2 WARPED",
       "difficulty": "87.1",
       "difficulty_num": 87.1,
-      "rating": 7.0,
+      "rating": 7.1,
       "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": false
@@ -89769,7 +89769,7 @@
       "difficulty": "89.2",
       "difficulty_num": 89.2,
       "rating": 9.6,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -127988,8 +127988,8 @@
       "name": "Unicorn Tail Dustboxxxx RMX",
       "difficulty": "83.6",
       "difficulty_num": 83.6,
-      "rating": 6.4,
-      "num_ratings": 9,
+      "rating": 6.8,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
