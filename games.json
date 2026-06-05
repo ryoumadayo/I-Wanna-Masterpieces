@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 23:47:28",
+  "last_updated": "2026-06-06 02:13:47",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -72446,10 +72446,10 @@
     {
       "id": 19894,
       "name": "I Wanna Kill the Kermit 3",
-      "difficulty": "80.0",
-      "difficulty_num": 80.0,
+      "difficulty": "79.9",
+      "difficulty_num": 79.9,
       "rating": 9.2,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75736,6 +75736,16 @@
     {
       "id": 24235,
       "name": "Landing Only",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46285,
+      "name": "I wanna be the Landscape!!!",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
@@ -98386,10 +98396,10 @@
     {
       "id": 46281,
       "name": "I wanna Pororoca",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
+      "rating": 7.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -119966,10 +119976,10 @@
     {
       "id": 18793,
       "name": "I wanna be the tarantula",
-      "difficulty": "81.2",
-      "difficulty_num": 81.2,
-      "rating": 3.7,
-      "num_ratings": 5,
+      "difficulty": "79.3",
+      "difficulty_num": 79.3,
+      "rating": 4.0,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
