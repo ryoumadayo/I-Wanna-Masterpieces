@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 20:41:52",
+  "last_updated": "2026-06-05 23:47:28",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -1574,6 +1574,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46283,
+      "name": "i wanna be the 1st world REMAKE",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 24314,
       "name": "I Wanna 1UP",
       "difficulty": "56.0",
@@ -2008,8 +2018,8 @@
       "name": "222 Not Found",
       "difficulty": "70.3",
       "difficulty_num": 70.3,
-      "rating": 7.1,
-      "num_ratings": 3,
+      "rating": 7.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7876,10 +7886,10 @@
     {
       "id": 18903,
       "name": "AsTatine",
-      "difficulty": "65.8",
-      "difficulty_num": 65.8,
+      "difficulty": "65.3",
+      "difficulty_num": 65.3,
       "rating": 6.5,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -10296,10 +10306,10 @@
     {
       "id": 46280,
       "name": "I Wanna Be a Cute Bird",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 7.0,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -26764,6 +26774,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46282,
+      "name": "I wanna be the Compulsive Trouble",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 11908,
       "name": "I wanna be the Computer 2!",
       "difficulty": "36.8",
@@ -26886,10 +26906,10 @@
     {
       "id": 45846,
       "name": "Condori's Spike",
-      "difficulty": "66.5",
-      "difficulty_num": 66.5,
-      "rating": 6.6,
-      "num_ratings": 3,
+      "difficulty": "66.0",
+      "difficulty_num": 66.0,
+      "rating": 6.4,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -27760,6 +27780,16 @@
       "difficulty_num": 40.0,
       "rating": 5.7,
       "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46284,
+      "name": "I wanna be the Control",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -98354,6 +98384,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46281,
+      "name": "I wanna Pororoca",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 17239,
       "name": "I wanna be the Portal",
       "difficulty": "18.5",
@@ -138846,10 +138886,10 @@
     {
       "id": 17921,
       "name": "I wanna be the くれいじーおぴんこす///",
-      "difficulty": "94.2",
-      "difficulty_num": 94.2,
+      "difficulty": "93.2",
+      "difficulty_num": 93.2,
       "rating": 7.3,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
