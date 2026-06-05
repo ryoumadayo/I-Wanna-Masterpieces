@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 04:17:01",
+  "last_updated": "2026-06-06 06:07:53",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -26776,10 +26776,10 @@
     {
       "id": 46282,
       "name": "I wanna be the Compulsive Trouble",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "80.0",
+      "difficulty_num": 80.0,
+      "rating": 7.3,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35676,10 +35676,10 @@
     {
       "id": 15295,
       "name": "I Wanna Double Invert",
-      "difficulty": "73.5",
-      "difficulty_num": 73.5,
-      "rating": 0.9,
-      "num_ratings": 8,
+      "difficulty": "67.1",
+      "difficulty_num": 67.1,
+      "rating": 1.6,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35696,10 +35696,10 @@
     {
       "id": 25906,
       "name": "I wanna be the Double invert 2",
-      "difficulty": "70.0",
-      "difficulty_num": 70.0,
-      "rating": 0.5,
-      "num_ratings": 4,
+      "difficulty": "42.5",
+      "difficulty_num": 42.5,
+      "rating": 1.9,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
