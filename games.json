@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 08:45:16",
+  "last_updated": "2026-06-05 12:36:39",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -25546,10 +25546,10 @@
     {
       "id": 26903,
       "name": "I wanna be the CLT",
-      "difficulty": "48.0",
-      "difficulty_num": 48.0,
-      "rating": 0.1,
-      "num_ratings": 2,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 0.3,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -32576,10 +32576,10 @@
     {
       "id": 27203,
       "name": "I wanna be the Denparadox",
-      "difficulty": "83.7",
-      "difficulty_num": 83.7,
-      "rating": 8.6,
-      "num_ratings": 22,
+      "difficulty": "83.6",
+      "difficulty_num": 83.6,
+      "rating": 8.3,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -34332,6 +34332,16 @@
       "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46279,
+      "name": "distant hold",
+      "difficulty": "95.0",
+      "difficulty_num": 95.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 20136,
@@ -46696,8 +46706,8 @@
     {
       "id": 21379,
       "name": "I wanna Flow",
-      "difficulty": "94.2",
-      "difficulty_num": 94.2,
+      "difficulty": "94.0",
+      "difficulty_num": 94.0,
       "rating": 8.1,
       "num_ratings": 13,
       "is_needle": true,
@@ -92926,8 +92936,8 @@
     {
       "id": 25723,
       "name": "I wanna be the Ordinary Needle",
-      "difficulty": "87.0",
-      "difficulty_num": 87.0,
+      "difficulty": "86.9",
+      "difficulty_num": 86.9,
       "rating": 7.6,
       "num_ratings": 12,
       "is_needle": true,
@@ -137096,8 +137106,8 @@
     {
       "id": 23306,
       "name": "I wanna ←",
-      "difficulty": "85.2",
-      "difficulty_num": 85.2,
+      "difficulty": "85.0",
+      "difficulty_num": 85.0,
       "rating": 8.2,
       "num_ratings": 6,
       "is_needle": true,
