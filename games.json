@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 04:20:26",
+  "last_updated": "2026-06-07 05:39:44",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -4360,6 +4360,16 @@
       "difficulty_num": 49.1,
       "rating": 6.0,
       "num_ratings": 9,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46292,
+      "name": "I wanna Abstract the Color",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -49534,6 +49544,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46291,
+      "name": "I wanna gaze at the beautiful moonlit days",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 19612,
       "name": "I wanna gaze at the Horizon",
       "difficulty": "82.3",
@@ -72449,7 +72469,7 @@
       "difficulty": "71.0",
       "difficulty_num": 71.0,
       "rating": 8.5,
-      "num_ratings": 68,
+      "num_ratings": 69,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -119404,6 +119424,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46293,
+      "name": "I wanna take a step towards Heaven",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 17873,
       "name": "I wanna take a trip to HekiRyuu Town",
       "difficulty": "N/A",
@@ -137258,8 +137288,8 @@
       "name": "I wanna →→→ stream!",
       "difficulty": "78.0",
       "difficulty_num": 78.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "rating": 8.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
