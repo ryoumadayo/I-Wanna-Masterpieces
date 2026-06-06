@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 22:29:31",
+  "last_updated": "2026-06-06 23:58:54",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -5836,10 +5836,10 @@
     {
       "id": 16500,
       "name": "I wanna be the along the way 2",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 5.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -12949,7 +12949,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -29976,11 +29976,11 @@
     {
       "id": 25331,
       "name": "I wanna be the DaMo",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "20.0",
+      "difficulty_num": 20.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101544,6 +101544,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46290,
+      "name": "I wanna QZkago requiem",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 14692,
       "name": "I Wanna R",
       "difficulty": "73.9",
@@ -133924,6 +133934,26 @@
       "is_avoidance": false
     },
     {
+      "id": 46288,
+      "name": "I wanna be the X",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46289,
+      "name": "I Wanna Be The X",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 25956,
       "name": "I wanna X v1.0",
       "difficulty": "39.4",
@@ -139896,11 +139926,11 @@
     {
       "id": 16073,
       "name": "I wanna BE the なんとか",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "10.0",
+      "difficulty_num": 10.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -140019,7 +140049,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
