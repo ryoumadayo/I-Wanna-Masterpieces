@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 01:13:21",
+  "last_updated": "2026-06-07 02:41:07",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -21488,8 +21488,8 @@
       "name": "I wanna be The Cat",
       "difficulty": "50.0",
       "difficulty_num": 50.0,
-      "rating": 9.2,
-      "num_ratings": 50,
+      "rating": 9.1,
+      "num_ratings": 51,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -25606,10 +25606,10 @@
     {
       "id": 15754,
       "name": "I wanna be the Co-op",
-      "difficulty": "59.9",
-      "difficulty_num": 59.9,
+      "difficulty": "59.8",
+      "difficulty_num": 59.8,
       "rating": 9.2,
-      "num_ratings": 104,
+      "num_ratings": 105,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -52916,10 +52916,10 @@
     {
       "id": 46260,
       "name": "I Wanna Go On A Critter Journey",
-      "difficulty": "32.4",
-      "difficulty_num": 32.4,
-      "rating": 7.3,
-      "num_ratings": 8,
+      "difficulty": "30.7",
+      "difficulty_num": 30.7,
+      "rating": 7.4,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -126699,8 +126699,8 @@
       "difficulty": "53.4",
       "difficulty_num": 53.4,
       "rating": 4.0,
-      "num_ratings": 18,
-      "is_needle": false,
+      "num_ratings": 19,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -127636,10 +127636,10 @@
     {
       "id": 14708,
       "name": "I Wanna Uhuhu Spike 2",
-      "difficulty": "49.1",
-      "difficulty_num": 49.1,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
       "rating": 7.4,
-      "num_ratings": 166,
+      "num_ratings": 167,
       "is_needle": true,
       "is_avoidance": false
     },
