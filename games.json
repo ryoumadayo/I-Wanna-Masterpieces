@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 20:53:03",
+  "last_updated": "2026-06-06 22:29:31",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -23596,10 +23596,10 @@
     {
       "id": 24676,
       "name": "I Wanna Child's Mind",
-      "difficulty": "84.0",
-      "difficulty_num": 84.0,
-      "rating": 8.0,
-      "num_ratings": 1,
+      "difficulty": "83.5",
+      "difficulty_num": 83.5,
+      "rating": 7.3,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -26776,10 +26776,10 @@
     {
       "id": 46282,
       "name": "I wanna be the Compulsive Trouble",
-      "difficulty": "68.7",
-      "difficulty_num": 68.7,
-      "rating": 7.5,
-      "num_ratings": 4,
+      "difficulty": "67.3",
+      "difficulty_num": 67.3,
+      "rating": 7.6,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31546,10 +31546,10 @@
     {
       "id": 19596,
       "name": "I Wanna Defeat The Discord Makers NA Side",
-      "difficulty": "73.2",
-      "difficulty_num": 73.2,
+      "difficulty": "73.0",
+      "difficulty_num": 73.0,
       "rating": 7.5,
-      "num_ratings": 27,
+      "num_ratings": 28,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -44826,10 +44826,10 @@
     {
       "id": 23546,
       "name": "I wanna be the Fifth Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "53.0",
+      "difficulty_num": 53.0,
+      "rating": 6.6,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -46106,10 +46106,10 @@
     {
       "id": 23521,
       "name": "I wanna be the First Needle",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
-      "rating": 5.5,
-      "num_ratings": 2,
+      "difficulty": "57.0",
+      "difficulty_num": 57.0,
+      "rating": 5.8,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47756,10 +47756,10 @@
     {
       "id": 23543,
       "name": "I wanna be the Fourth Needle",
-      "difficulty": "48.0",
-      "difficulty_num": 48.0,
-      "rating": 5.0,
-      "num_ratings": 1,
+      "difficulty": "49.5",
+      "difficulty_num": 49.5,
+      "rating": 6.2,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -48031,6 +48031,16 @@
       "rating": 5.5,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46286,
+      "name": "I wanna be the freshness",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -54846,10 +54856,10 @@
     {
       "id": 26392,
       "name": "I wanna be the good Hentai EX",
-      "difficulty": "89.3",
-      "difficulty_num": 89.3,
-      "rating": 9.8,
-      "num_ratings": 5,
+      "difficulty": "89.5",
+      "difficulty_num": 89.5,
+      "rating": 9.2,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -91446,10 +91456,10 @@
     {
       "id": 17868,
       "name": "I wanna be the Number One",
-      "difficulty": "34.8",
-      "difficulty_num": 34.8,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
       "rating": 6.1,
-      "num_ratings": 29,
+      "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -102774,6 +102784,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46287,
+      "name": "I Wanna Be The Realist Nig",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 25976,
       "name": "I wanna realize",
       "difficulty": "61.7",
@@ -108836,10 +108856,10 @@
     {
       "id": 23544,
       "name": "I wanna be the Second Needle",
-      "difficulty": "57.5",
-      "difficulty_num": 57.5,
-      "rating": 4.6,
-      "num_ratings": 3,
+      "difficulty": "54.0",
+      "difficulty_num": 54.0,
+      "rating": 4.7,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -123016,10 +123036,10 @@
     {
       "id": 23545,
       "name": "I wanna be the Third Needle",
-      "difficulty": "49.0",
-      "difficulty_num": 49.0,
-      "rating": 4.9,
-      "num_ratings": 2,
+      "difficulty": "51.5",
+      "difficulty_num": 51.5,
+      "rating": 5.8,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
