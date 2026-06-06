@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 19:02:45",
+  "last_updated": "2026-06-06 20:53:03",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -21916,10 +21916,10 @@
     {
       "id": 20949,
       "name": "I wanna celebrate Altale Fuduki",
-      "difficulty": "44.5",
-      "difficulty_num": 44.5,
+      "difficulty": "44.8",
+      "difficulty_num": 44.8,
       "rating": 7.5,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -46106,10 +46106,10 @@
     {
       "id": 23521,
       "name": "I wanna be the First Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 5.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47756,11 +47756,11 @@
     {
       "id": 23543,
       "name": "I wanna be the Fourth Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "48.0",
+      "difficulty_num": 48.0,
+      "rating": 5.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -52996,10 +52996,10 @@
     {
       "id": 19414,
       "name": "I wanna go Rainbow Road",
-      "difficulty": "39.1",
-      "difficulty_num": 39.1,
+      "difficulty": "39.5",
+      "difficulty_num": 39.5,
       "rating": 7.1,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -54816,30 +54816,30 @@
     {
       "id": 17896,
       "name": "I wanna be the good Hentai",
-      "difficulty": "54.7",
-      "difficulty_num": 54.7,
+      "difficulty": "54.5",
+      "difficulty_num": 54.5,
       "rating": 5.3,
-      "num_ratings": 20,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 18195,
       "name": "I wanna be the good Hentai 2",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
+      "difficulty": "39.1",
+      "difficulty_num": 39.1,
       "rating": 5.6,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 18196,
       "name": "I wanna be the good Hentai 3",
-      "difficulty": "35.2",
-      "difficulty_num": 35.2,
+      "difficulty": "35.5",
+      "difficulty_num": 35.5,
       "rating": 4.9,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -108836,10 +108836,10 @@
     {
       "id": 23544,
       "name": "I wanna be the Second Needle",
-      "difficulty": "67.0",
-      "difficulty_num": 67.0,
-      "rating": 4.0,
-      "num_ratings": 2,
+      "difficulty": "57.5",
+      "difficulty_num": 57.5,
+      "rating": 4.6,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -123016,10 +123016,10 @@
     {
       "id": 23545,
       "name": "I wanna be the Third Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
+      "rating": 4.9,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
