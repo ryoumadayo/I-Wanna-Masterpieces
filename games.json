@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 23:58:54",
+  "last_updated": "2026-06-07 01:13:21",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -44826,9 +44826,9 @@
     {
       "id": 23546,
       "name": "I wanna be the Fifth Needle",
-      "difficulty": "53.0",
-      "difficulty_num": 53.0,
-      "rating": 6.6,
+      "difficulty": "56.0",
+      "difficulty_num": 56.0,
+      "rating": 6.8,
       "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
@@ -46106,8 +46106,8 @@
     {
       "id": 23521,
       "name": "I wanna be the First Needle",
-      "difficulty": "57.0",
-      "difficulty_num": 57.0,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
       "rating": 5.8,
       "num_ratings": 3,
       "is_needle": true,
@@ -47756,8 +47756,8 @@
     {
       "id": 23543,
       "name": "I wanna be the Fourth Needle",
-      "difficulty": "49.5",
-      "difficulty_num": 49.5,
+      "difficulty": "52.0",
+      "difficulty_num": 52.0,
       "rating": 6.2,
       "num_ratings": 2,
       "is_needle": true,
@@ -86446,11 +86446,11 @@
     {
       "id": 23341,
       "name": "I Wanna Be The MSG",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -123046,9 +123046,9 @@
     {
       "id": 23545,
       "name": "I wanna be the Third Needle",
-      "difficulty": "51.5",
-      "difficulty_num": 51.5,
-      "rating": 5.8,
+      "difficulty": "54.0",
+      "difficulty_num": 54.0,
+      "rating": 6.0,
       "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
