@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 06:43:43",
+  "last_updated": "2026-06-08 08:03:54",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -38186,10 +38186,10 @@
     {
       "id": 21315,
       "name": "I Wanna Eclipse",
-      "difficulty": "57.1",
-      "difficulty_num": 57.1,
+      "difficulty": "57.2",
+      "difficulty_num": 57.2,
       "rating": 9.0,
-      "num_ratings": 77,
+      "num_ratings": 78,
       "is_needle": false,
       "is_avoidance": false
     },
