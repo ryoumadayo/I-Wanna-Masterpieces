@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 19:28:39",
+  "last_updated": "2026-06-07 21:08:25",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -10318,8 +10318,8 @@
       "name": "I Wanna Be a Cute Bird",
       "difficulty": "35.0",
       "difficulty_num": 35.0,
-      "rating": 7.0,
-      "num_ratings": 3,
+      "rating": 6.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
