@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 08:03:54",
+  "last_updated": "2026-06-08 10:40:27",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -36669,7 +36669,7 @@
       "difficulty": "54.5",
       "difficulty_num": 54.5,
       "rating": 5.9,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68099,7 +68099,7 @@
       "difficulty": "59.0",
       "difficulty_num": 59.0,
       "rating": 6.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -70059,7 +70059,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101729,7 +101729,7 @@
       "difficulty": "56.3",
       "difficulty_num": 56.3,
       "rating": 5.3,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -113866,10 +113866,10 @@
     {
       "id": 27362,
       "name": "i wanna be the solar system",
-      "difficulty": "46.0",
-      "difficulty_num": 46.0,
+      "difficulty": "46.8",
+      "difficulty_num": 46.8,
       "rating": 6.0,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -131466,9 +131466,9 @@
     {
       "id": 15493,
       "name": "I wanna want the Wanted White Watch",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 4.0,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
