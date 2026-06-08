@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 15:42:00",
+  "last_updated": "2026-06-08 20:56:38",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -8668,8 +8668,8 @@
       "name": "I wanna avoid the buriburi2",
       "difficulty": "66.0",
       "difficulty_num": 66.0,
-      "rating": 7.7,
-      "num_ratings": 4,
+      "rating": 8.0,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -12214,6 +12214,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46297,
+      "name": "I wanna be LiteTedde",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 46264,
       "name": "I Wanna Be Lookin CUTE In My Jammies",
       "difficulty": "100.0",
@@ -13696,11 +13706,11 @@
     {
       "id": 18515,
       "name": "I wanna beat lm spike",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
+      "rating": 5.4,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39896,10 +39906,10 @@
     {
       "id": 18530,
       "name": "I wanna enjoy the Electrified Butterscotch Dandy",
-      "difficulty": "54.6",
-      "difficulty_num": 54.6,
+      "difficulty": "54.7",
+      "difficulty_num": 54.7,
       "rating": 7.9,
-      "num_ratings": 116,
+      "num_ratings": 117,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -39949,7 +39959,7 @@
       "difficulty": "53.1",
       "difficulty_num": 53.1,
       "rating": 8.2,
-      "num_ratings": 104,
+      "num_ratings": 105,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -40179,7 +40189,7 @@
       "difficulty": "58.1",
       "difficulty_num": 58.1,
       "rating": 7.8,
-      "num_ratings": 82,
+      "num_ratings": 83,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -41496,10 +41506,10 @@
     {
       "id": 17476,
       "name": "I wanna escape the rainbow trap",
-      "difficulty": "66.8",
-      "difficulty_num": 66.8,
+      "difficulty": "67.1",
+      "difficulty_num": 67.1,
       "rating": 8.4,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -43846,6 +43856,16 @@
     {
       "id": 26072,
       "name": "I wanna be the Falst Easy",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46298,
+      "name": "I wanna be the Famicom",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
@@ -68684,6 +68704,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46296,
+      "name": "I wanna be the just first",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 18902,
       "name": "Just five seconds",
       "difficulty": "43.3",
@@ -70066,9 +70096,9 @@
     {
       "id": 16052,
       "name": "I wanna kick the Sprikye",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
+      "difficulty": "58.0",
+      "difficulty_num": 58.0,
+      "rating": 6.2,
       "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
@@ -86926,12 +86956,12 @@
     {
       "id": 15351,
       "name": "My I wanna be the guy Fangame",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 0.5,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 12034,
@@ -101149,7 +101179,7 @@
       "difficulty": "56.9",
       "difficulty_num": 56.9,
       "rating": 6.9,
-      "num_ratings": 96,
+      "num_ratings": 97,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -132860,6 +132890,16 @@
       "difficulty_num": 99.0,
       "rating": 1.0,
       "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46299,
+      "name": "I wanna win the easy game",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
