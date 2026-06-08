@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 03:24:51",
+  "last_updated": "2026-06-09 05:39:52",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -15069,7 +15069,7 @@
       "difficulty": "4.8",
       "difficulty_num": 4.8,
       "rating": 1.5,
-      "num_ratings": 5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -67956,10 +67956,10 @@
     {
       "id": 24188,
       "name": "I wanna be the JTH",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
-      "rating": 5.3,
-      "num_ratings": 3,
+      "difficulty": "55.7",
+      "difficulty_num": 55.7,
+      "rating": 3.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -74964,6 +74964,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46301,
+      "name": "I Wanna Know You",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 24518,
       "name": "I wanna be the KNT",
       "difficulty": "N/A",
@@ -80270,6 +80280,16 @@
       "difficulty_num": 68.0,
       "rating": 6.9,
       "num_ratings": 8,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46303,
+      "name": "I wanna lying on the couch",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101766,9 +101786,9 @@
     {
       "id": 16155,
       "name": "I wanna Radii",
-      "difficulty": "56.3",
-      "difficulty_num": 56.3,
-      "rating": 5.3,
+      "difficulty": "54.8",
+      "difficulty_num": 54.8,
+      "rating": 5.5,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
@@ -123540,6 +123560,16 @@
       "difficulty_num": 72.8,
       "rating": 7.1,
       "num_ratings": 4,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46302,
+      "name": "I wanna tide me over",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
