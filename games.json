@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 10:40:27",
+  "last_updated": "2026-06-08 15:42:00",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -61858,8 +61858,8 @@
       "name": "I do wanna download this game",
       "difficulty": "0.1",
       "difficulty_num": 0.1,
-      "rating": 1.2,
-      "num_ratings": 13,
+      "rating": 1.1,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -68448,8 +68448,8 @@
       "name": "I wanna Jumping Heart",
       "difficulty": "31.3",
       "difficulty_num": 31.3,
-      "rating": 6.7,
-      "num_ratings": 28,
+      "rating": 6.6,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -68762,6 +68762,16 @@
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46294,
+      "name": "Just some darkness",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 11999,
@@ -104129,7 +104139,7 @@
       "difficulty": "50.4",
       "difficulty_num": 50.4,
       "rating": 4.9,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -109881,6 +109891,16 @@
       "rating": 4.5,
       "num_ratings": 6,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46295,
+      "name": "I Wanna See Tomorrow",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
