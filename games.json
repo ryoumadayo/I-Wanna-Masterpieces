@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 01:30:52",
+  "last_updated": "2026-06-10 03:33:10",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -2539,7 +2539,7 @@
       "difficulty": "43.1",
       "difficulty_num": 43.1,
       "rating": 6.6,
-      "num_ratings": 130,
+      "num_ratings": 131,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -20686,10 +20686,10 @@
     {
       "id": 17020,
       "name": "I wanna Bye Bye spike2",
-      "difficulty": "40.5",
-      "difficulty_num": 40.5,
+      "difficulty": "40.3",
+      "difficulty_num": 40.3,
       "rating": 6.6,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29306,10 +29306,10 @@
     {
       "id": 18332,
       "name": "I wanna CUBETECH",
-      "difficulty": "38.3",
-      "difficulty_num": 38.3,
+      "difficulty": "38.0",
+      "difficulty_num": 38.0,
       "rating": 7.0,
-      "num_ratings": 40,
+      "num_ratings": 41,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -32486,10 +32486,10 @@
     {
       "id": 12289,
       "name": "I wanna deliver a Letter",
-      "difficulty": "48.1",
-      "difficulty_num": 48.1,
-      "rating": 6.7,
-      "num_ratings": 33,
+      "difficulty": "48.5",
+      "difficulty_num": 48.5,
+      "rating": 6.6,
+      "num_ratings": 34,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79476,10 +79476,10 @@
     {
       "id": 17616,
       "name": "I wanna be the lovely ⑨",
-      "difficulty": "43.4",
-      "difficulty_num": 43.4,
+      "difficulty": "43.3",
+      "difficulty_num": 43.3,
       "rating": 6.7,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -87149,7 +87149,7 @@
       "difficulty": "41.4",
       "difficulty_num": 41.4,
       "rating": 5.9,
-      "num_ratings": 67,
+      "num_ratings": 68,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -92326,10 +92326,10 @@
     {
       "id": 15768,
       "name": "I wanna one attack in soul easy",
-      "difficulty": "34.1",
-      "difficulty_num": 34.1,
+      "difficulty": "34.0",
+      "difficulty_num": 34.0,
       "rating": 7.4,
-      "num_ratings": 59,
+      "num_ratings": 60,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -93376,10 +93376,10 @@
     {
       "id": 26376,
       "name": "I Wanna Ounce",
-      "difficulty": "68.6",
-      "difficulty_num": 68.6,
+      "difficulty": "68.2",
+      "difficulty_num": 68.2,
       "rating": 7.3,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -93796,10 +93796,10 @@
     {
       "id": 19512,
       "name": "I Wanna p!mp!n Needle",
-      "difficulty": "44.6",
-      "difficulty_num": 44.6,
+      "difficulty": "44.5",
+      "difficulty_num": 44.5,
       "rating": 6.8,
-      "num_ratings": 54,
+      "num_ratings": 55,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -104676,10 +104676,10 @@
     {
       "id": 20812,
       "name": "I wanna retort",
-      "difficulty": "38.6",
-      "difficulty_num": 38.6,
+      "difficulty": "38.5",
+      "difficulty_num": 38.5,
       "rating": 6.8,
-      "num_ratings": 50,
+      "num_ratings": 51,
       "is_needle": true,
       "is_avoidance": false
     },
