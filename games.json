@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 11:56:17",
+  "last_updated": "2026-06-09 15:50:48",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -20066,10 +20066,10 @@
     {
       "id": 24185,
       "name": "I wanna be the BTT",
-      "difficulty": "26.7",
-      "difficulty_num": 26.7,
-      "rating": 5.8,
-      "num_ratings": 7,
+      "difficulty": "27.1",
+      "difficulty_num": 27.1,
+      "rating": 5.5,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -102686,10 +102686,10 @@
     {
       "id": 11689,
       "name": "I wanna reach the GOAL!(一般公開用)",
-      "difficulty": "45.8",
-      "difficulty_num": 45.8,
-      "rating": 5.8,
-      "num_ratings": 6,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 5.9,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104376,10 +104376,10 @@
     {
       "id": 19499,
       "name": "I wanna be the Residual pneumatronic",
-      "difficulty": "39.5",
-      "difficulty_num": 39.5,
-      "rating": 4.9,
-      "num_ratings": 4,
+      "difficulty": "39.6",
+      "difficulty_num": 39.6,
+      "rating": 5.3,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
