@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 19:33:40",
+  "last_updated": "2026-06-09 22:43:39",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -17706,8 +17706,8 @@
     {
       "id": 11890,
       "name": "I wanna be the Boshy",
-      "difficulty": "66.7",
-      "difficulty_num": 66.7,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
       "rating": 8.0,
       "num_ratings": 216,
       "is_needle": false,
@@ -92916,11 +92916,11 @@
     {
       "id": 15300,
       "name": "I wanna open Doors",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 1.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
