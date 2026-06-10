@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 08:51:32",
+  "last_updated": "2026-06-10 12:34:20",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -9906,10 +9906,10 @@
     {
       "id": 28295,
       "name": "I Wanna Bash The Bart",
-      "difficulty": "35.4",
-      "difficulty_num": 35.4,
+      "difficulty": "35.1",
+      "difficulty_num": 35.1,
       "rating": 8.3,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78898,8 +78898,8 @@
       "name": "I wanna love fumiya 緩和版",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.5,
-      "num_ratings": 1,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
