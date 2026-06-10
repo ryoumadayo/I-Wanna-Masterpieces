@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-11 00:31:12",
+  "last_updated": "2026-06-11 03:29:19",
   "announcements": [
+    {
+      "date": "2026/06/11",
+      "message": "I wanna remember the Reitengo が新たに追加されました。",
+      "type": "add",
+      "id": 17273
+    },
     {
       "date": "2026/06/03",
       "message": "Unicorn Tail Dustboxxxx RMX が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna GNU が新たに追加されました。",
       "type": "add",
       "id": 16216
-    },
-    {
-      "date": "2026/03/31",
-      "message": "SONAFLEKI が新たに追加されました。",
-      "type": "add",
-      "id": 46031
     }
   ],
   "games": [
@@ -45584,6 +45584,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46305,
+      "name": "I Wanna Find the Gimmick Way",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 11547,
       "name": "I wanna find the Guy",
       "difficulty": "43.9",
@@ -74976,10 +74986,10 @@
     {
       "id": 46301,
       "name": "I Wanna Know You",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
-      "rating": 9.0,
-      "num_ratings": 2,
+      "difficulty": "57.5",
+      "difficulty_num": 57.5,
+      "rating": 4.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104036,10 +104046,10 @@
     {
       "id": 17273,
       "name": "I wanna remember the Reitengo",
-      "difficulty": "53.0",
-      "difficulty_num": 53.0,
-      "rating": 6.7,
-      "num_ratings": 9,
+      "difficulty": "52.8",
+      "difficulty_num": 52.8,
+      "rating": 6.8,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -131124,6 +131134,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46306,
+      "name": "I wanna walk mindlessly",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 23151,
       "name": "I wanna Walk on Sunshine",
       "difficulty": "61.0",
@@ -136329,8 +136349,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
