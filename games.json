@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 20:52:30",
+  "last_updated": "2026-06-11 00:31:12",
   "announcements": [
     {
       "date": "2026/06/03",
@@ -26796,10 +26796,10 @@
     {
       "id": 46282,
       "name": "I wanna be the Compulsive Trouble",
-      "difficulty": "67.3",
-      "difficulty_num": 67.3,
+      "difficulty": "66.8",
+      "difficulty_num": 66.8,
       "rating": 7.6,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -36676,8 +36676,8 @@
     {
       "id": 16333,
       "name": "I wanna Dukiru",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
+      "difficulty": "54.0",
+      "difficulty_num": 54.0,
       "rating": 5.9,
       "num_ratings": 3,
       "is_needle": true,
@@ -71416,10 +71416,10 @@
     {
       "id": 20621,
       "name": "I Wanna Kill The Chocolonel -Hard ver-",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
+      "rating": 4.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79486,10 +79486,10 @@
     {
       "id": 17616,
       "name": "I wanna be the lovely ⑨",
-      "difficulty": "43.3",
-      "difficulty_num": 43.3,
+      "difficulty": "43.2",
+      "difficulty_num": 43.2,
       "rating": 6.7,
-      "num_ratings": 42,
+      "num_ratings": 43,
       "is_needle": true,
       "is_avoidance": false
     },
