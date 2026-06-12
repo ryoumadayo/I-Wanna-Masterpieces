@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 23:12:53",
+  "last_updated": "2026-06-13 02:21:33",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -28979,7 +28979,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -33846,10 +33846,10 @@
     {
       "id": 14672,
       "name": "I wanna die to the Spike",
-      "difficulty": "82.5",
-      "difficulty_num": 82.5,
-      "rating": 5.6,
-      "num_ratings": 27,
+      "difficulty": "82.4",
+      "difficulty_num": 82.4,
+      "rating": 5.5,
+      "num_ratings": 28,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -39336,10 +39336,10 @@
     {
       "id": 20366,
       "name": "I wanna end the PTSD",
-      "difficulty": "66.1",
-      "difficulty_num": 66.1,
+      "difficulty": "65.9",
+      "difficulty_num": 65.9,
       "rating": 6.2,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -67978,8 +67978,8 @@
       "name": "I wanna be the JRG",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "rating": 0.5,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
