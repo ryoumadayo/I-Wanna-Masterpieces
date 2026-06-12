@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 04:29:36",
+  "last_updated": "2026-06-13 06:16:04",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -44032,6 +44032,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46311,
+      "name": "I wanna be the Fantasy",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 18035,
