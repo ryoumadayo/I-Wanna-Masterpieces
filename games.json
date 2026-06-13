@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 09:20:25",
+  "last_updated": "2026-06-13 14:00:38",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -70108,8 +70108,8 @@
       "name": "I wanna be the KIB",
       "difficulty": "10.0",
       "difficulty_num": 10.0,
-      "rating": 4.0,
-      "num_ratings": 3,
+      "rating": 3.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -113356,10 +113356,10 @@
     {
       "id": 24232,
       "name": "I wanna be the SMC",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
-      "rating": 1.0,
-      "num_ratings": 3,
+      "difficulty": "60.5",
+      "difficulty_num": 60.5,
+      "rating": 1.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -130619,7 +130619,7 @@
       "difficulty": "80.0",
       "difficulty_num": 80.0,
       "rating": 9.3,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
