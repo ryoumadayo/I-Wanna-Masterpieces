@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 23:59:05",
+  "last_updated": "2026-06-14 01:21:47",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -21746,10 +21746,10 @@
     {
       "id": 46261,
       "name": "I Wanna Cautiously Observe The Goober From A Safe Distance",
-      "difficulty": "67.5",
-      "difficulty_num": 67.5,
-      "rating": 8.3,
-      "num_ratings": 7,
+      "difficulty": "67.6",
+      "difficulty_num": 67.6,
+      "rating": 8.2,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -133299,7 +133299,7 @@
       "difficulty": "55.2",
       "difficulty_num": 55.2,
       "rating": 7.5,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
