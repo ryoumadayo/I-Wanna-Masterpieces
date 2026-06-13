@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 19:59:24",
+  "last_updated": "2026-06-13 21:54:41",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -37726,8 +37726,8 @@
     {
       "id": 11508,
       "name": "I wanna eat the ER",
-      "difficulty": "26.8",
-      "difficulty_num": 26.8,
+      "difficulty": "26.5",
+      "difficulty_num": 26.5,
       "rating": 5.5,
       "num_ratings": 37,
       "is_needle": false,
@@ -37876,8 +37876,8 @@
     {
       "id": 11514,
       "name": "I wanna eat the Rori Girl",
-      "difficulty": "17.4",
-      "difficulty_num": 17.4,
+      "difficulty": "17.3",
+      "difficulty_num": 17.3,
       "rating": 7.2,
       "num_ratings": 120,
       "is_needle": false,
@@ -108616,10 +108616,10 @@
     {
       "id": 16860,
       "name": "I wanna be the Schroedinger",
-      "difficulty": "35.9",
-      "difficulty_num": 35.9,
+      "difficulty": "36.0",
+      "difficulty_num": 36.0,
       "rating": 7.8,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -130346,10 +130346,10 @@
     {
       "id": 14760,
       "name": "I wanna be the Virtualance",
-      "difficulty": "43.6",
-      "difficulty_num": 43.6,
+      "difficulty": "43.9",
+      "difficulty_num": 43.9,
       "rating": 7.0,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
