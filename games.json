@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 17:29:53",
+  "last_updated": "2026-06-13 19:59:24",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -49404,6 +49404,26 @@
       "is_avoidance": false
     },
     {
+      "id": 46312,
+      "name": "I wanna garbage needle 01",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46313,
+      "name": "I wanna garbage needle 02",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 19457,
       "name": "I Wanna Garuda",
       "difficulty": "50.7",
@@ -55279,7 +55299,7 @@
       "difficulty": "91.9",
       "difficulty_num": 91.9,
       "rating": 7.5,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": true
     },
