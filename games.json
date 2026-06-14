@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 03:11:20",
+  "last_updated": "2026-06-15 05:05:56",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -33906,10 +33906,10 @@
     {
       "id": 10666,
       "name": "I wanna be the Dife",
-      "difficulty": "55.2",
-      "difficulty_num": 55.2,
+      "difficulty": "55.1",
+      "difficulty_num": 55.1,
       "rating": 6.0,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43866,10 +43866,10 @@
     {
       "id": 26072,
       "name": "I wanna be the Falst Easy",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "difficulty": "34.0",
+      "difficulty_num": 34.0,
+      "rating": 5.1,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -92846,10 +92846,10 @@
     {
       "id": 10973,
       "name": "I wanna be the Online",
-      "difficulty": "30.0",
-      "difficulty_num": 30.0,
-      "rating": 9.3,
-      "num_ratings": 14,
+      "difficulty": "27.8",
+      "difficulty_num": 27.8,
+      "rating": 9.4,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
