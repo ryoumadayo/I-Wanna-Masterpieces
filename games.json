@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 05:05:56",
+  "last_updated": "2026-06-15 06:51:41",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -6798,8 +6798,8 @@
       "name": "I wanna Anticlimax 2",
       "difficulty": "98.3",
       "difficulty_num": 98.3,
-      "rating": 6.3,
-      "num_ratings": 6,
+      "rating": 8.2,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65936,10 +65936,10 @@
     {
       "id": 46321,
       "name": "I Wanna Be The Internet Angel",
-      "difficulty": "70.0",
-      "difficulty_num": 70.0,
-      "rating": 9.2,
-      "num_ratings": 3,
+      "difficulty": "73.5",
+      "difficulty_num": 73.5,
+      "rating": 9.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -73976,10 +73976,10 @@
     {
       "id": 24111,
       "name": "I wanna kill the tomodati",
-      "difficulty": "83.5",
-      "difficulty_num": 83.5,
+      "difficulty": "82.3",
+      "difficulty_num": 82.3,
       "rating": 4.7,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
