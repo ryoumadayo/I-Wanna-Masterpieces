@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 12:55:01",
+  "last_updated": "2026-06-14 17:15:02",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -59126,10 +59126,10 @@
     {
       "id": 21278,
       "name": "he",
-      "difficulty": "35.1",
-      "difficulty_num": 35.1,
-      "rating": 7.0,
-      "num_ratings": 41,
+      "difficulty": "35.3",
+      "difficulty_num": 35.3,
+      "rating": 6.9,
+      "num_ratings": 42,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -63956,10 +63956,10 @@
     {
       "id": 23221,
       "name": "I Want to Meet Miki",
-      "difficulty": "48.8",
-      "difficulty_num": 48.8,
+      "difficulty": "48.9",
+      "difficulty_num": 48.9,
       "rating": 8.6,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75056,10 +75056,10 @@
     {
       "id": 21210,
       "name": "I Wanna Know Why Girls Dont Lie",
-      "difficulty": "51.6",
-      "difficulty_num": 51.6,
-      "rating": 7.3,
-      "num_ratings": 16,
+      "difficulty": "51.7",
+      "difficulty_num": 51.7,
+      "rating": 7.2,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -101586,10 +101586,10 @@
     {
       "id": 46314,
       "name": "I Wanna Quench The Castle Blaze 2",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
