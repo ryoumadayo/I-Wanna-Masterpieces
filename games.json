@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 17:15:02",
+  "last_updated": "2026-06-14 20:13:59",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -47404,6 +47404,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46320,
+      "name": "For Cream Needle",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 17002,
       "name": "I wanna be the for Maepon",
       "difficulty": "N/A",
@@ -65922,6 +65932,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46321,
+      "name": "I Wanna Be The Internet Angel",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 27082,
@@ -111659,7 +111679,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -111669,7 +111689,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -129621,6 +129641,16 @@
       "rating": 8.5,
       "num_ratings": 9,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46319,
+      "name": "Vaisravana",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
