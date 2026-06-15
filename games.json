@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 10:59:39",
+  "last_updated": "2026-06-15 16:30:39",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -47406,10 +47406,10 @@
     {
       "id": 46320,
       "name": "For Cream Needle",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
+      "difficulty": "47.5",
+      "difficulty_num": 47.5,
       "rating": 7.5,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -82086,10 +82086,10 @@
     {
       "id": 16942,
       "name": "I wanna make the My Game Medley",
-      "difficulty": "67.8",
-      "difficulty_num": 67.8,
-      "rating": 4.6,
-      "num_ratings": 5,
+      "difficulty": "67.3",
+      "difficulty_num": 67.3,
+      "rating": 4.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -102906,10 +102906,10 @@
     {
       "id": 22705,
       "name": "I Wanna Reach The Steins Gate",
-      "difficulty": "68.7",
-      "difficulty_num": 68.7,
+      "difficulty": "68.8",
+      "difficulty_num": 68.8,
       "rating": 9.3,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -110826,10 +110826,10 @@
     {
       "id": 26361,
       "name": "I wanna be the SGM",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "42.5",
+      "difficulty_num": 42.5,
+      "rating": 3.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
