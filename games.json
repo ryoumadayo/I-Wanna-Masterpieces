@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 06:31:32",
+  "last_updated": "2026-06-16 08:43:44",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -45416,10 +45416,10 @@
     {
       "id": 21476,
       "name": "Find My Answer",
-      "difficulty": "75.2",
-      "difficulty_num": 75.2,
-      "rating": 8.7,
-      "num_ratings": 22,
+      "difficulty": "74.6",
+      "difficulty_num": 74.6,
+      "rating": 8.6,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -132866,11 +132866,11 @@
     {
       "id": 15005,
       "name": "I Wanna Be the White Cherry",
-      "difficulty": "49.1",
-      "difficulty_num": 49.1,
+      "difficulty": "48.8",
+      "difficulty_num": 48.8,
       "rating": 5.8,
-      "num_ratings": 15,
-      "is_needle": true,
+      "num_ratings": 16,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -137156,10 +137156,10 @@
     {
       "id": 46329,
       "name": "Девочка Эмо",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "96.0",
+      "difficulty_num": 96.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
