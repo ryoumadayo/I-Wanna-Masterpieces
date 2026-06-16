@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 12:57:27",
+  "last_updated": "2026-06-16 18:27:38",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -5499,7 +5499,7 @@
       "difficulty": "45.3",
       "difficulty_num": 45.3,
       "rating": 7.6,
-      "num_ratings": 46,
+      "num_ratings": 47,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7329,7 +7329,7 @@
       "difficulty": "65.8",
       "difficulty_num": 65.8,
       "rating": 7.9,
-      "num_ratings": 90,
+      "num_ratings": 91,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -19226,10 +19226,10 @@
     {
       "id": 15032,
       "name": "I Wanna Break The Series Z",
-      "difficulty": "61.8",
-      "difficulty_num": 61.8,
-      "rating": 5.1,
-      "num_ratings": 25,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
+      "rating": 5.0,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -38079,7 +38079,7 @@
       "difficulty": "61.3",
       "difficulty_num": 61.3,
       "rating": 8.3,
-      "num_ratings": 54,
+      "num_ratings": 55,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63556,10 +63556,10 @@
     {
       "id": 11774,
       "name": "I want Lollipop",
-      "difficulty": "50.3",
-      "difficulty_num": 50.3,
+      "difficulty": "50.4",
+      "difficulty_num": 50.4,
       "rating": 6.2,
-      "num_ratings": 49,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -75216,10 +75216,10 @@
     {
       "id": 25133,
       "name": "Kokomi Kokomi Kokomi",
-      "difficulty": "27.3",
-      "difficulty_num": 27.3,
+      "difficulty": "27.4",
+      "difficulty_num": 27.4,
       "rating": 8.0,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -94989,7 +94989,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -101429,7 +101429,7 @@
       "difficulty": "33.8",
       "difficulty_num": 33.8,
       "rating": 6.4,
-      "num_ratings": 111,
+      "num_ratings": 112,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -107619,7 +107619,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
