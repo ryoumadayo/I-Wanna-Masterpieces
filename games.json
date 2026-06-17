@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 03:41:33",
+  "last_updated": "2026-06-18 06:03:58",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -65976,10 +65976,10 @@
     {
       "id": 46321,
       "name": "I Wanna Be The Internet Angel",
-      "difficulty": "74.0",
-      "difficulty_num": 74.0,
-      "rating": 9.6,
-      "num_ratings": 5,
+      "difficulty": "74.8",
+      "difficulty_num": 74.8,
+      "rating": 9.7,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
