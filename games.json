@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 21:14:35",
+  "last_updated": "2026-06-18 01:12:25",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -91918,8 +91918,8 @@
       "name": "OBLIQUE TORMENT 3",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 10.0,
-      "num_ratings": 2,
+      "rating": 6.9,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
