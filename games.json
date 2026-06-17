@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 11:01:00",
+  "last_updated": "2026-06-17 16:32:39",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -76416,8 +76416,8 @@
     {
       "id": 27922,
       "name": "I Wanna Leap Into The Collab",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
+      "difficulty": "68.5",
+      "difficulty_num": 68.5,
       "rating": 7.3,
       "num_ratings": 4,
       "is_needle": true,
@@ -103028,8 +103028,8 @@
       "name": "I wanna read the grimm",
       "difficulty": "65.0",
       "difficulty_num": 65.0,
-      "rating": 2.8,
-      "num_ratings": 2,
+      "rating": 4.6,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
