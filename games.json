@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 06:33:29",
+  "last_updated": "2026-06-19 08:44:24",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -120816,8 +120816,8 @@
     {
       "id": 11725,
       "name": "I wanna Tear it",
-      "difficulty": "76.2",
-      "difficulty_num": 76.2,
+      "difficulty": "76.1",
+      "difficulty_num": 76.1,
       "rating": 7.9,
       "num_ratings": 91,
       "is_needle": false,
