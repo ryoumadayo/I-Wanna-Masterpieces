@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 07:57:00",
+  "last_updated": "2026-06-18 09:18:07",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -41686,10 +41686,10 @@
     {
       "id": 11537,
       "name": "I wanna escape the Western house",
-      "difficulty": "40.3",
-      "difficulty_num": 40.3,
-      "rating": 6.7,
-      "num_ratings": 13,
+      "difficulty": "40.6",
+      "difficulty_num": 40.6,
+      "rating": 6.8,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
