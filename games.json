@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 01:29:41",
+  "last_updated": "2026-06-19 04:02:49",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -35526,10 +35526,10 @@
     {
       "id": 26900,
       "name": "I wanna DopeDope",
-      "difficulty": "59.8",
-      "difficulty_num": 59.8,
-      "rating": 7.4,
-      "num_ratings": 4,
+      "difficulty": "60.2",
+      "difficulty_num": 60.2,
+      "rating": 7.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -87228,8 +87228,8 @@
       "name": "I wanna Myosotis",
       "difficulty": "62.3",
       "difficulty_num": 62.3,
-      "rating": 6.4,
-      "num_ratings": 8,
+      "rating": 6.3,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
