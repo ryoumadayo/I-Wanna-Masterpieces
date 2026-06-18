@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 14:16:32",
+  "last_updated": "2026-06-18 18:53:07",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -3796,8 +3796,8 @@
     {
       "id": 18401,
       "name": "A needle",
-      "difficulty": "31.9",
-      "difficulty_num": 31.9,
+      "difficulty": "30.8",
+      "difficulty_num": 30.8,
       "rating": 4.7,
       "num_ratings": 27,
       "is_needle": true,
@@ -65978,8 +65978,8 @@
       "name": "I Wanna Be The Internet Angel",
       "difficulty": "74.8",
       "difficulty_num": 74.8,
-      "rating": 9.7,
-      "num_ratings": 6,
+      "rating": 9.8,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -127908,8 +127908,8 @@
       "name": "I wanna be the U",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "rating": 9.6,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
