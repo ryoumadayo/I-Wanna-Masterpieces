@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Select - 10 Selected Games</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #020617;
+            --primary-color: #38bdf8;
+            --accent-color: #f43f5e;
+            --success-color: #10b981;
+            --surface-color: rgba(15, 23, 42, 0.8);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: #fff;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow-x: hidden;
+            background: 
+                radial-gradient(circle at 20% 30%, rgba(56, 189, 248, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 80% 70%, rgba(139, 92, 246, 0.15) 0%, transparent 40%),
+                #020617;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            padding: 2rem;
+            text-align: center;
+            z-index: 2;
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 3rem;
+            font-weight: 900;
+            margin-bottom: 2rem;
+            background: linear-gradient(to right, #38bdf8, #818cf8, #c084fc);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            letter-spacing: 4px;
+        }
+
+        .controls {
+            margin-bottom: 3rem;
+        }
+
+        .btn-draw {
+            background: linear-gradient(135deg, #38bdf8, #2563eb);
+            color: white;
+            border: none;
+            padding: 1.2rem 3rem;
+            font-size: 1.5rem;
+            font-weight: bold;
+            border-radius: 50px;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 0 30px rgba(37, 99, 235, 0.4);
+            font-family: 'Orbitron', sans-serif;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-draw:hover {
+            transform: scale(1.05) translateY(-5px);
+            box-shadow: 0 0 50px rgba(37, 99, 235, 0.7);
+            filter: brightness(1.2);
+        }
+
+        .btn-draw:active {
+            transform: scale(0.95);
+        }
+
+        .btn-back {
+            position: absolute;
+            top: 2rem;
+            left: 2rem;
+            color: #94a3b8;
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.3s;
+        }
+
+        .btn-back:hover {
+            color: white;
+        }
+
+        .btn-draw::after {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 50%; height: 100%;
+            background: linear-gradient(to right, transparent, rgba(255,255,255,0.4), transparent);
+            transform: skewX(-25deg);
+            transition: 0.5s;
+        }
+
+        .btn-draw:hover::after {
+            left: 150%;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            width: 100%;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s ease-out;
+        }
+
+        .results-grid.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .card {
+            background: var(--surface-color);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            transition: all 0.4s ease;
+            cursor: pointer;
+            overflow: hidden;
+            min-height: 200px;
+        }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.03);
+            border-color: var(--primary-color);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .card-id {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.8rem;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        .game-name {
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            line-height: 1.4;
+        }
+
+        .rating-display {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.8rem;
+            font-weight: 900;
+            color: var(--success-color);
+        }
+
+        .difficulty-display {
+            font-size: 0.8rem;
+            color: #94a3b8;
+            margin-top: 0.5rem;
+        }
+
+        /* Revealed animation */
+        .card.revealing {
+            animation: revealCard 0.6s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+        }
+
+        @keyframes revealCard {
+            0% { transform: scale(0.8) rotateY(90deg); opacity: 0; }
+            100% { transform: scale(1) rotateY(0deg); opacity: 1; }
+        }
+
+        .particles {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .particle {
+            position: absolute;
+            background: white;
+            border-radius: 50%;
+            opacity: 0.3;
+            animation: float 10s infinite linear;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(100vh) scale(0); opacity: 0; }
+            50% { opacity: 0.5; }
+            100% { transform: translateY(-100px) scale(1.5); opacity: 0; }
+        }
+
+        .overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: radial-gradient(circle, rgba(56, 189, 248, 0.2), transparent);
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .hidden { display: none; }
+
+        /* Epic Count animation classes */
+        .epic-counting {
+            color: #fff !important;
+            text-shadow: 0 0 15px var(--primary-color) !important;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="particles" id="particles"></div>
+
+    <a href="index.html" class="btn-back">← Back to List</a>
+
+    <div class="container">
+        <h1>Random Select</h1>
+        
+        <div class="controls">
+            <button id="drawBtn" class="btn-draw">Select 10 Games</button>
+        </div>
+
+        <div id="results" class="results-grid">
+            <!-- Cards will be generated here -->
+        </div>
+    </div>
+
+    <!-- We can use the existing games.js which defines const GAMES -->
+    <script src="games.js"></script>
+    <script>
+        const drawBtn = document.getElementById('drawBtn');
+        const resultsGrid = document.getElementById('results');
+        const particlesContainer = document.getElementById('particles');
+
+        // Create background particles
+        function initParticles() {
+            for (let i = 0; i < 50; i++) {
+                const p = document.createElement('div');
+                p.className = 'particle';
+                const size = Math.random() * 4 + 1;
+                p.style.width = `${size}px`;
+                p.style.height = `${size}px`;
+                p.style.left = `${Math.random() * 100}%`;
+                p.style.animationDuration = `${Math.random() * 10 + 5}s`;
+                p.style.animationDelay = `${Math.random() * 5}s`;
+                particlesContainer.appendChild(p);
+            }
+        }
+
+        initParticles();
+
+        function getRandomGames(count) {
+            // Filter masterpieces (matching script.js logic)
+            // But let's keep it simple and just pick from all games or masterpieces
+            const topGames = GAMES.filter(g => g.num_ratings >= 10 && g.rating >= 6.0);
+            const shuffled = [...topGames].sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, count);
+        }
+
+        function createCard(game, delay) {
+            const card = document.createElement('div');
+            
+            card.className = `card revealing`;
+            card.style.animationDelay = `${delay}s`;
+            card.onclick = () => window.open(`https://delicious-fruit.com/ratings/game_details.php?id=${game.id}`, '_blank');
+
+            card.innerHTML = `
+                <div class="card-id">#${game.id}</div>
+                <div class="game-name">${game.name}</div>
+                <div class="rating-display" id="rating-${game.id}">0.0</div>
+                <div class="difficulty-display">Difficulty: ${game.difficulty}</div>
+            `;
+            return card;
+        }
+
+        async function animateValue(id, start, end, duration) {
+            const obj = document.getElementById(id);
+            if (!obj) return;
+            
+            const range = end - start;
+            let current = start;
+            const increment = end > start ? 0.1 : -0.1;
+            const stepTime = Math.abs(Math.floor(duration / (range * 10)));
+            
+            obj.classList.add('epic-counting');
+
+            return new Promise(resolve => {
+                const timer = setInterval(() => {
+                    current += increment;
+                    if ((increment > 0 && current >= end) || (increment < 0 && current <= end)) {
+                        obj.textContent = end.toFixed(1);
+                        obj.classList.remove('epic-counting');
+                        clearInterval(timer);
+                        resolve();
+                    } else {
+                        obj.textContent = current.toFixed(1);
+                    }
+                }, stepTime);
+            });
+        }
+
+        drawBtn.addEventListener('click', async () => {
+            drawBtn.disabled = true;
+            drawBtn.textContent = 'Selecting...';
+            
+            // Clear previous results with a slight fade
+            resultsGrid.classList.remove('visible');
+            setTimeout(async () => {
+                resultsGrid.innerHTML = '';
+                resultsGrid.classList.add('visible');
+                
+                const selectedGames = getRandomGames(10);
+                
+                for (let i = 0; i < selectedGames.length; i++) {
+                    const game = selectedGames[i];
+                    const card = createCard(game, i * 0.1);
+                    resultsGrid.appendChild(card);
+                    
+                    // Start rating animation after card reveal
+                    setTimeout(() => {
+                        animateValue(`rating-${game.id}`, 0, game.rating, 800);
+                    }, (i * 100) + 500);
+                }
+
+                setTimeout(() => {
+                    drawBtn.disabled = false;
+                    drawBtn.textContent = 'Select 10 Games Again';
+                }, 2000);
+            }, 300);
+        });
+
+        // Trigger first draw on load
+        // window.onload = () => drawBtn.click();
+    </script>
+</body>
+</html>
