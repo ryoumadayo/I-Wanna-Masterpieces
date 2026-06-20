@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 09:08:41",
+  "last_updated": "2026-06-20 13:50:50",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -126546,10 +126546,10 @@
     {
       "id": 16970,
       "name": "I wanna be the treasure hunter",
-      "difficulty": "70.5",
-      "difficulty_num": 70.5,
-      "rating": 5.7,
-      "num_ratings": 3,
+      "difficulty": "68.7",
+      "difficulty_num": 68.7,
+      "rating": 6.1,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
