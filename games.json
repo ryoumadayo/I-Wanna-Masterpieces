@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 17:20:34",
+  "last_updated": "2026-06-20 19:57:18",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -47426,10 +47426,10 @@
     {
       "id": 46320,
       "name": "For Cream Needle",
-      "difficulty": "48.6",
-      "difficulty_num": 48.6,
-      "rating": 7.5,
-      "num_ratings": 6,
+      "difficulty": "48.8",
+      "difficulty_num": 48.8,
+      "rating": 7.6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47516,10 +47516,10 @@
     {
       "id": 17563,
       "name": "I wanna be the Force",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
+      "difficulty": "74.8",
+      "difficulty_num": 74.8,
       "rating": 7.7,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
