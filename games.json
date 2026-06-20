@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21 01:16:31",
+  "last_updated": "2026-06-21 02:54:22",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -14489,9 +14489,9 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 16881,
