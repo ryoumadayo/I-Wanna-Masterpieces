@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 23:42:51",
+  "last_updated": "2026-06-21 01:16:31",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -7246,10 +7246,10 @@
     {
       "id": 24587,
       "name": "April is the Cruelest Month",
-      "difficulty": "85.1",
-      "difficulty_num": 85.1,
-      "rating": 9.0,
-      "num_ratings": 23,
+      "difficulty": "85.2",
+      "difficulty_num": 85.2,
+      "rating": 9.1,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -28959,7 +28959,7 @@
       "difficulty": "88.6",
       "difficulty_num": 88.6,
       "rating": 9.3,
-      "num_ratings": 117,
+      "num_ratings": 118,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -31526,10 +31526,10 @@
     {
       "id": 18907,
       "name": "I wanna defeat the Discord Makers",
-      "difficulty": "89.1",
-      "difficulty_num": 89.1,
+      "difficulty": "89.2",
+      "difficulty_num": 89.2,
       "rating": 6.9,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31546,20 +31546,20 @@
     {
       "id": 20133,
       "name": "I wanna defeat the Discord Makers CN side",
-      "difficulty": "82.8",
-      "difficulty_num": 82.8,
-      "rating": 8.0,
-      "num_ratings": 32,
+      "difficulty": "82.9",
+      "difficulty_num": 82.9,
+      "rating": 7.9,
+      "num_ratings": 33,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 19213,
       "name": "I wanna defeat the discord makers JP side",
-      "difficulty": "88.2",
-      "difficulty_num": 88.2,
+      "difficulty": "88.3",
+      "difficulty_num": 88.3,
       "rating": 7.8,
-      "num_ratings": 27,
+      "num_ratings": 28,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -36646,10 +36646,10 @@
     {
       "id": 19949,
       "name": "Dual Needle",
-      "difficulty": "80.1",
-      "difficulty_num": 80.1,
+      "difficulty": "80.4",
+      "difficulty_num": 80.4,
       "rating": 7.2,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -40436,10 +40436,10 @@
     {
       "id": 23449,
       "name": "Ephemeral needle collab",
-      "difficulty": "85.9",
-      "difficulty_num": 85.9,
-      "rating": 7.3,
-      "num_ratings": 28,
+      "difficulty": "86.1",
+      "difficulty_num": 86.1,
+      "rating": 7.2,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45229,7 +45229,7 @@
       "difficulty": "84.2",
       "difficulty_num": 84.2,
       "rating": 6.2,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -47089,7 +47089,7 @@
       "difficulty": "85.2",
       "difficulty_num": 85.2,
       "rating": 6.8,
-      "num_ratings": 89,
+      "num_ratings": 90,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68096,10 +68096,10 @@
     {
       "id": 24317,
       "name": "Jtool Jamplex",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
-      "rating": 7.3,
-      "num_ratings": 18,
+      "difficulty": "75.2",
+      "difficulty_num": 75.2,
+      "rating": 7.4,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -76029,7 +76029,7 @@
       "difficulty": "86.9",
       "difficulty_num": 86.9,
       "rating": 8.3,
-      "num_ratings": 59,
+      "num_ratings": 60,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -84766,10 +84766,10 @@
     {
       "id": 15051,
       "name": "I wanna be the MHC",
-      "difficulty": "92.5",
-      "difficulty_num": 92.5,
-      "rating": 7.2,
-      "num_ratings": 28,
+      "difficulty": "92.7",
+      "difficulty_num": 92.7,
+      "rating": 6.9,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -88019,7 +88019,7 @@
       "difficulty": "79.9",
       "difficulty_num": 79.9,
       "rating": 9.1,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -90656,10 +90656,10 @@
     {
       "id": 21421,
       "name": "I Wanna Nonamed Spike 2",
-      "difficulty": "85.8",
-      "difficulty_num": 85.8,
-      "rating": 8.0,
-      "num_ratings": 14,
+      "difficulty": "86.2",
+      "difficulty_num": 86.2,
+      "rating": 7.9,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -108536,10 +108536,10 @@
     {
       "id": 18641,
       "name": "I wanna scale the Red Needle",
-      "difficulty": "84.0",
-      "difficulty_num": 84.0,
+      "difficulty": "84.1",
+      "difficulty_num": 84.1,
       "rating": 6.2,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -116849,7 +116849,7 @@
       "difficulty": "81.7",
       "difficulty_num": 81.7,
       "rating": 9.0,
-      "num_ratings": 43,
+      "num_ratings": 44,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131419,7 +131419,7 @@
       "difficulty": "83.9",
       "difficulty_num": 83.9,
       "rating": 8.4,
-      "num_ratings": 65,
+      "num_ratings": 66,
       "is_needle": false,
       "is_avoidance": false
     },
