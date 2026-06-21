@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21 13:02:34",
+  "last_updated": "2026-06-21 20:45:28",
   "announcements": [
     {
       "date": "2026/06/11",
@@ -4416,10 +4416,10 @@
     {
       "id": 21155,
       "name": "I wanna Abyss",
-      "difficulty": "86.8",
-      "difficulty_num": 86.8,
+      "difficulty": "86.3",
+      "difficulty_num": 86.3,
       "rating": 7.3,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -6566,10 +6566,10 @@
     {
       "id": 21871,
       "name": "Annihilate.",
-      "difficulty": "91.8",
-      "difficulty_num": 91.8,
+      "difficulty": "92.4",
+      "difficulty_num": 92.4,
       "rating": 5.3,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7446,10 +7446,10 @@
     {
       "id": 17395,
       "name": "I wanna be the Argent symmetry",
-      "difficulty": "53.8",
-      "difficulty_num": 53.8,
-      "rating": 5.2,
-      "num_ratings": 6,
+      "difficulty": "53.0",
+      "difficulty_num": 53.0,
+      "rating": 5.5,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -9121,6 +9121,16 @@
       "rating": 6.0,
       "num_ratings": 16,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46335,
+      "name": "I wanna be the AWS",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -17386,10 +17396,10 @@
     {
       "id": 19624,
       "name": "I wanna be the Boehner",
-      "difficulty": "69.0",
-      "difficulty_num": 69.0,
-      "rating": 4.9,
-      "num_ratings": 3,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
+      "rating": 5.3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -23578,8 +23588,8 @@
       "name": "I Wanna Chic N Stu",
       "difficulty": "42.8",
       "difficulty_num": 42.8,
-      "rating": 7.0,
-      "num_ratings": 16,
+      "rating": 6.9,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -32381,6 +32391,16 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46337,
+      "name": "I wanna Delectus v1.1",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -44809,7 +44829,7 @@
       "difficulty": "25.0",
       "difficulty_num": 25.0,
       "rating": 8.1,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75116,10 +75136,10 @@
     {
       "id": 21210,
       "name": "I Wanna Know Why Girls Dont Lie",
-      "difficulty": "51.7",
-      "difficulty_num": 51.7,
+      "difficulty": "52.3",
+      "difficulty_num": 52.3,
       "rating": 7.2,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
     },
