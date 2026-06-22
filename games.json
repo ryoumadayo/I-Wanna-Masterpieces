@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-22 23:37:35",
+  "last_updated": "2026-06-23 03:45:18",
   "announcements": [
+    {
+      "date": "2026/06/23",
+      "message": "I Wanna Follow The World が新たに追加されました。",
+      "type": "add",
+      "id": 27072
+    },
     {
       "date": "2026/06/11",
       "message": "I wanna remember the Reitengo が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna zatsusaの評価が基準値を下回ったことにより、除外対象となりました。",
       "type": "remove",
       "id": 25218
-    },
-    {
-      "date": "2026/04/02",
-      "message": "I wanna GNU が新たに追加されました。",
-      "type": "add",
-      "id": 16216
     }
   ],
   "games": [
@@ -47388,8 +47388,8 @@
       "name": "I Wanna Follow The World",
       "difficulty": "63.9",
       "difficulty_num": 63.9,
-      "rating": 7.3,
-      "num_ratings": 9,
+      "rating": 7.4,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
