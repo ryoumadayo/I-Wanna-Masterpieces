@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 21:05:03",
+  "last_updated": "2026-06-25 02:27:15",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -38816,10 +38816,10 @@
     {
       "id": 21804,
       "name": "I wanna Elimination",
-      "difficulty": "91.0",
-      "difficulty_num": 91.0,
-      "rating": 5.5,
-      "num_ratings": 3,
+      "difficulty": "89.7",
+      "difficulty_num": 89.7,
+      "rating": 6.2,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -114246,10 +114246,10 @@
     {
       "id": 20993,
       "name": "I wanna be the Solar Nova",
-      "difficulty": "72.1",
-      "difficulty_num": 72.1,
-      "rating": 7.0,
-      "num_ratings": 11,
+      "difficulty": "71.9",
+      "difficulty_num": 71.9,
+      "rating": 7.1,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118236,10 +118236,10 @@
     {
       "id": 46339,
       "name": "Sunshine",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
+      "difficulty": "50.8",
+      "difficulty_num": 50.8,
       "rating": 8.0,
-      "num_ratings": 4,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
