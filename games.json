@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 08:08:39",
+  "last_updated": "2026-06-24 10:25:11",
   "announcements": [
     {
       "date": "2026/06/23",
@@ -72886,10 +72886,10 @@
     {
       "id": 12378,
       "name": "I wanna kill the Lovegood",
-      "difficulty": "85.6",
-      "difficulty_num": 85.6,
-      "rating": 4.6,
-      "num_ratings": 17,
+      "difficulty": "85.5",
+      "difficulty_num": 85.5,
+      "rating": 4.7,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
