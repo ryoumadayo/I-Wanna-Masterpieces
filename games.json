@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-24 14:35:58",
+  "last_updated": "2026-06-24 18:25:25",
   "announcements": [
+    {
+      "date": "2026/06/24",
+      "message": "I wanna be the Normal human! 3 が新たに追加されました。",
+      "type": "add",
+      "id": 21250
+    },
     {
       "date": "2026/06/23",
       "message": "I Wanna Follow The World が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Collections-7.5 が新たに追加されました。",
       "type": "add",
       "id": 26564
-    },
-    {
-      "date": "2026/04/03",
-      "message": "I wanna zatsusaの評価が基準値を下回ったことにより、除外対象となりました。",
-      "type": "remove",
-      "id": 25218
     }
   ],
   "games": [
@@ -9896,10 +9896,10 @@
     {
       "id": 14818,
       "name": "I wanna be the base",
-      "difficulty": "56.3",
-      "difficulty_num": 56.3,
-      "rating": 1.8,
-      "num_ratings": 4,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 1.9,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90896,10 +90896,10 @@
     {
       "id": 21250,
       "name": "I wanna be the Normal human! 3",
-      "difficulty": "48.3",
-      "difficulty_num": 48.3,
-      "rating": 7.9,
-      "num_ratings": 9,
+      "difficulty": "48.5",
+      "difficulty_num": 48.5,
+      "rating": 8.0,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -97846,10 +97846,10 @@
     {
       "id": 12440,
       "name": "I wanna play the Sonic drive",
-      "difficulty": "35.0",
-      "difficulty_num": 35.0,
-      "rating": 4.0,
-      "num_ratings": 4,
+      "difficulty": "37.3",
+      "difficulty_num": 37.3,
+      "rating": 4.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -118238,8 +118238,8 @@
       "name": "Sunshine",
       "difficulty": "50.0",
       "difficulty_num": 50.0,
-      "rating": 8.5,
-      "num_ratings": 3,
+      "rating": 8.0,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
