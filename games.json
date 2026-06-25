@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 22:35:36",
+  "last_updated": "2026-06-26 03:32:18",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -1282,6 +1282,16 @@
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46343,
+      "name": "I Wanna 13",
+      "difficulty": "16.0",
+      "difficulty_num": 16.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 21073,
@@ -4536,10 +4546,10 @@
     {
       "id": 27085,
       "name": "I Wanna Achieve",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7340,6 +7350,16 @@
       "difficulty_num": 65.8,
       "rating": 7.9,
       "num_ratings": 91,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46341,
+      "name": "I wanna Archean",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52968,7 +52988,7 @@
       "name": "I Wanna Go Gambling",
       "difficulty": "45.9",
       "difficulty_num": 45.9,
-      "rating": 7.7,
+      "rating": 7.8,
       "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": true
@@ -76366,10 +76386,10 @@
     {
       "id": 19002,
       "name": "LCIS",
-      "difficulty": "99.0",
-      "difficulty_num": 99.0,
-      "rating": 0.0,
-      "num_ratings": 4,
+      "difficulty": "97.7",
+      "difficulty_num": 97.7,
+      "rating": 0.1,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118236,10 +118256,10 @@
     {
       "id": 46339,
       "name": "Sunshine",
-      "difficulty": "50.5",
-      "difficulty_num": 50.5,
-      "rating": 7.7,
-      "num_ratings": 8,
+      "difficulty": "50.4",
+      "difficulty_num": 50.4,
+      "rating": 7.6,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122366,10 +122386,10 @@
     {
       "id": 18448,
       "name": "The Challengers 2",
-      "difficulty": "90.5",
-      "difficulty_num": 90.5,
+      "difficulty": "87.0",
+      "difficulty_num": 87.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126550,6 +126570,16 @@
       "difficulty_num": 44.0,
       "rating": 7.3,
       "num_ratings": 3,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46342,
+      "name": "I Wanna Traverse the Multidimensional Rift",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -145739,8 +145769,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
