@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 07:46:50",
+  "last_updated": "2026-06-25 13:45:05",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -33409,7 +33409,7 @@
       "difficulty": "94.8",
       "difficulty_num": 94.8,
       "rating": 7.5,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -33918,8 +33918,8 @@
       "name": "I wanna die with you",
       "difficulty": "34.9",
       "difficulty_num": 34.9,
-      "rating": 7.0,
-      "num_ratings": 15,
+      "rating": 7.1,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -56686,10 +56686,10 @@
     {
       "id": 11977,
       "name": "I wanna be the Ha51",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
-      "rating": 5.0,
-      "num_ratings": 3,
+      "difficulty": "51.7",
+      "difficulty_num": 51.7,
+      "rating": 4.7,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -115866,10 +115866,10 @@
     {
       "id": 12481,
       "name": "I wanna Staff",
-      "difficulty": "43.3",
-      "difficulty_num": 43.3,
+      "difficulty": "42.6",
+      "difficulty_num": 42.6,
       "rating": 6.2,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -118236,10 +118236,10 @@
     {
       "id": 46339,
       "name": "Sunshine",
-      "difficulty": "50.8",
-      "difficulty_num": 50.8,
-      "rating": 8.0,
-      "num_ratings": 6,
+      "difficulty": "50.6",
+      "difficulty_num": 50.6,
+      "rating": 7.8,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
