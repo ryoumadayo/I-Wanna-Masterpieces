@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 17:21:59",
+  "last_updated": "2026-06-25 22:35:36",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -33236,10 +33236,10 @@
     {
       "id": 19462,
       "name": "I Wanna Destroy the Needleverse",
-      "difficulty": "67.9",
-      "difficulty_num": 67.9,
+      "difficulty": "67.8",
+      "difficulty_num": 67.8,
       "rating": 8.0,
-      "num_ratings": 34,
+      "num_ratings": 33,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118249,7 +118249,7 @@
       "difficulty": "71.8",
       "difficulty_num": 71.8,
       "rating": 7.5,
-      "num_ratings": 103,
+      "num_ratings": 102,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -126566,10 +126566,10 @@
     {
       "id": 26595,
       "name": "I wanna traverse the precipice",
-      "difficulty": "65.9",
-      "difficulty_num": 65.9,
+      "difficulty": "66.0",
+      "difficulty_num": 66.0,
       "rating": 9.0,
-      "num_ratings": 38,
+      "num_ratings": 39,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129889,7 +129889,7 @@
       "difficulty": "71.4",
       "difficulty_num": 71.4,
       "rating": 9.3,
-      "num_ratings": 141,
+      "num_ratings": 140,
       "is_needle": false,
       "is_avoidance": false
     },
