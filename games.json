@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26 22:11:30",
+  "last_updated": "2026-06-27 00:38:24",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -1286,10 +1286,10 @@
     {
       "id": 46343,
       "name": "I Wanna 13",
-      "difficulty": "25.5",
-      "difficulty_num": 25.5,
+      "difficulty": "27.4",
+      "difficulty_num": 27.4,
       "rating": 4.3,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -56438,7 +56438,7 @@
       "name": "Guy Tower Defense 2022",
       "difficulty": "15.2",
       "difficulty_num": 15.2,
-      "rating": 9.7,
+      "rating": 9.8,
       "num_ratings": 28,
       "is_needle": false,
       "is_avoidance": false
@@ -70226,10 +70226,10 @@
     {
       "id": 46344,
       "name": "KHÄLLÄNCH",
-      "difficulty": "97.0",
-      "difficulty_num": 97.0,
+      "difficulty": "93.0",
+      "difficulty_num": 93.0,
       "rating": 6.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
