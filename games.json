@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26 08:52:19",
+  "last_updated": "2026-06-26 12:32:50",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -1286,10 +1286,10 @@
     {
       "id": 46343,
       "name": "I Wanna 13",
-      "difficulty": "24.0",
-      "difficulty_num": 24.0,
-      "rating": 4.5,
-      "num_ratings": 4,
+      "difficulty": "25.5",
+      "difficulty_num": 25.5,
+      "rating": 4.3,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
