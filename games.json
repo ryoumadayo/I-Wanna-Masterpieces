@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26 16:51:18",
+  "last_updated": "2026-06-26 19:49:54",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -20436,10 +20436,10 @@
     {
       "id": 27034,
       "name": "I Wanna Be the Butterfly Antagonism",
-      "difficulty": "73.0",
-      "difficulty_num": 73.0,
-      "rating": 7.2,
-      "num_ratings": 2,
+      "difficulty": "73.7",
+      "difficulty_num": 73.7,
+      "rating": 6.9,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
