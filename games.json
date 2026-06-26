@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27 06:16:39",
+  "last_updated": "2026-06-27 07:44:24",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -7596,10 +7596,10 @@
     {
       "id": 10555,
       "name": "I wanna be the Arsenic",
-      "difficulty": "79.2",
-      "difficulty_num": 79.2,
+      "difficulty": "78.9",
+      "difficulty_num": 78.9,
       "rating": 5.2,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -37956,10 +37956,10 @@
     {
       "id": 11514,
       "name": "I wanna eat the Rori Girl",
-      "difficulty": "17.3",
-      "difficulty_num": 17.3,
+      "difficulty": "17.4",
+      "difficulty_num": 17.4,
       "rating": 7.2,
-      "num_ratings": 120,
+      "num_ratings": 121,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -69296,10 +69296,10 @@
     {
       "id": 17724,
       "name": "I wanna be the Kaenbyou",
-      "difficulty": "21.4",
-      "difficulty_num": 21.4,
+      "difficulty": "21.3",
+      "difficulty_num": 21.3,
       "rating": 7.1,
-      "num_ratings": 168,
+      "num_ratings": 169,
       "is_needle": true,
       "is_avoidance": false
     },
