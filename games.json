@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27 22:28:54",
+  "last_updated": "2026-06-28 00:03:07",
   "announcements": [
     {
       "date": "2026/06/24",
@@ -44386,10 +44386,10 @@
     {
       "id": 21699,
       "name": "I wanna be the Feather flow difficult version",
-      "difficulty": "66.0",
-      "difficulty_num": 66.0,
-      "rating": 6.6,
-      "num_ratings": 2,
+      "difficulty": "56.0",
+      "difficulty_num": 56.0,
+      "rating": 4.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
