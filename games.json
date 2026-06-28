@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-28 17:27:01",
+  "last_updated": "2026-06-28 23:22:25",
   "announcements": [
+    {
+      "date": "2026/06/28",
+      "message": "Sunshine が新たに追加されました。",
+      "type": "add",
+      "id": 46339
+    },
     {
       "date": "2026/06/24",
       "message": "I wanna be the Normal human! 3 が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna get the Pink egg が新たに追加されました。",
       "type": "add",
       "id": 14785
-    },
-    {
-      "date": "2026/04/06",
-      "message": "Collections-7.5 が新たに追加されました。",
-      "type": "add",
-      "id": 26564
     }
   ],
   "games": [
@@ -16526,10 +16526,10 @@
     {
       "id": 45694,
       "name": "I Wanna Black Another",
-      "difficulty": "75.8",
-      "difficulty_num": 75.8,
-      "rating": 9.0,
-      "num_ratings": 18,
+      "difficulty": "75.6",
+      "difficulty_num": 75.6,
+      "rating": 8.9,
+      "num_ratings": 19,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -20384,6 +20384,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46349,
+      "name": "Burven Durhën Vander Hąren",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 19814,
       "name": "I wanna be the Buster!",
       "difficulty": "83.4",
@@ -24231,6 +24241,16 @@
       "rating": 5.5,
       "num_ratings": 1,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46348,
+      "name": "I Wanna Chronoclasm",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46336,10 +46356,10 @@
     {
       "id": 10717,
       "name": "I wanna be the Fish",
-      "difficulty": "81.9",
-      "difficulty_num": 81.9,
+      "difficulty": "82.0",
+      "difficulty_num": 82.0,
       "rating": 7.5,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55321,6 +55341,16 @@
       "rating": 0.0,
       "num_ratings": 0,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46350,
+      "name": "I Wanna Goy No Jam Spike Game 2137",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -65839,7 +65869,7 @@
       "difficulty": "53.0",
       "difficulty_num": 53.0,
       "rating": 6.2,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -75756,10 +75786,10 @@
     {
       "id": 28246,
       "name": "Kvezino's Test Mk.II",
-      "difficulty": "76.3",
-      "difficulty_num": 76.3,
-      "rating": 5.5,
-      "num_ratings": 11,
+      "difficulty": "76.8",
+      "difficulty_num": 76.8,
+      "rating": 5.9,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78966,10 +78996,10 @@
     {
       "id": 16841,
       "name": "I wanna be the lost map",
-      "difficulty": "64.5",
-      "difficulty_num": 64.5,
-      "rating": 4.1,
-      "num_ratings": 2,
+      "difficulty": "63.7",
+      "difficulty_num": 63.7,
+      "rating": 3.7,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -92106,10 +92136,10 @@
     {
       "id": 12057,
       "name": "I wanna be the Octophobia",
-      "difficulty": "24.7",
-      "difficulty_num": 24.7,
+      "difficulty": "24.8",
+      "difficulty_num": 24.8,
       "rating": 7.8,
-      "num_ratings": 165,
+      "num_ratings": 166,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -101930,6 +101960,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46347,
+      "name": "I wanna QZkago requiem",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -118279,7 +118319,7 @@
       "difficulty": "50.4",
       "difficulty_num": 50.4,
       "rating": 7.6,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -136780,6 +136820,16 @@
       "difficulty_num": 45.5,
       "rating": 7.4,
       "num_ratings": 30,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46351,
+      "name": "§",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
