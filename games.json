@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 00:48:34",
+  "last_updated": "2026-06-29 03:44:28",
   "announcements": [
     {
       "date": "2026/06/28",
@@ -6588,8 +6588,8 @@
       "name": "Annihilate.",
       "difficulty": "92.3",
       "difficulty_num": 92.3,
-      "rating": 5.3,
-      "num_ratings": 9,
+      "rating": 5.5,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101969,7 +101969,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -134896,10 +134896,10 @@
     {
       "id": 20924,
       "name": "Xynchrome*",
-      "difficulty": "89.8",
-      "difficulty_num": 89.8,
-      "rating": 8.2,
-      "num_ratings": 14,
+      "difficulty": "89.9",
+      "difficulty_num": 89.9,
+      "rating": 8.3,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
