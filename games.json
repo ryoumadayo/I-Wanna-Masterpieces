@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 06:37:37",
+  "last_updated": "2026-06-29 08:00:39",
   "announcements": [
     {
       "date": "2026/06/28",
@@ -27456,10 +27456,10 @@
     {
       "id": 12277,
       "name": "I wanna conquer the Astronomy",
-      "difficulty": "72.5",
-      "difficulty_num": 72.5,
+      "difficulty": "71.1",
+      "difficulty_num": 71.1,
       "rating": 5.8,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
