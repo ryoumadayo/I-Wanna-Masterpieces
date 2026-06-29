@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 09:17:27",
+  "last_updated": "2026-06-29 19:08:07",
   "announcements": [
     {
       "date": "2026/06/28",
@@ -47259,9 +47259,9 @@
       "difficulty": "55.3",
       "difficulty_num": 55.3,
       "rating": 4.8,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14932,
@@ -67896,10 +67896,10 @@
     {
       "id": 17289,
       "name": "I wanna JJneedle 2",
-      "difficulty": "70.0",
-      "difficulty_num": 70.0,
-      "rating": 3.0,
-      "num_ratings": 1,
+      "difficulty": "74.0",
+      "difficulty_num": 74.0,
+      "rating": 4.7,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
