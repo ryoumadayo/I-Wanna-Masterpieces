@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 17:34:15",
+  "last_updated": "2026-07-03 20:30:58",
   "announcements": [
     {
       "date": "2026/06/28",
@@ -1286,10 +1286,10 @@
     {
       "id": 46343,
       "name": "I Wanna 13",
-      "difficulty": "27.4",
-      "difficulty_num": 27.4,
-      "rating": 4.3,
-      "num_ratings": 6,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 4.8,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29056,10 +29056,10 @@
     {
       "id": 46352,
       "name": "I Wanna Be The Cronh19",
-      "difficulty": "27.0",
-      "difficulty_num": 27.0,
-      "rating": 4.5,
-      "num_ratings": 2,
+      "difficulty": "23.5",
+      "difficulty_num": 23.5,
+      "rating": 5.6,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
