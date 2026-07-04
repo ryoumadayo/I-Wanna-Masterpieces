@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 20:30:58",
+  "last_updated": "2026-07-05 02:02:44",
   "announcements": [
     {
       "date": "2026/06/28",
@@ -21804,6 +21804,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46354,
+      "name": "I wanna Cauterize",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 16487,
       "name": "I wanna be the Caution",
       "difficulty": "65.0",
@@ -24979,6 +24989,16 @@
       "difficulty": "65.0",
       "difficulty_num": 65.0,
       "rating": 7.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46355,
+      "name": "i wanna clear the impossible trials",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
@@ -50126,11 +50146,11 @@
     {
       "id": 15479,
       "name": "I wanna generate Random Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.8,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 1.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -66330,6 +66350,16 @@
       "difficulty_num": 55.0,
       "rating": 2.9,
       "num_ratings": 3,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46356,
+      "name": "I wanna be the invisible guy",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -82634,6 +82664,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46357,
+      "name": "Mama Sea",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 25308,
       "name": "I Wanna Mamanaixi",
       "difficulty": "57.3",
@@ -95622,6 +95662,16 @@
       "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46359,
+      "name": "i wanna permaf",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 11004,
@@ -138176,6 +138226,16 @@
     {
       "id": 18471,
       "name": "I Wanna ╭(╯^╰)╮",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46358,
+      "name": "■Geometry Guy■",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
