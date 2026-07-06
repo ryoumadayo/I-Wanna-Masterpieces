@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 02:20:21",
+  "last_updated": "2026-07-07 04:15:08",
   "announcements": [
     {
       "date": "2026/07/06",
@@ -23676,10 +23676,10 @@
     {
       "id": 46326,
       "name": "Chieri's Beginning Adventure",
-      "difficulty": "37.5",
-      "difficulty_num": 37.5,
-      "rating": 5.5,
-      "num_ratings": 3,
+      "difficulty": "35.7",
+      "difficulty_num": 35.7,
+      "rating": 5.3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -43016,10 +43016,10 @@
     {
       "id": 16008,
       "name": "I wanna be the Extreme",
-      "difficulty": "34.3",
-      "difficulty_num": 34.3,
-      "rating": 3.8,
-      "num_ratings": 4,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 4.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -79918,7 +79918,7 @@
       "name": "LSDKid",
       "difficulty": "56.0",
       "difficulty_num": 56.0,
-      "rating": 6.0,
+      "rating": 5.8,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -106646,10 +106646,10 @@
     {
       "id": 24523,
       "name": "I wanna be the RRH",
-      "difficulty": "81.0",
-      "difficulty_num": 81.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "82.0",
+      "difficulty_num": 82.0,
+      "rating": 1.6,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
