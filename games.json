@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 19:16:13",
+  "last_updated": "2026-07-06 23:06:31",
   "announcements": [
     {
       "date": "2026/07/06",
@@ -24908,8 +24908,8 @@
       "name": "I wanna clear the Easy Miku",
       "difficulty": "23.5",
       "difficulty_num": 23.5,
-      "rating": 4.4,
-      "num_ratings": 58,
+      "rating": 4.5,
+      "num_ratings": 59,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -29076,10 +29076,10 @@
     {
       "id": 46352,
       "name": "I Wanna Be The Cronh19",
-      "difficulty": "23.5",
-      "difficulty_num": 23.5,
+      "difficulty": "25.7",
+      "difficulty_num": 25.7,
       "rating": 5.6,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -104666,10 +104666,10 @@
     {
       "id": 27904,
       "name": "I wanna be the Replica",
-      "difficulty": "96.2",
-      "difficulty_num": 96.2,
-      "rating": 9.4,
-      "num_ratings": 6,
+      "difficulty": "96.3",
+      "difficulty_num": 96.3,
+      "rating": 8.9,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
