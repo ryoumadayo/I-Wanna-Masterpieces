@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 04:15:08",
+  "last_updated": "2026-07-10 06:07:01",
   "announcements": [
     {
       "date": "2026/07/06",
@@ -471,7 +471,7 @@
       "rating": 6.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17718,
@@ -611,7 +611,7 @@
       "rating": 5.4,
       "num_ratings": 17,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15187,
@@ -1360,7 +1360,7 @@
       "difficulty_num": 39.0,
       "rating": 6.4,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -1591,7 +1591,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24314,
@@ -1620,7 +1620,7 @@
       "difficulty_num": 55.4,
       "rating": 6.8,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -1871,7 +1871,7 @@
       "rating": 3.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15758,
@@ -2170,7 +2170,7 @@
       "difficulty_num": 44.8,
       "rating": 7.7,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -2210,7 +2210,7 @@
       "difficulty_num": 48.3,
       "rating": 5.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -2390,7 +2390,7 @@
       "difficulty_num": 57.3,
       "rating": 3.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -2600,7 +2600,7 @@
       "difficulty_num": 69.8,
       "rating": 4.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -2741,7 +2741,7 @@
       "rating": 8.5,
       "num_ratings": 26,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11861,
@@ -2820,7 +2820,7 @@
       "difficulty_num": 57.6,
       "rating": 4.0,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3120,7 +3120,7 @@
       "difficulty_num": 40.4,
       "rating": 4.4,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3431,7 +3431,7 @@
       "rating": 8.2,
       "num_ratings": 63,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10525,
@@ -3490,7 +3490,7 @@
       "difficulty_num": 22.5,
       "rating": 7.1,
       "num_ratings": 20,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3510,7 +3510,7 @@
       "difficulty_num": 59.2,
       "rating": 6.3,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3690,7 +3690,7 @@
       "difficulty_num": 20.0,
       "rating": 7.5,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3701,7 +3701,7 @@
       "rating": 6.9,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10540,
@@ -3771,7 +3771,7 @@
       "rating": 4.0,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11419,
@@ -3800,7 +3800,7 @@
       "difficulty_num": 37.1,
       "rating": 7.4,
       "num_ratings": 63,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -3900,7 +3900,7 @@
       "difficulty_num": 44.2,
       "rating": 5.3,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -4001,7 +4001,7 @@
       "rating": 6.8,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27459,
@@ -4030,7 +4030,7 @@
       "difficulty_num": 39.8,
       "rating": 7.7,
       "num_ratings": 40,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5041,7 +5041,7 @@
       "rating": 7.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27927,
@@ -5070,7 +5070,7 @@
       "difficulty_num": 46.4,
       "rating": 7.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5080,7 +5080,7 @@
       "difficulty_num": 46.3,
       "rating": 6.5,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5111,7 +5111,7 @@
       "rating": 7.5,
       "num_ratings": 40,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11422,
@@ -5121,7 +5121,7 @@
       "rating": 9.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21246,
@@ -5211,7 +5211,7 @@
       "rating": 6.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26271,
@@ -5440,7 +5440,7 @@
       "difficulty_num": 37.3,
       "rating": 6.3,
       "num_ratings": 46,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5560,7 +5560,7 @@
       "difficulty_num": 62.7,
       "rating": 8.6,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5630,7 +5630,7 @@
       "difficulty_num": 56.2,
       "rating": 5.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5720,7 +5720,7 @@
       "difficulty_num": 60.0,
       "rating": 0.1,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5870,7 +5870,7 @@
       "difficulty_num": 35.0,
       "rating": 5.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -5951,7 +5951,7 @@
       "rating": 4.6,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17771,
@@ -5960,7 +5960,7 @@
       "difficulty_num": 44.5,
       "rating": 5.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -6081,7 +6081,7 @@
       "rating": 6.5,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27105,
@@ -6161,7 +6161,7 @@
       "rating": 7.8,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26811,
@@ -6170,7 +6170,7 @@
       "difficulty_num": 42.5,
       "rating": 1.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -6331,7 +6331,7 @@
       "rating": 6.4,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15093,
@@ -6410,7 +6410,7 @@
       "difficulty_num": 65.8,
       "rating": 5.4,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -6531,7 +6531,7 @@
       "rating": 4.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10550,
@@ -6540,7 +6540,7 @@
       "difficulty_num": 28.2,
       "rating": 6.4,
       "num_ratings": 159,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -6750,7 +6750,7 @@
       "difficulty_num": 43.0,
       "rating": 4.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -6971,7 +6971,7 @@
       "rating": 7.7,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16908,
@@ -7100,7 +7100,7 @@
       "difficulty_num": 45.0,
       "rating": 5.5,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -7201,7 +7201,7 @@
       "rating": 8.5,
       "num_ratings": 20,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15322,
@@ -7221,7 +7221,7 @@
       "rating": 8.3,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24585,
@@ -7331,7 +7331,7 @@
       "rating": 9.3,
       "num_ratings": 55,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18660,
@@ -7400,7 +7400,7 @@
       "difficulty_num": 62.7,
       "rating": 5.6,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -7560,7 +7560,7 @@
       "difficulty_num": 47.5,
       "rating": 7.1,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -7581,7 +7581,7 @@
       "rating": 7.7,
       "num_ratings": 22,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27850,
@@ -7670,7 +7670,7 @@
       "difficulty_num": 34.3,
       "rating": 4.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -7700,7 +7700,7 @@
       "difficulty_num": 42.0,
       "rating": 6.7,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -8541,7 +8541,7 @@
       "rating": 3.8,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26983,
@@ -9050,7 +9050,7 @@
       "difficulty_num": 44.8,
       "rating": 6.7,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -9230,7 +9230,7 @@
       "difficulty_num": 55.4,
       "rating": 7.3,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -9390,7 +9390,7 @@
       "difficulty_num": 48.1,
       "rating": 5.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -9571,7 +9571,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17538,
@@ -9730,7 +9730,7 @@
       "difficulty_num": 54.3,
       "rating": 6.7,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -9891,7 +9891,7 @@
       "rating": 7.4,
       "num_ratings": 23,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16957,
@@ -9950,7 +9950,7 @@
       "difficulty_num": 35.1,
       "rating": 8.3,
       "num_ratings": 19,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10100,7 +10100,7 @@
       "difficulty_num": 50.1,
       "rating": 6.5,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10300,7 +10300,7 @@
       "difficulty_num": 56.6,
       "rating": 9.0,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10340,7 +10340,7 @@
       "difficulty_num": 89.8,
       "rating": 8.0,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10530,7 +10530,7 @@
       "difficulty_num": 61.2,
       "rating": 4.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10570,7 +10570,7 @@
       "difficulty_num": 83.0,
       "rating": 0.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10780,7 +10780,7 @@
       "difficulty_num": 44.0,
       "rating": 6.0,
       "num_ratings": 27,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10790,7 +10790,7 @@
       "difficulty_num": 57.4,
       "rating": 8.3,
       "num_ratings": 60,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -10921,7 +10921,7 @@
       "rating": 7.4,
       "num_ratings": 41,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28130,
@@ -11050,7 +11050,7 @@
       "difficulty_num": 55.0,
       "rating": 5.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -11330,7 +11330,7 @@
       "difficulty_num": 42.7,
       "rating": 8.3,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -11800,7 +11800,7 @@
       "difficulty_num": 62.5,
       "rating": 5.2,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -12100,7 +12100,7 @@
       "difficulty_num": 59.6,
       "rating": 4.0,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -12141,7 +12141,7 @@
       "rating": 5.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12176,
@@ -12600,7 +12600,7 @@
       "difficulty_num": 68.7,
       "rating": 6.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -12860,7 +12860,7 @@
       "difficulty_num": 46.1,
       "rating": 7.6,
       "num_ratings": 39,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -12980,7 +12980,7 @@
       "difficulty_num": 53.5,
       "rating": 3.4,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -13050,7 +13050,7 @@
       "difficulty_num": 35.7,
       "rating": 4.9,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -13060,7 +13060,7 @@
       "difficulty_num": 48.5,
       "rating": 7.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -13151,7 +13151,7 @@
       "rating": 5.5,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20140,
@@ -13190,7 +13190,7 @@
       "difficulty_num": 38.0,
       "rating": 1.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -13290,7 +13290,7 @@
       "difficulty_num": 67.8,
       "rating": 8.2,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -13361,7 +13361,7 @@
       "rating": 6.0,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16718,
@@ -15070,7 +15070,7 @@
       "difficulty_num": 38.0,
       "rating": 5.4,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15190,7 +15190,7 @@
       "difficulty_num": 25.1,
       "rating": 5.5,
       "num_ratings": 26,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15210,7 +15210,7 @@
       "difficulty_num": 48.1,
       "rating": 6.2,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15280,7 +15280,7 @@
       "difficulty_num": 45.7,
       "rating": 4.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15390,7 +15390,7 @@
       "difficulty_num": 25.6,
       "rating": 6.3,
       "num_ratings": 28,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15560,7 +15560,7 @@
       "difficulty_num": 62.5,
       "rating": 3.0,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15630,7 +15630,7 @@
       "difficulty_num": 49.0,
       "rating": 4.4,
       "num_ratings": 36,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15640,7 +15640,7 @@
       "difficulty_num": 52.3,
       "rating": 7.0,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15650,7 +15650,7 @@
       "difficulty_num": 53.2,
       "rating": 7.5,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -15710,7 +15710,7 @@
       "difficulty_num": 48.0,
       "rating": 3.5,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16040,7 +16040,7 @@
       "difficulty_num": 39.0,
       "rating": 9.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16151,7 +16151,7 @@
       "rating": 8.5,
       "num_ratings": 78,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10568,
@@ -16320,7 +16320,7 @@
       "difficulty_num": 0.0,
       "rating": 6.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16350,7 +16350,7 @@
       "difficulty_num": 32.0,
       "rating": 7.1,
       "num_ratings": 26,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16370,7 +16370,7 @@
       "difficulty_num": 42.0,
       "rating": 6.8,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16600,7 +16600,7 @@
       "difficulty_num": 49.0,
       "rating": 5.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16870,7 +16870,7 @@
       "difficulty_num": 90.1,
       "rating": 2.2,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16910,7 +16910,7 @@
       "difficulty_num": 60.0,
       "rating": 2.4,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -16930,7 +16930,7 @@
       "difficulty_num": 40.6,
       "rating": 8.2,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17100,7 +17100,7 @@
       "difficulty_num": 48.3,
       "rating": 6.1,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17200,7 +17200,7 @@
       "difficulty_num": 46.7,
       "rating": 5.5,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17540,7 +17540,7 @@
       "difficulty_num": 61.8,
       "rating": 9.5,
       "num_ratings": 36,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17761,7 +17761,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27526,
@@ -17830,7 +17830,7 @@
       "difficulty_num": 58.0,
       "rating": 9.3,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17860,7 +17860,7 @@
       "difficulty_num": 51.9,
       "rating": 2.2,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17870,7 +17870,7 @@
       "difficulty_num": 37.1,
       "rating": 5.0,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -17990,7 +17990,7 @@
       "difficulty_num": 17.8,
       "rating": 6.4,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18150,7 +18150,7 @@
       "difficulty_num": 36.4,
       "rating": 4.1,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18160,7 +18160,7 @@
       "difficulty_num": 34.8,
       "rating": 5.8,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18170,7 +18170,7 @@
       "difficulty_num": 30.3,
       "rating": 6.0,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18240,7 +18240,7 @@
       "difficulty_num": 59.4,
       "rating": 4.6,
       "num_ratings": 21,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18281,7 +18281,7 @@
       "rating": 6.2,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10589,
@@ -18420,7 +18420,7 @@
       "difficulty_num": 33.4,
       "rating": 2.4,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18700,7 +18700,7 @@
       "difficulty_num": 90.0,
       "rating": 6.7,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -18871,7 +18871,7 @@
       "rating": 3.5,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15735,
@@ -18921,7 +18921,7 @@
       "rating": 7.3,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18313,
@@ -19090,7 +19090,7 @@
       "difficulty_num": 48.5,
       "rating": 7.7,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -19520,7 +19520,7 @@
       "difficulty_num": 39.7,
       "rating": 7.0,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20010,7 +20010,7 @@
       "difficulty_num": 38.8,
       "rating": 7.5,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20060,7 +20060,7 @@
       "difficulty_num": 74.8,
       "rating": 2.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20160,7 +20160,7 @@
       "difficulty_num": 43.0,
       "rating": 5.8,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20360,7 +20360,7 @@
       "difficulty_num": 54.7,
       "rating": 8.8,
       "num_ratings": 78,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20411,7 +20411,7 @@
       "rating": 7.7,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24266,
@@ -20651,7 +20651,7 @@
       "rating": 5.5,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23087,
@@ -20920,7 +20920,7 @@
       "difficulty_num": 50.0,
       "rating": 4.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20960,7 +20960,7 @@
       "difficulty_num": 47.3,
       "rating": 3.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -20981,7 +20981,7 @@
       "rating": 7.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14750,
@@ -21131,7 +21131,7 @@
       "rating": 9.1,
       "num_ratings": 32,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27335,
@@ -21390,7 +21390,7 @@
       "difficulty_num": 47.1,
       "rating": 8.7,
       "num_ratings": 57,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -22290,7 +22290,7 @@
       "difficulty_num": 46.0,
       "rating": 7.2,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -22540,7 +22540,7 @@
       "difficulty_num": 59.0,
       "rating": 7.6,
       "num_ratings": 28,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -22570,7 +22570,7 @@
       "difficulty_num": 28.9,
       "rating": 7.1,
       "num_ratings": 170,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -22870,7 +22870,7 @@
       "difficulty_num": 36.8,
       "rating": 6.6,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23050,7 +23050,7 @@
       "difficulty_num": 47.3,
       "rating": 5.5,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23061,7 +23061,7 @@
       "rating": 6.8,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24713,
@@ -23091,7 +23091,7 @@
       "rating": 5.9,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27889,
@@ -23260,7 +23260,7 @@
       "difficulty_num": 18.2,
       "rating": 7.0,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23270,7 +23270,7 @@
       "difficulty_num": 44.5,
       "rating": 7.3,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23340,7 +23340,7 @@
       "difficulty_num": 43.7,
       "rating": 8.1,
       "num_ratings": 27,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23531,7 +23531,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23677,
@@ -23680,7 +23680,7 @@
       "difficulty_num": 35.7,
       "rating": 5.3,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -23780,7 +23780,7 @@
       "difficulty_num": 57.9,
       "rating": 8.9,
       "num_ratings": 61,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24150,7 +24150,7 @@
       "difficulty_num": 62.3,
       "rating": 8.5,
       "num_ratings": 38,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24160,7 +24160,7 @@
       "difficulty_num": 64.5,
       "rating": 9.0,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24170,7 +24170,7 @@
       "difficulty_num": 63.7,
       "rating": 9.3,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24250,7 +24250,7 @@
       "difficulty_num": 45.0,
       "rating": 5.5,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24300,7 +24300,7 @@
       "difficulty_num": 48.4,
       "rating": 5.9,
       "num_ratings": 56,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24440,7 +24440,7 @@
       "difficulty_num": 48.2,
       "rating": 8.0,
       "num_ratings": 56,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -24620,7 +24620,7 @@
       "difficulty_num": 57.1,
       "rating": 7.5,
       "num_ratings": 81,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -25280,7 +25280,7 @@
       "difficulty_num": 37.2,
       "rating": 8.6,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -25591,7 +25591,7 @@
       "rating": 8.2,
       "num_ratings": 18,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23165,
@@ -26030,7 +26030,7 @@
       "difficulty_num": 53.6,
       "rating": 6.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -26060,7 +26060,7 @@
       "difficulty_num": 39.3,
       "rating": 7.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -26120,7 +26120,7 @@
       "difficulty_num": 28.5,
       "rating": 4.2,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -26160,7 +26160,7 @@
       "difficulty_num": 48.6,
       "rating": 5.5,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -26191,7 +26191,7 @@
       "rating": 7.8,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24997,
@@ -26201,7 +26201,7 @@
       "rating": 8.7,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21834,
@@ -26221,7 +26221,7 @@
       "rating": 7.4,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16539,
@@ -26461,7 +26461,7 @@
       "rating": 3.3,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21501,
@@ -26880,7 +26880,7 @@
       "difficulty_num": 53.5,
       "rating": 8.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27211,7 +27211,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11477,
@@ -27221,7 +27221,7 @@
       "rating": 5.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19871,
@@ -27370,7 +27370,7 @@
       "difficulty_num": 57.9,
       "rating": 6.1,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27411,7 +27411,7 @@
       "rating": 4.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21542,
@@ -27460,7 +27460,7 @@
       "difficulty_num": 67.0,
       "rating": 7.5,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27490,7 +27490,7 @@
       "difficulty_num": 19.4,
       "rating": 5.6,
       "num_ratings": 137,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27500,7 +27500,7 @@
       "difficulty_num": 24.4,
       "rating": 6.1,
       "num_ratings": 99,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27771,7 +27771,7 @@
       "rating": 3.4,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27973,
@@ -27781,7 +27781,7 @@
       "rating": 8.3,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24881,
@@ -27820,7 +27820,7 @@
       "difficulty_num": 66.0,
       "rating": 7.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -27860,7 +27860,7 @@
       "difficulty_num": 49.0,
       "rating": 6.7,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -28050,7 +28050,7 @@
       "difficulty_num": 36.8,
       "rating": 6.0,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -28451,7 +28451,7 @@
       "rating": 5.7,
       "num_ratings": 24,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10630,
@@ -28870,7 +28870,7 @@
       "difficulty_num": 31.7,
       "rating": 5.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -28970,7 +28970,7 @@
       "difficulty_num": 73.8,
       "rating": 7.2,
       "num_ratings": 87,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -29040,7 +29040,7 @@
       "difficulty_num": 88.6,
       "rating": 9.3,
       "num_ratings": 118,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -29150,7 +29150,7 @@
       "difficulty_num": 31.3,
       "rating": 8.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -29351,7 +29351,7 @@
       "rating": 7.3,
       "num_ratings": 48,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10638,
@@ -29360,7 +29360,7 @@
       "difficulty_num": 57.3,
       "rating": 3.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -29870,7 +29870,7 @@
       "difficulty_num": 51.0,
       "rating": 2.6,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -29971,7 +29971,7 @@
       "rating": 4.8,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10643,
@@ -30481,7 +30481,7 @@
       "rating": 5.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16440,
@@ -30520,7 +30520,7 @@
       "difficulty_num": 31.1,
       "rating": 6.3,
       "num_ratings": 132,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -30580,7 +30580,7 @@
       "difficulty_num": 35.0,
       "rating": 3.1,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -30660,7 +30660,7 @@
       "difficulty_num": 53.3,
       "rating": 6.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -30751,7 +30751,7 @@
       "rating": 7.7,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12284,
@@ -30780,7 +30780,7 @@
       "difficulty_num": 42.8,
       "rating": 8.4,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -31131,7 +31131,7 @@
       "rating": 2.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10652,
@@ -31470,7 +31470,7 @@
       "difficulty_num": 45.0,
       "rating": 6.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -31720,7 +31720,7 @@
       "difficulty_num": 26.0,
       "rating": 7.7,
       "num_ratings": 100,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32200,7 +32200,7 @@
       "difficulty_num": 59.0,
       "rating": 6.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32620,7 +32620,7 @@
       "difficulty_num": 48.5,
       "rating": 6.6,
       "num_ratings": 34,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32850,7 +32850,7 @@
       "difficulty_num": 30.0,
       "rating": 5.4,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32870,7 +32870,7 @@
       "difficulty_num": 40.7,
       "rating": 4.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32920,7 +32920,7 @@
       "difficulty_num": 56.2,
       "rating": 6.6,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -32951,7 +32951,7 @@
       "rating": 6.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16322,
@@ -32971,7 +32971,7 @@
       "rating": 5.4,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17250,
@@ -33050,7 +33050,7 @@
       "difficulty_num": 73.8,
       "rating": 8.4,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34000,7 +34000,7 @@
       "difficulty_num": 67.3,
       "rating": 6.6,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34250,7 +34250,7 @@
       "difficulty_num": 47.8,
       "rating": 5.6,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34390,7 +34390,7 @@
       "difficulty_num": 61.8,
       "rating": 6.4,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34420,7 +34420,7 @@
       "difficulty_num": 74.3,
       "rating": 8.3,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34450,7 +34450,7 @@
       "difficulty_num": 46.8,
       "rating": 7.2,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34571,7 +34571,7 @@
       "rating": 5.1,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15877,
@@ -34621,7 +34621,7 @@
       "rating": 5.2,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10671,
@@ -34680,7 +34680,7 @@
       "difficulty_num": 52.8,
       "rating": 7.6,
       "num_ratings": 55,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -34921,7 +34921,7 @@
       "rating": 6.3,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15662,
@@ -35091,7 +35091,7 @@
       "rating": 7.7,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10675,
@@ -35200,7 +35200,7 @@
       "difficulty_num": 29.9,
       "rating": 6.0,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -35350,7 +35350,7 @@
       "difficulty_num": 46.5,
       "rating": 4.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -35561,7 +35561,7 @@
       "rating": 3.2,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11932,
@@ -35611,7 +35611,7 @@
       "rating": 7.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21362,
@@ -36040,7 +36040,7 @@
       "difficulty_num": 50.0,
       "rating": 2.7,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36120,7 +36120,7 @@
       "difficulty_num": 46.8,
       "rating": 9.1,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36180,7 +36180,7 @@
       "difficulty_num": 63.7,
       "rating": 7.5,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36240,7 +36240,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36271,7 +36271,7 @@
       "rating": 6.9,
       "num_ratings": 39,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10684,
@@ -36280,7 +36280,7 @@
       "difficulty_num": 39.1,
       "rating": 6.8,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36330,7 +36330,7 @@
       "difficulty_num": 28.0,
       "rating": 7.0,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -36820,7 +36820,7 @@
       "difficulty_num": 59.6,
       "rating": 8.5,
       "num_ratings": 64,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -37090,7 +37090,7 @@
       "difficulty_num": 40.7,
       "rating": 6.9,
       "num_ratings": 20,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -37171,7 +37171,7 @@
       "rating": 8.3,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17706,
@@ -37270,7 +37270,7 @@
       "difficulty_num": 41.1,
       "rating": 4.6,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -37890,7 +37890,7 @@
       "difficulty_num": 44.5,
       "rating": 4.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -37920,7 +37920,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -37991,7 +37991,7 @@
       "rating": 6.5,
       "num_ratings": 34,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19959,
@@ -38020,7 +38020,7 @@
       "difficulty_num": 39.5,
       "rating": 6.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -38211,7 +38211,7 @@
       "rating": 3.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10694,
@@ -38260,7 +38260,7 @@
       "difficulty_num": 60.8,
       "rating": 5.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -38280,7 +38280,7 @@
       "difficulty_num": 62.5,
       "rating": 8.5,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39040,7 +39040,7 @@
       "difficulty_num": 45.0,
       "rating": 6.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39081,7 +39081,7 @@
       "rating": 8.3,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19147,
@@ -39250,7 +39250,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39380,7 +39380,7 @@
       "difficulty_num": 66.3,
       "rating": 5.3,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39621,7 +39621,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26817,
@@ -39820,7 +39820,7 @@
       "difficulty_num": 36.1,
       "rating": 8.0,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -39851,7 +39851,7 @@
       "rating": 7.6,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28045,
@@ -39870,7 +39870,7 @@
       "difficulty_num": 49.6,
       "rating": 6.2,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40000,7 +40000,7 @@
       "difficulty_num": 61.8,
       "rating": 6.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40100,7 +40100,7 @@
       "difficulty_num": 19.7,
       "rating": 4.4,
       "num_ratings": 96,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40470,7 +40470,7 @@
       "difficulty_num": 45.4,
       "rating": 7.4,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40560,7 +40560,7 @@
       "difficulty_num": 23.5,
       "rating": 1.5,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40620,7 +40620,7 @@
       "difficulty_num": 61.5,
       "rating": 7.4,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -40981,7 +40981,7 @@
       "rating": 5.2,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15076,
@@ -41040,7 +41040,7 @@
       "difficulty_num": 34.6,
       "rating": 2.7,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41070,7 +41070,7 @@
       "difficulty_num": 45.0,
       "rating": 8.2,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41260,7 +41260,7 @@
       "difficulty_num": 0.0,
       "rating": 6.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41330,7 +41330,7 @@
       "difficulty_num": 55.9,
       "rating": 6.7,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41400,7 +41400,7 @@
       "difficulty_num": 51.0,
       "rating": 6.8,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41490,7 +41490,7 @@
       "difficulty_num": 63.5,
       "rating": 9.4,
       "num_ratings": 32,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41510,7 +41510,7 @@
       "difficulty_num": 57.3,
       "rating": 4.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41561,7 +41561,7 @@
       "rating": 5.1,
       "num_ratings": 38,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15217,
@@ -41710,7 +41710,7 @@
       "difficulty_num": 47.0,
       "rating": 6.2,
       "num_ratings": 25,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41761,7 +41761,7 @@
       "rating": 8.7,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11535,
@@ -41800,7 +41800,7 @@
       "difficulty_num": 50.0,
       "rating": 7.2,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -41880,7 +41880,7 @@
       "difficulty_num": 76.6,
       "rating": 5.8,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42070,7 +42070,7 @@
       "difficulty_num": 59.5,
       "rating": 5.2,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42201,7 +42201,7 @@
       "rating": 3.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18890,
@@ -42210,7 +42210,7 @@
       "difficulty_num": 38.5,
       "rating": 6.6,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42310,7 +42310,7 @@
       "difficulty_num": 45.0,
       "rating": 7.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42410,7 +42410,7 @@
       "difficulty_num": 46.5,
       "rating": 6.4,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42550,7 +42550,7 @@
       "difficulty_num": 54.6,
       "rating": 8.6,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42670,7 +42670,7 @@
       "difficulty_num": 46.6,
       "rating": 8.1,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42700,7 +42700,7 @@
       "difficulty_num": 48.4,
       "rating": 7.7,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42721,7 +42721,7 @@
       "rating": 6.6,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18618,
@@ -42941,7 +42941,7 @@
       "rating": 5.4,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21037,
@@ -43020,7 +43020,7 @@
       "difficulty_num": 35.0,
       "rating": 4.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -43081,7 +43081,7 @@
       "rating": 8.4,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19344,
@@ -43150,7 +43150,7 @@
       "difficulty_num": 28.1,
       "rating": 6.4,
       "num_ratings": 31,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -43980,7 +43980,7 @@
       "difficulty_num": 37.0,
       "rating": 3.2,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44141,7 +44141,7 @@
       "rating": 9.4,
       "num_ratings": 18,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27787,
@@ -44150,7 +44150,7 @@
       "difficulty_num": 40.0,
       "rating": 7.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44211,7 +44211,7 @@
       "rating": 8.5,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23938,
@@ -44410,7 +44410,7 @@
       "difficulty_num": 36.5,
       "rating": 7.3,
       "num_ratings": 21,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44431,7 +44431,7 @@
       "rating": 6.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21699,
@@ -44441,7 +44441,7 @@
       "rating": 4.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17900,
@@ -44471,7 +44471,7 @@
       "rating": 6.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11954,
@@ -44480,7 +44480,7 @@
       "difficulty_num": 60.0,
       "rating": 5.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44620,7 +44620,7 @@
       "difficulty_num": 81.5,
       "rating": 6.5,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44710,7 +44710,7 @@
       "difficulty_num": 55.0,
       "rating": 7.6,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -44861,7 +44861,7 @@
       "rating": 1.2,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17254,
@@ -44911,7 +44911,7 @@
       "rating": 8.1,
       "num_ratings": 26,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11800,
@@ -45151,7 +45151,7 @@
       "rating": 7.1,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26348,
@@ -45160,7 +45160,7 @@
       "difficulty_num": 44.3,
       "rating": 4.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -45211,7 +45211,7 @@
       "rating": 6.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46144,
@@ -45336,10 +45336,10 @@
     {
       "id": 17501,
       "name": "I wanna find a Needle In A Haystack Hard Version",
-      "difficulty": "84.5",
-      "difficulty_num": 84.5,
-      "rating": 5.7,
-      "num_ratings": 12,
+      "difficulty": "83.8",
+      "difficulty_num": 83.8,
+      "rating": 5.8,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45460,7 +45460,7 @@
       "difficulty_num": 40.2,
       "rating": 6.6,
       "num_ratings": 35,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -45541,7 +45541,7 @@
       "rating": 9.1,
       "num_ratings": 78,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15445,
@@ -45560,7 +45560,7 @@
       "difficulty_num": 33.3,
       "rating": 5.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -45580,7 +45580,7 @@
       "difficulty_num": 48.3,
       "rating": 7.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -45691,7 +45691,7 @@
       "rating": 5.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16259,
@@ -45741,7 +45741,7 @@
       "rating": 8.2,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23298,
@@ -45840,7 +45840,7 @@
       "difficulty_num": 50.0,
       "rating": 4.5,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -45960,7 +45960,7 @@
       "difficulty_num": 47.0,
       "rating": 5.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46010,7 +46010,7 @@
       "difficulty_num": 38.0,
       "rating": 8.8,
       "num_ratings": 38,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46021,7 +46021,7 @@
       "rating": 6.5,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12325,
@@ -46070,7 +46070,7 @@
       "difficulty_num": 55.4,
       "rating": 7.4,
       "num_ratings": 19,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46080,7 +46080,7 @@
       "difficulty_num": 89.7,
       "rating": 8.1,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46200,7 +46200,7 @@
       "difficulty_num": 15.0,
       "rating": 3.6,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -46830,7 +46830,7 @@
       "difficulty_num": 41.0,
       "rating": 6.6,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47070,7 +47070,7 @@
       "difficulty_num": 44.6,
       "rating": 5.8,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47200,7 +47200,7 @@
       "difficulty_num": 54.3,
       "rating": 6.3,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47460,7 +47460,7 @@
       "difficulty_num": 63.9,
       "rating": 7.4,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47510,7 +47510,7 @@
       "difficulty_num": 45.4,
       "rating": 4.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47630,7 +47630,7 @@
       "difficulty_num": 41.8,
       "rating": 7.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47691,7 +47691,7 @@
       "rating": 7.8,
       "num_ratings": 15,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24806,
@@ -47850,7 +47850,7 @@
       "difficulty_num": 44.4,
       "rating": 2.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47860,7 +47860,7 @@
       "difficulty_num": 41.3,
       "rating": 4.6,
       "num_ratings": 31,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -47880,7 +47880,7 @@
       "difficulty_num": 45.3,
       "rating": 3.4,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -48040,7 +48040,7 @@
       "difficulty_num": 62.0,
       "rating": 6.2,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -48060,7 +48060,7 @@
       "difficulty_num": 85.5,
       "rating": 5.9,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -48121,7 +48121,7 @@
       "rating": 3.2,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18573,
@@ -48141,7 +48141,7 @@
       "rating": 5.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17308,
@@ -48200,7 +48200,7 @@
       "difficulty_num": 61.0,
       "rating": 9.3,
       "num_ratings": 67,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -48271,7 +48271,7 @@
       "rating": 6.7,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45733,
@@ -48301,7 +48301,7 @@
       "rating": 1.8,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21400,
@@ -48411,7 +48411,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16510,
@@ -48561,7 +48561,7 @@
       "rating": 1.9,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22855,
@@ -48680,7 +48680,7 @@
       "difficulty_num": 55.0,
       "rating": 7.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -49100,7 +49100,7 @@
       "difficulty_num": 57.9,
       "rating": 8.9,
       "num_ratings": 25,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -49126,10 +49126,10 @@
     {
       "id": 24269,
       "name": "Galaxy Collapse",
-      "difficulty": "99.0",
-      "difficulty_num": 99.0,
-      "rating": 3.6,
-      "num_ratings": 11,
+      "difficulty": "98.7",
+      "difficulty_num": 98.7,
+      "rating": 3.9,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -49401,7 +49401,7 @@
       "rating": 1.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16466,
@@ -49780,7 +49780,7 @@
       "difficulty_num": 82.3,
       "rating": 7.5,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -49790,7 +49790,7 @@
       "difficulty_num": 53.8,
       "rating": 4.7,
       "num_ratings": 34,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50230,7 +50230,7 @@
       "difficulty_num": 26.2,
       "rating": 1.4,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50260,7 +50260,7 @@
       "difficulty_num": 48.0,
       "rating": 4.5,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50450,7 +50450,7 @@
       "difficulty_num": 45.0,
       "rating": 7.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50550,7 +50550,7 @@
       "difficulty_num": 57.5,
       "rating": 7.4,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50750,7 +50750,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -50831,7 +50831,7 @@
       "rating": 6.9,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46089,
@@ -51071,7 +51071,7 @@
       "rating": 4.2,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18796,
@@ -51110,7 +51110,7 @@
       "difficulty_num": 48.6,
       "rating": 8.5,
       "num_ratings": 41,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51300,7 +51300,7 @@
       "difficulty_num": 40.4,
       "rating": 6.7,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51310,7 +51310,7 @@
       "difficulty_num": 34.3,
       "rating": 5.5,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51530,7 +51530,7 @@
       "difficulty_num": 29.9,
       "rating": 6.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51570,7 +51570,7 @@
       "difficulty_num": 36.5,
       "rating": 6.1,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51611,7 +51611,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15903,
@@ -51680,7 +51680,7 @@
       "difficulty_num": 33.2,
       "rating": 6.4,
       "num_ratings": 95,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -51960,7 +51960,7 @@
       "difficulty_num": 41.3,
       "rating": 4.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -52190,7 +52190,7 @@
       "difficulty_num": 15.9,
       "rating": 4.7,
       "num_ratings": 32,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -52220,7 +52220,7 @@
       "difficulty_num": 46.0,
       "rating": 4.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -52431,7 +52431,7 @@
       "rating": 6.2,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17709,
@@ -52720,7 +52720,7 @@
       "difficulty_num": 42.5,
       "rating": 7.4,
       "num_ratings": 129,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -52791,7 +52791,7 @@
       "rating": 3.0,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22537,
@@ -52870,7 +52870,7 @@
       "difficulty_num": 48.7,
       "rating": 4.9,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53021,7 +53021,7 @@
       "rating": 8.5,
       "num_ratings": 20,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18038,
@@ -53170,7 +53170,7 @@
       "difficulty_num": 30.7,
       "rating": 7.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53240,7 +53240,7 @@
       "difficulty_num": 33.0,
       "rating": 6.3,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53271,7 +53271,7 @@
       "rating": 8.3,
       "num_ratings": 41,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23567,
@@ -53460,7 +53460,7 @@
       "difficulty_num": 43.5,
       "rating": 5.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53520,7 +53520,7 @@
       "difficulty_num": 63.5,
       "rating": 4.6,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53591,7 +53591,7 @@
       "rating": 1.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14936,
@@ -53741,7 +53741,7 @@
       "rating": 6.5,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12345,
@@ -53810,7 +53810,7 @@
       "difficulty_num": 35.8,
       "rating": 7.1,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53861,7 +53861,7 @@
       "rating": 5.5,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22093,
@@ -53870,7 +53870,7 @@
       "difficulty_num": 45.0,
       "rating": 5.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53910,7 +53910,7 @@
       "difficulty_num": 50.2,
       "rating": 8.8,
       "num_ratings": 39,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -53991,7 +53991,7 @@
       "rating": 7.9,
       "num_ratings": 25,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15070,
@@ -54010,7 +54010,7 @@
       "difficulty_num": 72.0,
       "rating": 6.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54180,7 +54180,7 @@
       "difficulty_num": 41.5,
       "rating": 6.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54320,7 +54320,7 @@
       "difficulty_num": 40.4,
       "rating": 7.5,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54331,7 +54331,7 @@
       "rating": 7.2,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15083,
@@ -54470,7 +54470,7 @@
       "difficulty_num": 51.0,
       "rating": 5.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54570,7 +54570,7 @@
       "difficulty_num": 63.0,
       "rating": 3.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54580,7 +54580,7 @@
       "difficulty_num": 61.7,
       "rating": 7.6,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -54700,7 +54700,7 @@
       "difficulty_num": 37.7,
       "rating": 3.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55390,7 +55390,7 @@
       "difficulty_num": 72.4,
       "rating": 5.5,
       "num_ratings": 40,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55411,7 +55411,7 @@
       "rating": 3.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27525,
@@ -55421,7 +55421,7 @@
       "rating": 8.5,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21796,
@@ -55441,7 +55441,7 @@
       "rating": 7.5,
       "num_ratings": 37,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14945,
@@ -55451,7 +55451,7 @@
       "rating": 6.4,
       "num_ratings": 39,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27454,
@@ -55530,7 +55530,7 @@
       "difficulty_num": 49.8,
       "rating": 5.2,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55591,7 +55591,7 @@
       "rating": 8.5,
       "num_ratings": 59,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27677,
@@ -55620,7 +55620,7 @@
       "difficulty_num": 32.5,
       "rating": 4.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55701,7 +55701,7 @@
       "rating": 7.8,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19209,
@@ -55710,7 +55710,7 @@
       "difficulty_num": 39.7,
       "rating": 7.0,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55720,7 +55720,7 @@
       "difficulty_num": 41.7,
       "rating": 4.5,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -55800,7 +55800,7 @@
       "difficulty_num": 40.7,
       "rating": 5.2,
       "num_ratings": 37,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -56180,7 +56180,7 @@
       "difficulty_num": 77.9,
       "rating": 6.3,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -56340,7 +56340,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 0,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -56371,7 +56371,7 @@
       "rating": 5.0,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18673,
@@ -56870,7 +56870,7 @@
       "difficulty_num": 36.0,
       "rating": 7.7,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -56920,7 +56920,7 @@
       "difficulty_num": 32.8,
       "rating": 7.4,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -58690,7 +58690,7 @@
       "difficulty_num": 62.7,
       "rating": 8.1,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -58700,7 +58700,7 @@
       "difficulty_num": 51.6,
       "rating": 8.2,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -58721,7 +58721,7 @@
       "rating": 8.7,
       "num_ratings": 54,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12563,
@@ -58951,7 +58951,7 @@
       "rating": 8.4,
       "num_ratings": 23,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19511,
@@ -59030,7 +59030,7 @@
       "difficulty_num": 27.0,
       "rating": 5.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -59040,7 +59040,7 @@
       "difficulty_num": 57.7,
       "rating": 6.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -59510,7 +59510,7 @@
       "difficulty_num": 32.5,
       "rating": 5.8,
       "num_ratings": 28,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -59820,7 +59820,7 @@
       "difficulty_num": 24.2,
       "rating": 6.6,
       "num_ratings": 55,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60011,7 +60011,7 @@
       "rating": 8.3,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11982,
@@ -60020,7 +60020,7 @@
       "difficulty_num": 41.3,
       "rating": 7.3,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60091,7 +60091,7 @@
       "rating": 8.7,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25153,
@@ -60360,7 +60360,7 @@
       "difficulty_num": 26.1,
       "rating": 6.4,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60421,7 +60421,7 @@
       "rating": 5.0,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27633,
@@ -60481,7 +60481,7 @@
       "rating": 4.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24921,
@@ -60830,7 +60830,7 @@
       "difficulty_num": 53.3,
       "rating": 8.2,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60860,7 +60860,7 @@
       "difficulty_num": 79.1,
       "rating": 5.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60900,7 +60900,7 @@
       "difficulty_num": 66.5,
       "rating": 6.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -60910,7 +60910,7 @@
       "difficulty_num": 72.1,
       "rating": 6.0,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -61011,7 +61011,7 @@
       "rating": 5.0,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25371,
@@ -61060,7 +61060,7 @@
       "difficulty_num": 48.3,
       "rating": 7.2,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -61291,7 +61291,7 @@
       "rating": 6.9,
       "num_ratings": 15,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20780,
@@ -61540,7 +61540,7 @@
       "difficulty_num": 40.6,
       "rating": 5.2,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -61711,7 +61711,7 @@
       "rating": 4.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14838,
@@ -61730,7 +61730,7 @@
       "difficulty_num": 60.5,
       "rating": 8.6,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -61800,7 +61800,7 @@
       "difficulty_num": 54.0,
       "rating": 6.7,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -62101,7 +62101,7 @@
       "rating": 5.4,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28124,
@@ -62211,7 +62211,7 @@
       "rating": 5.4,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16558,
@@ -62220,7 +62220,7 @@
       "difficulty_num": 33.3,
       "rating": 7.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -62231,7 +62231,7 @@
       "rating": 8.0,
       "num_ratings": 23,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27877,
@@ -62240,7 +62240,7 @@
       "difficulty_num": 61.0,
       "rating": 7.2,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -62291,7 +62291,7 @@
       "rating": 5.3,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45981,
@@ -62630,7 +62630,7 @@
       "difficulty_num": 43.3,
       "rating": 2.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -63220,7 +63220,7 @@
       "difficulty_num": 43.0,
       "rating": 4.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -63710,7 +63710,7 @@
       "difficulty_num": 58.4,
       "rating": 8.7,
       "num_ratings": 26,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -63780,7 +63780,7 @@
       "difficulty_num": 52.5,
       "rating": 4.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -63841,7 +63841,7 @@
       "rating": 7.5,
       "num_ratings": 19,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45969,
@@ -63861,7 +63861,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18859,
@@ -63981,7 +63981,7 @@
       "rating": 7.6,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17348,
@@ -64030,7 +64030,7 @@
       "difficulty_num": 66.3,
       "rating": 8.2,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -64130,7 +64130,7 @@
       "difficulty_num": 48.9,
       "rating": 8.6,
       "num_ratings": 32,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -64310,7 +64310,7 @@
       "difficulty_num": 53.3,
       "rating": 6.8,
       "num_ratings": 20,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -64731,7 +64731,7 @@
       "rating": 3.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26261,
@@ -64871,7 +64871,7 @@
       "rating": 7.2,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18698,
@@ -65290,7 +65290,7 @@
       "difficulty_num": 47.0,
       "rating": 6.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -65461,7 +65461,7 @@
       "rating": 3.0,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20530,
@@ -65560,7 +65560,7 @@
       "difficulty_num": 50.0,
       "rating": 6.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -65630,7 +65630,7 @@
       "difficulty_num": 39.7,
       "rating": 6.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -65771,7 +65771,7 @@
       "rating": 4.9,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16197,
@@ -66061,7 +66061,7 @@
       "rating": 6.7,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21488,
@@ -66090,7 +66090,7 @@
       "difficulty_num": 45.0,
       "rating": 1.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -66240,7 +66240,7 @@
       "difficulty_num": 42.0,
       "rating": 6.3,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -66650,7 +66650,7 @@
       "difficulty_num": 35.9,
       "rating": 8.5,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -67260,7 +67260,7 @@
       "difficulty_num": 50.0,
       "rating": 4.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -67520,7 +67520,7 @@
       "difficulty_num": 80.2,
       "rating": 5.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -67611,7 +67611,7 @@
       "rating": 2.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10811,
@@ -67640,7 +67640,7 @@
       "difficulty_num": 55.9,
       "rating": 8.7,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -67650,7 +67650,7 @@
       "difficulty_num": 50.2,
       "rating": 7.3,
       "num_ratings": 34,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -67971,7 +67971,7 @@
       "rating": 6.2,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21863,
@@ -68200,7 +68200,7 @@
       "difficulty_num": 61.3,
       "rating": 7.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -68321,7 +68321,7 @@
       "rating": 6.0,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21069,
@@ -68331,7 +68331,7 @@
       "rating": 7.8,
       "num_ratings": 15,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15542,
@@ -68380,7 +68380,7 @@
       "difficulty_num": 57.6,
       "rating": 6.5,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -68590,7 +68590,7 @@
       "difficulty_num": 52.5,
       "rating": 6.3,
       "num_ratings": 20,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -68791,7 +68791,7 @@
       "rating": 2.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20045,
@@ -69140,7 +69140,7 @@
       "difficulty_num": 50.0,
       "rating": 9.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -69171,7 +69171,7 @@
       "rating": 0.0,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23711,
@@ -69291,7 +69291,7 @@
       "rating": 5.3,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25006,
@@ -69550,7 +69550,7 @@
       "difficulty_num": 35.0,
       "rating": 6.5,
       "num_ratings": 29,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -69710,7 +69710,7 @@
       "difficulty_num": 45.7,
       "rating": 3.6,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -69810,7 +69810,7 @@
       "difficulty_num": 53.6,
       "rating": 1.9,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -69820,7 +69820,7 @@
       "difficulty_num": 63.0,
       "rating": 7.6,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -70110,7 +70110,7 @@
       "difficulty_num": 40.0,
       "rating": 4.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -70180,7 +70180,7 @@
       "difficulty_num": 26.9,
       "rating": 4.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -70421,7 +70421,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26541,
@@ -70690,7 +70690,7 @@
       "difficulty_num": 64.8,
       "rating": 4.4,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -70741,7 +70741,7 @@
       "rating": 5.2,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27200,
@@ -70850,7 +70850,7 @@
       "difficulty_num": 44.7,
       "rating": 7.8,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -71570,7 +71570,7 @@
       "difficulty_num": 35.0,
       "rating": 4.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -71831,7 +71831,7 @@
       "rating": 8.2,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17011,
@@ -71900,7 +71900,7 @@
       "difficulty_num": 50.2,
       "rating": 5.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -72160,7 +72160,7 @@
       "difficulty_num": 39.0,
       "rating": 4.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -72231,7 +72231,7 @@
       "rating": 9.0,
       "num_ratings": 152,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45977,
@@ -72381,7 +72381,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27154,
@@ -72411,7 +72411,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28071,
@@ -72940,7 +72940,7 @@
       "difficulty_num": 57.9,
       "rating": 5.5,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -73031,7 +73031,7 @@
       "rating": 7.7,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12380,
@@ -73110,7 +73110,7 @@
       "difficulty_num": 48.3,
       "rating": 8.9,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -73150,7 +73150,7 @@
       "difficulty_num": 52.1,
       "rating": 8.5,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -73481,7 +73481,7 @@
       "rating": 8.0,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16700,
@@ -73860,7 +73860,7 @@
       "difficulty_num": 16.2,
       "rating": 3.2,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -73900,7 +73900,7 @@
       "difficulty_num": 55.0,
       "rating": 4.7,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -74020,7 +74020,7 @@
       "difficulty_num": 56.6,
       "rating": 5.4,
       "num_ratings": 46,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -74230,7 +74230,7 @@
       "difficulty_num": 56.7,
       "rating": 5.4,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -74740,7 +74740,7 @@
       "difficulty_num": 44.8,
       "rating": 7.4,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -74761,7 +74761,7 @@
       "rating": 5.3,
       "num_ratings": 26,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19410,
@@ -75111,7 +75111,7 @@
       "rating": 8.8,
       "num_ratings": 18,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20587,
@@ -75140,7 +75140,7 @@
       "difficulty_num": 39.5,
       "rating": 3.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -75210,7 +75210,7 @@
       "difficulty_num": 55.0,
       "rating": 4.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -75240,7 +75240,7 @@
       "difficulty_num": 32.3,
       "rating": 9.2,
       "num_ratings": 51,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -75270,7 +75270,7 @@
       "difficulty_num": 60.0,
       "rating": 6.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -75331,7 +75331,7 @@
       "rating": 4.8,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15486,
@@ -75671,7 +75671,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24096,
@@ -75721,7 +75721,7 @@
       "rating": 3.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10835,
@@ -75831,7 +75831,7 @@
       "rating": 5.9,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24608,
@@ -76241,7 +76241,7 @@
       "rating": 6.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16742,
@@ -76250,7 +76250,7 @@
       "difficulty_num": 65.0,
       "rating": 8.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -76290,7 +76290,7 @@
       "difficulty_num": 76.5,
       "rating": 5.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -76780,7 +76780,7 @@
       "difficulty_num": 24.5,
       "rating": 3.6,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -76811,7 +76811,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27577,
@@ -76971,7 +76971,7 @@
       "rating": 7.7,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27468,
@@ -76990,7 +76990,7 @@
       "difficulty_num": 55.2,
       "rating": 6.6,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -77000,7 +77000,7 @@
       "difficulty_num": 45.0,
       "rating": 8.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -77020,7 +77020,7 @@
       "difficulty_num": 51.5,
       "rating": 8.3,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -77081,7 +77081,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46141,
@@ -77400,7 +77400,7 @@
       "difficulty_num": 60.0,
       "rating": 2.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -77460,7 +77460,7 @@
       "difficulty_num": 42.7,
       "rating": 1.8,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78020,7 +78020,7 @@
       "difficulty_num": 66.0,
       "rating": 5.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78180,7 +78180,7 @@
       "difficulty_num": 59.0,
       "rating": 5.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78191,7 +78191,7 @@
       "rating": 4.2,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23639,
@@ -78231,7 +78231,7 @@
       "rating": 5.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10851,
@@ -78310,7 +78310,7 @@
       "difficulty_num": 48.3,
       "rating": 6.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78380,7 +78380,7 @@
       "difficulty_num": 67.1,
       "rating": 7.0,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78520,7 +78520,7 @@
       "difficulty_num": 58.3,
       "rating": 1.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -78611,7 +78611,7 @@
       "rating": 8.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16741,
@@ -78710,7 +78710,7 @@
       "difficulty_num": 39.0,
       "rating": 6.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -79331,7 +79331,7 @@
       "rating": 7.3,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15285,
@@ -79541,7 +79541,7 @@
       "rating": 7.1,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17228,
@@ -79620,7 +79620,7 @@
       "difficulty_num": 21.4,
       "rating": 8.1,
       "num_ratings": 112,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -79861,7 +79861,7 @@
       "rating": 6.7,
       "num_ratings": 30,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26569,
@@ -79920,7 +79920,7 @@
       "difficulty_num": 56.0,
       "rating": 5.8,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -79940,7 +79940,7 @@
       "difficulty_num": 36.8,
       "rating": 4.0,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -80111,7 +80111,7 @@
       "rating": 4.3,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27605,
@@ -80260,7 +80260,7 @@
       "difficulty_num": 54.7,
       "rating": 5.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -80460,7 +80460,7 @@
       "difficulty_num": 60.0,
       "rating": 3.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -80691,7 +80691,7 @@
       "rating": 6.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20987,
@@ -80701,7 +80701,7 @@
       "rating": 8.0,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15639,
@@ -81421,7 +81421,7 @@
       "rating": 7.4,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27880,
@@ -81431,7 +81431,7 @@
       "rating": 7.9,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45807,
@@ -81441,7 +81441,7 @@
       "rating": 8.6,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45872,
@@ -81510,7 +81510,7 @@
       "difficulty_num": 47.0,
       "rating": 5.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -81720,7 +81720,7 @@
       "difficulty_num": 56.0,
       "rating": 7.8,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -81760,7 +81760,7 @@
       "difficulty_num": 97.5,
       "rating": 0.5,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -82320,7 +82320,7 @@
       "difficulty_num": 47.3,
       "rating": 7.0,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -82561,7 +82561,7 @@
       "rating": 8.0,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16793,
@@ -83091,7 +83091,7 @@
       "rating": 6.7,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25495,
@@ -83120,7 +83120,7 @@
       "difficulty_num": 43.7,
       "rating": 6.5,
       "num_ratings": 26,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83280,7 +83280,7 @@
       "difficulty_num": 90.0,
       "rating": 3.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83310,7 +83310,7 @@
       "difficulty_num": 35.4,
       "rating": 6.3,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83400,7 +83400,7 @@
       "difficulty_num": 64.7,
       "rating": 7.8,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83410,7 +83410,7 @@
       "difficulty_num": 52.9,
       "rating": 7.4,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83521,7 +83521,7 @@
       "rating": 5.7,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12026,
@@ -83630,7 +83630,7 @@
       "difficulty_num": 23.0,
       "rating": 5.4,
       "num_ratings": 25,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -83840,7 +83840,7 @@
       "difficulty_num": 55.4,
       "rating": 8.4,
       "num_ratings": 38,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -84020,7 +84020,7 @@
       "difficulty_num": 61.2,
       "rating": 7.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -84291,7 +84291,7 @@
       "rating": 4.1,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22220,
@@ -84520,7 +84520,7 @@
       "difficulty_num": 63.0,
       "rating": 2.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -84580,7 +84580,7 @@
       "difficulty_num": 35.5,
       "rating": 5.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -84981,7 +84981,7 @@
       "rating": 3.5,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14875,
@@ -85221,7 +85221,7 @@
       "rating": 1.8,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26356,
@@ -85330,7 +85330,7 @@
       "difficulty_num": 51.8,
       "rating": 6.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -85440,7 +85440,7 @@
       "difficulty_num": 26.3,
       "rating": 5.5,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -85460,7 +85460,7 @@
       "difficulty_num": 64.5,
       "rating": 9.2,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -85511,7 +85511,7 @@
       "rating": 6.4,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24484,
@@ -85660,7 +85660,7 @@
       "difficulty_num": 42.0,
       "rating": 6.2,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -85690,7 +85690,7 @@
       "difficulty_num": 42.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86021,7 +86021,7 @@
       "rating": 7.8,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19199,
@@ -86110,7 +86110,7 @@
       "difficulty_num": 57.0,
       "rating": 9.2,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86300,7 +86300,7 @@
       "difficulty_num": 65.0,
       "rating": 7.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86380,7 +86380,7 @@
       "difficulty_num": 63.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86600,7 +86600,7 @@
       "difficulty_num": 65.7,
       "rating": 7.4,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86710,7 +86710,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86810,7 +86810,7 @@
       "difficulty_num": 48.5,
       "rating": 3.4,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86820,7 +86820,7 @@
       "difficulty_num": 37.2,
       "rating": 4.5,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -86900,7 +86900,7 @@
       "difficulty_num": 48.3,
       "rating": 6.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -87050,7 +87050,7 @@
       "difficulty_num": 0.0,
       "rating": 1.9,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -87060,7 +87060,7 @@
       "difficulty_num": 52.5,
       "rating": 3.7,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -87071,7 +87071,7 @@
       "rating": 7.1,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16370,
@@ -87860,7 +87860,7 @@
       "difficulty_num": 51.0,
       "rating": 5.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -87961,7 +87961,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17069,
@@ -88010,7 +88010,7 @@
       "difficulty_num": 56.0,
       "rating": 3.5,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -88450,7 +88450,7 @@
       "difficulty_num": 64.3,
       "rating": 8.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -89166,10 +89166,10 @@
     {
       "id": 27999,
       "name": "Needove",
-      "difficulty": "72.1",
-      "difficulty_num": 72.1,
-      "rating": 7.6,
-      "num_ratings": 7,
+      "difficulty": "71.9",
+      "difficulty_num": 71.9,
+      "rating": 7.5,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -89211,7 +89211,7 @@
       "rating": 4.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10944,
@@ -89931,7 +89931,7 @@
       "rating": 4.8,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17324,
@@ -90030,7 +90030,7 @@
       "difficulty_num": 63.0,
       "rating": 4.1,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -90421,7 +90421,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26601,
@@ -90441,7 +90441,7 @@
       "rating": 7.4,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14824,
@@ -90451,7 +90451,7 @@
       "rating": 5.1,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15080,
@@ -90561,7 +90561,7 @@
       "rating": 3.9,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11805,
@@ -90571,7 +90571,7 @@
       "rating": 6.1,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22773,
@@ -90710,7 +90710,7 @@
       "difficulty_num": 40.7,
       "rating": 6.0,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -90801,7 +90801,7 @@
       "rating": 4.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20572,
@@ -91001,7 +91001,7 @@
       "rating": 6.8,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18384,
@@ -91031,7 +91031,7 @@
       "rating": 8.5,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14682,
@@ -91091,7 +91091,7 @@
       "rating": 5.5,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21691,
@@ -91140,7 +91140,7 @@
       "difficulty_num": 34.5,
       "rating": 5.5,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91330,7 +91330,7 @@
       "difficulty_num": 55.0,
       "rating": 9.2,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91340,7 +91340,7 @@
       "difficulty_num": 43.3,
       "rating": 8.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91360,7 +91360,7 @@
       "difficulty_num": 53.0,
       "rating": 9.1,
       "num_ratings": 79,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91500,7 +91500,7 @@
       "difficulty_num": 45.0,
       "rating": 3.5,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91591,7 +91591,7 @@
       "rating": 6.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23139,
@@ -91800,7 +91800,7 @@
       "difficulty_num": 61.9,
       "rating": 9.1,
       "num_ratings": 19,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91870,7 +91870,7 @@
       "difficulty_num": 40.0,
       "rating": 3.6,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -91920,7 +91920,7 @@
       "difficulty_num": 75.0,
       "rating": 0.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -92090,7 +92090,7 @@
       "difficulty_num": 64.0,
       "rating": 5.9,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -92260,7 +92260,7 @@
       "difficulty_num": 92.4,
       "rating": 9.8,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -92301,7 +92301,7 @@
       "rating": 6.2,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25505,
@@ -92481,7 +92481,7 @@
       "rating": 8.5,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10966,
@@ -92790,7 +92790,7 @@
       "difficulty_num": 56.5,
       "rating": 2.4,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -93060,7 +93060,7 @@
       "difficulty_num": 50.0,
       "rating": 7.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -93381,7 +93381,7 @@
       "rating": 8.4,
       "num_ratings": 48,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22187,
@@ -93411,7 +93411,7 @@
       "rating": 7.4,
       "num_ratings": 30,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 10977,
@@ -93480,7 +93480,7 @@
       "difficulty_num": 30.5,
       "rating": 4.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -93860,7 +93860,7 @@
       "difficulty_num": 56.1,
       "rating": 7.8,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -93940,7 +93940,7 @@
       "difficulty_num": 30.5,
       "rating": 5.0,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -94360,7 +94360,7 @@
       "difficulty_num": 44.8,
       "rating": 8.1,
       "num_ratings": 45,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -94460,7 +94460,7 @@
       "difficulty_num": 28.0,
       "rating": 6.4,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -94991,7 +94991,7 @@
       "rating": 7.3,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21459,
@@ -95020,7 +95020,7 @@
       "difficulty_num": 64.0,
       "rating": 6.3,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -95040,7 +95040,7 @@
       "difficulty_num": 51.2,
       "rating": 2.2,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -95830,7 +95830,7 @@
       "difficulty_num": 55.0,
       "rating": 6.3,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -95980,7 +95980,7 @@
       "difficulty_num": 86.7,
       "rating": 4.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -96210,7 +96210,7 @@
       "difficulty_num": 51.9,
       "rating": 6.0,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -96470,7 +96470,7 @@
       "difficulty_num": 42.1,
       "rating": 6.9,
       "num_ratings": 20,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -96570,7 +96570,7 @@
       "difficulty_num": 20.3,
       "rating": 5.6,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -96601,7 +96601,7 @@
       "rating": 8.3,
       "num_ratings": 18,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18832,
@@ -96790,7 +96790,7 @@
       "difficulty_num": 57.6,
       "rating": 7.4,
       "num_ratings": 26,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -97210,7 +97210,7 @@
       "difficulty_num": 54.0,
       "rating": 4.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -97270,7 +97270,7 @@
       "difficulty_num": 47.3,
       "rating": 6.1,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -97501,7 +97501,7 @@
       "rating": 6.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16379,
@@ -97611,7 +97611,7 @@
       "rating": 2.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27861,
@@ -97641,7 +97641,7 @@
       "rating": 5.5,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12554,
@@ -98070,7 +98070,7 @@
       "difficulty_num": 76.3,
       "rating": 3.5,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -98431,7 +98431,7 @@
       "rating": 7.6,
       "num_ratings": 18,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15824,
@@ -98471,7 +98471,7 @@
       "rating": 7.4,
       "num_ratings": 26,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26223,
@@ -98491,7 +98491,7 @@
       "rating": 3.4,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16105,
@@ -98591,7 +98591,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22679,
@@ -98600,7 +98600,7 @@
       "difficulty_num": 73.3,
       "rating": 9.2,
       "num_ratings": 39,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -98720,7 +98720,7 @@
       "difficulty_num": 74.8,
       "rating": 3.7,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99050,7 +99050,7 @@
       "difficulty_num": 50.0,
       "rating": 8.2,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99100,7 +99100,7 @@
       "difficulty_num": 25.4,
       "rating": 6.0,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99130,7 +99130,7 @@
       "difficulty_num": 36.6,
       "rating": 6.0,
       "num_ratings": 33,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99230,7 +99230,7 @@
       "difficulty_num": 70.5,
       "rating": 4.6,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99260,7 +99260,7 @@
       "difficulty_num": 33.6,
       "rating": 2.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99670,7 +99670,7 @@
       "difficulty_num": 20.0,
       "rating": 4.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99821,7 +99821,7 @@
       "rating": 4.6,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22072,
@@ -99950,7 +99950,7 @@
       "difficulty_num": 50.0,
       "rating": 7.2,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -99990,7 +99990,7 @@
       "difficulty_num": 49.4,
       "rating": 7.3,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -100100,7 +100100,7 @@
       "difficulty_num": 54.0,
       "rating": 4.4,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -100220,7 +100220,7 @@
       "difficulty_num": 49.0,
       "rating": 5.6,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -100281,7 +100281,7 @@
       "rating": 2.3,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46257,
@@ -100331,7 +100331,7 @@
       "rating": 7.3,
       "num_ratings": 25,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18131,
@@ -100360,7 +100360,7 @@
       "difficulty_num": 23.0,
       "rating": 5.7,
       "num_ratings": 32,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -100401,7 +100401,7 @@
       "rating": 7.5,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27300,
@@ -101031,7 +101031,7 @@
       "rating": 3.3,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23184,
@@ -101150,7 +101150,7 @@
       "difficulty_num": 32.5,
       "rating": 5.2,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101251,7 +101251,7 @@
       "rating": 4.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12080,
@@ -101300,7 +101300,7 @@
       "difficulty_num": 73.4,
       "rating": 5.2,
       "num_ratings": 37,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101680,7 +101680,7 @@
       "difficulty_num": 35.7,
       "rating": 7.3,
       "num_ratings": 33,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101760,7 +101760,7 @@
       "difficulty_num": 42.0,
       "rating": 7.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101850,7 +101850,7 @@
       "difficulty_num": 74.5,
       "rating": 6.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -101941,7 +101941,7 @@
       "rating": 8.1,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27159,
@@ -101981,7 +101981,7 @@
       "rating": 6.6,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23426,
@@ -102120,7 +102120,7 @@
       "difficulty_num": 40.5,
       "rating": 5.7,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -102251,7 +102251,7 @@
       "rating": 8.5,
       "num_ratings": 28,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24385,
@@ -102290,7 +102290,7 @@
       "difficulty_num": 24.5,
       "rating": 7.2,
       "num_ratings": 33,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -102680,7 +102680,7 @@
       "difficulty_num": 53.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -102821,7 +102821,7 @@
       "rating": 3.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17088,
@@ -102940,7 +102940,7 @@
       "difficulty_num": 41.8,
       "rating": 7.9,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103020,7 +103020,7 @@
       "difficulty_num": 40.0,
       "rating": 7.1,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103110,7 +103110,7 @@
       "difficulty_num": 49.3,
       "rating": 9.3,
       "num_ratings": 121,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103440,7 +103440,7 @@
       "difficulty_num": 39.1,
       "rating": 8.5,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103451,7 +103451,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22760,
@@ -103580,7 +103580,7 @@
       "difficulty_num": 42.7,
       "rating": 8.0,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103610,7 +103610,7 @@
       "difficulty_num": 59.5,
       "rating": 5.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103670,7 +103670,7 @@
       "difficulty_num": 41.4,
       "rating": 7.0,
       "num_ratings": 41,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -103801,7 +103801,7 @@
       "rating": 8.4,
       "num_ratings": 29,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23551,
@@ -103830,7 +103830,7 @@
       "difficulty_num": 78.3,
       "rating": 8.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -104201,7 +104201,7 @@
       "rating": 6.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20663,
@@ -104980,7 +104980,7 @@
       "difficulty_num": 66.9,
       "rating": 8.4,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -105021,7 +105021,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19925,
@@ -105110,7 +105110,7 @@
       "difficulty_num": 61.5,
       "rating": 5.5,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -105211,7 +105211,7 @@
       "rating": 8.1,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17358,
@@ -105900,7 +105900,7 @@
       "difficulty_num": 43.4,
       "rating": 5.4,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106300,7 +106300,7 @@
       "difficulty_num": 54.8,
       "rating": 7.7,
       "num_ratings": 23,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106320,7 +106320,7 @@
       "difficulty_num": 61.3,
       "rating": 8.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106340,7 +106340,7 @@
       "difficulty_num": 57.0,
       "rating": 5.9,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106390,7 +106390,7 @@
       "difficulty_num": 43.3,
       "rating": 6.0,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106511,7 +106511,7 @@
       "rating": 7.3,
       "num_ratings": 40,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26244,
@@ -106646,10 +106646,10 @@
     {
       "id": 24523,
       "name": "I wanna be the RRH",
-      "difficulty": "82.0",
-      "difficulty_num": 82.0,
-      "rating": 1.6,
-      "num_ratings": 4,
+      "difficulty": "80.7",
+      "difficulty_num": 80.7,
+      "rating": 3.9,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -106730,7 +106730,7 @@
       "difficulty_num": 41.3,
       "rating": 5.1,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106761,7 +106761,7 @@
       "rating": 6.4,
       "num_ratings": 45,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18984,
@@ -106930,7 +106930,7 @@
       "difficulty_num": 52.0,
       "rating": 9.1,
       "num_ratings": 187,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -106961,7 +106961,7 @@
       "rating": 5.5,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26170,
@@ -107010,7 +107010,7 @@
       "difficulty_num": 42.0,
       "rating": 2.6,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -107070,7 +107070,7 @@
       "difficulty_num": 45.0,
       "rating": 0.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -107120,7 +107120,7 @@
       "difficulty_num": 72.5,
       "rating": 1.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -107671,7 +107671,7 @@
       "rating": 6.7,
       "num_ratings": 53,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18165,
@@ -107721,7 +107721,7 @@
       "rating": 4.7,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26371,
@@ -108040,7 +108040,7 @@
       "difficulty_num": 62.7,
       "rating": 8.2,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108090,7 +108090,7 @@
       "difficulty_num": 60.0,
       "rating": 8.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108191,7 +108191,7 @@
       "rating": 4.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12467,
@@ -108280,7 +108280,7 @@
       "difficulty_num": 31.4,
       "rating": 7.2,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108541,7 +108541,7 @@
       "rating": 7.4,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26778,
@@ -108570,7 +108570,7 @@
       "difficulty_num": 22.4,
       "rating": 6.6,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108700,7 +108700,7 @@
       "difficulty_num": 26.4,
       "rating": 5.9,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108750,7 +108750,7 @@
       "difficulty_num": 61.3,
       "rating": 4.4,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -108801,7 +108801,7 @@
       "rating": 5.0,
       "num_ratings": 25,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23363,
@@ -108831,7 +108831,7 @@
       "rating": 8.8,
       "num_ratings": 22,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25168,
@@ -109100,7 +109100,7 @@
       "difficulty_num": 42.5,
       "rating": 4.6,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -109151,7 +109151,7 @@
       "rating": 6.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16275,
@@ -109290,7 +109290,7 @@
       "difficulty_num": 32.4,
       "rating": 6.1,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -109330,7 +109330,7 @@
       "difficulty_num": 29.4,
       "rating": 4.3,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -109600,7 +109600,7 @@
       "difficulty_num": 61.0,
       "rating": 5.1,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -110021,7 +110021,7 @@
       "rating": 7.9,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20867,
@@ -110231,7 +110231,7 @@
       "rating": 8.0,
       "num_ratings": 16,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46332,
@@ -110260,7 +110260,7 @@
       "difficulty_num": 26.1,
       "rating": 3.9,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -110270,7 +110270,7 @@
       "difficulty_num": 60.5,
       "rating": 5.8,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -110430,7 +110430,7 @@
       "difficulty_num": 89.9,
       "rating": 3.2,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -110810,7 +110810,7 @@
       "difficulty_num": 38.0,
       "rating": 2.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -110920,7 +110920,7 @@
       "difficulty_num": 53.0,
       "rating": 7.0,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111010,7 +111010,7 @@
       "difficulty_num": 41.0,
       "rating": 7.1,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111130,7 +111130,7 @@
       "difficulty_num": 43.0,
       "rating": 3.5,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111241,7 +111241,7 @@
       "rating": 4.8,
       "num_ratings": 14,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24160,
@@ -111260,7 +111260,7 @@
       "difficulty_num": 47.3,
       "rating": 7.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111550,7 +111550,7 @@
       "difficulty_num": 68.3,
       "rating": 6.0,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111670,7 +111670,7 @@
       "difficulty_num": 51.0,
       "rating": 7.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111690,7 +111690,7 @@
       "difficulty_num": 63.8,
       "rating": 8.6,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111760,7 +111760,7 @@
       "difficulty_num": 55.5,
       "rating": 9.7,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111911,7 +111911,7 @@
       "rating": 8.0,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14901,
@@ -112031,7 +112031,7 @@
       "rating": 4.7,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17304,
@@ -112091,7 +112091,7 @@
       "rating": 2.9,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11092,
@@ -112111,7 +112111,7 @@
       "rating": 1.5,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16357,
@@ -112131,7 +112131,7 @@
       "rating": 4.7,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17700,
@@ -112370,7 +112370,7 @@
       "difficulty_num": 71.5,
       "rating": 2.3,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -112520,7 +112520,7 @@
       "difficulty_num": 34.5,
       "rating": 7.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -112790,7 +112790,7 @@
       "difficulty_num": 70.3,
       "rating": 6.6,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -113000,7 +113000,7 @@
       "difficulty_num": 58.0,
       "rating": 9.4,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -113371,7 +113371,7 @@
       "rating": 6.5,
       "num_ratings": 26,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16922,
@@ -113410,7 +113410,7 @@
       "difficulty_num": 49.8,
       "rating": 5.5,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -113480,7 +113480,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -113781,7 +113781,7 @@
       "rating": 7.5,
       "num_ratings": 40,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16359,
@@ -113911,7 +113911,7 @@
       "rating": 7.4,
       "num_ratings": 17,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17151,
@@ -114361,7 +114361,7 @@
       "rating": 5.3,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46247,
@@ -114440,7 +114440,7 @@
       "difficulty_num": 6.7,
       "rating": 4.3,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -114710,7 +114710,7 @@
       "difficulty_num": 68.8,
       "rating": 9.1,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -114760,7 +114760,7 @@
       "difficulty_num": 72.5,
       "rating": 6.9,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -114800,7 +114800,7 @@
       "difficulty_num": 63.8,
       "rating": 7.4,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -114860,7 +114860,7 @@
       "difficulty_num": 46.6,
       "rating": 2.7,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115270,7 +115270,7 @@
       "difficulty_num": 72.0,
       "rating": 8.9,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115301,7 +115301,7 @@
       "rating": 4.6,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19637,
@@ -115340,7 +115340,7 @@
       "difficulty_num": 56.7,
       "rating": 4.7,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115420,7 +115420,7 @@
       "difficulty_num": 15.0,
       "rating": 3.5,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115441,7 +115441,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46009,
@@ -115711,7 +115711,7 @@
       "rating": 9.2,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20798,
@@ -115830,7 +115830,7 @@
       "difficulty_num": 32.0,
       "rating": 7.7,
       "num_ratings": 56,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115870,7 +115870,7 @@
       "difficulty_num": 50.0,
       "rating": 4.6,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115970,7 +115970,7 @@
       "difficulty_num": 67.2,
       "rating": 4.6,
       "num_ratings": 24,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -115980,7 +115980,7 @@
       "difficulty_num": 78.0,
       "rating": 6.9,
       "num_ratings": 35,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -116151,7 +116151,7 @@
       "rating": 3.5,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20963,
@@ -116180,7 +116180,7 @@
       "difficulty_num": 61.4,
       "rating": 8.0,
       "num_ratings": 32,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -116350,7 +116350,7 @@
       "difficulty_num": 46.0,
       "rating": 3.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -116460,7 +116460,7 @@
       "difficulty_num": 44.2,
       "rating": 7.7,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -116791,7 +116791,7 @@
       "rating": 8.2,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45856,
@@ -117160,7 +117160,7 @@
       "difficulty_num": 45.7,
       "rating": 7.4,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -117171,7 +117171,7 @@
       "rating": 8.7,
       "num_ratings": 33,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 14851,
@@ -117220,7 +117220,7 @@
       "difficulty_num": 66.0,
       "rating": 7.0,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -117231,7 +117231,7 @@
       "rating": 9.0,
       "num_ratings": 69,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12483,
@@ -117261,7 +117261,7 @@
       "rating": 8.2,
       "num_ratings": 17,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11146,
@@ -117281,7 +117281,7 @@
       "rating": 7.1,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23384,
@@ -117310,7 +117310,7 @@
       "difficulty_num": 50.0,
       "rating": 4.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -117420,7 +117420,7 @@
       "difficulty_num": 73.0,
       "rating": 8.8,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -117661,7 +117661,7 @@
       "rating": 8.0,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21964,
@@ -117671,7 +117671,7 @@
       "rating": 6.0,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26196,
@@ -117720,7 +117720,7 @@
       "difficulty_num": 45.3,
       "rating": 6.0,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -117820,7 +117820,7 @@
       "difficulty_num": 39.0,
       "rating": 7.2,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -118001,7 +118001,7 @@
       "rating": 5.7,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 19311,
@@ -118010,7 +118010,7 @@
       "difficulty_num": 40.0,
       "rating": 4.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -118041,7 +118041,7 @@
       "rating": 3.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 20876,
@@ -118130,7 +118130,7 @@
       "difficulty_num": 54.0,
       "rating": 7.5,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -118201,7 +118201,7 @@
       "rating": 7.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11155,
@@ -118471,7 +118471,7 @@
       "rating": 7.2,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17847,
@@ -118681,7 +118681,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27437,
@@ -118720,7 +118720,7 @@
       "difficulty_num": 48.6,
       "rating": 7.6,
       "num_ratings": 51,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -118861,7 +118861,7 @@
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27006,
@@ -119061,7 +119061,7 @@
       "rating": 6.3,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21844,
@@ -119281,7 +119281,7 @@
       "rating": 7.2,
       "num_ratings": 15,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28251,
@@ -119760,7 +119760,7 @@
       "difficulty_num": 38.5,
       "rating": 8.3,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -119821,7 +119821,7 @@
       "rating": 4.5,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25111,
@@ -119870,7 +119870,7 @@
       "difficulty_num": 46.0,
       "rating": 6.2,
       "num_ratings": 15,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -120010,7 +120010,7 @@
       "difficulty_num": 75.9,
       "rating": 6.8,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -120021,7 +120021,7 @@
       "rating": 9.0,
       "num_ratings": 17,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15390,
@@ -120161,7 +120161,7 @@
       "rating": 5.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24000,
@@ -120231,7 +120231,7 @@
       "rating": 7.0,
       "num_ratings": 19,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11723,
@@ -120440,7 +120440,7 @@
       "difficulty_num": 40.0,
       "rating": 6.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -120601,7 +120601,7 @@
       "rating": 3.0,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11167,
@@ -120670,7 +120670,7 @@
       "difficulty_num": 84.6,
       "rating": 4.4,
       "num_ratings": 22,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -120830,7 +120830,7 @@
       "difficulty_num": 42.5,
       "rating": 3.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -121190,7 +121190,7 @@
       "difficulty_num": 39.0,
       "rating": 7.8,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -121250,7 +121250,7 @@
       "difficulty_num": 77.7,
       "rating": 4.7,
       "num_ratings": 19,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -121330,7 +121330,7 @@
       "difficulty_num": 6.3,
       "rating": 2.2,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -121351,7 +121351,7 @@
       "rating": 7.1,
       "num_ratings": 10,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22575,
@@ -122090,7 +122090,7 @@
       "difficulty_num": 68.8,
       "rating": 4.2,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -122451,7 +122451,7 @@
       "rating": 8.4,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25646,
@@ -122570,7 +122570,7 @@
       "difficulty_num": 30.1,
       "rating": 7.0,
       "num_ratings": 71,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -122601,7 +122601,7 @@
       "rating": 7.1,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22244,
@@ -122620,7 +122620,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -122631,7 +122631,7 @@
       "rating": 2.8,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23899,
@@ -122860,7 +122860,7 @@
       "difficulty_num": 41.5,
       "rating": 6.3,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -122980,7 +122980,7 @@
       "difficulty_num": 48.4,
       "rating": 8.4,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -123080,7 +123080,7 @@
       "difficulty_num": 52.2,
       "rating": 7.1,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -123570,7 +123570,7 @@
       "difficulty_num": 51.6,
       "rating": 8.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -123691,7 +123691,7 @@
       "rating": 7.7,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25871,
@@ -123851,7 +123851,7 @@
       "rating": 7.0,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18221,
@@ -125801,7 +125801,7 @@
       "rating": 7.4,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16403,
@@ -125861,7 +125861,7 @@
       "rating": 7.0,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28038,
@@ -125910,7 +125910,7 @@
       "difficulty_num": 37.3,
       "rating": 5.6,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126020,7 +126020,7 @@
       "difficulty_num": 36.0,
       "rating": 4.3,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126190,7 +126190,7 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126450,7 +126450,7 @@
       "difficulty_num": 53.4,
       "rating": 8.0,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126660,7 +126660,7 @@
       "difficulty_num": 78.0,
       "rating": 10.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -126771,7 +126771,7 @@
       "rating": 6.1,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18932,
@@ -126781,7 +126781,7 @@
       "rating": 6.4,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16507,
@@ -127040,7 +127040,7 @@
       "difficulty_num": 21.4,
       "rating": 5.1,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -127240,7 +127240,7 @@
       "difficulty_num": 61.9,
       "rating": 7.6,
       "num_ratings": 52,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -127920,7 +127920,7 @@
       "difficulty_num": 59.3,
       "rating": 4.7,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -128170,7 +128170,7 @@
       "difficulty_num": 49.6,
       "rating": 7.6,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -128360,7 +128360,7 @@
       "difficulty_num": 58.1,
       "rating": 2.8,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -128420,7 +128420,7 @@
       "difficulty_num": 45.0,
       "rating": 4.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -128860,7 +128860,7 @@
       "difficulty_num": 65.0,
       "rating": 4.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -128960,7 +128960,7 @@
       "difficulty_num": 59.3,
       "rating": 3.7,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -129560,7 +129560,7 @@
       "difficulty_num": 43.1,
       "rating": 7.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -129610,7 +129610,7 @@
       "difficulty_num": 74.7,
       "rating": 8.3,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130040,7 +130040,7 @@
       "difficulty_num": 34.9,
       "rating": 6.2,
       "num_ratings": 10,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130060,7 +130060,7 @@
       "difficulty_num": 71.4,
       "rating": 9.3,
       "num_ratings": 140,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130100,7 +130100,7 @@
       "difficulty_num": 22.2,
       "rating": 6.4,
       "num_ratings": 31,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130151,7 +130151,7 @@
       "rating": 7.8,
       "num_ratings": 12,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22229,
@@ -130171,7 +130171,7 @@
       "rating": 5.1,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17040,
@@ -130540,7 +130540,7 @@
       "difficulty_num": 9.3,
       "rating": 7.7,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130790,7 +130790,7 @@
       "difficulty_num": 45.0,
       "rating": 1.0,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130850,7 +130850,7 @@
       "difficulty_num": 58.6,
       "rating": 8.7,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -130861,7 +130861,7 @@
       "rating": 7.7,
       "num_ratings": 11,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 26599,
@@ -130871,7 +130871,7 @@
       "rating": 8.1,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17818,
@@ -131070,7 +131070,7 @@
       "difficulty_num": 45.0,
       "rating": 4.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131130,7 +131130,7 @@
       "difficulty_num": 59.2,
       "rating": 9.4,
       "num_ratings": 76,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131331,7 +131331,7 @@
       "rating": 6.4,
       "num_ratings": 8,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24055,
@@ -131390,7 +131390,7 @@
       "difficulty_num": 61.0,
       "rating": 8.9,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131491,7 +131491,7 @@
       "rating": 7.6,
       "num_ratings": 13,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18866,
@@ -131501,7 +131501,7 @@
       "rating": 8.5,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 12502,
@@ -131510,7 +131510,7 @@
       "difficulty_num": 42.6,
       "rating": 6.6,
       "num_ratings": 30,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131630,7 +131630,7 @@
       "difficulty_num": 61.0,
       "rating": 6.5,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131640,7 +131640,7 @@
       "difficulty_num": 83.9,
       "rating": 8.4,
       "num_ratings": 66,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -131901,7 +131901,7 @@
       "rating": 8.4,
       "num_ratings": 22,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11214,
@@ -132481,7 +132481,7 @@
       "rating": 4.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23218,
@@ -132881,7 +132881,7 @@
       "rating": 2.3,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 46270,
@@ -133120,7 +133120,7 @@
       "difficulty_num": 48.8,
       "rating": 5.8,
       "num_ratings": 16,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -133650,7 +133650,7 @@
       "difficulty_num": 40.3,
       "rating": 5.7,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -133670,7 +133670,7 @@
       "difficulty_num": 35.2,
       "rating": 8.2,
       "num_ratings": 11,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -133820,7 +133820,7 @@
       "difficulty_num": 47.3,
       "rating": 4.8,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -133941,7 +133941,7 @@
       "rating": 7.9,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25726,
@@ -133960,7 +133960,7 @@
       "difficulty_num": 23.5,
       "rating": 5.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -134060,7 +134060,7 @@
       "difficulty_num": 71.0,
       "rating": 8.6,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -134131,7 +134131,7 @@
       "rating": 4.7,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11229,
@@ -134451,7 +134451,7 @@
       "rating": 7.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 18667,
@@ -135270,7 +135270,7 @@
       "difficulty_num": 53.9,
       "rating": 6.0,
       "num_ratings": 28,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -135790,7 +135790,7 @@
       "difficulty_num": 37.3,
       "rating": 6.8,
       "num_ratings": 36,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -135970,7 +135970,7 @@
       "difficulty_num": 44.7,
       "rating": 4.6,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -136110,7 +136110,7 @@
       "difficulty_num": 61.1,
       "rating": 8.2,
       "num_ratings": 12,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -136201,7 +136201,7 @@
       "rating": 6.1,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 27866,
@@ -136240,7 +136240,7 @@
       "difficulty_num": 30.0,
       "rating": 2.7,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -136330,7 +136330,7 @@
       "difficulty_num": 37.4,
       "rating": 8.5,
       "num_ratings": 14,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -136431,7 +136431,7 @@
       "rating": 6.1,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 16583,
@@ -137010,7 +137010,7 @@
       "difficulty_num": 29.1,
       "rating": 6.4,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -137190,7 +137190,7 @@
       "difficulty_num": 62.5,
       "rating": 4.0,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138280,7 +138280,7 @@
       "difficulty_num": 43.0,
       "rating": 1.7,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138300,7 +138300,7 @@
       "difficulty_num": 42.8,
       "rating": 7.9,
       "num_ratings": 8,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138360,7 +138360,7 @@
       "difficulty_num": 39.9,
       "rating": 4.0,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138571,7 +138571,7 @@
       "rating": 6.3,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28079,
@@ -138660,7 +138660,7 @@
       "difficulty_num": 27.5,
       "rating": 5.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138670,7 +138670,7 @@
       "difficulty_num": 50.5,
       "rating": 4.1,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -138970,7 +138970,7 @@
       "difficulty_num": 49.9,
       "rating": 8.6,
       "num_ratings": 27,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -139061,7 +139061,7 @@
       "rating": 3.5,
       "num_ratings": 6,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11278,
@@ -139511,7 +139511,7 @@
       "rating": 6.4,
       "num_ratings": 9,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 17114,
@@ -139560,7 +139560,7 @@
       "difficulty_num": 66.3,
       "rating": 7.0,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -139761,7 +139761,7 @@
       "rating": 7.7,
       "num_ratings": 7,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 25942,
@@ -140401,7 +140401,7 @@
       "rating": 5.4,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 22289,
@@ -140431,7 +140431,7 @@
       "rating": 7.8,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24843,
@@ -140660,7 +140660,7 @@
       "difficulty_num": 68.3,
       "rating": 7.3,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -140910,7 +140910,7 @@
       "difficulty_num": 65.3,
       "rating": 7.2,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -141650,7 +141650,7 @@
       "difficulty_num": 37.3,
       "rating": 4.6,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -141671,7 +141671,7 @@
       "rating": 4.6,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21455,
@@ -141730,7 +141730,7 @@
       "difficulty_num": 84.3,
       "rating": 5.5,
       "num_ratings": 7,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -141830,7 +141830,7 @@
       "difficulty_num": 14.3,
       "rating": 6.0,
       "num_ratings": 28,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -142420,7 +142420,7 @@
       "difficulty_num": 53.5,
       "rating": 7.3,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -142430,7 +142430,7 @@
       "difficulty_num": 40.0,
       "rating": 3.3,
       "num_ratings": 3,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -142611,7 +142611,7 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 24042,
@@ -142861,7 +142861,7 @@
       "rating": 6.4,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 21622,
@@ -143174,6 +143174,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46360,
+      "name": "不太优质的抄袭向耐久合集",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 19350,
       "name": "世知辛い",
       "difficulty": "45.0",
@@ -143471,7 +143481,7 @@
       "rating": 7.5,
       "num_ratings": 15,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 28223,
@@ -143500,7 +143510,7 @@
       "difficulty_num": 99.5,
       "rating": 0.1,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -143560,7 +143570,7 @@
       "difficulty_num": 42.3,
       "rating": 1.9,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -143890,7 +143900,7 @@
       "difficulty_num": 14.5,
       "rating": 4.2,
       "num_ratings": 18,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -143900,7 +143910,7 @@
       "difficulty_num": 33.5,
       "rating": 7.8,
       "num_ratings": 2,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -144280,7 +144290,7 @@
       "difficulty_num": 25.5,
       "rating": 2.6,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -144290,7 +144300,7 @@
       "difficulty_num": 32.3,
       "rating": 2.4,
       "num_ratings": 5,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -144960,7 +144970,7 @@
       "difficulty_num": 40.8,
       "rating": 5.5,
       "num_ratings": 6,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -145050,7 +145060,7 @@
       "difficulty_num": 36.5,
       "rating": 7.8,
       "num_ratings": 13,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -145851,7 +145861,7 @@
       "rating": 3.3,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 45841,
@@ -145971,7 +145981,7 @@
       "rating": 3.9,
       "num_ratings": 4,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 11761,
@@ -146120,7 +146130,7 @@
       "difficulty_num": 33.0,
       "rating": 5.2,
       "num_ratings": 1,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -146190,7 +146200,7 @@
       "difficulty_num": 20.3,
       "rating": 1.9,
       "num_ratings": 9,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -146890,7 +146900,7 @@
       "difficulty_num": 6.9,
       "rating": 4.0,
       "num_ratings": 17,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -147621,7 +147631,7 @@
       "rating": 0.0,
       "num_ratings": 5,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 15845,
@@ -147911,7 +147921,7 @@
       "rating": 3.3,
       "num_ratings": 3,
       "is_needle": false,
-      "is_avoidance": false
+      "is_avoidance": true
     },
     {
       "id": 23437,
@@ -148430,7 +148440,7 @@
       "difficulty_num": 38.3,
       "rating": 6.9,
       "num_ratings": 4,
-      "is_needle": false,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
