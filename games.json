@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 22:26:32",
+  "last_updated": "2026-07-11 17:45:14",
   "announcements": [
     {
       "date": "2026/07/10",
@@ -37976,11 +37976,11 @@
     {
       "id": 27153,
       "name": "I wanna eat the Pancake",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 6.0,
-      "num_ratings": 2,
-      "is_needle": false,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 3.3,
+      "num_ratings": 3,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -42836,8 +42836,8 @@
     {
       "id": 10707,
       "name": "I wanna be the Explorer",
-      "difficulty": "65.2",
-      "difficulty_num": 65.2,
+      "difficulty": "65.3",
+      "difficulty_num": 65.3,
       "rating": 5.0,
       "num_ratings": 38,
       "is_needle": false,
@@ -52899,7 +52899,7 @@
       "difficulty": "51.2",
       "difficulty_num": 51.2,
       "rating": 7.3,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -102688,8 +102688,8 @@
       "name": "randomgame 2",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "rating": 8.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104326,10 +104326,10 @@
     {
       "id": 25483,
       "name": "I Wanna Rely The Needle 4.5",
-      "difficulty": "28.8",
-      "difficulty_num": 28.8,
-      "rating": 7.4,
-      "num_ratings": 34,
+      "difficulty": "28.5",
+      "difficulty_num": 28.5,
+      "rating": 7.3,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -113866,10 +113866,10 @@
     {
       "id": 27626,
       "name": "Snack Needle",
-      "difficulty": "41.4",
-      "difficulty_num": 41.4,
+      "difficulty": "40.4",
+      "difficulty_num": 40.4,
       "rating": 7.9,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -114166,10 +114166,10 @@
     {
       "id": 27304,
       "name": "I Wanna Be The Snow Needle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
+      "rating": 4.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -129986,10 +129986,10 @@
     {
       "id": 22859,
       "name": "Vacuity",
-      "difficulty": "21.7",
-      "difficulty_num": 21.7,
-      "rating": 6.6,
-      "num_ratings": 23,
+      "difficulty": "21.4",
+      "difficulty_num": 21.4,
+      "rating": 6.5,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
