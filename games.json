@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 06:47:58",
+  "last_updated": "2026-07-13 07:45:06",
   "announcements": [
     {
       "date": "2026/07/10",
@@ -81769,7 +81769,7 @@
       "difficulty": "60.0",
       "difficulty_num": 60.0,
       "rating": 5.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
