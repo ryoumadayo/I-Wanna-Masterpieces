@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 10:03:57",
+  "last_updated": "2026-07-12 13:51:30",
   "announcements": [
     {
       "date": "2026/07/10",
@@ -8106,10 +8106,10 @@
     {
       "id": 15578,
       "name": "I wanna be the atmosphere",
-      "difficulty": "43.6",
-      "difficulty_num": 43.6,
-      "rating": 5.2,
-      "num_ratings": 9,
+      "difficulty": "43.2",
+      "difficulty_num": 43.2,
+      "rating": 5.3,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -11116,10 +11116,10 @@
     {
       "id": 11399,
       "name": "I wanna be Charm",
-      "difficulty": "45.6",
-      "difficulty_num": 45.6,
+      "difficulty": "45.5",
+      "difficulty_num": 45.5,
       "rating": 6.9,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -13636,10 +13636,10 @@
     {
       "id": 21940,
       "name": "Beast World",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 3.5,
-      "num_ratings": 2,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 2.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -16076,10 +16076,10 @@
     {
       "id": 22308,
       "name": "I wanna be the Big bridge",
-      "difficulty": "28.6",
-      "difficulty_num": 28.6,
-      "rating": 6.7,
-      "num_ratings": 23,
+      "difficulty": "28.5",
+      "difficulty_num": 28.5,
+      "rating": 6.8,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -70698,8 +70698,8 @@
       "name": "I wanna kill 10000 pomu",
       "difficulty": "64.8",
       "difficulty_num": 64.8,
-      "rating": 4.4,
-      "num_ratings": 5,
+      "rating": 4.3,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -81766,10 +81766,10 @@
     {
       "id": 22009,
       "name": "I wanna make my first durable",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 5.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -115828,7 +115828,7 @@
       "name": "spong",
       "difficulty": "35.2",
       "difficulty_num": 35.2,
-      "rating": 7.5,
+      "rating": 7.7,
       "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
@@ -124246,10 +124246,10 @@
     {
       "id": 24535,
       "name": "Tiny Fantazm",
-      "difficulty": "31.6",
-      "difficulty_num": 31.6,
+      "difficulty": "31.5",
+      "difficulty_num": 31.5,
       "rating": 7.3,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -140576,10 +140576,10 @@
     {
       "id": 15989,
       "name": "I wanna be the なっとう",
-      "difficulty": "58.3",
-      "difficulty_num": 58.3,
-      "rating": 1.9,
-      "num_ratings": 4,
+      "difficulty": "56.8",
+      "difficulty_num": 56.8,
+      "rating": 2.1,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -142296,10 +142296,10 @@
     {
       "id": 18919,
       "name": "タクヤ",
-      "difficulty": "10.0",
-      "difficulty_num": 10.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "12.5",
+      "difficulty_num": 12.5,
+      "rating": 1.5,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
