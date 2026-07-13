@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 00:26:02",
+  "last_updated": "2026-07-14 03:58:09",
   "announcements": [
     {
       "date": "2026/07/10",
@@ -30962,6 +30962,16 @@
       "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
+    },
+    {
+      "id": 46368,
+      "name": "I Wanna de-Atomize Bohrdom",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 15736,
