@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 17:35:21",
+  "last_updated": "2026-07-14 19:43:21",
   "announcements": [
     {
       "date": "2026/07/14",
@@ -3426,10 +3426,10 @@
     {
       "id": 11862,
       "name": "I wanna be the 8bit",
-      "difficulty": "49.5",
-      "difficulty_num": 49.5,
+      "difficulty": "49.6",
+      "difficulty_num": 49.6,
       "rating": 8.2,
-      "num_ratings": 63,
+      "num_ratings": 64,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -87329,7 +87329,7 @@
       "difficulty": "60.2",
       "difficulty_num": 60.2,
       "rating": 7.6,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118156,10 +118156,10 @@
     {
       "id": 22389,
       "name": "Summer Feast Needle 2020",
-      "difficulty": "76.4",
-      "difficulty_num": 76.4,
-      "rating": 8.5,
-      "num_ratings": 16,
+      "difficulty": "75.9",
+      "difficulty_num": 75.9,
+      "rating": 8.4,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
