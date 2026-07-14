@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 19:43:21",
+  "last_updated": "2026-07-14 21:10:56",
   "announcements": [
     {
       "date": "2026/07/14",
@@ -65896,10 +65896,10 @@
     {
       "id": 15297,
       "name": "I Wanna Be The Insanity Ultimate",
-      "difficulty": "87.0",
-      "difficulty_num": 87.0,
-      "rating": 7.0,
-      "num_ratings": 5,
+      "difficulty": "86.2",
+      "difficulty_num": 86.2,
+      "rating": 6.8,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -78568,8 +78568,8 @@
       "name": "I Wanna Lockpick",
       "difficulty": "78.5",
       "difficulty_num": 78.5,
-      "rating": 9.7,
-      "num_ratings": 25,
+      "rating": 9.6,
+      "num_ratings": 26,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -112736,10 +112736,10 @@
     {
       "id": 16232,
       "name": "I Wanna be the Sinewave",
-      "difficulty": "83.9",
-      "difficulty_num": 83.9,
-      "rating": 5.8,
-      "num_ratings": 7,
+      "difficulty": "83.8",
+      "difficulty_num": 83.8,
+      "rating": 5.5,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
