@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 21:51:44",
+  "last_updated": "2026-07-15 23:48:26",
   "announcements": [
     {
       "date": "2026/07/14",
@@ -22576,10 +22576,10 @@
     {
       "id": 11461,
       "name": "I wanna challenge 100 trials!!",
-      "difficulty": "28.9",
-      "difficulty_num": 28.9,
+      "difficulty": "29.0",
+      "difficulty_num": 29.0,
       "rating": 7.1,
-      "num_ratings": 170,
+      "num_ratings": 171,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -42406,10 +42406,10 @@
     {
       "id": 22807,
       "name": "I wanna be the exhibition",
-      "difficulty": "73.4",
-      "difficulty_num": 73.4,
+      "difficulty": "73.3",
+      "difficulty_num": 73.3,
       "rating": 7.7,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
