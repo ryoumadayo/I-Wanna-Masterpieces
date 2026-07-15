@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 01:20:00",
+  "last_updated": "2026-07-16 02:47:01",
   "announcements": [
     {
       "date": "2026/07/14",
@@ -67396,10 +67396,10 @@
     {
       "id": 15267,
       "name": "I wanna be the IWD spike",
-      "difficulty": "30.9",
-      "difficulty_num": 30.9,
-      "rating": 6.8,
-      "num_ratings": 22,
+      "difficulty": "31.1",
+      "difficulty_num": 31.1,
+      "rating": 6.7,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
