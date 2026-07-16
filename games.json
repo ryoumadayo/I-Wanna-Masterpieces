@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 18:11:57",
+  "last_updated": "2026-07-16 20:16:39",
   "announcements": [
     {
       "date": "2026/07/14",
@@ -88009,7 +88009,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -125166,10 +125166,10 @@
     {
       "id": 23607,
       "name": "i wanna tomodati",
-      "difficulty": "41.1",
-      "difficulty_num": 41.1,
-      "rating": 3.4,
-      "num_ratings": 12,
+      "difficulty": "38.4",
+      "difficulty_num": 38.4,
+      "rating": 3.8,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
