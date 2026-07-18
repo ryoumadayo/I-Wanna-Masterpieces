@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 06:22:23",
+  "last_updated": "2026-07-19 07:21:59",
   "announcements": [
     {
       "date": "2026/07/18",
@@ -25576,10 +25576,10 @@
     {
       "id": 18484,
       "name": "I wanna close the World",
-      "difficulty": "67.6",
-      "difficulty_num": 67.6,
+      "difficulty": "67.4",
+      "difficulty_num": 67.4,
       "rating": 7.6,
-      "num_ratings": 38,
+      "num_ratings": 39,
       "is_needle": true,
       "is_avoidance": false
     },
