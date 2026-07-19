@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-19 13:28:19",
+  "last_updated": "2026-07-19 16:06:28",
   "announcements": [
+    {
+      "date": "2026/07/19",
+      "message": "i wanna FULFILLER が新たに追加されました。",
+      "type": "add",
+      "id": 28179
+    },
     {
       "date": "2026/07/18",
       "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
@@ -174,12 +180,6 @@
       "message": "Jtool skins が新たに追加されました。",
       "type": "add",
       "id": 20890
-    },
-    {
-      "date": "2026/07/18",
-      "message": "Jtool が新たに追加されました。",
-      "type": "add",
-      "id": 15691
     }
   ],
   "games": [
@@ -12306,10 +12306,10 @@
     {
       "id": 46371,
       "name": "I wanna be Lovegood 3",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "78.0",
+      "difficulty_num": 78.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -48676,10 +48676,10 @@
     {
       "id": 28179,
       "name": "i wanna FULFILLER",
-      "difficulty": "67.2",
-      "difficulty_num": 67.2,
-      "rating": 8.3,
-      "num_ratings": 9,
+      "difficulty": "68.5",
+      "difficulty_num": 68.5,
+      "rating": 8.5,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59876,10 +59876,10 @@
     {
       "id": 17541,
       "name": "Hendeca Corner",
-      "difficulty": "89.9",
-      "difficulty_num": 89.9,
+      "difficulty": "89.3",
+      "difficulty_num": 89.3,
       "rating": 6.7,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65158,8 +65158,8 @@
       "name": "I wanna be the Immature Life",
       "difficulty": "92.0",
       "difficulty_num": 92.0,
-      "rating": 6.8,
-      "num_ratings": 12,
+      "rating": 7.4,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
