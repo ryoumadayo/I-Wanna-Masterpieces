@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 10:00:19",
+  "last_updated": "2026-07-19 13:28:19",
   "announcements": [
     {
       "date": "2026/07/18",
@@ -90766,10 +90766,10 @@
     {
       "id": 15136,
       "name": "I wanna be the Noizu",
-      "difficulty": "40.7",
-      "difficulty_num": 40.7,
+      "difficulty": "41.1",
+      "difficulty_num": 41.1,
       "rating": 6.0,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93686,10 +93686,10 @@
     {
       "id": 27439,
       "name": "I wanna be the Osora",
-      "difficulty": "37.5",
-      "difficulty_num": 37.5,
-      "rating": 7.3,
-      "num_ratings": 4,
+      "difficulty": "38.3",
+      "difficulty_num": 38.3,
+      "rating": 7.1,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
