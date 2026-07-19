@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 00:56:00",
+  "last_updated": "2026-07-20 01:57:27",
   "announcements": [
     {
       "date": "2026/07/19",
@@ -76824,6 +76824,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46373,
+      "name": "Ledge Jump Floor Game",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 27438,
       "name": "I wanna be the Leftovers",
       "difficulty": "68.0",
@@ -122012,6 +122022,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46372,
+      "name": "Tha",
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 12128,
