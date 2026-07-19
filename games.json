@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 16:06:28",
+  "last_updated": "2026-07-19 18:26:31",
   "announcements": [
     {
       "date": "2026/07/19",
@@ -27776,10 +27776,10 @@
     {
       "id": 23458,
       "name": "I wanna be the Conspicuous Crumble",
-      "difficulty": "64.7",
-      "difficulty_num": 64.7,
+      "difficulty": "64.6",
+      "difficulty_num": 64.6,
       "rating": 7.8,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -51706,10 +51706,10 @@
     {
       "id": 14706,
       "name": "I wanna get the Yellow Star",
-      "difficulty": "33.2",
-      "difficulty_num": 33.2,
+      "difficulty": "33.3",
+      "difficulty_num": 33.3,
       "rating": 6.4,
-      "num_ratings": 95,
+      "num_ratings": 96,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75116,10 +75116,10 @@
     {
       "id": 23947,
       "name": "I wanna know my retribution",
-      "difficulty": "75.5",
-      "difficulty_num": 75.5,
+      "difficulty": "75.3",
+      "difficulty_num": 75.3,
       "rating": 7.1,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -109989,7 +109989,7 @@
       "difficulty": "43.4",
       "difficulty_num": 43.4,
       "rating": 7.7,
-      "num_ratings": 93,
+      "num_ratings": 94,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -118196,10 +118196,10 @@
     {
       "id": 23831,
       "name": "Summer Feast Needle 2021",
-      "difficulty": "73.9",
-      "difficulty_num": 73.9,
+      "difficulty": "73.4",
+      "difficulty_num": 73.4,
       "rating": 9.2,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
