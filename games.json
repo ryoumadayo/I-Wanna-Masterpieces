@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 22:25:33",
+  "last_updated": "2026-07-21 00:28:05",
   "announcements": [
     {
       "date": "2026/07/20",
@@ -139636,10 +139636,10 @@
     {
       "id": 27478,
       "name": "きちがいアイワナへようこそ！クリアやダウンロードには32097129-57523時間と345810956790万年かかります　あーきちがい針が3564312856748個飛んできました",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
