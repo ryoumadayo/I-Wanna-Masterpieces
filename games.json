@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-20 17:24:06",
+  "last_updated": "2026-07-20 20:21:51",
   "announcements": [
+    {
+      "date": "2026/07/20",
+      "message": "Evoltexの評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 15399
+    },
+    {
+      "date": "2026/07/20",
+      "message": "I wanna feel lonely が新たに追加されました。",
+      "type": "add",
+      "id": 18654
+    },
     {
       "date": "2026/07/19",
       "message": "i wanna FULFILLER が新たに追加されました。",
@@ -168,18 +180,6 @@
       "message": "I Wanna Maker が新たに追加されました。",
       "type": "add",
       "id": 21558
-    },
-    {
-      "date": "2026/07/18",
-      "message": "K&R GMS2 Engine が新たに追加されました。",
-      "type": "add",
-      "id": 23099
-    },
-    {
-      "date": "2026/07/18",
-      "message": "Jtool skins が新たに追加されました。",
-      "type": "add",
-      "id": 20890
     }
   ],
   "games": [
@@ -42206,10 +42206,10 @@
     {
       "id": 15399,
       "name": "Evoltex",
-      "difficulty": "83.3",
-      "difficulty_num": 83.3,
-      "rating": 6.0,
-      "num_ratings": 14,
+      "difficulty": "83.2",
+      "difficulty_num": 83.2,
+      "rating": 5.7,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -44636,10 +44636,10 @@
     {
       "id": 18654,
       "name": "I wanna feel lonely",
-      "difficulty": "59.4",
-      "difficulty_num": 59.4,
-      "rating": 6.5,
-      "num_ratings": 9,
+      "difficulty": "59.8",
+      "difficulty_num": 59.8,
+      "rating": 6.6,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -59876,8 +59876,8 @@
     {
       "id": 17541,
       "name": "Hendeca Corner",
-      "difficulty": "89.3",
-      "difficulty_num": 89.3,
+      "difficulty": "89.4",
+      "difficulty_num": 89.4,
       "rating": 6.7,
       "num_ratings": 18,
       "is_needle": true,
@@ -89616,10 +89616,10 @@
     {
       "id": 25037,
       "name": "New Crazy I Wanna Kill The Kamilia™ 1.5 Remastered Gold Deluxe Warped DLC 2 Enhanced & Knuckles Featuring Dante From Devil May Cry K Ver+ (New Funky Mode Included)",
-      "difficulty": "53.8",
-      "difficulty_num": 53.8,
-      "rating": 7.2,
-      "num_ratings": 10,
+      "difficulty": "54.8",
+      "difficulty_num": 54.8,
+      "rating": 7.1,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -97906,11 +97906,11 @@
     {
       "id": 11676,
       "name": "I wanna play the Relay",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
+      "difficulty": "51.5",
+      "difficulty_num": 51.5,
       "rating": 3.0,
-      "num_ratings": 1,
-      "is_needle": false,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
