@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 04:59:38",
+  "last_updated": "2026-07-22 06:20:01",
   "announcements": [
     {
       "date": "2026/07/21",
@@ -116506,10 +116506,10 @@
     {
       "id": 22338,
       "name": "Stars",
-      "difficulty": "30.0",
-      "difficulty_num": 30.0,
+      "difficulty": "29.9",
+      "difficulty_num": 29.9,
       "rating": 7.2,
-      "num_ratings": 67,
+      "num_ratings": 68,
       "is_needle": true,
       "is_avoidance": false
     },
