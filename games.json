@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 22:47:51",
+  "last_updated": "2026-07-23 00:39:58",
   "announcements": [
     {
       "date": "2026/07/21",
@@ -28468,8 +28468,8 @@
       "name": "I wanna CQ",
       "difficulty": "46.1",
       "difficulty_num": 46.1,
-      "rating": 5.7,
-      "num_ratings": 24,
+      "rating": 5.5,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": false
     },
