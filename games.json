@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 03:40:33",
+  "last_updated": "2026-07-23 05:10:38",
   "announcements": [
     {
       "date": "2026/07/21",
@@ -53728,8 +53728,8 @@
       "name": "I wanna go the Magical journey",
       "difficulty": "5.1",
       "difficulty_num": 5.1,
-      "rating": 4.7,
-      "num_ratings": 43,
+      "rating": 4.8,
+      "num_ratings": 44,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -96026,10 +96026,10 @@
     {
       "id": 24048,
       "name": "Phantom Needle V",
-      "difficulty": "72.9",
-      "difficulty_num": 72.9,
-      "rating": 8.3,
-      "num_ratings": 10,
+      "difficulty": "72.8",
+      "difficulty_num": 72.8,
+      "rating": 8.1,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
