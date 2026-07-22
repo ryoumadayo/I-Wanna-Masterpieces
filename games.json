@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 20:49:34",
+  "last_updated": "2026-07-22 22:47:51",
   "announcements": [
     {
       "date": "2026/07/21",
@@ -77666,10 +77666,10 @@
     {
       "id": 15015,
       "name": "I Wanna be the Lime",
-      "difficulty": "79.1",
-      "difficulty_num": 79.1,
+      "difficulty": "76.7",
+      "difficulty_num": 76.7,
       "rating": 6.6,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
