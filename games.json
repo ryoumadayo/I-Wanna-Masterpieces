@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-24 18:03:08",
+  "last_updated": "2026-07-24 20:16:15",
   "announcements": [
+    {
+      "date": "2026/07/24",
+      "message": "I wanna Abyss が新たに追加されました。",
+      "type": "add",
+      "id": 21155
+    },
     {
       "date": "2026/07/21",
       "message": "I wanna Myosotis が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna record my Jumps が新たに追加されました。",
       "type": "add",
       "id": 12455
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna play online が新たに追加されました。",
-      "type": "add",
-      "id": 21490
     }
   ],
   "games": [
@@ -4439,7 +4439,7 @@
       "difficulty": "86.3",
       "difficulty_num": 86.3,
       "rating": 7.3,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
