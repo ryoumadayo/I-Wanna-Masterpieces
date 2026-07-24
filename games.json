@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 12:21:19",
+  "last_updated": "2026-07-24 15:09:02",
   "announcements": [
     {
       "date": "2026/07/21",
@@ -94826,10 +94826,10 @@
     {
       "id": 15711,
       "name": "I wanna be the Partysu II",
-      "difficulty": "53.4",
-      "difficulty_num": 53.4,
+      "difficulty": "53.3",
+      "difficulty_num": 53.3,
       "rating": 6.9,
-      "num_ratings": 38,
+      "num_ratings": 39,
       "is_needle": true,
       "is_avoidance": false
     },
