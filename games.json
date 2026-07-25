@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 09:02:30",
+  "last_updated": "2026-07-25 12:47:35",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -3699,7 +3699,7 @@
       "difficulty": "46.7",
       "difficulty_num": 46.7,
       "rating": 6.9,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59926,20 +59926,20 @@
     {
       "id": 11979,
       "name": "I wanna be the Hereditary Baldness 2",
-      "difficulty": "68.8",
-      "difficulty_num": 68.8,
-      "rating": 6.3,
-      "num_ratings": 15,
+      "difficulty": "69.3",
+      "difficulty_num": 69.3,
+      "rating": 6.4,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 15628,
       "name": "I Wanna be the Hereditary Baldness 2 Part 2",
-      "difficulty": "64.7",
-      "difficulty_num": 64.7,
+      "difficulty": "66.1",
+      "difficulty_num": 66.1,
       "rating": 7.0,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -131738,7 +131738,7 @@
       "name": "I wanna walk mindlessly",
       "difficulty": "96.0",
       "difficulty_num": 96.0,
-      "rating": 0.0,
+      "rating": 8.5,
       "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
