@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 06:24:17",
+  "last_updated": "2026-07-26 07:26:15",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -32466,10 +32466,10 @@
     {
       "id": 21546,
       "name": "I wanna be the deforest",
-      "difficulty": "68.6",
-      "difficulty_num": 68.6,
-      "rating": 7.1,
-      "num_ratings": 5,
+      "difficulty": "68.8",
+      "difficulty_num": 68.8,
+      "rating": 7.0,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
