@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 03:32:08",
+  "last_updated": "2026-07-26 05:10:37",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -25464,6 +25464,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46375,
+      "name": "I Wanna Climb Up",
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 18363,
       "name": "I wanna climb with head",
       "difficulty": "54.1",
@@ -28151,6 +28161,16 @@
       "rating": 2.9,
       "num_ratings": 4,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46376,
+      "name": "copulation,July 7th.zip",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
