@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 04:44:52",
+  "last_updated": "2026-07-27 05:56:12",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -144896,10 +144896,10 @@
     {
       "id": 17825,
       "name": "I wanna be the 必殺ダイナファイター",
-      "difficulty": "35.0",
-      "difficulty_num": 35.0,
-      "rating": 2.8,
-      "num_ratings": 1,
+      "difficulty": "41.5",
+      "difficulty_num": 41.5,
+      "rating": 3.8,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
