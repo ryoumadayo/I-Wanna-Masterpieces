@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 13:56:12",
+  "last_updated": "2026-07-26 16:34:26",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -34346,10 +34346,10 @@
     {
       "id": 18070,
       "name": "I wanna be the disaster",
-      "difficulty": "61.0",
-      "difficulty_num": 61.0,
-      "rating": 7.1,
-      "num_ratings": 5,
+      "difficulty": "61.8",
+      "difficulty_num": 61.8,
+      "rating": 7.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -66186,11 +66186,11 @@
     {
       "id": 23823,
       "name": "I wanna into the area",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "53.0",
+      "difficulty_num": 53.0,
+      "rating": 5.2,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -141748,8 +141748,8 @@
       "name": "アイワナ制作のいいネタが思いつかなかったから作ったアイワナ",
       "difficulty": "52.2",
       "difficulty_num": 52.2,
-      "rating": 6.9,
-      "num_ratings": 13,
+      "rating": 6.8,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
