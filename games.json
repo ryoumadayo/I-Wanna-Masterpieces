@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 00:41:56",
+  "last_updated": "2026-07-27 04:44:52",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -3799,7 +3799,7 @@
       "difficulty": "37.1",
       "difficulty_num": 37.1,
       "rating": 7.4,
-      "num_ratings": 63,
+      "num_ratings": 64,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -41566,11 +41566,11 @@
     {
       "id": 17157,
       "name": "I wanna escape the maze",
-      "difficulty": "62.0",
-      "difficulty_num": 62.0,
-      "rating": 4.6,
-      "num_ratings": 1,
-      "is_needle": true,
+      "difficulty": "62.5",
+      "difficulty_num": 62.5,
+      "rating": 5.3,
+      "num_ratings": 2,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -50646,10 +50646,10 @@
     {
       "id": 23856,
       "name": "I wanna get Eight Melodies",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 6.3,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -91409,7 +91409,7 @@
       "difficulty": "68.6",
       "difficulty_num": 68.6,
       "rating": 9.2,
-      "num_ratings": 292,
+      "num_ratings": 293,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -120956,10 +120956,10 @@
     {
       "id": 16816,
       "name": "I wanna taste my life",
-      "difficulty": "42.5",
-      "difficulty_num": 42.5,
-      "rating": 3.8,
-      "num_ratings": 2,
+      "difficulty": "40.7",
+      "difficulty_num": 40.7,
+      "rating": 4.7,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
