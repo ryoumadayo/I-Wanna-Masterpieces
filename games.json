@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 00:23:24",
+  "last_updated": "2026-07-28 02:17:22",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -2478,8 +2478,8 @@
       "name": "I Wanna 32 Square 2",
       "difficulty": "60.3",
       "difficulty_num": 60.3,
-      "rating": 4.3,
-      "num_ratings": 7,
+      "rating": 3.9,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
