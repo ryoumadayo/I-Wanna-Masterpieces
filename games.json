@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 03:55:39",
+  "last_updated": "2026-07-28 05:20:56",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -48696,10 +48696,10 @@
     {
       "id": 28179,
       "name": "i wanna FULFILLER",
-      "difficulty": "68.5",
-      "difficulty_num": 68.5,
-      "rating": 8.5,
-      "num_ratings": 10,
+      "difficulty": "67.6",
+      "difficulty_num": 67.6,
+      "rating": 8.4,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
