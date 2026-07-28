@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 23:02:03",
+  "last_updated": "2026-07-29 01:17:55",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -4700,6 +4700,16 @@
       "difficulty_num": 81.0,
       "rating": 8.6,
       "num_ratings": 3,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46378,
+      "name": "I wanna Activate the Gem Drive",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72184,6 +72194,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46380,
+      "name": "I wanna kill the Flandre",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 22563,
       "name": "I wanna Kill The Flippy",
       "difficulty": "100.0",
@@ -79871,6 +79891,16 @@
       "rating": 0.0,
       "num_ratings": 0,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46379,
+      "name": "Lovely sun",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -137526,10 +137556,10 @@
     {
       "id": 18326,
       "name": "I wanna Њ",
-      "difficulty": "82.0",
-      "difficulty_num": 82.0,
-      "rating": 4.3,
-      "num_ratings": 5,
+      "difficulty": "82.3",
+      "difficulty_num": 82.3,
+      "rating": 3.4,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
