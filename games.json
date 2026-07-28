@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 07:02:45",
+  "last_updated": "2026-07-29 08:29:48",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -131316,8 +131316,8 @@
     {
       "id": 17957,
       "name": "VOX Diamond",
-      "difficulty": "86.5",
-      "difficulty_num": 86.5,
+      "difficulty": "86.8",
+      "difficulty_num": 86.8,
       "rating": 4.3,
       "num_ratings": 31,
       "is_needle": false,
