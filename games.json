@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 04:20:14",
+  "last_updated": "2026-07-29 05:42:40",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -35488,8 +35488,8 @@
       "name": "I wanna be the Don Quixote",
       "difficulty": "27.6",
       "difficulty_num": 27.6,
-      "rating": 7.4,
-      "num_ratings": 28,
+      "rating": 7.5,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -107396,11 +107396,11 @@
     {
       "id": 11069,
       "name": "I wanna be the RZ",
-      "difficulty": "79.2",
-      "difficulty_num": 79.2,
+      "difficulty": "79.1",
+      "difficulty_num": 79.1,
       "rating": 7.2,
-      "num_ratings": 33,
-      "is_needle": true,
+      "num_ratings": 34,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
