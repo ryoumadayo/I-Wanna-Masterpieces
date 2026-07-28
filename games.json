@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 20:35:09",
+  "last_updated": "2026-07-28 23:02:03",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -4712,6 +4712,16 @@
       "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
+    },
+    {
+      "id": 46377,
+      "name": "I wanna AD.409",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 10541,
@@ -65888,18 +65898,18 @@
       "name": "I wanna be the Insanity",
       "difficulty": "70.8",
       "difficulty_num": 70.8,
-      "rating": 5.4,
-      "num_ratings": 19,
+      "rating": 5.5,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
     {
       "id": 10802,
       "name": "I wanna be the Insanity 2",
-      "difficulty": "66.2",
-      "difficulty_num": 66.2,
-      "rating": 6.0,
-      "num_ratings": 15,
+      "difficulty": "66.0",
+      "difficulty_num": 66.0,
+      "rating": 6.1,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
