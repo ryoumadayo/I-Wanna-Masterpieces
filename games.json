@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 12:55:02",
+  "last_updated": "2026-07-30 15:25:46",
   "announcements": [
     {
       "date": "2026/07/24",
@@ -64768,8 +64768,8 @@
       "name": "I wanna be the ichor",
       "difficulty": "62.1",
       "difficulty_num": 62.1,
-      "rating": 5.5,
-      "num_ratings": 8,
+      "rating": 5.6,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
