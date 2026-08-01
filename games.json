@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01 13:00:58",
+  "last_updated": "2026-08-01 15:37:27",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -53886,10 +53886,10 @@
     {
       "id": 12346,
       "name": "I wanna Go the Run!",
-      "difficulty": "35.7",
-      "difficulty_num": 35.7,
+      "difficulty": "35.8",
+      "difficulty_num": 35.8,
       "rating": 6.3,
-      "num_ratings": 64,
+      "num_ratings": 65,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65846,10 +65846,10 @@
     {
       "id": 16197,
       "name": "I wanna be the insane",
-      "difficulty": "52.4",
-      "difficulty_num": 52.4,
-      "rating": 4.9,
-      "num_ratings": 8,
+      "difficulty": "53.6",
+      "difficulty_num": 53.6,
+      "rating": 4.4,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -76216,8 +76216,8 @@
     {
       "id": 46285,
       "name": "I wanna be the Landscape!!!",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
       "rating": 0.0,
       "num_ratings": 1,
       "is_needle": true,
