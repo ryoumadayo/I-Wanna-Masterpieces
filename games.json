@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 11:35:33",
+  "last_updated": "2026-08-02 14:55:36",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -3506,8 +3506,8 @@
     {
       "id": 18712,
       "name": "I Wanna Be The <Challenger>",
-      "difficulty": "59.2",
-      "difficulty_num": 59.2,
+      "difficulty": "59.6",
+      "difficulty_num": 59.6,
       "rating": 6.3,
       "num_ratings": 7,
       "is_needle": false,
@@ -25819,7 +25819,7 @@
       "difficulty": "43.6",
       "difficulty_num": 43.6,
       "rating": 9.1,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -28379,7 +28379,7 @@
       "difficulty": "88.8",
       "difficulty_num": 88.8,
       "rating": 5.2,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -94516,10 +94516,10 @@
     {
       "id": 22871,
       "name": "Panasonic Bluray",
-      "difficulty": "52.2",
-      "difficulty_num": 52.2,
+      "difficulty": "52.1",
+      "difficulty_num": 52.1,
       "rating": 8.7,
-      "num_ratings": 82,
+      "num_ratings": 83,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -141276,8 +141276,8 @@
     {
       "id": 22830,
       "name": "めっちゃ針ゲ",
-      "difficulty": "46.4",
-      "difficulty_num": 46.4,
+      "difficulty": "46.6",
+      "difficulty_num": 46.6,
       "rating": 7.4,
       "num_ratings": 5,
       "is_needle": false,
