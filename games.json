@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 04:45:03",
+  "last_updated": "2026-08-03 05:52:59",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -32058,8 +32058,8 @@
       "name": "I wanna defeat the Noesis Crazy Sana",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "rating": 5.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
