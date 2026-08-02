@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 08:55:49",
+  "last_updated": "2026-08-02 11:35:33",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -59736,10 +59736,10 @@
     {
       "id": 26413,
       "name": "Hell Consistency",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -64536,10 +64536,10 @@
     {
       "id": 26556,
       "name": "I'll be here",
-      "difficulty": "91.0",
-      "difficulty_num": 91.0,
-      "rating": 8.5,
-      "num_ratings": 3,
+      "difficulty": "91.5",
+      "difficulty_num": 91.5,
+      "rating": 6.0,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -88006,10 +88006,10 @@
     {
       "id": 11804,
       "name": "Narsarsuaq",
-      "difficulty": "45.7",
-      "difficulty_num": 45.7,
-      "rating": 5.9,
-      "num_ratings": 20,
+      "difficulty": "46.1",
+      "difficulty_num": 46.1,
+      "rating": 5.8,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -142326,10 +142326,10 @@
     {
       "id": 19909,
       "name": "ソシャゲの石集めって心無になりますよね",
-      "difficulty": "65.8",
-      "difficulty_num": 65.8,
+      "difficulty": "62.6",
+      "difficulty_num": 62.6,
       "rating": 5.5,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
