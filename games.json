@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 03:16:14",
+  "last_updated": "2026-08-04 05:10:31",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -144436,10 +144436,10 @@
     {
       "id": 11287,
       "name": "I wanna be the 基地guy",
-      "difficulty": "57.5",
-      "difficulty_num": 57.5,
-      "rating": 0.7,
-      "num_ratings": 4,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
+      "rating": 2.2,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
