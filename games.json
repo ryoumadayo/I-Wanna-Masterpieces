@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-05 03:11:19",
+  "last_updated": "2026-08-05 05:08:40",
   "announcements": [
+    {
+      "date": "2026/08/05",
+      "message": "I wanna be the Burst(2015) が新たに追加されました。",
+      "type": "add",
+      "id": 15378
+    },
     {
       "date": "2026/08/01",
       "message": "I wanna be Charon が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Tool for avoidances 2.0 が新たに追加されました。",
       "type": "add",
       "id": 16202
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna be the Studio Engine YoYoYo Edition が新たに追加されました。",
-      "type": "add",
-      "id": 15347
     }
   ],
   "games": [
@@ -20416,10 +20416,10 @@
     {
       "id": 15378,
       "name": "I wanna be the Burst(2015)",
-      "difficulty": "36.9",
-      "difficulty_num": 36.9,
-      "rating": 5.9,
-      "num_ratings": 17,
+      "difficulty": "37.1",
+      "difficulty_num": 37.1,
+      "rating": 6.0,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -65076,10 +65076,10 @@
     {
       "id": 20592,
       "name": "I wanna be the ikizukuri",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 1.5,
-      "num_ratings": 1,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 1.7,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65176,10 +65176,10 @@
     {
       "id": 27162,
       "name": "Imitation",
-      "difficulty": "65.3",
-      "difficulty_num": 65.3,
-      "rating": 6.8,
-      "num_ratings": 6,
+      "difficulty": "66.4",
+      "difficulty_num": 66.4,
+      "rating": 6.9,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -82356,10 +82356,10 @@
     {
       "id": 11633,
       "name": "I wanna make the Maiden work",
-      "difficulty": "44.0",
-      "difficulty_num": 44.0,
-      "rating": 2.6,
-      "num_ratings": 2,
+      "difficulty": "47.7",
+      "difficulty_num": 47.7,
+      "rating": 3.2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
