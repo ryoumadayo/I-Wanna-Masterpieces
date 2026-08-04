@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 20:38:44",
+  "last_updated": "2026-08-04 23:06:11",
   "announcements": [
     {
       "date": "2026/08/01",
@@ -7879,7 +7879,7 @@
       "difficulty": "97.0",
       "difficulty_num": 97.0,
       "rating": 7.4,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -60006,10 +60006,10 @@
     {
       "id": 15375,
       "name": "I wanna be the Hermes",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
-      "rating": 2.7,
-      "num_ratings": 1,
+      "difficulty": "72.5",
+      "difficulty_num": 72.5,
+      "rating": 2.6,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
