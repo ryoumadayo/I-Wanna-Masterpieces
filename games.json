@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 01:14:42",
+  "last_updated": "2026-08-06 03:03:30",
   "announcements": [
     {
       "date": "2026/08/05",
@@ -46564,6 +46564,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46383,
+      "name": "Five Elements Needle",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 18833,
       "name": "Five Nights at Fangames'",
       "difficulty": "68.8",
@@ -63256,10 +63266,10 @@
     {
       "id": 46382,
       "name": "I Still Wanna Go On The Greatest Adventure",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 7.5,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -80186,10 +80196,10 @@
     {
       "id": 27847,
       "name": "Lucid Abyss",
-      "difficulty": "76.9",
-      "difficulty_num": 76.9,
-      "rating": 8.6,
-      "num_ratings": 10,
+      "difficulty": "76.4",
+      "difficulty_num": 76.4,
+      "rating": 8.8,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -115896,9 +115906,9 @@
     {
       "id": 17102,
       "name": "I wanna be the Spirit",
-      "difficulty": "77.0",
-      "difficulty_num": 77.0,
-      "rating": 9.2,
+      "difficulty": "66.0",
+      "difficulty_num": 66.0,
+      "rating": 6.6,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
