@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05 12:58:44",
+  "last_updated": "2026-08-05 15:34:23",
   "announcements": [
     {
       "date": "2026/08/05",
@@ -65080,7 +65080,7 @@
       "difficulty_num": 25.0,
       "rating": 1.7,
       "num_ratings": 2,
-      "is_needle": true,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -82356,9 +82356,9 @@
     {
       "id": 11633,
       "name": "I wanna make the Maiden work",
-      "difficulty": "47.7",
-      "difficulty_num": 47.7,
-      "rating": 3.2,
+      "difficulty": "47.3",
+      "difficulty_num": 47.3,
+      "rating": 3.3,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -143026,30 +143026,30 @@
     {
       "id": 17058,
       "name": "I wanna be the リア充！",
-      "difficulty": "31.3",
-      "difficulty_num": 31.3,
-      "rating": 5.6,
-      "num_ratings": 4,
+      "difficulty": "29.0",
+      "difficulty_num": 29.0,
+      "rating": 5.3,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 17059,
       "name": "I wanna be the リア充！2nd season",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
-      "rating": 7.3,
-      "num_ratings": 2,
+      "difficulty": "46.3",
+      "difficulty_num": 46.3,
+      "rating": 6.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 17060,
       "name": "I wanna be the リア充！3rd season The Final",
-      "difficulty": "42.7",
-      "difficulty_num": 42.7,
-      "rating": 6.4,
-      "num_ratings": 4,
+      "difficulty": "41.8",
+      "difficulty_num": 41.8,
+      "rating": 5.9,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
