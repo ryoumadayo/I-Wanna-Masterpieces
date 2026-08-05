@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 03:03:30",
+  "last_updated": "2026-08-06 05:07:12",
   "announcements": [
     {
       "date": "2026/08/05",
@@ -32058,8 +32058,8 @@
       "name": "I wanna defeat the Noesis Crazy Sana",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 10.0,
-      "num_ratings": 2,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128022,6 +128022,16 @@
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46384,
+      "name": "TUNNEL VISION",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 18905,
