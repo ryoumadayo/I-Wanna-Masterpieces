@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 05:07:08",
+  "last_updated": "2026-08-08 06:10:00",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -33316,10 +33316,10 @@
     {
       "id": 17593,
       "name": "I wanna destroy the Kitchen",
-      "difficulty": "61.3",
-      "difficulty_num": 61.3,
-      "rating": 3.2,
-      "num_ratings": 8,
+      "difficulty": "63.1",
+      "difficulty_num": 63.1,
+      "rating": 3.7,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -38936,10 +38936,10 @@
     {
       "id": 16899,
       "name": "I wanna eliminate a virus",
-      "difficulty": "48.5",
-      "difficulty_num": 48.5,
-      "rating": 7.5,
-      "num_ratings": 3,
+      "difficulty": "55.3",
+      "difficulty_num": 55.3,
+      "rating": 7.2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47146,10 +47146,10 @@
     {
       "id": 11551,
       "name": "I wanna flutter like a Swallowtail",
-      "difficulty": "37.5",
-      "difficulty_num": 37.5,
-      "rating": 4.5,
-      "num_ratings": 3,
+      "difficulty": "40.3",
+      "difficulty_num": 40.3,
+      "rating": 4.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -59126,8 +59126,8 @@
     {
       "id": 24556,
       "name": "I wanna have it finished",
-      "difficulty": "57.7",
-      "difficulty_num": 57.7,
+      "difficulty": "57.3",
+      "difficulty_num": 57.3,
       "rating": 6.2,
       "num_ratings": 3,
       "is_needle": false,
