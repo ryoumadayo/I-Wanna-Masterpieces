@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 09:23:40",
+  "last_updated": "2026-08-07 12:27:15",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -68906,10 +68906,10 @@
     {
       "id": 23461,
       "name": "JungleKID",
-      "difficulty": "61.9",
-      "difficulty_num": 61.9,
+      "difficulty": "62.4",
+      "difficulty_num": 62.4,
       "rating": 8.6,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
