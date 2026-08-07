@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 08:05:25",
+  "last_updated": "2026-08-08 08:58:12",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -61036,10 +61036,10 @@
     {
       "id": 25145,
       "name": "I wanna be the HOR",
-      "difficulty": "77.0",
-      "difficulty_num": 77.0,
-      "rating": 5.2,
-      "num_ratings": 2,
+      "difficulty": "79.0",
+      "difficulty_num": 79.0,
+      "rating": 3.6,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -101306,10 +101306,10 @@
     {
       "id": 14689,
       "name": "I wanna be the Purple Zone",
-      "difficulty": "41.6",
-      "difficulty_num": 41.6,
-      "rating": 6.7,
-      "num_ratings": 13,
+      "difficulty": "41.9",
+      "difficulty_num": 41.9,
+      "rating": 6.8,
+      "num_ratings": 14,
       "is_needle": true,
       "is_avoidance": false
     },
