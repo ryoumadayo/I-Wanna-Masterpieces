@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 13:35:00",
+  "last_updated": "2026-08-08 14:41:27",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -119116,10 +119116,10 @@
     {
       "id": 27773,
       "name": "I wanna supply a target",
-      "difficulty": "79.6",
-      "difficulty_num": 79.6,
-      "rating": 8.2,
-      "num_ratings": 7,
+      "difficulty": "78.7",
+      "difficulty_num": 78.7,
+      "rating": 8.0,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
