@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 05:27:04",
+  "last_updated": "2026-08-09 05:59:39",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -119898,8 +119898,8 @@
       "name": "I wanna T1",
       "difficulty": "1.0",
       "difficulty_num": 1.0,
-      "rating": 8.5,
-      "num_ratings": 3,
+      "rating": 9.0,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
