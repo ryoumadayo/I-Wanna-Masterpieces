@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 08:58:12",
+  "last_updated": "2026-08-08 10:56:03",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -32046,10 +32046,10 @@
     {
       "id": 20831,
       "name": "I Wanna Defeat the Nader Makers: Chill Side",
-      "difficulty": "70.9",
-      "difficulty_num": 70.9,
+      "difficulty": "71.0",
+      "difficulty_num": 71.0,
       "rating": 8.4,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63416,10 +63416,10 @@
     {
       "id": 27767,
       "name": "I wana be za 柱軍団 ando 怪魔 2",
-      "difficulty": "47.0",
-      "difficulty_num": 47.0,
-      "rating": 5.5,
-      "num_ratings": 2,
+      "difficulty": "51.5",
+      "difficulty_num": 51.5,
+      "rating": 3.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -117066,10 +117066,10 @@
     {
       "id": 21203,
       "name": "I Wanna Be The Sterelogue",
-      "difficulty": "55.0",
-      "difficulty_num": 55.0,
-      "rating": 5.0,
-      "num_ratings": 3,
+      "difficulty": "56.5",
+      "difficulty_num": 56.5,
+      "rating": 6.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
