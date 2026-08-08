@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 21:42:41",
+  "last_updated": "2026-08-08 22:43:20",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -1306,10 +1306,10 @@
     {
       "id": 27469,
       "name": "14 Extremely Long Platform Variants",
-      "difficulty": "48.6",
-      "difficulty_num": 48.6,
-      "rating": 7.5,
-      "num_ratings": 18,
+      "difficulty": "45.4",
+      "difficulty_num": 45.4,
+      "rating": 7.3,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -19306,10 +19306,10 @@
     {
       "id": 12257,
       "name": "I wanna break the Series Z 2",
-      "difficulty": "83.3",
-      "difficulty_num": 83.3,
+      "difficulty": "83.4",
+      "difficulty_num": 83.4,
       "rating": 4.4,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": false,
       "is_avoidance": false
     },
