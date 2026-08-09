@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09 22:48:06",
+  "last_updated": "2026-08-09 23:32:00",
   "announcements": [
     {
       "date": "2026/08/06",
@@ -7286,10 +7286,10 @@
     {
       "id": 24587,
       "name": "April is the Cruelest Month",
-      "difficulty": "85.2",
-      "difficulty_num": 85.2,
-      "rating": 9.1,
-      "num_ratings": 24,
+      "difficulty": "85.0",
+      "difficulty_num": 85.0,
+      "rating": 9.0,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -104961,6 +104961,16 @@
       "rating": 6.5,
       "num_ratings": 1,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46387,
+      "name": "I Wanna Reset",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
