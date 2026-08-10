@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-10 11:26:41",
+  "last_updated": "2026-08-10 13:13:06",
   "announcements": [
+    {
+      "date": "2026/08/10",
+      "message": "I wanna be the Bridge が新たに追加されました。",
+      "type": "add",
+      "id": 15249
+    },
     {
       "date": "2026/08/06",
       "message": "I wanna be the Sensei が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Chungo's Gauntletが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 24884
-    },
-    {
-      "date": "2026/07/18",
-      "message": "YoYoYo Engine (Verve Edition) が新たに追加されました。",
-      "type": "add",
-      "id": 24342
     }
   ],
   "games": [
@@ -19936,10 +19936,10 @@
     {
       "id": 15249,
       "name": "I wanna be the Bridge",
-      "difficulty": "62.3",
-      "difficulty_num": 62.3,
-      "rating": 6.2,
-      "num_ratings": 9,
+      "difficulty": "63.3",
+      "difficulty_num": 63.3,
+      "rating": 6.3,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -134206,10 +134206,10 @@
     {
       "id": 12152,
       "name": "I wanna be the Wolf",
-      "difficulty": "23.5",
-      "difficulty_num": 23.5,
-      "rating": 5.0,
-      "num_ratings": 3,
+      "difficulty": "32.3",
+      "difficulty_num": 32.3,
+      "rating": 5.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -144056,8 +144056,8 @@
     {
       "id": 26859,
       "name": "创意跳脸耐久（无硅胶，简单抄）",
-      "difficulty": "25.5",
-      "difficulty_num": 25.5,
+      "difficulty": "22.3",
+      "difficulty_num": 22.3,
       "rating": 2.5,
       "num_ratings": 8,
       "is_needle": false,
