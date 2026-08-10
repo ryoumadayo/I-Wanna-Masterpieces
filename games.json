@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 14:54:35",
+  "last_updated": "2026-08-10 16:28:21",
   "announcements": [
     {
       "date": "2026/08/10",
@@ -10326,10 +10326,10 @@
     {
       "id": 24140,
       "name": "I wanna be a Big Shot",
-      "difficulty": "56.6",
-      "difficulty_num": 56.6,
+      "difficulty": "56.8",
+      "difficulty_num": 56.8,
       "rating": 9.0,
-      "num_ratings": 30,
+      "num_ratings": 31,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75476,8 +75476,8 @@
     {
       "id": 23995,
       "name": "i wanna koibito",
-      "difficulty": "45.0",
-      "difficulty_num": 45.0,
+      "difficulty": "42.0",
+      "difficulty_num": 42.0,
       "rating": 4.0,
       "num_ratings": 3,
       "is_needle": false,
