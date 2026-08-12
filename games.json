@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 21:08:41",
+  "last_updated": "2026-08-12 22:56:04",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -22036,10 +22036,10 @@
     {
       "id": 26839,
       "name": "I Wanna Celebrate 2022",
-      "difficulty": "51.6",
-      "difficulty_num": 51.6,
-      "rating": 8.6,
-      "num_ratings": 14,
+      "difficulty": "51.9",
+      "difficulty_num": 51.9,
+      "rating": 8.4,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -32006,10 +32006,10 @@
     {
       "id": 45811,
       "name": "I Wanna Defeat The Long Save",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
+      "difficulty": "67.3",
+      "difficulty_num": 67.3,
       "rating": 7.2,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -51779,7 +51779,7 @@
       "difficulty": "33.3",
       "difficulty_num": 33.3,
       "rating": 6.4,
-      "num_ratings": 96,
+      "num_ratings": 97,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55686,10 +55686,10 @@
     {
       "id": 20263,
       "name": "I wanna be the Graverobber",
-      "difficulty": "35.3",
-      "difficulty_num": 35.3,
+      "difficulty": "35.4",
+      "difficulty_num": 35.4,
       "rating": 8.5,
-      "num_ratings": 59,
+      "num_ratings": 60,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -74876,10 +74876,10 @@
     {
       "id": 10828,
       "name": "I wanna be the Kirwy",
-      "difficulty": "51.6",
-      "difficulty_num": 51.6,
-      "rating": 5.3,
-      "num_ratings": 26,
+      "difficulty": "51.8",
+      "difficulty_num": 51.8,
+      "rating": 5.2,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -75356,10 +75356,10 @@
     {
       "id": 25176,
       "name": "I wanna know what's in my Desktop",
-      "difficulty": "32.3",
-      "difficulty_num": 32.3,
+      "difficulty": "32.4",
+      "difficulty_num": 32.4,
       "rating": 9.2,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": false,
       "is_avoidance": false
     },
