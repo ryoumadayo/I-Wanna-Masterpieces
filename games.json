@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 00:57:51",
+  "last_updated": "2026-08-13 01:59:31",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -23734,6 +23734,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46388,
+      "name": "Chieri's SSRare Challenge!!!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 10606,
       "name": "I wanna be the Chikachika",
       "difficulty": "30.0",
@@ -29882,6 +29892,16 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46389,
+      "name": "Cynosuryz",
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 8.8,
+      "num_ratings": 5,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 46158,
