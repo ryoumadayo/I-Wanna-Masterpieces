@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 06:13:16",
+  "last_updated": "2026-08-13 07:13:01",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -5158,7 +5158,7 @@
       "name": "I wanna be the after 120 hour",
       "difficulty": "43.0",
       "difficulty_num": 43.0,
-      "rating": 3.1,
+      "rating": 2.6,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -65128,7 +65128,7 @@
       "name": "I wanna be the ikizukuri",
       "difficulty": "25.0",
       "difficulty_num": 25.0,
-      "rating": 1.7,
+      "rating": 1.8,
       "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
@@ -100316,10 +100316,10 @@
     {
       "id": 17111,
       "name": "I wanna proclaim",
-      "difficulty": "56.5",
-      "difficulty_num": 56.5,
-      "rating": 5.6,
-      "num_ratings": 3,
+      "difficulty": "56.0",
+      "difficulty_num": 56.0,
+      "rating": 6.2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
