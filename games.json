@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 06:13:41",
+  "last_updated": "2026-08-14 07:10:33",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -130366,10 +130366,10 @@
     {
       "id": 14970,
       "name": "I Wanna Vanish Needles!!",
-      "difficulty": "22.2",
-      "difficulty_num": 22.2,
-      "rating": 6.4,
-      "num_ratings": 31,
+      "difficulty": "22.5",
+      "difficulty_num": 22.5,
+      "rating": 6.5,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
