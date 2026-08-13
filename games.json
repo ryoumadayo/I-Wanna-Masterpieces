@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 04:13:45",
+  "last_updated": "2026-08-14 05:04:14",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -100316,8 +100316,8 @@
     {
       "id": 17111,
       "name": "I wanna proclaim",
-      "difficulty": "56.0",
-      "difficulty_num": 56.0,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
       "rating": 6.2,
       "num_ratings": 4,
       "is_needle": false,
