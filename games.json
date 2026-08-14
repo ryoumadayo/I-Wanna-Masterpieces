@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 01:22:39",
+  "last_updated": "2026-08-15 03:26:10",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -122186,10 +122186,10 @@
     {
       "id": 46372,
       "name": "Tha",
-      "difficulty": "77.5",
-      "difficulty_num": 77.5,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "76.7",
+      "difficulty_num": 76.7,
+      "rating": 8.0,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
