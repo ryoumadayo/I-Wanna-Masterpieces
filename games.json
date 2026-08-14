@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 20:42:33",
+  "last_updated": "2026-08-14 22:01:08",
   "announcements": [
     {
       "date": "2026/08/11",
@@ -18429,7 +18429,7 @@
       "difficulty": "36.5",
       "difficulty_num": 36.5,
       "rating": 7.9,
-      "num_ratings": 147,
+      "num_ratings": 148,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47666,10 +47666,10 @@
     {
       "id": 16165,
       "name": "For my Valentine",
-      "difficulty": "35.7",
-      "difficulty_num": 35.7,
-      "rating": 8.0,
-      "num_ratings": 64,
+      "difficulty": "35.8",
+      "difficulty_num": 35.8,
+      "rating": 7.9,
+      "num_ratings": 65,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -57924,6 +57924,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46390,
+      "name": "I wanna be the HAPPY BIRTHDAY YUKINA",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 16611,
       "name": "I wanna be the happy birthday Yuu",
       "difficulty": "14.5",
@@ -65639,7 +65649,7 @@
       "difficulty": "36.2",
       "difficulty_num": 36.2,
       "rating": 7.1,
-      "num_ratings": 99,
+      "num_ratings": 100,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90716,11 +90726,11 @@
     {
       "id": 24541,
       "name": "i wanna no save",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 1.5,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -118976,8 +118986,8 @@
     {
       "id": 20241,
       "name": "I wanna be the super mario",
-      "difficulty": "29.7",
-      "difficulty_num": 29.7,
+      "difficulty": "28.7",
+      "difficulty_num": 28.7,
       "rating": 6.3,
       "num_ratings": 3,
       "is_needle": false,
@@ -144676,11 +144686,11 @@
     {
       "id": 11326,
       "name": "I wanna be the 大吉",
-      "difficulty": "36.5",
-      "difficulty_num": 36.5,
-      "rating": 3.9,
-      "num_ratings": 4,
-      "is_needle": false,
+      "difficulty": "39.4",
+      "difficulty_num": 39.4,
+      "rating": 4.1,
+      "num_ratings": 5,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
