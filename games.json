@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 05:48:00",
+  "last_updated": "2026-08-16 06:18:39",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -48739,18 +48739,18 @@
       "difficulty": "83.5",
       "difficulty_num": 83.5,
       "rating": 5.2,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 19849,
       "name": "I wanna be the Fujimoko(new ver)",
-      "difficulty": "52.5",
-      "difficulty_num": 52.5,
-      "rating": 3.3,
-      "num_ratings": 4,
-      "is_needle": true,
+      "difficulty": "57.7",
+      "difficulty_num": 57.7,
+      "rating": 3.1,
+      "num_ratings": 5,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
