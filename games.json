@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 13:57:39",
+  "last_updated": "2026-08-15 14:52:30",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -74916,10 +74916,10 @@
     {
       "id": 46391,
       "name": "I Wanna Kiss Lucifer",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
