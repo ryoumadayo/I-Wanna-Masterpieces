@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 19:47:53",
+  "last_updated": "2026-08-15 20:18:17",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -107264,6 +107264,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46393,
+      "name": "I Wanna Run!!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 27894,
       "name": "I Wanna Runaway Baby",
       "difficulty": "63.7",
@@ -108320,6 +108330,16 @@
       "difficulty_num": 69.1,
       "rating": 9.4,
       "num_ratings": 58,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46394,
+      "name": "i wanna save my dog",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -113026,6 +113046,16 @@
     {
       "id": 25677,
       "name": "I wanna sing the Vocaloid!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
+      "id": 46392,
+      "name": "I wanna sing with God",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
