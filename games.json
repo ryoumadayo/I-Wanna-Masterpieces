@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 10:10:15",
+  "last_updated": "2026-08-16 11:40:57",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -74918,8 +74918,8 @@
       "name": "I Wanna Kiss Lucifer",
       "difficulty": "68.5",
       "difficulty_num": 68.5,
-      "rating": 7.3,
-      "num_ratings": 3,
+      "rating": 7.4,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -113059,7 +113059,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
