@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 02:17:04",
+  "last_updated": "2026-08-17 02:44:04",
   "announcements": [
     {
       "date": "2026/08/14",
@@ -105336,10 +105336,10 @@
     {
       "id": 20812,
       "name": "I wanna retort",
-      "difficulty": "38.5",
-      "difficulty_num": 38.5,
+      "difficulty": "38.4",
+      "difficulty_num": 38.4,
       "rating": 6.8,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": true,
       "is_avoidance": false
     },
