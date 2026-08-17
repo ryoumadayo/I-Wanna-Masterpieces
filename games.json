@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 04:25:37",
+  "last_updated": "2026-08-18 04:51:16",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -105006,10 +105006,10 @@
     {
       "id": 46387,
       "name": "I Wanna Reset",
-      "difficulty": "42.0",
-      "difficulty_num": 42.0,
+      "difficulty": "41.0",
+      "difficulty_num": 41.0,
       "rating": 6.7,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
