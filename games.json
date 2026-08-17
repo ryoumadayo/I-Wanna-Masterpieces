@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 17:40:19",
+  "last_updated": "2026-08-17 18:38:15",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -48958,8 +48958,8 @@
       "name": "I wanna be the Future Dominators",
       "difficulty": "94.0",
       "difficulty_num": 94.0,
-      "rating": 6.4,
-      "num_ratings": 6,
+      "rating": 6.6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -66438,8 +66438,8 @@
       "name": "Invincible Alien",
       "difficulty": "94.9",
       "difficulty_num": 94.9,
-      "rating": 6.1,
-      "num_ratings": 24,
+      "rating": 6.2,
+      "num_ratings": 25,
       "is_needle": false,
       "is_avoidance": true
     },
