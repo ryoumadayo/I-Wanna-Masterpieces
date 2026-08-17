@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 21:39:09",
+  "last_updated": "2026-08-17 22:37:46",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -19896,8 +19896,8 @@
     {
       "id": 46364,
       "name": "I wanna Breathe In, Scream Out",
-      "difficulty": "84.0",
-      "difficulty_num": 84.0,
+      "difficulty": "85.0",
+      "difficulty_num": 85.0,
       "rating": 8.0,
       "num_ratings": 1,
       "is_needle": true,
@@ -138086,9 +138086,9 @@
     {
       "id": 45742,
       "name": "I wanna ᛶ",
-      "difficulty": "80.5",
-      "difficulty_num": 80.5,
-      "rating": 6.3,
+      "difficulty": "81.0",
+      "difficulty_num": 81.0,
+      "rating": 6.4,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
