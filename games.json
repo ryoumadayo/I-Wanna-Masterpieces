@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 02:24:03",
+  "last_updated": "2026-08-19 02:54:05",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -22346,10 +22346,10 @@
     {
       "id": 23107,
       "name": "I wanna celebrate the Kowoo's birthday",
-      "difficulty": "61.6",
-      "difficulty_num": 61.6,
-      "rating": 7.0,
-      "num_ratings": 11,
+      "difficulty": "62.4",
+      "difficulty_num": 62.4,
+      "rating": 6.8,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50679,7 +50679,7 @@
       "difficulty": "54.9",
       "difficulty_num": 54.9,
       "rating": 7.0,
-      "num_ratings": 160,
+      "num_ratings": 161,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50689,7 +50689,7 @@
       "difficulty": "71.9",
       "difficulty_num": 71.9,
       "rating": 9.1,
-      "num_ratings": 110,
+      "num_ratings": 111,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -56546,10 +56546,10 @@
     {
       "id": 22751,
       "name": "I Wanna Be The Guy Remastered",
-      "difficulty": "43.7",
-      "difficulty_num": 43.7,
+      "difficulty": "43.6",
+      "difficulty_num": 43.6,
       "rating": 8.8,
-      "num_ratings": 153,
+      "num_ratings": 154,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72769,7 +72769,7 @@
       "difficulty": "79.9",
       "difficulty_num": 79.9,
       "rating": 8.0,
-      "num_ratings": 126,
+      "num_ratings": 127,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -85456,10 +85456,10 @@
     {
       "id": 21228,
       "name": "Milky Ways",
-      "difficulty": "62.4",
-      "difficulty_num": 62.4,
+      "difficulty": "62.5",
+      "difficulty_num": 62.5,
       "rating": 8.5,
-      "num_ratings": 50,
+      "num_ratings": 51,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -126486,10 +126486,10 @@
     {
       "id": 27983,
       "name": "I wanna transmit electricity",
-      "difficulty": "36.5",
-      "difficulty_num": 36.5,
-      "rating": 7.3,
-      "num_ratings": 8,
+      "difficulty": "35.8",
+      "difficulty_num": 35.8,
+      "rating": 7.4,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
