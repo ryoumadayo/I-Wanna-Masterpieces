@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 02:54:05",
+  "last_updated": "2026-08-19 03:34:49",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -83180,6 +83180,16 @@
       "difficulty_num": 0.0,
       "rating": 0.0,
       "num_ratings": 3,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46395,
+      "name": "mario needle 4",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
