@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 10:06:34",
+  "last_updated": "2026-08-19 11:37:41",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -3446,10 +3446,10 @@
     {
       "id": 20095,
       "name": "I wanna 9",
-      "difficulty": "33.3",
-      "difficulty_num": 33.3,
+      "difficulty": "32.9",
+      "difficulty_num": 32.9,
       "rating": 7.4,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -44138,8 +44138,8 @@
       "name": "I wanna be the Fancy",
       "difficulty": "45.8",
       "difficulty_num": 45.8,
-      "rating": 8.0,
-      "num_ratings": 20,
+      "rating": 7.9,
+      "num_ratings": 21,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47738,8 +47738,8 @@
       "name": "I wanna be the Force",
       "difficulty": "74.8",
       "difficulty_num": 74.8,
-      "rating": 7.7,
-      "num_ratings": 6,
+      "rating": 7.6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
