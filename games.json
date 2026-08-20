@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 12:44:08",
+  "last_updated": "2026-08-20 13:34:37",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -17136,8 +17136,8 @@
     {
       "id": 14779,
       "name": "I wanna be the Blue coin mania saucer fulfill",
-      "difficulty": "48.3",
-      "difficulty_num": 48.3,
+      "difficulty": "47.9",
+      "difficulty_num": 47.9,
       "rating": 6.1,
       "num_ratings": 7,
       "is_needle": false,
@@ -103916,21 +103916,21 @@
     {
       "id": 15269,
       "name": "I wanna be the Red coin mania IIDX 2 Praxia",
-      "difficulty": "41.4",
-      "difficulty_num": 41.4,
+      "difficulty": "41.7",
+      "difficulty_num": 41.7,
       "rating": 7.0,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 19203,
       "name": "I wanna be the Red coin mania IIDX 3 i - X",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 7.0,
-      "num_ratings": 1,
-      "is_needle": false,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 6.5,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
