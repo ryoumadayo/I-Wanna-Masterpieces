@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 18:31:50",
+  "last_updated": "2026-08-20 19:27:05",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -56946,11 +56946,11 @@
     {
       "id": 26887,
       "name": "I wanna be the hades K3 version",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
-      "is_needle": false,
+      "difficulty": "83.0",
+      "difficulty_num": 83.0,
+      "rating": 3.2,
+      "num_ratings": 2,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
