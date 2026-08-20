@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 01:32:05",
+  "last_updated": "2026-08-21 02:26:21",
   "announcements": [
     {
       "date": "2026/08/17",
@@ -113496,6 +113496,16 @@
     {
       "id": 27339,
       "name": "i wanna be the skiller [not done yet and nothing changed yet]",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46396,
+      "name": "Skilltest Needle",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
