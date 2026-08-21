@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 01:00:48",
+  "last_updated": "2026-08-22 02:00:52",
   "announcements": [
     {
       "date": "2026/08/21",
@@ -24346,10 +24346,10 @@
     {
       "id": 10611,
       "name": "I wanna be the Chronos",
-      "difficulty": "36.3",
-      "difficulty_num": 36.3,
-      "rating": 4.1,
-      "num_ratings": 15,
+      "difficulty": "35.9",
+      "difficulty_num": 35.9,
+      "rating": 3.9,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
