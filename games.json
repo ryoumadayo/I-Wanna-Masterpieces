@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 23:47:18",
+  "last_updated": "2026-08-23 00:18:15",
   "announcements": [
     {
       "date": "2026/08/21",
@@ -40026,8 +40026,8 @@
     {
       "id": 20500,
       "name": "I wanna enjoy summer vacation",
-      "difficulty": "58.2",
-      "difficulty_num": 58.2,
+      "difficulty": "57.8",
+      "difficulty_num": 57.8,
       "rating": 6.6,
       "num_ratings": 6,
       "is_needle": true,
@@ -56666,9 +56666,9 @@
     {
       "id": 16577,
       "name": "I wanna be the guy! Flash Version",
-      "difficulty": "42.0",
-      "difficulty_num": 42.0,
-      "rating": 0.7,
+      "difficulty": "41.0",
+      "difficulty_num": 41.0,
+      "rating": 0.8,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -90768,7 +90768,7 @@
       "name": "i wanna no save",
       "difficulty": "25.0",
       "difficulty_num": 25.0,
-      "rating": 1.5,
+      "rating": 1.2,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
