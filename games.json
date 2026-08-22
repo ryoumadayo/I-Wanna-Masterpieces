@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 18:33:37",
+  "last_updated": "2026-08-22 19:20:49",
   "announcements": [
     {
       "date": "2026/08/21",
@@ -50686,10 +50686,10 @@
     {
       "id": 12333,
       "name": "I wanna get Cultured",
-      "difficulty": "54.9",
-      "difficulty_num": 54.9,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
       "rating": 7.0,
-      "num_ratings": 161,
+      "num_ratings": 162,
       "is_needle": false,
       "is_avoidance": false
     },
