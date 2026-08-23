@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 02:44:55",
+  "last_updated": "2026-08-24 03:25:10",
   "announcements": [
     {
       "date": "2026/08/23",
@@ -55088,7 +55088,7 @@
       "name": "I wanna be the Gokubi",
       "difficulty": "0.0",
       "difficulty_num": 0.0,
-      "rating": 2.3,
+      "rating": 2.4,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -108806,10 +108806,10 @@
     {
       "id": 26141,
       "name": "I wanna say Nya",
-      "difficulty": "81.8",
-      "difficulty_num": 81.8,
-      "rating": 7.5,
-      "num_ratings": 8,
+      "difficulty": "80.4",
+      "difficulty_num": 80.4,
+      "rating": 6.4,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -110866,10 +110866,10 @@
     {
       "id": 26096,
       "name": "Selected Needle Works 21-23",
-      "difficulty": "81.8",
-      "difficulty_num": 81.8,
-      "rating": 8.5,
-      "num_ratings": 12,
+      "difficulty": "82.1",
+      "difficulty_num": 82.1,
+      "rating": 8.0,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131428,8 +131428,8 @@
       "name": "I wanna be the Volatile Presence: Stagnant Edition",
       "difficulty": "86.6",
       "difficulty_num": 86.6,
-      "rating": 8.7,
-      "num_ratings": 18,
+      "rating": 8.6,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -146679,8 +146679,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
