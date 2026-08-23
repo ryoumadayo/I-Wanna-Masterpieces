@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 08:45:01",
+  "last_updated": "2026-08-23 10:11:40",
   "announcements": [
     {
       "date": "2026/08/21",
@@ -59626,10 +59626,10 @@
     {
       "id": 12558,
       "name": "I wanna hear the Yee",
-      "difficulty": "35.9",
-      "difficulty_num": 35.9,
-      "rating": 4.7,
-      "num_ratings": 13,
+      "difficulty": "35.8",
+      "difficulty_num": 35.8,
+      "rating": 4.6,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
