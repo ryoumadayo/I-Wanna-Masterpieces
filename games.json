@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 21:35:13",
+  "last_updated": "2026-08-23 22:30:16",
   "announcements": [
     {
       "date": "2026/08/23",
@@ -15156,10 +15156,10 @@
     {
       "id": 14996,
       "name": "I wanna become Deaf",
-      "difficulty": "4.8",
-      "difficulty_num": 4.8,
-      "rating": 1.5,
-      "num_ratings": 4,
+      "difficulty": "5.0",
+      "difficulty_num": 5.0,
+      "rating": 2.2,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -33986,8 +33986,8 @@
     {
       "id": 16320,
       "name": "I wanna be the Diamond Jump",
-      "difficulty": "10.5",
-      "difficulty_num": 10.5,
+      "difficulty": "10.4",
+      "difficulty_num": 10.4,
       "rating": 1.1,
       "num_ratings": 23,
       "is_needle": true,
@@ -48826,10 +48826,10 @@
     {
       "id": 45699,
       "name": "fun game",
-      "difficulty": "13.0",
-      "difficulty_num": 13.0,
-      "rating": 4.9,
-      "num_ratings": 7,
+      "difficulty": "12.3",
+      "difficulty_num": 12.3,
+      "rating": 5.3,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -50926,10 +50926,10 @@
     {
       "id": 46246,
       "name": "get out of my car now",
-      "difficulty": "1.0",
-      "difficulty_num": 1.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "4.0",
+      "difficulty_num": 4.0,
+      "rating": 3.5,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -67446,10 +67446,10 @@
     {
       "id": 12522,
       "name": "IWBTG3D",
-      "difficulty": "13.0",
-      "difficulty_num": 13.0,
-      "rating": 4.9,
-      "num_ratings": 10,
+      "difficulty": "13.2",
+      "difficulty_num": 13.2,
+      "rating": 5.2,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -77338,7 +77338,7 @@
       "name": "Level β",
       "difficulty": "2.3",
       "difficulty_num": 2.3,
-      "rating": 1.6,
+      "rating": 1.7,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -109196,10 +109196,10 @@
     {
       "id": 20083,
       "name": "I wanna Schizophrenia",
-      "difficulty": "1.0",
-      "difficulty_num": 1.0,
-      "rating": 4.0,
-      "num_ratings": 3,
+      "difficulty": "3.0",
+      "difficulty_num": 3.0,
+      "rating": 6.1,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
