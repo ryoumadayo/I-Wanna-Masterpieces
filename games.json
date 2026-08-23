@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 23:49:20",
+  "last_updated": "2026-08-24 00:19:33",
   "announcements": [
     {
       "date": "2026/08/23",
@@ -110004,6 +110004,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46400,
+      "name": "I Wanna See The Fangame",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 20416,
       "name": "I wanna See the Final Rain",
       "difficulty": "49.2",
@@ -131936,10 +131946,10 @@
     {
       "id": 22599,
       "name": "I Wanna Be The Walk",
-      "difficulty": "13.3",
-      "difficulty_num": 13.3,
-      "rating": 4.5,
-      "num_ratings": 9,
+      "difficulty": "13.4",
+      "difficulty_num": 13.4,
+      "rating": 5.0,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
