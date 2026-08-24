@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 01:34:20",
+  "last_updated": "2026-08-25 02:28:31",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -16086,10 +16086,10 @@
     {
       "id": 15318,
       "name": "I wanna be the biceps brachii",
-      "difficulty": "38.0",
-      "difficulty_num": 38.0,
+      "difficulty": "37.3",
+      "difficulty_num": 37.3,
       "rating": 9.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -38364,6 +38364,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46401,
+      "name": "Echerol 1",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 22404,
       "name": "I wanna be the Echidna",
       "difficulty": "82.0",
@@ -55350,6 +55360,16 @@
       "difficulty_num": 74.0,
       "rating": 6.2,
       "num_ratings": 4,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
+      "id": 46402,
+      "name": "I wanna goodbye wonder",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": true
     },
