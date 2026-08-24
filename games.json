@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 04:56:07",
+  "last_updated": "2026-08-25 05:28:01",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -67076,10 +67076,10 @@
     {
       "id": 25385,
       "name": "iwanna iean",
-      "difficulty": "25.0",
-      "difficulty_num": 25.0,
-      "rating": 0.2,
-      "num_ratings": 3,
+      "difficulty": "37.0",
+      "difficulty_num": 37.0,
+      "rating": 1.4,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
