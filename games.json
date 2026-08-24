@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 10:09:02",
+  "last_updated": "2026-08-24 11:44:16",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -16086,10 +16086,10 @@
     {
       "id": 15318,
       "name": "I wanna be the biceps brachii",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
+      "difficulty": "38.0",
+      "difficulty_num": 38.0,
       "rating": 9.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -138596,10 +138596,10 @@
     {
       "id": 18471,
       "name": "I Wanna ╭(╯^╰)╮",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "58.0",
+      "difficulty_num": 58.0,
+      "rating": 5.7,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
