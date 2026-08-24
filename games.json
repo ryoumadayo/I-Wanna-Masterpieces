@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 12:52:36",
+  "last_updated": "2026-08-24 14:35:57",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -129139,8 +129139,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
-      "is_needle": true,
+      "num_ratings": 2,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -130196,10 +130196,10 @@
     {
       "id": 46252,
       "name": "uuh noodle",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "88.0",
+      "difficulty_num": 88.0,
+      "rating": 5.0,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -132816,10 +132816,10 @@
     {
       "id": 17176,
       "name": "I wanna WAY",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "difficulty": "64.0",
+      "difficulty_num": 64.0,
+      "rating": 3.0,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
