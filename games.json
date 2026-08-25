@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 00:39:52",
+  "last_updated": "2026-08-26 01:34:31",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -1106,10 +1106,10 @@
     {
       "id": 15078,
       "name": "I wanna be the 100 SGGK Riser",
-      "difficulty": "41.0",
-      "difficulty_num": 41.0,
-      "rating": 2.5,
-      "num_ratings": 20,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 2.7,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -2966,10 +2966,10 @@
     {
       "id": 14899,
       "name": "I wanna be the 50 SGGK Riser",
-      "difficulty": "34.6",
-      "difficulty_num": 34.6,
-      "rating": 1.4,
-      "num_ratings": 15,
+      "difficulty": "33.5",
+      "difficulty_num": 33.5,
+      "rating": 1.8,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -55356,10 +55356,10 @@
     {
       "id": 46402,
       "name": "I wanna goodbye wonder",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 8.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
