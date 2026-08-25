@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 19:40:54",
+  "last_updated": "2026-08-25 20:24:32",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -102926,10 +102926,10 @@
     {
       "id": 46353,
       "name": "randomgame",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 6.1,
-      "num_ratings": 3,
+      "difficulty": "30.0",
+      "difficulty_num": 30.0,
+      "rating": 7.1,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122046,10 +122046,10 @@
     {
       "id": 12493,
       "name": "I wanna test my Luck- Hard Mode",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "100.0",
+      "difficulty_num": 100.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122256,10 +122256,10 @@
     {
       "id": 24233,
       "name": "I wanna be the TGI",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "59.0",
+      "difficulty_num": 59.0,
+      "rating": 3.2,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124696,10 +124696,10 @@
     {
       "id": 24175,
       "name": "I wanna be the TKN",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 2.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -147506,10 +147506,10 @@
     {
       "id": 27333,
       "name": "運 teset （アイワナあ）",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "5.0",
+      "difficulty_num": 5.0,
+      "rating": 5.2,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
