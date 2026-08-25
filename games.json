@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-26 05:30:01",
+  "last_updated": "2026-08-26 05:57:35",
   "announcements": [
+    {
+      "date": "2026/08/26",
+      "message": "I wanna Myosotisの評価が基準値を下回ったことにより、除外対象となりました。",
+      "type": "remove",
+      "id": 23228
+    },
     {
       "date": "2026/08/26",
       "message": "I wanna 壱 が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "japetoolが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 22681
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I Wanna Makerが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 21558
     }
   ],
   "games": [
@@ -87676,10 +87676,10 @@
     {
       "id": 23228,
       "name": "I wanna Myosotis",
-      "difficulty": "62.4",
-      "difficulty_num": 62.4,
-      "rating": 6.2,
-      "num_ratings": 10,
+      "difficulty": "62.2",
+      "difficulty_num": 62.2,
+      "rating": 5.9,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
