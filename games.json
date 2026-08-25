@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-26 04:29:36",
+  "last_updated": "2026-08-26 04:56:59",
   "announcements": [
+    {
+      "date": "2026/08/26",
+      "message": "I wanna 壱 が新たに追加されました。",
+      "type": "add",
+      "id": 19913
+    },
     {
       "date": "2026/08/24",
       "message": "I wanna N (D) が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna Makerが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 21558
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna play onlineが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 21490
     }
   ],
   "games": [
@@ -666,10 +666,10 @@
     {
       "id": 18651,
       "name": "I wanna - Papercut",
-      "difficulty": "43.0",
-      "difficulty_num": 43.0,
-      "rating": 7.7,
-      "num_ratings": 22,
+      "difficulty": "42.4",
+      "difficulty_num": 42.4,
+      "rating": 7.6,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -144696,10 +144696,10 @@
     {
       "id": 19913,
       "name": "I wanna 壱",
-      "difficulty": "62.6",
-      "difficulty_num": 62.6,
-      "rating": 7.3,
-      "num_ratings": 9,
+      "difficulty": "60.8",
+      "difficulty_num": 60.8,
+      "rating": 7.5,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
