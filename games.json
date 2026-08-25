@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 23:41:56",
+  "last_updated": "2026-08-26 00:39:52",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -33996,10 +33996,10 @@
     {
       "id": 17988,
       "name": "I wanna diaodiaodiaodiaodiao",
-      "difficulty": "79.5",
-      "difficulty_num": 79.5,
-      "rating": 0.0,
-      "num_ratings": 4,
+      "difficulty": "70.7",
+      "difficulty_num": 70.7,
+      "rating": 4.7,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -97328,7 +97328,7 @@
       "name": "I wanna play Music for 4 minutes and 33 seconds",
       "difficulty": "0.9",
       "difficulty_num": 0.9,
-      "rating": 1.9,
+      "rating": 2.0,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
@@ -117086,8 +117086,8 @@
     {
       "id": 17197,
       "name": "I wanna be the Steakitty",
-      "difficulty": "88.5",
-      "difficulty_num": 88.5,
+      "difficulty": "88.7",
+      "difficulty_num": 88.7,
       "rating": 1.0,
       "num_ratings": 17,
       "is_needle": false,
@@ -118236,10 +118236,10 @@
     {
       "id": 15433,
       "name": "I wanna suffer but why",
-      "difficulty": "15.8",
-      "difficulty_num": 15.8,
-      "rating": 3.3,
-      "num_ratings": 16,
+      "difficulty": "14.8",
+      "difficulty_num": 14.8,
+      "rating": 3.4,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": true
     },
