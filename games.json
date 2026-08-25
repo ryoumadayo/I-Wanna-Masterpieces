@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 01:34:31",
+  "last_updated": "2026-08-26 02:29:32",
   "announcements": [
     {
       "date": "2026/08/24",
@@ -13336,10 +13336,10 @@
     {
       "id": 16528,
       "name": "I wanna be Undecided",
-      "difficulty": "67.8",
-      "difficulty_num": 67.8,
-      "rating": 8.2,
-      "num_ratings": 11,
+      "difficulty": "67.4",
+      "difficulty_num": 67.4,
+      "rating": 8.0,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -38366,10 +38366,10 @@
     {
       "id": 46401,
       "name": "Echerol 1",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 6.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -47946,10 +47946,10 @@
     {
       "id": 22316,
       "name": "I Wanna Be The Forsenbaj 2",
-      "difficulty": "46.9",
-      "difficulty_num": 46.9,
-      "rating": 7.7,
-      "num_ratings": 19,
+      "difficulty": "46.8",
+      "difficulty_num": 46.8,
+      "rating": 7.8,
+      "num_ratings": 20,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55359,7 +55359,7 @@
       "difficulty": "65.0",
       "difficulty_num": 65.0,
       "rating": 8.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122598,7 +122598,7 @@
       "name": "I wanna Thank You Thenewgeezer",
       "difficulty": "61.9",
       "difficulty_num": 61.9,
-      "rating": 7.8,
+      "rating": 7.9,
       "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
