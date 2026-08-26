@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 10:10:09",
+  "last_updated": "2026-08-26 11:46:09",
   "announcements": [
     {
       "date": "2026/08/26",
@@ -95838,7 +95838,7 @@
       "name": "I wanna be the perfect needle",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 4.7,
+      "rating": 0.0,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
