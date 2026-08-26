@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 21:53:27",
+  "last_updated": "2026-08-26 22:52:43",
   "announcements": [
     {
       "date": "2026/08/26",
@@ -113126,10 +113126,10 @@
     {
       "id": 46392,
       "name": "I wanna sing with God",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 6.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
