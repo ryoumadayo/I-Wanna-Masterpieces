@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 23:41:30",
+  "last_updated": "2026-08-27 01:16:14",
   "announcements": [
     {
       "date": "2026/08/26",
@@ -5456,10 +5456,10 @@
     {
       "id": 10544,
       "name": "I wanna be the Air",
-      "difficulty": "37.4",
-      "difficulty_num": 37.4,
-      "rating": 6.4,
-      "num_ratings": 47,
+      "difficulty": "37.1",
+      "difficulty_num": 37.1,
+      "rating": 6.3,
+      "num_ratings": 48,
       "is_needle": false,
       "is_avoidance": false
     },
