@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27 09:27:10",
+  "last_updated": "2026-08-27 19:08:46",
   "announcements": [
     {
       "date": "2026/08/26",
@@ -6519,7 +6519,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -38369,7 +38369,7 @@
       "difficulty": "60.0",
       "difficulty_num": 60.0,
       "rating": 6.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -77606,10 +77606,10 @@
     {
       "id": 45672,
       "name": "Life Voyager",
-      "difficulty": "75.6",
-      "difficulty_num": 75.6,
-      "rating": 7.8,
-      "num_ratings": 12,
+      "difficulty": "75.7",
+      "difficulty_num": 75.7,
+      "rating": 7.9,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -79239,7 +79239,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128299,7 +128299,7 @@
       "difficulty": "49.0",
       "difficulty_num": 49.0,
       "rating": 9.0,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
