@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-28 14:06:32",
+  "last_updated": "2026-08-29 02:36:35",
   "announcements": [
+    {
+      "date": "2026/08/29",
+      "message": "I wanna be the GINTAMAN が新たに追加されました。",
+      "type": "add",
+      "id": 16262
+    },
     {
       "date": "2026/08/28",
       "message": "Melancholy Needle が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "renex engineが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23320
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna be the engine Seph editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 14908
     }
   ],
   "games": [
@@ -3356,10 +3356,10 @@
     {
       "id": 45766,
       "name": "7款不同的精子浓度，你是哪款？",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
       "rating": 0.3,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -8398,7 +8398,7 @@
       "name": "I wanna be the Autumn",
       "difficulty": "99.8",
       "difficulty_num": 99.8,
-      "rating": 2.3,
+      "rating": 5.0,
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
@@ -12316,10 +12316,10 @@
     {
       "id": 12180,
       "name": "I wanna be Lost",
-      "difficulty": "39.3",
-      "difficulty_num": 39.3,
-      "rating": 5.4,
-      "num_ratings": 5,
+      "difficulty": "39.5",
+      "difficulty_num": 39.5,
+      "rating": 4.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -40936,10 +40936,10 @@
     {
       "id": 11527,
       "name": "I wanna Escape",
-      "difficulty": "35.5",
-      "difficulty_num": 35.5,
-      "rating": 5.5,
-      "num_ratings": 5,
+      "difficulty": "40.4",
+      "difficulty_num": 40.4,
+      "rating": 5.2,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47016,10 +47016,10 @@
     {
       "id": 46403,
       "name": "I wanna Floating Shelter",
-      "difficulty": "73.7",
-      "difficulty_num": 73.7,
-      "rating": 8.3,
-      "num_ratings": 5,
+      "difficulty": "75.3",
+      "difficulty_num": 75.3,
+      "rating": 8.7,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -52286,10 +52286,10 @@
     {
       "id": 16262,
       "name": "I wanna be the GINTAMAN",
-      "difficulty": "42.7",
-      "difficulty_num": 42.7,
-      "rating": 7.6,
-      "num_ratings": 9,
+      "difficulty": "42.4",
+      "difficulty_num": 42.4,
+      "rating": 6.7,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -53546,10 +53546,10 @@
     {
       "id": 15588,
       "name": "I wanna go the brothel",
-      "difficulty": "28.6",
-      "difficulty_num": 28.6,
+      "difficulty": "29.1",
+      "difficulty_num": 29.1,
       "rating": 6.1,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55366,10 +55366,10 @@
     {
       "id": 46402,
       "name": "I wanna goodbye wonder",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
-      "rating": 8.0,
-      "num_ratings": 4,
+      "difficulty": "66.7",
+      "difficulty_num": 66.7,
+      "rating": 8.3,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -73566,10 +73566,10 @@
     {
       "id": 12385,
       "name": "I wanna kill the Needle Games",
-      "difficulty": "79.3",
-      "difficulty_num": 79.3,
-      "rating": 6.2,
-      "num_ratings": 28,
+      "difficulty": "79.1",
+      "difficulty_num": 79.1,
+      "rating": 6.1,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -87336,8 +87336,8 @@
     {
       "id": 27227,
       "name": "Muri Exhibition",
-      "difficulty": "86.3",
-      "difficulty_num": 86.3,
+      "difficulty": "87.3",
+      "difficulty_num": 87.3,
       "rating": 7.1,
       "num_ratings": 11,
       "is_needle": false,
@@ -90546,10 +90546,10 @@
     {
       "id": 15917,
       "name": "I wanna be the NN2",
-      "difficulty": "47.3",
-      "difficulty_num": 47.3,
-      "rating": 5.0,
-      "num_ratings": 7,
+      "difficulty": "47.4",
+      "difficulty_num": 47.4,
+      "rating": 5.1,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -104448,8 +104448,8 @@
       "name": "I Wanna Release Something",
       "difficulty": "58.1",
       "difficulty_num": 58.1,
-      "rating": 6.2,
-      "num_ratings": 10,
+      "rating": 6.3,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
