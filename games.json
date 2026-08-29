@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-29 17:11:58",
+  "last_updated": "2026-08-29 22:56:35",
   "announcements": [
+    {
+      "date": "2026/08/29",
+      "message": "Aplopelia Bonaparte Acupuncture が新たに追加されました。",
+      "type": "add",
+      "id": 24366
+    },
     {
       "date": "2026/08/29",
       "message": "Yellow Needle Game が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Fangame Patch Tools (gm8x_fix, DBGHELP.dll, melatonin)が削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23606
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna be the Studio Engine YoYoYo Editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 15347
     }
   ],
   "games": [
@@ -726,10 +726,10 @@
     {
       "id": 18265,
       "name": "I wanna -_-",
-      "difficulty": "64.2",
-      "difficulty_num": 64.2,
-      "rating": 5.5,
-      "num_ratings": 10,
+      "difficulty": "64.3",
+      "difficulty_num": 64.3,
+      "rating": 5.3,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -6956,10 +6956,10 @@
     {
       "id": 24366,
       "name": "Aplopelia Bonaparte Acupuncture",
-      "difficulty": "72.3",
-      "difficulty_num": 72.3,
-      "rating": 6.6,
-      "num_ratings": 9,
+      "difficulty": "72.9",
+      "difficulty_num": 72.9,
+      "rating": 6.7,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -15576,10 +15576,10 @@
     {
       "id": 21733,
       "name": "Beridez",
-      "difficulty": "67.3",
-      "difficulty_num": 67.3,
-      "rating": 7.2,
-      "num_ratings": 15,
+      "difficulty": "67.5",
+      "difficulty_num": 67.5,
+      "rating": 7.1,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29946,10 +29946,10 @@
     {
       "id": 15908,
       "name": "I wanna be the D",
-      "difficulty": "69.5",
-      "difficulty_num": 69.5,
-      "rating": 7.4,
-      "num_ratings": 22,
+      "difficulty": "69.1",
+      "difficulty_num": 69.1,
+      "rating": 7.3,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -87216,10 +87216,10 @@
     {
       "id": 26017,
       "name": "I wanna be the MSW",
-      "difficulty": "75.0",
-      "difficulty_num": 75.0,
-      "rating": 7.9,
-      "num_ratings": 5,
+      "difficulty": "77.3",
+      "difficulty_num": 77.3,
+      "rating": 8.0,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122876,10 +122876,10 @@
     {
       "id": 18860,
       "name": "The Cardinal House",
-      "difficulty": "52.6",
-      "difficulty_num": 52.6,
+      "difficulty": "52.8",
+      "difficulty_num": 52.8,
       "rating": 8.9,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -138026,10 +138026,10 @@
     {
       "id": 20092,
       "name": "I wanna Ъ",
-      "difficulty": "61.5",
-      "difficulty_num": 61.5,
-      "rating": 4.6,
-      "num_ratings": 15,
+      "difficulty": "61.8",
+      "difficulty_num": 61.8,
+      "rating": 4.5,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -138756,10 +138756,10 @@
     {
       "id": 21968,
       "name": "I wanna ☯",
-      "difficulty": "64.0",
-      "difficulty_num": 64.0,
-      "rating": 5.2,
-      "num_ratings": 11,
+      "difficulty": "63.9",
+      "difficulty_num": 63.9,
+      "rating": 5.1,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -144328,7 +144328,7 @@
       "name": "初見殺し避けたい",
       "difficulty": "39.2",
       "difficulty_num": 39.2,
-      "rating": 6.5,
+      "rating": 6.6,
       "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
