@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-29 02:36:35",
+  "last_updated": "2026-08-29 10:27:52",
   "announcements": [
+    {
+      "date": "2026/08/29",
+      "message": "Yellow Needle Game が新たに追加されました。",
+      "type": "add",
+      "id": 20851
+    },
     {
       "date": "2026/08/29",
       "message": "I wanna be the GINTAMAN が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the Studio Engine YoYoYo Editionが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 15347
-    },
-    {
-      "date": "2026/07/18",
-      "message": "renex engineが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 23320
     }
   ],
   "games": [
@@ -6969,7 +6969,7 @@
       "difficulty": "61.8",
       "difficulty_num": 61.8,
       "rating": 7.2,
-      "num_ratings": 48,
+      "num_ratings": 49,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -23646,10 +23646,10 @@
     {
       "id": 23730,
       "name": "Chew 045",
-      "difficulty": "58.0",
-      "difficulty_num": 58.0,
-      "rating": 6.1,
-      "num_ratings": 5,
+      "difficulty": "58.2",
+      "difficulty_num": 58.2,
+      "rating": 6.2,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -34566,10 +34566,10 @@
     {
       "id": 16183,
       "name": "I wanna be the Disk",
-      "difficulty": "46.8",
-      "difficulty_num": 46.8,
+      "difficulty": "46.6",
+      "difficulty_num": 46.6,
       "rating": 7.2,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -39136,10 +39136,10 @@
     {
       "id": 15775,
       "name": "I wanna be the Emerald",
-      "difficulty": "39.7",
-      "difficulty_num": 39.7,
+      "difficulty": "39.8",
+      "difficulty_num": 39.8,
       "rating": 5.8,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -39666,10 +39666,10 @@
     {
       "id": 21414,
       "name": "I wanna end the suffering of depression",
-      "difficulty": "68.5",
-      "difficulty_num": 68.5,
+      "difficulty": "67.4",
+      "difficulty_num": 67.4,
       "rating": 6.7,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -61119,7 +61119,7 @@
       "difficulty": "54.6",
       "difficulty_num": 54.6,
       "rating": 5.1,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65086,10 +65086,10 @@
     {
       "id": 17447,
       "name": "if(I wanna get the good luck){with(kakki){destroy! kill! genocide!}}柿デスver",
-      "difficulty": "87.1",
-      "difficulty_num": 87.1,
+      "difficulty": "87.0",
+      "difficulty_num": 87.0,
       "rating": 9.4,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -73579,7 +73579,7 @@
       "difficulty": "78.3",
       "difficulty_num": 78.3,
       "rating": 6.9,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118766,10 +118766,10 @@
     {
       "id": 46339,
       "name": "Sunshine",
-      "difficulty": "51.5",
-      "difficulty_num": 51.5,
-      "rating": 7.4,
-      "num_ratings": 14,
+      "difficulty": "51.8",
+      "difficulty_num": 51.8,
+      "rating": 7.5,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126106,10 +126106,10 @@
     {
       "id": 18751,
       "name": "I wanna touch you gently",
-      "difficulty": "63.0",
-      "difficulty_num": 63.0,
-      "rating": 6.1,
-      "num_ratings": 5,
+      "difficulty": "63.4",
+      "difficulty_num": 63.4,
+      "rating": 5.7,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -135796,10 +135796,10 @@
     {
       "id": 20851,
       "name": "Yellow Needle Game",
-      "difficulty": "60.9",
-      "difficulty_num": 60.9,
-      "rating": 6.2,
-      "num_ratings": 9,
+      "difficulty": "60.8",
+      "difficulty_num": 60.8,
+      "rating": 6.1,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
