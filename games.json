@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 22:07:14",
+  "last_updated": "2026-08-31 02:40:40",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -32276,10 +32276,10 @@
     {
       "id": 25966,
       "name": "I wanna defeat the Snowman",
-      "difficulty": "52.1",
-      "difficulty_num": 52.1,
+      "difficulty": "51.3",
+      "difficulty_num": 51.3,
       "rating": 8.0,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -41409,7 +41409,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
