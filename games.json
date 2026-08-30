@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30 10:03:07",
+  "last_updated": "2026-08-30 16:04:18",
   "announcements": [
     {
       "date": "2026/08/29",
@@ -47016,8 +47016,8 @@
     {
       "id": 46403,
       "name": "I wanna Floating Shelter",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
+      "difficulty": "75.8",
+      "difficulty_num": 75.8,
       "rating": 8.7,
       "num_ratings": 6,
       "is_needle": false,
@@ -50996,10 +50996,10 @@
     {
       "id": 12335,
       "name": "I wanna get Rekt",
-      "difficulty": "65.2",
-      "difficulty_num": 65.2,
-      "rating": 9.1,
-      "num_ratings": 55,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 9.0,
+      "num_ratings": 56,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -55366,8 +55366,8 @@
     {
       "id": 46402,
       "name": "I wanna goodbye wonder",
-      "difficulty": "66.7",
-      "difficulty_num": 66.7,
+      "difficulty": "68.3",
+      "difficulty_num": 68.3,
       "rating": 8.3,
       "num_ratings": 5,
       "is_needle": false,
@@ -103976,8 +103976,8 @@
     {
       "id": 24257,
       "name": "I wanna Red Crayon",
-      "difficulty": "81.5",
-      "difficulty_num": 81.5,
+      "difficulty": "75.5",
+      "difficulty_num": 75.5,
       "rating": 8.0,
       "num_ratings": 3,
       "is_needle": false,
@@ -106086,10 +106086,10 @@
     {
       "id": 25382,
       "name": "I Wanna be the Right Up Left Rotated 90 Degrees Clockwise",
-      "difficulty": "67.7",
-      "difficulty_num": 67.7,
-      "rating": 7.8,
-      "num_ratings": 5,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
+      "rating": 7.7,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
