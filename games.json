@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-30 16:04:18",
+  "last_updated": "2026-08-30 22:07:14",
   "announcements": [
+    {
+      "date": "2026/08/30",
+      "message": "I wanna & が新たに追加されました。",
+      "type": "add",
+      "id": 17441
+    },
     {
       "date": "2026/08/29",
       "message": "Aplopelia Bonaparte Acupuncture が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Jtoolが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 15691
-    },
-    {
-      "date": "2026/07/18",
-      "message": "Fangame Patch Tools (gm8x_fix, DBGHELP.dll, melatonin)が削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 23606
     }
   ],
   "games": [
@@ -436,10 +436,10 @@
     {
       "id": 17441,
       "name": "I wanna &",
-      "difficulty": "71.1",
-      "difficulty_num": 71.1,
+      "difficulty": "71.0",
+      "difficulty_num": 71.0,
       "rating": 6.5,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29256,10 +29256,10 @@
     {
       "id": 26377,
       "name": "I Wanna Cross The Tails",
-      "difficulty": "67.2",
-      "difficulty_num": 67.2,
-      "rating": 7.0,
-      "num_ratings": 6,
+      "difficulty": "67.7",
+      "difficulty_num": 67.7,
+      "rating": 7.1,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -57066,10 +57066,10 @@
     {
       "id": 14740,
       "name": "I wanna be the Halation",
-      "difficulty": "32.8",
-      "difficulty_num": 32.8,
-      "rating": 7.4,
-      "num_ratings": 6,
+      "difficulty": "32.4",
+      "difficulty_num": 32.4,
+      "rating": 7.2,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
