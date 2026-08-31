@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 00:16:54",
+  "last_updated": "2026-09-01 05:57:59",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -4476,10 +4476,10 @@
     {
       "id": 27350,
       "name": "AC Randy Pack",
-      "difficulty": "43.0",
-      "difficulty_num": 43.0,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
       "rating": 7.7,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -29139,7 +29139,7 @@
       "difficulty": "88.5",
       "difficulty_num": 88.5,
       "rating": 9.3,
-      "num_ratings": 120,
+      "num_ratings": 121,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -44226,8 +44226,8 @@
     {
       "id": 11950,
       "name": "I wanna be the Fangame!",
-      "difficulty": "45.8",
-      "difficulty_num": 45.8,
+      "difficulty": "45.6",
+      "difficulty_num": 45.6,
       "rating": 7.2,
       "num_ratings": 68,
       "is_needle": false,
@@ -55366,8 +55366,8 @@
     {
       "id": 46402,
       "name": "I wanna goodbye wonder",
-      "difficulty": "68.3",
-      "difficulty_num": 68.3,
+      "difficulty": "70.0",
+      "difficulty_num": 70.0,
       "rating": 8.3,
       "num_ratings": 5,
       "is_needle": false,
@@ -61458,8 +61458,8 @@
       "name": "Humble Abode",
       "difficulty": "69.5",
       "difficulty_num": 69.5,
-      "rating": 8.0,
-      "num_ratings": 31,
+      "rating": 8.1,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -68346,10 +68346,10 @@
     {
       "id": 46406,
       "name": "I Wanna Journey",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 8.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -76156,10 +76156,10 @@
     {
       "id": 11614,
       "name": "I wanna L",
-      "difficulty": "69.4",
-      "difficulty_num": 69.4,
+      "difficulty": "69.3",
+      "difficulty_num": 69.3,
       "rating": 5.9,
-      "num_ratings": 64,
+      "num_ratings": 65,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -83816,10 +83816,10 @@
     {
       "id": 19876,
       "name": "I Wanna Mayuri Spike 2",
-      "difficulty": "64.0",
-      "difficulty_num": 64.0,
+      "difficulty": "64.1",
+      "difficulty_num": 64.1,
       "rating": 6.6,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -89626,10 +89626,10 @@
     {
       "id": 21321,
       "name": "I wanna be the Neon 3",
-      "difficulty": "65.8",
-      "difficulty_num": 65.8,
+      "difficulty": "65.7",
+      "difficulty_num": 65.7,
       "rating": 9.1,
-      "num_ratings": 86,
+      "num_ratings": 87,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -116566,10 +116566,10 @@
     {
       "id": 21484,
       "name": "I Wanna Be The I Wanna Star 4",
-      "difficulty": "61.4",
-      "difficulty_num": 61.4,
+      "difficulty": "61.2",
+      "difficulty_num": 61.2,
       "rating": 8.0,
-      "num_ratings": 32,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -122266,10 +122266,10 @@
     {
       "id": 19649,
       "name": "I wanna TFQ",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
-      "rating": 8.0,
-      "num_ratings": 6,
+      "difficulty": "71.5",
+      "difficulty_num": 71.5,
+      "rating": 7.6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -125736,10 +125736,10 @@
     {
       "id": 21199,
       "name": "I wanna be the Tori Another",
-      "difficulty": "52.3",
-      "difficulty_num": 52.3,
-      "rating": 7.0,
-      "num_ratings": 12,
+      "difficulty": "52.5",
+      "difficulty_num": 52.5,
+      "rating": 6.8,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
