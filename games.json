@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 03:46:28",
+  "last_updated": "2026-09-02 06:35:43",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -8078,8 +8078,8 @@
       "name": "I wanna Athletic needles",
       "difficulty": "55.0",
       "difficulty_num": 55.0,
-      "rating": 6.2,
-      "num_ratings": 34,
+      "rating": 6.3,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -8349,7 +8349,7 @@
       "difficulty": "53.3",
       "difficulty_num": 53.3,
       "rating": 6.9,
-      "num_ratings": 39,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -25006,10 +25006,10 @@
     {
       "id": 17268,
       "name": "I wanna clear the Fifty Floors",
-      "difficulty": "66.7",
-      "difficulty_num": 66.7,
-      "rating": 7.6,
-      "num_ratings": 44,
+      "difficulty": "66.8",
+      "difficulty_num": 66.8,
+      "rating": 7.5,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29089,7 +29089,7 @@
       "difficulty": "71.1",
       "difficulty_num": 71.1,
       "rating": 7.5,
-      "num_ratings": 45,
+      "num_ratings": 46,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -53186,10 +53186,10 @@
     {
       "id": 27340,
       "name": "I Wanna Go Gambling",
-      "difficulty": "46.1",
-      "difficulty_num": 46.1,
+      "difficulty": "46.3",
+      "difficulty_num": 46.3,
       "rating": 7.8,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -72906,10 +72906,10 @@
     {
       "id": 18854,
       "name": "I wanna kill the Kamilia 3D",
-      "difficulty": "18.2",
-      "difficulty_num": 18.2,
-      "rating": 4.8,
-      "num_ratings": 14,
+      "difficulty": "17.9",
+      "difficulty_num": 17.9,
+      "rating": 4.9,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -81476,8 +81476,8 @@
     {
       "id": 17881,
       "name": "I wanna be the Magnificent Stumble",
-      "difficulty": "76.1",
-      "difficulty_num": 76.1,
+      "difficulty": "76.0",
+      "difficulty_num": 76.0,
       "rating": 8.2,
       "num_ratings": 50,
       "is_needle": true,
@@ -93996,8 +93996,8 @@
     {
       "id": 20973,
       "name": "I wanna be the OTSD",
-      "difficulty": "81.4",
-      "difficulty_num": 81.4,
+      "difficulty": "81.3",
+      "difficulty_num": 81.3,
       "rating": 7.0,
       "num_ratings": 11,
       "is_needle": true,
@@ -96406,8 +96406,8 @@
     {
       "id": 17864,
       "name": "Phonotaxis",
-      "difficulty": "79.8",
-      "difficulty_num": 79.8,
+      "difficulty": "79.7",
+      "difficulty_num": 79.7,
       "rating": 8.0,
       "num_ratings": 36,
       "is_needle": true,
@@ -111696,10 +111696,10 @@
     {
       "id": 14749,
       "name": "I wanna sheep 100",
-      "difficulty": "55.2",
-      "difficulty_num": 55.2,
+      "difficulty": "55.1",
+      "difficulty_num": 55.1,
       "rating": 7.0,
-      "num_ratings": 41,
+      "num_ratings": 42,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130196,10 +130196,10 @@
     {
       "id": 15099,
       "name": "I Wanna Usurp the Celestial Jump",
-      "difficulty": "52.1",
-      "difficulty_num": 52.1,
-      "rating": 8.1,
-      "num_ratings": 28,
+      "difficulty": "52.3",
+      "difficulty_num": 52.3,
+      "rating": 8.0,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -132056,8 +132056,8 @@
     {
       "id": 21819,
       "name": "I wanna Walk Out In The Morning Dew",
-      "difficulty": "83.9",
-      "difficulty_num": 83.9,
+      "difficulty": "83.8",
+      "difficulty_num": 83.8,
       "rating": 8.4,
       "num_ratings": 67,
       "is_needle": false,
@@ -138386,10 +138386,10 @@
     {
       "id": 21318,
       "name": "I wanna ↔",
-      "difficulty": "54.9",
-      "difficulty_num": 54.9,
+      "difficulty": "54.8",
+      "difficulty_num": 54.8,
       "rating": 6.8,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143982,6 +143982,16 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46408,
+      "name": "伝染るんです。信じるかは勝手だけど。",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 25357,
