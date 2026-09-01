@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 09:28:22",
+  "last_updated": "2026-09-01 14:31:00",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -4726,10 +4726,10 @@
     {
       "id": 46377,
       "name": "I wanna AD.409",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
-      "rating": 7.9,
-      "num_ratings": 3,
+      "difficulty": "41.7",
+      "difficulty_num": 41.7,
+      "rating": 7.6,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -6136,10 +6136,10 @@
     {
       "id": 15326,
       "name": "I wanna be the Amethyst",
-      "difficulty": "37.8",
-      "difficulty_num": 37.8,
+      "difficulty": "37.9",
+      "difficulty_num": 37.9,
       "rating": 5.3,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -39136,10 +39136,10 @@
     {
       "id": 15775,
       "name": "I wanna be the Emerald",
-      "difficulty": "39.8",
-      "difficulty_num": 39.8,
+      "difficulty": "39.7",
+      "difficulty_num": 39.7,
       "rating": 5.8,
-      "num_ratings": 40,
+      "num_ratings": 41,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -64179,7 +64179,7 @@
       "difficulty": "45.4",
       "difficulty_num": 45.4,
       "rating": 6.7,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -107396,10 +107396,10 @@
     {
       "id": 17389,
       "name": "I wanna be the rushed creation",
-      "difficulty": "49.7",
-      "difficulty_num": 49.7,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
       "rating": 7.4,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -108136,10 +108136,10 @@
     {
       "id": 18564,
       "name": "I wanna be the Sapphire",
-      "difficulty": "44.4",
-      "difficulty_num": 44.4,
-      "rating": 6.6,
-      "num_ratings": 37,
+      "difficulty": "44.3",
+      "difficulty_num": 44.3,
+      "rating": 6.5,
+      "num_ratings": 38,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -111306,10 +111306,10 @@
     {
       "id": 21396,
       "name": "I Wanna Sertraline",
-      "difficulty": "50.1",
-      "difficulty_num": 50.1,
+      "difficulty": "50.2",
+      "difficulty_num": 50.2,
       "rating": 7.5,
-      "num_ratings": 48,
+      "num_ratings": 49,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -112599,7 +112599,7 @@
       "difficulty": "51.5",
       "difficulty_num": 51.5,
       "rating": 7.1,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -121866,8 +121866,8 @@
     {
       "id": 19588,
       "name": "Terrible Needle 2",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
+      "difficulty": "75.2",
+      "difficulty_num": 75.2,
       "rating": 7.5,
       "num_ratings": 10,
       "is_needle": true,
@@ -121876,10 +121876,10 @@
     {
       "id": 20528,
       "name": "Terrible Needle 3",
-      "difficulty": "74.3",
-      "difficulty_num": 74.3,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
       "rating": 7.4,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
