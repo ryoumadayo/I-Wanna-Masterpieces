@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 21:32:44",
+  "last_updated": "2026-09-03 01:59:23",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -7406,10 +7406,10 @@
     {
       "id": 10553,
       "name": "I wanna be the Archfoe2",
-      "difficulty": "69.2",
-      "difficulty_num": 69.2,
-      "rating": 7.3,
-      "num_ratings": 30,
+      "difficulty": "69.4",
+      "difficulty_num": 69.4,
+      "rating": 7.2,
+      "num_ratings": 29,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -9996,8 +9996,8 @@
     {
       "id": 46409,
       "name": "Bassline Crack",
-      "difficulty": "60.5",
-      "difficulty_num": 60.5,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 7.9,
       "num_ratings": 4,
       "is_needle": false,
@@ -23818,8 +23818,8 @@
       "name": "I wanna Chill",
       "difficulty": "59.2",
       "difficulty_num": 59.2,
-      "rating": 5.3,
-      "num_ratings": 20,
+      "rating": 5.4,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -27956,10 +27956,10 @@
     {
       "id": 19032,
       "name": "I wanna be the continuity",
-      "difficulty": "61.9",
-      "difficulty_num": 61.9,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
       "rating": 8.3,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -28116,10 +28116,10 @@
     {
       "id": 22656,
       "name": "Cookie Temptation",
-      "difficulty": "54.4",
-      "difficulty_num": 54.4,
-      "rating": 8.0,
-      "num_ratings": 79,
+      "difficulty": "54.5",
+      "difficulty_num": 54.5,
+      "rating": 7.9,
+      "num_ratings": 78,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -44348,8 +44348,8 @@
       "name": "Farlands Avoidance",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 5.5,
-      "num_ratings": 5,
+      "rating": 6.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -52166,10 +52166,10 @@
     {
       "id": 46407,
       "name": "GIGANTØMAKHIA",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -59566,10 +59566,10 @@
     {
       "id": 21393,
       "name": "I Wanna Healthy",
-      "difficulty": "58.1",
-      "difficulty_num": 58.1,
-      "rating": 6.8,
-      "num_ratings": 15,
+      "difficulty": "58.0",
+      "difficulty_num": 58.0,
+      "rating": 6.9,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -64979,7 +64979,7 @@
       "difficulty": "62.6",
       "difficulty_num": 62.6,
       "rating": 7.0,
-      "num_ratings": 18,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -65898,8 +65898,8 @@
       "name": "I wanna be the Ingenuity",
       "difficulty": "60.9",
       "difficulty_num": 60.9,
-      "rating": 6.6,
-      "num_ratings": 25,
+      "rating": 6.5,
+      "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -123946,10 +123946,10 @@
     {
       "id": 18627,
       "name": "There's no reason to say L",
-      "difficulty": "60.3",
-      "difficulty_num": 60.3,
+      "difficulty": "60.4",
+      "difficulty_num": 60.4,
       "rating": 7.2,
-      "num_ratings": 25,
+      "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130489,7 +130489,7 @@
       "difficulty": "71.4",
       "difficulty_num": 71.4,
       "rating": 9.3,
-      "num_ratings": 140,
+      "num_ratings": 139,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -138709,7 +138709,7 @@
       "difficulty": "60.9",
       "difficulty_num": 60.9,
       "rating": 5.4,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -143996,10 +143996,10 @@
     {
       "id": 46408,
       "name": "伝染るんです。信じるかは勝手だけど。",
-      "difficulty": "44.3",
-      "difficulty_num": 44.3,
+      "difficulty": "43.3",
+      "difficulty_num": 43.3,
       "rating": 8.0,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
