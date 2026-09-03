@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 13:56:00",
+  "last_updated": "2026-09-03 18:27:48",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -9998,8 +9998,8 @@
       "name": "Bassline Crack",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 7.9,
-      "num_ratings": 4,
+      "rating": 8.0,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -110859,7 +110859,7 @@
       "difficulty": "65.0",
       "difficulty_num": 65.0,
       "rating": 2.3,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
