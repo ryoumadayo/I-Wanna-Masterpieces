@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 05:30:30",
+  "last_updated": "2026-09-04 07:47:08",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -21100,6 +21100,16 @@
       "difficulty_num": 87.3,
       "rating": 4.7,
       "num_ratings": 4,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46419,
+      "name": "I wanna call it good enough",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -97408,8 +97418,8 @@
       "name": "I wanna play Music for 4 minutes and 33 seconds",
       "difficulty": "0.9",
       "difficulty_num": 0.9,
-      "rating": 2.0,
-      "num_ratings": 12,
+      "rating": 1.9,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -116221,6 +116231,16 @@
       "rating": 0.0,
       "num_ratings": 0,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46420,
+      "name": "I Wanna Splash and Spark",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -146386,10 +146406,10 @@
     {
       "id": 21714,
       "name": "I wanna be the 狐じゃい！",
-      "difficulty": "70.8",
-      "difficulty_num": 70.8,
-      "rating": 4.2,
-      "num_ratings": 10,
+      "difficulty": "69.0",
+      "difficulty_num": 69.0,
+      "rating": 4.4,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
