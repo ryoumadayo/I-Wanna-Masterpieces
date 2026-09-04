@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 18:53:31",
+  "last_updated": "2026-09-04 23:00:14",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -426,10 +426,10 @@
     {
       "id": 20229,
       "name": "I Wanna $",
-      "difficulty": "67.4",
-      "difficulty_num": 67.4,
-      "rating": 4.5,
-      "num_ratings": 11,
+      "difficulty": "67.8",
+      "difficulty_num": 67.8,
+      "rating": 4.3,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -4326,10 +4326,10 @@
     {
       "id": 16483,
       "name": "I wanna be the absent",
-      "difficulty": "13.8",
-      "difficulty_num": 13.8,
-      "rating": 1.9,
-      "num_ratings": 4,
+      "difficulty": "14.4",
+      "difficulty_num": 14.4,
+      "rating": 2.7,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -16216,10 +16216,10 @@
     {
       "id": 10568,
       "name": "I wanna be the Biginner",
-      "difficulty": "13.7",
-      "difficulty_num": 13.7,
-      "rating": 2.2,
-      "num_ratings": 12,
+      "difficulty": "14.4",
+      "difficulty_num": 14.4,
+      "rating": 2.5,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -27778,7 +27778,7 @@
       "name": "I wanna conquer the reverse gravity",
       "difficulty": "76.3",
       "difficulty_num": 76.3,
-      "rating": 6.5,
+      "rating": 6.3,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
@@ -29086,10 +29086,10 @@
     {
       "id": 22766,
       "name": "Crickets!",
-      "difficulty": "13.8",
-      "difficulty_num": 13.8,
+      "difficulty": "13.9",
+      "difficulty_num": 13.9,
       "rating": 7.4,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -31046,10 +31046,10 @@
     {
       "id": 26260,
       "name": "I wanna be the DDD",
-      "difficulty": "74.0",
-      "difficulty_num": 74.0,
+      "difficulty": "66.0",
+      "difficulty_num": 66.0,
       "rating": 0.9,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -37826,10 +37826,10 @@
     {
       "id": 12302,
       "name": "I wanna eat Sheep spike",
-      "difficulty": "53.3",
-      "difficulty_num": 53.3,
-      "rating": 5.8,
-      "num_ratings": 17,
+      "difficulty": "53.6",
+      "difficulty_num": 53.6,
+      "rating": 5.6,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99996,10 +99996,10 @@
     {
       "id": 20036,
       "name": "Pray Kill The Me",
-      "difficulty": "13.8",
-      "difficulty_num": 13.8,
-      "rating": 7.0,
-      "num_ratings": 13,
+      "difficulty": "13.9",
+      "difficulty_num": 13.9,
+      "rating": 6.9,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -106696,10 +106696,10 @@
     {
       "id": 22688,
       "name": "RoflanEbaloShizaAndFlex",
-      "difficulty": "13.6",
-      "difficulty_num": 13.6,
+      "difficulty": "13.8",
+      "difficulty_num": 13.8,
       "rating": 5.8,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -130626,10 +130626,10 @@
     {
       "id": 19865,
       "name": "I wanna Vanish it",
-      "difficulty": "62.2",
-      "difficulty_num": 62.2,
-      "rating": 6.7,
-      "num_ratings": 6,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
+      "rating": 6.8,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -135658,8 +135658,8 @@
       "name": "I wanna be the Yahoo",
       "difficulty": "13.6",
       "difficulty_num": 13.6,
-      "rating": 1.8,
-      "num_ratings": 17,
+      "rating": 2.0,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -138906,10 +138906,10 @@
     {
       "id": 11259,
       "name": "I wanna be the ♂",
-      "difficulty": "39.9",
-      "difficulty_num": 39.9,
-      "rating": 4.0,
-      "num_ratings": 7,
+      "difficulty": "39.8",
+      "difficulty_num": 39.8,
+      "rating": 3.9,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
