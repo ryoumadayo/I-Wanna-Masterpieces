@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 02:28:14",
+  "last_updated": "2026-09-06 04:20:00",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -81598,8 +81598,8 @@
       "name": "Maji Makers サンバ",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 3,
+      "rating": 8.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103916,10 +103916,10 @@
     {
       "id": 46418,
       "name": "I wanna recollect",
-      "difficulty": "42.3",
-      "difficulty_num": 42.3,
-      "rating": 7.3,
-      "num_ratings": 3,
+      "difficulty": "40.8",
+      "difficulty_num": 40.8,
+      "rating": 7.5,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -137486,10 +137486,10 @@
     {
       "id": 19731,
       "name": "I wanna Þ",
-      "difficulty": "70.3",
-      "difficulty_num": 70.3,
+      "difficulty": "70.1",
+      "difficulty_num": 70.1,
       "rating": 6.9,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
