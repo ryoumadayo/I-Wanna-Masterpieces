@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 17:48:59",
+  "last_updated": "2026-09-05 21:22:26",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -62969,8 +62969,8 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 10.0,
-      "num_ratings": 4,
-      "is_needle": false,
+      "num_ratings": 5,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -80071,16 +80071,6 @@
       "rating": 8.3,
       "num_ratings": 2,
       "is_needle": true,
-      "is_avoidance": false
-    },
-    {
-      "id": 46374,
-      "name": "Lovely sun",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -102390,16 +102380,6 @@
       "difficulty_num": 65.9,
       "rating": 5.8,
       "num_ratings": 8,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
-      "id": 46290,
-      "name": "I wanna QZkago requiem",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
