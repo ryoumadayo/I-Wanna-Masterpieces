@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 09:17:30",
+  "last_updated": "2026-09-05 13:48:18",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -21106,10 +21106,10 @@
     {
       "id": 46419,
       "name": "I wanna call it good enough",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
+      "rating": 8.0,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -103936,10 +103936,10 @@
     {
       "id": 46418,
       "name": "I wanna recollect",
-      "difficulty": "43.5",
-      "difficulty_num": 43.5,
-      "rating": 7.0,
-      "num_ratings": 2,
+      "difficulty": "42.3",
+      "difficulty_num": 42.3,
+      "rating": 7.3,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -108506,10 +108506,10 @@
     {
       "id": 46394,
       "name": "i wanna save my dog",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 7.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -114469,9 +114469,9 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
-      "is_avoidance": true
+      "is_avoidance": false
     },
     {
       "id": 18884,
@@ -116246,10 +116246,10 @@
     {
       "id": 46420,
       "name": "I Wanna Splash and Spark",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "61.0",
+      "difficulty_num": 61.0,
+      "rating": 6.9,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131294,6 +131294,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46423,
+      "name": "I wanna viridity",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 14760,
       "name": "I wanna be the Virtualance",
       "difficulty": "43.9",
@@ -139126,10 +139136,10 @@
     {
       "id": 46411,
       "name": "【サークルPandD】Plan通りのゲームを素直に作らせてくれないヤバい開発者たち",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 8.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
