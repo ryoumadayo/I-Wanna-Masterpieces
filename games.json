@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 04:24:00",
+  "last_updated": "2026-09-07 06:32:51",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -6376,10 +6376,10 @@
     {
       "id": 46424,
       "name": "Andrew Needle Remake",
-      "difficulty": "38.3",
-      "difficulty_num": 38.3,
-      "rating": 5.5,
-      "num_ratings": 3,
+      "difficulty": "37.5",
+      "difficulty_num": 37.5,
+      "rating": 6.6,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -68146,10 +68146,10 @@
     {
       "id": 15677,
       "name": "I wanna JJ",
-      "difficulty": "52.9",
-      "difficulty_num": 52.9,
+      "difficulty": "52.6",
+      "difficulty_num": 52.6,
       "rating": 6.6,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
