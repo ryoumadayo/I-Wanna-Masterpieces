@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 15:17:54",
+  "last_updated": "2026-09-06 20:13:17",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -25479,7 +25479,7 @@
       "difficulty": "37.7",
       "difficulty_num": 37.7,
       "rating": 8.2,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -68406,10 +68406,10 @@
     {
       "id": 46406,
       "name": "I Wanna Journey",
-      "difficulty": "43.3",
-      "difficulty_num": 43.3,
-      "rating": 7.6,
-      "num_ratings": 5,
+      "difficulty": "43.8",
+      "difficulty_num": 43.8,
+      "rating": 7.8,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -95506,10 +95506,10 @@
     {
       "id": 46229,
       "name": "I wanna PC operation",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 2.0,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103916,10 +103916,10 @@
     {
       "id": 46418,
       "name": "I wanna recollect",
-      "difficulty": "40.8",
-      "difficulty_num": 40.8,
+      "difficulty": "42.3",
+      "difficulty_num": 42.3,
       "rating": 7.5,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -138956,10 +138956,10 @@
     {
       "id": 16157,
       "name": "I wanna ♥",
-      "difficulty": "71.6",
-      "difficulty_num": 71.6,
-      "rating": 6.9,
-      "num_ratings": 12,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 7.0,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
