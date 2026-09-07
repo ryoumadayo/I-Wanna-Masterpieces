@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 06:42:09",
+  "last_updated": "2026-09-08 08:59:33",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -45526,10 +45526,10 @@
     {
       "id": 45902,
       "name": "I Wanna Find A New Puter",
-      "difficulty": "45.2",
-      "difficulty_num": 45.2,
+      "difficulty": "45.6",
+      "difficulty_num": 45.6,
       "rating": 7.8,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
