@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 15:26:10",
+  "last_updated": "2026-09-07 21:54:59",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -6376,10 +6376,10 @@
     {
       "id": 46424,
       "name": "Andrew Needle Remake",
-      "difficulty": "37.5",
-      "difficulty_num": 37.5,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
       "rating": 6.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7256,10 +7256,10 @@
     {
       "id": 26284,
       "name": "I wanna be the Apprentice",
-      "difficulty": "52.7",
-      "difficulty_num": 52.7,
-      "rating": 8.3,
-      "num_ratings": 13,
+      "difficulty": "52.9",
+      "difficulty_num": 52.9,
+      "rating": 8.4,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -17406,10 +17406,10 @@
     {
       "id": 46412,
       "name": "BL_needle Vol.1",
-      "difficulty": "63.5",
-      "difficulty_num": 63.5,
-      "rating": 5.3,
-      "num_ratings": 3,
+      "difficulty": "64.8",
+      "difficulty_num": 64.8,
+      "rating": 6.4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -111046,10 +111046,10 @@
     {
       "id": 19820,
       "name": "I wanna be the Selenium",
-      "difficulty": "75.8",
-      "difficulty_num": 75.8,
-      "rating": 5.1,
-      "num_ratings": 7,
+      "difficulty": "75.7",
+      "difficulty_num": 75.7,
+      "rating": 5.3,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -132176,10 +132176,10 @@
     {
       "id": 21819,
       "name": "I wanna Walk Out In The Morning Dew",
-      "difficulty": "83.8",
-      "difficulty_num": 83.8,
+      "difficulty": "83.7",
+      "difficulty_num": 83.7,
       "rating": 8.4,
-      "num_ratings": 67,
+      "num_ratings": 68,
       "is_needle": false,
       "is_avoidance": false
     },
