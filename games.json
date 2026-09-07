@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07 21:54:59",
+  "last_updated": "2026-09-08 03:06:19",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -4439,7 +4439,7 @@
       "difficulty": "86.3",
       "difficulty_num": 86.3,
       "rating": 7.3,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -6376,10 +6376,10 @@
     {
       "id": 46424,
       "name": "Andrew Needle Remake",
-      "difficulty": "40.0",
-      "difficulty_num": 40.0,
-      "rating": 6.6,
-      "num_ratings": 5,
+      "difficulty": "40.3",
+      "difficulty_num": 40.3,
+      "rating": 6.3,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -10008,8 +10008,8 @@
       "name": "Bassline Crack",
       "difficulty": "58.0",
       "difficulty_num": 58.0,
-      "rating": 8.0,
-      "num_ratings": 6,
+      "rating": 6.4,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -16488,7 +16488,7 @@
       "name": "I Wanna Bite The Autumn",
       "difficulty": "82.5",
       "difficulty_num": 82.5,
-      "rating": 8.5,
+      "rating": 8.3,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
@@ -16939,7 +16939,7 @@
       "difficulty": "90.1",
       "difficulty_num": 90.1,
       "rating": 2.2,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -21716,10 +21716,10 @@
     {
       "id": 25217,
       "name": "I wanna be the catalog",
-      "difficulty": "42.0",
-      "difficulty_num": 42.0,
+      "difficulty": "41.6",
+      "difficulty_num": 41.6,
       "rating": 4.8,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -33299,7 +33299,7 @@
       "difficulty": "83.6",
       "difficulty_num": 83.6,
       "rating": 7.6,
-      "num_ratings": 63,
+      "num_ratings": 62,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -34856,8 +34856,8 @@
     {
       "id": 10672,
       "name": "I wanna be the Diverse",
-      "difficulty": "52.8",
-      "difficulty_num": 52.8,
+      "difficulty": "52.9",
+      "difficulty_num": 52.9,
       "rating": 7.6,
       "num_ratings": 55,
       "is_needle": false,
@@ -53996,10 +53996,10 @@
     {
       "id": 11579,
       "name": "I wanna go the Parallel World",
-      "difficulty": "55.8",
-      "difficulty_num": 55.8,
+      "difficulty": "55.7",
+      "difficulty_num": 55.7,
       "rating": 7.4,
-      "num_ratings": 35,
+      "num_ratings": 34,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -77328,8 +77328,8 @@
       "name": "I wanna let oneself relax",
       "difficulty": "55.3",
       "difficulty_num": 55.3,
-      "rating": 6.4,
-      "num_ratings": 8,
+      "rating": 6.3,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -111338,7 +111338,7 @@
       "name": "I wanna series Mixture relay 3",
       "difficulty": "48.3",
       "difficulty_num": 48.3,
-      "rating": 6.9,
+      "rating": 6.8,
       "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
