@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 17:58:41",
+  "last_updated": "2026-09-08 22:27:33",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -55438,8 +55438,8 @@
       "name": "I wanna goodbye wonder",
       "difficulty": "70.0",
       "difficulty_num": 70.0,
-      "rating": 8.3,
-      "num_ratings": 5,
+      "rating": 8.8,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -81606,10 +81606,10 @@
     {
       "id": 46413,
       "name": "Maji Makers サンバ",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 8.5,
-      "num_ratings": 4,
+      "difficulty": "80.0",
+      "difficulty_num": 80.0,
+      "rating": 8.6,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -129846,10 +129846,10 @@
     {
       "id": 19852,
       "name": "Untitled80",
-      "difficulty": "69.5",
-      "difficulty_num": 69.5,
+      "difficulty": "69.8",
+      "difficulty_num": 69.8,
       "rating": 7.4,
-      "num_ratings": 8,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -137826,10 +137826,10 @@
     {
       "id": 12516,
       "name": "I wanna φ",
-      "difficulty": "73.1",
-      "difficulty_num": 73.1,
-      "rating": 5.7,
-      "num_ratings": 16,
+      "difficulty": "72.8",
+      "difficulty_num": 72.8,
+      "rating": 5.6,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
