@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 04:05:29",
+  "last_updated": "2026-09-10 06:49:29",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -67364,6 +67364,26 @@
       "is_avoidance": false
     },
     {
+      "id": 16060,
+      "name": "IWannaWI",
+      "difficulty": "72.0",
+      "difficulty_num": 72.0,
+      "rating": 2.9,
+      "num_ratings": 4,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 27055,
+      "name": "IWannaWI 涅槃の子ver",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 2,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 10501,
       "name": "IWANNAZONE",
       "difficulty": "0.4",
@@ -99486,11 +99506,11 @@
     {
       "id": 11018,
       "name": "I wanna be the PP",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "30.0",
+      "difficulty_num": 30.0,
+      "rating": 4.5,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -133874,16 +133894,6 @@
       "is_avoidance": false
     },
     {
-      "id": 16060,
-      "name": "I wanna WI",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
-      "rating": 2.9,
-      "num_ratings": 4,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
       "id": 23583,
       "name": "i wanna wide",
       "difficulty": "70.0",
@@ -134422,16 +134432,6 @@
       "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
-    },
-    {
-      "id": 27055,
-      "name": "I wanna WI　涅槃の子ver",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
-      "is_needle": false,
-      "is_avoidance": true
     },
     {
       "id": 24662,
@@ -139179,7 +139179,7 @@
       "difficulty": "2.8",
       "difficulty_num": 2.8,
       "rating": 4.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
