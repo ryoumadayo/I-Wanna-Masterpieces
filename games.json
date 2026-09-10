@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 08:49:40",
+  "last_updated": "2026-09-10 12:06:54",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -31366,10 +31366,10 @@
     {
       "id": 19802,
       "name": "Decession",
-      "difficulty": "88.5",
-      "difficulty_num": 88.5,
+      "difficulty": "88.2",
+      "difficulty_num": 88.2,
       "rating": 8.5,
-      "num_ratings": 30,
+      "num_ratings": 31,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -111496,10 +111496,10 @@
     {
       "id": 27883,
       "name": "Seven Nights At Series Z",
-      "difficulty": "64.8",
-      "difficulty_num": 64.8,
-      "rating": 9.4,
-      "num_ratings": 10,
+      "difficulty": "64.1",
+      "difficulty_num": 64.1,
+      "rating": 9.2,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -121186,10 +121186,10 @@
     {
       "id": 11169,
       "name": "I wanna be the TAS",
-      "difficulty": "84.6",
-      "difficulty_num": 84.6,
-      "rating": 4.4,
-      "num_ratings": 22,
+      "difficulty": "84.5",
+      "difficulty_num": 84.5,
+      "rating": 4.2,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
