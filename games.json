@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 17:18:42",
+  "last_updated": "2026-09-10 22:01:21",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -16098,7 +16098,7 @@
       "name": "I wanna be the BHO",
       "difficulty": "67.5",
       "difficulty_num": 67.5,
-      "rating": 2.5,
+      "rating": 3.5,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
@@ -42588,7 +42588,7 @@
       "name": "I Wanna Be The Exigent",
       "difficulty": "70.0",
       "difficulty_num": 70.0,
-      "rating": 0.0,
+      "rating": 6.0,
       "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
@@ -47388,7 +47388,7 @@
       "name": "I wanna fly the Far away",
       "difficulty": "85.0",
       "difficulty_num": 85.0,
-      "rating": 6.7,
+      "rating": 6.8,
       "num_ratings": 91,
       "is_needle": true,
       "is_avoidance": false
@@ -67699,7 +67699,7 @@
       "difficulty": "15.0",
       "difficulty_num": 15.0,
       "rating": 3.4,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -90508,7 +90508,7 @@
       "name": "I Wanna be the Nine",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 0.0,
+      "rating": 7.0,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
@@ -123578,7 +123578,7 @@
       "name": "the last time",
       "difficulty": "64.0",
       "difficulty_num": 64.0,
-      "rating": 6.0,
+      "rating": 6.5,
       "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
@@ -139178,8 +139178,8 @@
       "name": "【重要】Wikiからのお知らせ ￤ [Important] An Announcement from the Wiki",
       "difficulty": "2.2",
       "difficulty_num": 2.2,
-      "rating": 4.7,
-      "num_ratings": 6,
+      "rating": 5.6,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -140098,7 +140098,7 @@
       "name": "きちがいアイワナへようこそ！クリアやダウンロードには32097129-57523時間と345810956790万年かかります　あーきちがい針が3564312856748個飛んできました",
       "difficulty": "60.0",
       "difficulty_num": 60.0,
-      "rating": 0.0,
+      "rating": 6.0,
       "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
@@ -142718,7 +142718,7 @@
       "name": "ソシャゲの石集めって心無になりますよね",
       "difficulty": "62.6",
       "difficulty_num": 62.6,
-      "rating": 5.5,
+      "rating": 5.4,
       "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
