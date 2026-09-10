@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 12:06:54",
+  "last_updated": "2026-09-10 17:18:42",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -55438,8 +55438,8 @@
       "name": "I wanna goodbye wonder",
       "difficulty": "70.0",
       "difficulty_num": 70.0,
-      "rating": 8.8,
-      "num_ratings": 6,
+      "rating": 9.0,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
