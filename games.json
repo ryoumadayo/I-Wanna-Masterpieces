@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 22:01:21",
+  "last_updated": "2026-09-11 02:04:34",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -20376,10 +20376,10 @@
     {
       "id": 25108,
       "name": "I wanna be the bunch guys 3",
-      "difficulty": "91.7",
-      "difficulty_num": 91.7,
-      "rating": 0.3,
-      "num_ratings": 5,
+      "difficulty": "90.5",
+      "difficulty_num": 90.5,
+      "rating": 0.4,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -69416,10 +69416,10 @@
     {
       "id": 15773,
       "name": "I wanna be the Justice Guy",
-      "difficulty": "79.3",
-      "difficulty_num": 79.3,
+      "difficulty": "79.2",
+      "difficulty_num": 79.2,
       "rating": 9.2,
-      "num_ratings": 48,
+      "num_ratings": 49,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -70666,10 +70666,10 @@
     {
       "id": 26861,
       "name": "I wanna kickass Dr.Cherry2",
-      "difficulty": "44.0",
-      "difficulty_num": 44.0,
-      "rating": 9.3,
-      "num_ratings": 3,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 7.8,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
