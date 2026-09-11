@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 22:45:14",
+  "last_updated": "2026-09-12 02:30:53",
   "announcements": [
     {
       "date": "2026/09/11",
@@ -1876,8 +1876,8 @@
     {
       "id": 15758,
       "name": "I wanna be the 2006",
-      "difficulty": "87.3",
-      "difficulty_num": 87.3,
+      "difficulty": "86.8",
+      "difficulty_num": 86.8,
       "rating": 5.8,
       "num_ratings": 18,
       "is_needle": false,
@@ -17936,8 +17936,8 @@
     {
       "id": 18411,
       "name": "Boshy Story",
-      "difficulty": "51.9",
-      "difficulty_num": 51.9,
+      "difficulty": "51.3",
+      "difficulty_num": 51.3,
       "rating": 2.2,
       "num_ratings": 11,
       "is_needle": false,
@@ -20579,7 +20579,7 @@
       "difficulty": "75.4",
       "difficulty_num": 75.4,
       "rating": 6.7,
-      "num_ratings": 31,
+      "num_ratings": 30,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29236,10 +29236,10 @@
     {
       "id": 46417,
       "name": "I Wanna Be The Cronh19 II",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "42.0",
+      "difficulty_num": 42.0,
+      "rating": 6.4,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -36676,10 +36676,10 @@
     {
       "id": 18939,
       "name": "I Wanna Drive On Toward Death Through the Cooling Twilight",
-      "difficulty": "55.3",
-      "difficulty_num": 55.3,
+      "difficulty": "52.8",
+      "difficulty_num": 52.8,
       "rating": 5.2,
-      "num_ratings": 10,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -126919,7 +126919,7 @@
       "difficulty": "72.5",
       "difficulty_num": 72.5,
       "rating": 1.8,
-      "num_ratings": 4,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -138406,10 +138406,10 @@
     {
       "id": 19050,
       "name": "I wanna ™",
-      "difficulty": "80.8",
-      "difficulty_num": 80.8,
-      "rating": 2.2,
-      "num_ratings": 5,
+      "difficulty": "79.3",
+      "difficulty_num": 79.3,
+      "rating": 2.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
