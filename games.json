@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-11 18:29:51",
+  "last_updated": "2026-09-11 22:45:14",
   "announcements": [
+    {
+      "date": "2026/09/11",
+      "message": "TomoDatission が新たに追加されました。",
+      "type": "add",
+      "id": 24113
+    },
     {
       "date": "2026/08/30",
       "message": "I wanna & が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Game Maker Patch Tool - Debugger Helperが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 23936
-    },
-    {
-      "date": "2026/07/18",
-      "message": "Jtoolが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 15691
     }
   ],
   "games": [
@@ -125696,10 +125696,10 @@
     {
       "id": 24113,
       "name": "TomoDatission",
-      "difficulty": "72.3",
-      "difficulty_num": 72.3,
-      "rating": 6.9,
-      "num_ratings": 9,
+      "difficulty": "72.0",
+      "difficulty_num": 72.0,
+      "rating": 7.0,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
