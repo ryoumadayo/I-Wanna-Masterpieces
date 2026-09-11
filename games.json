@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 09:21:06",
+  "last_updated": "2026-09-11 13:59:10",
   "announcements": [
     {
       "date": "2026/08/30",
@@ -38426,8 +38426,8 @@
     {
       "id": 46401,
       "name": "Echerol 1",
-      "difficulty": "61.5",
-      "difficulty_num": 61.5,
+      "difficulty": "59.0",
+      "difficulty_num": 59.0,
       "rating": 5.3,
       "num_ratings": 5,
       "is_needle": false,
@@ -70926,10 +70926,10 @@
     {
       "id": 25576,
       "name": "I wanna Kikkai Kettai",
-      "difficulty": "64.8",
-      "difficulty_num": 64.8,
+      "difficulty": "64.5",
+      "difficulty_num": 64.5,
       "rating": 8.1,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -87436,10 +87436,10 @@
     {
       "id": 46422,
       "name": "I wanna Murder",
-      "difficulty": "85.0",
-      "difficulty_num": 85.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "83.0",
+      "difficulty_num": 83.0,
+      "rating": 7.8,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -136556,10 +136556,10 @@
     {
       "id": 26145,
       "name": "I wanna be the Yubi Yubi!",
-      "difficulty": "61.8",
-      "difficulty_num": 61.8,
-      "rating": 8.8,
-      "num_ratings": 10,
+      "difficulty": "61.6",
+      "difficulty_num": 61.6,
+      "rating": 8.7,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -139176,10 +139176,10 @@
     {
       "id": 46425,
       "name": "【重要】Wikiからのお知らせ ￤ [Important] An Announcement from the Wiki",
-      "difficulty": "2.2",
-      "difficulty_num": 2.2,
-      "rating": 5.6,
-      "num_ratings": 7,
+      "difficulty": "15.7",
+      "difficulty_num": 15.7,
+      "rating": 6.7,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
