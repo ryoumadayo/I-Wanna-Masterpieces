@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 18:30:21",
+  "last_updated": "2026-09-12 22:03:51",
   "announcements": [
     {
       "date": "2026/09/12",
@@ -49996,10 +49996,10 @@
     {
       "id": 14717,
       "name": "I wanna be the GB",
-      "difficulty": "53.8",
-      "difficulty_num": 53.8,
-      "rating": 4.6,
-      "num_ratings": 35,
+      "difficulty": "53.7",
+      "difficulty_num": 53.7,
+      "rating": 4.7,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -96529,7 +96529,7 @@
       "difficulty": "79.7",
       "difficulty_num": 79.7,
       "rating": 8.0,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -107286,10 +107286,10 @@
     {
       "id": 25360,
       "name": "I wanna Ruma",
-      "difficulty": "95.5",
-      "difficulty_num": 95.5,
+      "difficulty": "95.1",
+      "difficulty_num": 95.1,
       "rating": 8.4,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": true
     },
