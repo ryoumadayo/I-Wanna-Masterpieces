@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-13 03:35:02",
+  "last_updated": "2026-09-13 06:12:50",
   "announcements": [
+    {
+      "date": "2026/09/13",
+      "message": "I Wanna Go On A Critter Journey が新たに追加されました。",
+      "type": "add",
+      "id": 46260
+    },
     {
       "date": "2026/09/12",
       "message": "I wanna スコアアタック が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Tool for avoidances 2.0が削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 16202
-    },
-    {
-      "date": "2026/07/18",
-      "message": "YoYoYo Engine (Verve Edition)が削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 24342
     }
   ],
   "games": [
@@ -10008,8 +10008,8 @@
       "name": "Bassline Crack",
       "difficulty": "55.2",
       "difficulty_num": 55.2,
-      "rating": 5.9,
-      "num_ratings": 11,
+      "rating": 5.2,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -28166,10 +28166,10 @@
     {
       "id": 22656,
       "name": "Cookie Temptation",
-      "difficulty": "54.5",
-      "difficulty_num": 54.5,
-      "rating": 7.9,
-      "num_ratings": 78,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
+      "rating": 8.0,
+      "num_ratings": 79,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -53386,10 +53386,10 @@
     {
       "id": 46260,
       "name": "I Wanna Go On A Critter Journey",
-      "difficulty": "30.7",
-      "difficulty_num": 30.7,
+      "difficulty": "30.3",
+      "difficulty_num": 30.3,
       "rating": 7.4,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -117976,10 +117976,10 @@
     {
       "id": 25318,
       "name": "StrathGaze",
-      "difficulty": "73.0",
-      "difficulty_num": 73.0,
+      "difficulty": "72.8",
+      "difficulty_num": 72.8,
       "rating": 8.8,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
     },
