@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13 15:32:15",
+  "last_updated": "2026-09-14 01:49:43",
   "announcements": [
     {
       "date": "2026/09/13",
@@ -96536,10 +96536,10 @@
     {
       "id": 21676,
       "name": "Phonotransmitter",
-      "difficulty": "74.0",
-      "difficulty_num": 74.0,
+      "difficulty": "74.1",
+      "difficulty_num": 74.1,
       "rating": 8.9,
-      "num_ratings": 47,
+      "num_ratings": 48,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -100946,10 +100946,10 @@
     {
       "id": 18409,
       "name": "PSIFT: A Post-Structuralist Ironic Fangame Title",
-      "difficulty": "47.0",
-      "difficulty_num": 47.0,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
       "rating": 9.6,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
