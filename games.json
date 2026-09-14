@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-14 18:10:39",
+  "last_updated": "2026-09-15 00:58:15",
   "announcements": [
+    {
+      "date": "2026/09/15",
+      "message": "I Wanna Goodbye The Bye The Hello The Bye The Hello The 6900000000 Hard (Hello) が新たに追加されました。",
+      "type": "add",
+      "id": 28137
+    },
     {
       "date": "2026/09/14",
       "message": "【重要】Wikiからのお知らせ ￤ [Important] An Announcement from the Wiki が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
       "type": "remove",
       "id": 16329
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna create a bossが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 16235
     }
   ],
   "games": [
@@ -9076,10 +9076,10 @@
     {
       "id": 24972,
       "name": "I wanna be the AVT",
-      "difficulty": "58.5",
-      "difficulty_num": 58.5,
-      "rating": 3.8,
-      "num_ratings": 3,
+      "difficulty": "58.3",
+      "difficulty_num": 58.3,
+      "rating": 4.2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -10008,7 +10008,7 @@
       "name": "Bassline Crack",
       "difficulty": "55.2",
       "difficulty_num": 55.2,
-      "rating": 5.2,
+      "rating": 5.1,
       "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
@@ -31246,10 +31246,10 @@
     {
       "id": 21438,
       "name": "I wanna Dear Remaining Days",
-      "difficulty": "80.0",
-      "difficulty_num": 80.0,
-      "rating": 9.6,
-      "num_ratings": 7,
+      "difficulty": "79.2",
+      "difficulty_num": 79.2,
+      "rating": 9.1,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -32866,10 +32866,10 @@
     {
       "id": 19102,
       "name": "I wanna be the Demeter",
-      "difficulty": "83.8",
-      "difficulty_num": 83.8,
+      "difficulty": "83.3",
+      "difficulty_num": 83.3,
       "rating": 4.2,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -55398,8 +55398,8 @@
       "name": "I Wanna Goodbye The Bye The Hello The Bye The Hello The 6900000000 Hard (Hello)",
       "difficulty": "45.0",
       "difficulty_num": 45.0,
-      "rating": 6.5,
-      "num_ratings": 9,
+      "rating": 6.2,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -110544,6 +110544,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46430,
+      "name": "I wanna See the Rain in the World of Dreams",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 19739,
       "name": "I wanna see the Rainbow",
       "difficulty": "47.3",
@@ -149106,10 +149116,10 @@
     {
       "id": 17291,
       "name": "ｱｯｧｰｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｗｗｗｗｗｗｗｗｗｗｗ",
-      "difficulty": "31.0",
-      "difficulty_num": 31.0,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
       "rating": 1.7,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
