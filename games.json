@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-18 10:22:45",
+  "last_updated": "2026-09-18 15:18:43",
   "announcements": [
+    {
+      "date": "2026/09/18",
+      "message": "Hydrangea (short ver) が新たに追加されました。",
+      "type": "add",
+      "id": 24536
+    },
     {
       "date": "2026/09/15",
       "message": "I Wanna Goodbye The Bye The Hello The Bye The Hello The 6900000000 Hard (Hello) が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "i wanna FULFILLER が新たに追加されました。",
       "type": "add",
       "id": 28179
-    },
-    {
-      "date": "2026/07/18",
-      "message": "I wanna be the Engine Nikaple Editionが削除されたため、除外対象となりました。",
-      "type": "remove",
-      "id": 16329
     }
   ],
   "games": [
@@ -61846,10 +61846,10 @@
     {
       "id": 24536,
       "name": "Hydrangea (short ver)",
-      "difficulty": "37.0",
-      "difficulty_num": 37.0,
+      "difficulty": "37.6",
+      "difficulty_num": 37.6,
       "rating": 7.3,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -128016,10 +128016,10 @@
     {
       "id": 20737,
       "name": "I wanna try the 一発でクリアしないと処刑チャレンジ",
-      "difficulty": "37.8",
-      "difficulty_num": 37.8,
-      "rating": 6.9,
-      "num_ratings": 11,
+      "difficulty": "38.0",
+      "difficulty_num": 38.0,
+      "rating": 6.8,
+      "num_ratings": 12,
       "is_needle": false,
       "is_avoidance": true
     },
