@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 14:11:23",
+  "last_updated": "2026-09-20 18:57:53",
   "announcements": [
     {
       "date": "2026/09/18",
@@ -57468,7 +57468,7 @@
       "name": "Happinespell",
       "difficulty": "73.0",
       "difficulty_num": 73.0,
-      "rating": 7.2,
+      "rating": 7.1,
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
@@ -65100,6 +65100,16 @@
       "difficulty_num": 65.5,
       "rating": 4.7,
       "num_ratings": 6,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46444,
+      "name": "I Wanna Be The Idle",
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 0.1,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -94998,7 +95008,7 @@
       "name": "I wanna Paradisiac",
       "difficulty": "68.0",
       "difficulty_num": 68.0,
-      "rating": 8.0,
+      "rating": 8.1,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
