@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 09:15:09",
+  "last_updated": "2026-09-20 14:11:23",
   "announcements": [
     {
       "date": "2026/09/18",
@@ -88599,7 +88599,7 @@
       "difficulty": "79.9",
       "difficulty_num": 79.9,
       "rating": 9.1,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -96236,10 +96236,10 @@
     {
       "id": 20514,
       "name": "I Wanna Pet The Cat",
-      "difficulty": "75.3",
-      "difficulty_num": 75.3,
-      "rating": 6.6,
-      "num_ratings": 7,
+      "difficulty": "74.7",
+      "difficulty_num": 74.7,
+      "rating": 6.7,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -116084,16 +116084,6 @@
       "is_avoidance": false
     },
     {
-      "id": 24080,
-      "name": "Spike : The game",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
       "id": 19142,
       "name": "spike I wanna escape",
       "difficulty": "70.8",
@@ -122778,8 +122768,8 @@
       "name": "I Wanna Thank The Purple Cat",
       "difficulty": "50.0",
       "difficulty_num": 50.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "rating": 5.8,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -126978,8 +126968,8 @@
       "name": "TRAPPED IN A HUMMER",
       "difficulty": "N/A",
       "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "rating": 1.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
