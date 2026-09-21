@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 14:54:06",
+  "last_updated": "2026-09-21 21:00:56",
   "announcements": [
     {
       "date": "2026/09/18",
@@ -11606,10 +11606,10 @@
     {
       "id": 11404,
       "name": "I wanna be GENKI with you",
-      "difficulty": "44.6",
-      "difficulty_num": 44.6,
+      "difficulty": "44.7",
+      "difficulty_num": 44.7,
       "rating": 8.4,
-      "num_ratings": 81,
+      "num_ratings": 82,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -22056,10 +22056,10 @@
     {
       "id": 11456,
       "name": "I wanna celebrate 100",
-      "difficulty": "43.4",
-      "difficulty_num": 43.4,
+      "difficulty": "43.5",
+      "difficulty_num": 43.5,
       "rating": 7.2,
-      "num_ratings": 118,
+      "num_ratings": 119,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -94798,7 +94798,7 @@
       "name": "I Wanna Pamper that Amber Glamour",
       "difficulty": "44.8",
       "difficulty_num": 44.8,
-      "rating": 8.1,
+      "rating": 8.0,
       "num_ratings": 45,
       "is_needle": false,
       "is_avoidance": false
@@ -122788,7 +122788,7 @@
       "name": "I Wanna Thank The Purple Cat",
       "difficulty": "50.0",
       "difficulty_num": 50.0,
-      "rating": 5.8,
+      "rating": 6.5,
       "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
@@ -123926,10 +123926,10 @@
     {
       "id": 24929,
       "name": "The Real Roaka Area",
-      "difficulty": "44.8",
-      "difficulty_num": 44.8,
+      "difficulty": "44.3",
+      "difficulty_num": 44.3,
       "rating": 7.9,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": true
     },
