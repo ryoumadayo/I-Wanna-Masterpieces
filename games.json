@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22 03:15:57",
+  "last_updated": "2026-09-22 07:06:30",
   "announcements": [
     {
       "date": "2026/09/18",
@@ -6376,10 +6376,10 @@
     {
       "id": 46424,
       "name": "Andrew Needle Remake",
-      "difficulty": "36.1",
-      "difficulty_num": 36.1,
-      "rating": 5.7,
-      "num_ratings": 10,
+      "difficulty": "36.6",
+      "difficulty_num": 36.6,
+      "rating": 5.6,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -14716,10 +14716,10 @@
     {
       "id": 15676,
       "name": "I wanna beat the Red Heart",
-      "difficulty": "59.3",
-      "difficulty_num": 59.3,
+      "difficulty": "59.0",
+      "difficulty_num": 59.0,
       "rating": 5.9,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -32119,7 +32119,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -39136,10 +39136,10 @@
     {
       "id": 21119,
       "name": "I wanna Elixir",
-      "difficulty": "53.4",
-      "difficulty_num": 53.4,
+      "difficulty": "53.5",
+      "difficulty_num": 53.5,
       "rating": 6.1,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -85156,10 +85156,10 @@
     {
       "id": 20522,
       "name": "I wanna be the Mersures",
-      "difficulty": "53.3",
-      "difficulty_num": 53.3,
-      "rating": 4.3,
-      "num_ratings": 12,
+      "difficulty": "53.2",
+      "difficulty_num": 53.2,
+      "rating": 4.4,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -127016,10 +127016,10 @@
     {
       "id": 46440,
       "name": "TRAPPED IN A HUMMER",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 1.0,
-      "num_ratings": 3,
+      "difficulty": "45.0",
+      "difficulty_num": 45.0,
+      "rating": 5.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
