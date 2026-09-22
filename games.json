@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-22 07:06:30",
+  "last_updated": "2026-09-22 09:59:58",
   "announcements": [
+    {
+      "date": "2026/09/22",
+      "message": "I wanna Nein Disco が新たに追加されました。",
+      "type": "add",
+      "id": 45669
+    },
     {
       "date": "2026/09/18",
       "message": "Hydrangea (short ver) が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna feel lonely が新たに追加されました。",
       "type": "add",
       "id": 18654
-    },
-    {
-      "date": "2026/07/19",
-      "message": "i wanna FULFILLER が新たに追加されました。",
-      "type": "add",
-      "id": 28179
     }
   ],
   "games": [
@@ -36169,7 +36169,7 @@
       "difficulty": "54.5",
       "difficulty_num": 54.5,
       "rating": 6.6,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -63329,7 +63329,7 @@
       "difficulty": "62.6",
       "difficulty_num": 62.6,
       "rating": 7.6,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -89738,8 +89738,8 @@
       "name": "I wanna Nein Disco",
       "difficulty": "74.2",
       "difficulty_num": 74.2,
-      "rating": 8.0,
-      "num_ratings": 9,
+      "rating": 8.3,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -120148,7 +120148,7 @@
       "name": "SYNTAGM.",
       "difficulty": "69.0",
       "difficulty_num": 69.0,
-      "rating": 8.1,
+      "rating": 8.2,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
