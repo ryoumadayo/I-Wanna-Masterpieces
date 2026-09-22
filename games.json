@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 04:48:53",
+  "last_updated": "2026-09-23 07:44:16",
   "announcements": [
     {
       "date": "2026/09/22",
@@ -48939,7 +48939,7 @@
       "difficulty": "54.9",
       "difficulty_num": 54.9,
       "rating": 8.8,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -53266,10 +53266,10 @@
     {
       "id": 26804,
       "name": "I Wanna Go For Another Ride",
-      "difficulty": "46.8",
-      "difficulty_num": 46.8,
+      "difficulty": "46.9",
+      "difficulty_num": 46.9,
       "rating": 7.5,
-      "num_ratings": 32,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -68516,10 +68516,10 @@
     {
       "id": 46406,
       "name": "I Wanna Journey",
-      "difficulty": "42.5",
-      "difficulty_num": 42.5,
-      "rating": 7.7,
-      "num_ratings": 8,
+      "difficulty": "42.1",
+      "difficulty_num": 42.1,
+      "rating": 7.9,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
