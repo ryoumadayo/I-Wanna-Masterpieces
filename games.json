@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 20:56:42",
+  "last_updated": "2026-09-24 04:45:02",
   "announcements": [
     {
       "date": "2026/09/22",
@@ -98674,26 +98674,6 @@
       "is_avoidance": false
     },
     {
-      "id": 46442,
-      "name": "I wanna play with 3x2 Bastards",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
-      "id": 46443,
-      "name": "I wanna play with 3x2 Bastards",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
-      "is_avoidance": false
-    },
-    {
       "id": 46454,
       "name": "I wanna play with 3x2 Bastards",
       "difficulty": "75.0",
@@ -104869,7 +104849,7 @@
       "difficulty": "41.1",
       "difficulty_num": 41.1,
       "rating": 7.5,
-      "num_ratings": 60,
+      "num_ratings": 61,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -120198,7 +120178,7 @@
       "name": "SYNTAGM.",
       "difficulty": "69.0",
       "difficulty_num": 69.0,
-      "rating": 8.2,
+      "rating": 8.3,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
@@ -127668,8 +127648,8 @@
       "name": "I wanna trial the 100trap",
       "difficulty": "69.9",
       "difficulty_num": 69.9,
-      "rating": 5.5,
-      "num_ratings": 29,
+      "rating": 5.4,
+      "num_ratings": 30,
       "is_needle": true,
       "is_avoidance": false
     },
