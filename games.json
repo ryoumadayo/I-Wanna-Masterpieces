@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 05:41:13",
+  "last_updated": "2026-09-25 08:45:53",
   "announcements": [
     {
       "date": "2026/09/22",
@@ -4979,7 +4979,7 @@
       "difficulty": "54.1",
       "difficulty_num": 54.1,
       "rating": 7.3,
-      "num_ratings": 76,
+      "num_ratings": 77,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52066,10 +52066,10 @@
     {
       "id": 18214,
       "name": "I wanna get well",
-      "difficulty": "61.7",
-      "difficulty_num": 61.7,
-      "rating": 3.2,
-      "num_ratings": 5,
+      "difficulty": "61.8",
+      "difficulty_num": 61.8,
+      "rating": 3.9,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -76836,10 +76836,10 @@
     {
       "id": 14949,
       "name": "I wanna Lazy Needle 2",
-      "difficulty": "65.8",
-      "difficulty_num": 65.8,
+      "difficulty": "65.7",
+      "difficulty_num": 65.7,
       "rating": 7.7,
-      "num_ratings": 23,
+      "num_ratings": 24,
       "is_needle": true,
       "is_avoidance": false
     },
