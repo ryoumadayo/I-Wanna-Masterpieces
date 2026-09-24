@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 02:26:38",
+  "last_updated": "2026-09-25 05:41:13",
   "announcements": [
     {
       "date": "2026/09/22",
@@ -27926,10 +27926,10 @@
     {
       "id": 23458,
       "name": "I wanna be the Conspicuous Crumble",
-      "difficulty": "65.0",
-      "difficulty_num": 65.0,
+      "difficulty": "64.4",
+      "difficulty_num": 64.4,
       "rating": 7.8,
-      "num_ratings": 24,
+      "num_ratings": 25,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -34716,10 +34716,10 @@
     {
       "id": 22353,
       "name": "I wanna be the disparagement",
-      "difficulty": "60.1",
-      "difficulty_num": 60.1,
+      "difficulty": "60.3",
+      "difficulty_num": 60.3,
       "rating": 7.2,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -69499,7 +69499,7 @@
       "difficulty": "51.0",
       "difficulty_num": 51.0,
       "rating": 8.3,
-      "num_ratings": 32,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72999,7 +72999,7 @@
       "difficulty": "79.9",
       "difficulty_num": 79.9,
       "rating": 8.0,
-      "num_ratings": 128,
+      "num_ratings": 129,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -78976,10 +78976,10 @@
     {
       "id": 14756,
       "name": "I wanna be the Locus",
-      "difficulty": "70.6",
-      "difficulty_num": 70.6,
+      "difficulty": "70.5",
+      "difficulty_num": 70.5,
       "rating": 5.5,
-      "num_ratings": 27,
+      "num_ratings": 28,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -96496,10 +96496,10 @@
     {
       "id": 24048,
       "name": "Phantom Needle V",
-      "difficulty": "72.8",
-      "difficulty_num": 72.8,
+      "difficulty": "73.0",
+      "difficulty_num": 73.0,
       "rating": 8.1,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
