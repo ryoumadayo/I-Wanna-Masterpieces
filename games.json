@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24 21:06:53",
+  "last_updated": "2026-09-25 02:26:38",
   "announcements": [
     {
       "date": "2026/09/22",
@@ -58004,6 +58004,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46457,
+      "name": "Happy Birthday to Wakusei_",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 22974,
       "name": "Happy Birthday to Xue Xue",
       "difficulty": "67.0",
@@ -60932,6 +60942,16 @@
       "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46456,
+      "name": "Hold me close",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 21489,
@@ -85706,10 +85726,10 @@
     {
       "id": 21228,
       "name": "Milky Ways",
-      "difficulty": "62.5",
-      "difficulty_num": 62.5,
+      "difficulty": "62.4",
+      "difficulty_num": 62.4,
       "rating": 8.5,
-      "num_ratings": 51,
+      "num_ratings": 52,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -85932,6 +85952,16 @@
       "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46458,
+      "name": "Miniworld",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 27596,
@@ -88586,10 +88616,10 @@
     {
       "id": 10929,
       "name": "I wanna be the NCE",
-      "difficulty": "30.4",
-      "difficulty_num": 30.4,
+      "difficulty": "30.6",
+      "difficulty_num": 30.6,
       "rating": 4.5,
-      "num_ratings": 47,
+      "num_ratings": 48,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -105842,6 +105872,16 @@
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
+    },
+    {
+      "id": 46455,
+      "name": "I wanna Reveal my name",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 25628,
@@ -124554,6 +124594,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46459,
+      "name": "I wanna thread the Neon Raceway",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 17871,
       "name": "I Wanna Three Bell",
       "difficulty": "41.7",
@@ -130142,6 +130192,16 @@
       "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
+    },
+    {
+      "id": 46460,
+      "name": "Unwelcome Avoidance",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 25903,
