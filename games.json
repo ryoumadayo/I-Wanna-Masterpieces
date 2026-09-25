@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-25 18:02:18",
+  "last_updated": "2026-09-25 23:42:52",
   "announcements": [
+    {
+      "date": "2026/09/25",
+      "message": "I Wanna Journey が新たに追加されました。",
+      "type": "add",
+      "id": 46406
+    },
     {
       "date": "2026/09/22",
       "message": "I wanna Nein Disco が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "Evoltexの評価が基準値を下回ったことにより、除外対象となりました。",
       "type": "remove",
       "id": 15399
-    },
-    {
-      "date": "2026/07/20",
-      "message": "I wanna feel lonely が新たに追加されました。",
-      "type": "add",
-      "id": 18654
     }
   ],
   "games": [
@@ -68546,10 +68546,10 @@
     {
       "id": 46406,
       "name": "I Wanna Journey",
-      "difficulty": "42.1",
-      "difficulty_num": 42.1,
-      "rating": 7.9,
-      "num_ratings": 9,
+      "difficulty": "42.5",
+      "difficulty_num": 42.5,
+      "rating": 7.8,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -71378,9 +71378,9 @@
       "name": "I wanna kill the 2doku",
       "difficulty": "67.5",
       "difficulty_num": 67.5,
-      "rating": 5.3,
-      "num_ratings": 25,
-      "is_needle": true,
+      "rating": 5.4,
+      "num_ratings": 26,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -76106,8 +76106,8 @@
     {
       "id": 25771,
       "name": "I wanna be the KSS",
-      "difficulty": "82.0",
-      "difficulty_num": 82.0,
+      "difficulty": "75.0",
+      "difficulty_num": 75.0,
       "rating": 1.4,
       "num_ratings": 3,
       "is_needle": true,
@@ -85969,7 +85969,7 @@
       "difficulty": "35.0",
       "difficulty_num": 35.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -91699,7 +91699,7 @@
       "difficulty": "74.0",
       "difficulty_num": 74.0,
       "rating": 1.9,
-      "num_ratings": 5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -93966,10 +93966,10 @@
     {
       "id": 25723,
       "name": "I wanna be the Ordinary Needle",
-      "difficulty": "86.9",
-      "difficulty_num": 86.9,
+      "difficulty": "86.4",
+      "difficulty_num": 86.4,
       "rating": 7.6,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -105889,7 +105889,7 @@
       "difficulty": "81.0",
       "difficulty_num": 81.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -122899,7 +122899,7 @@
       "difficulty": "50.0",
       "difficulty_num": 50.0,
       "rating": 3.3,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -124606,10 +124606,10 @@
     {
       "id": 46459,
       "name": "I wanna thread the Neon Raceway",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 6.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130209,7 +130209,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
