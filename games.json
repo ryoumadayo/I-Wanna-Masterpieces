@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27 20:25:00",
+  "last_updated": "2026-09-28 04:32:05",
   "announcements": [
     {
       "date": "2026/09/27",
@@ -1806,10 +1806,10 @@
     {
       "id": 11860,
       "name": "I wanna be the 2.75 Floor Invert",
-      "difficulty": "84.4",
-      "difficulty_num": 84.4,
-      "rating": 1.0,
-      "num_ratings": 11,
+      "difficulty": "82.0",
+      "difficulty_num": 82.0,
+      "rating": 1.5,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -2976,10 +2976,10 @@
     {
       "id": 21035,
       "name": "I wanna 50/50",
-      "difficulty": "77.6",
-      "difficulty_num": 77.6,
-      "rating": 2.2,
-      "num_ratings": 6,
+      "difficulty": "76.2",
+      "difficulty_num": 76.2,
+      "rating": 2.9,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -7346,10 +7346,10 @@
     {
       "id": 46466,
       "name": "Aquelarre",
-      "difficulty": "64.0",
-      "difficulty_num": 64.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "64.5",
+      "difficulty_num": 64.5,
+      "rating": 9.0,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -10016,10 +10016,10 @@
     {
       "id": 46409,
       "name": "Bassline Crack",
-      "difficulty": "55.2",
-      "difficulty_num": 55.2,
-      "rating": 4.6,
-      "num_ratings": 13,
+      "difficulty": "57.3",
+      "difficulty_num": 57.3,
+      "rating": 4.8,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -10296,10 +10296,10 @@
     {
       "id": 11879,
       "name": "I wanna be the BDMaster",
-      "difficulty": "83.5",
-      "difficulty_num": 83.5,
-      "rating": 3.2,
-      "num_ratings": 3,
+      "difficulty": "83.7",
+      "difficulty_num": 83.7,
+      "rating": 2.9,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31426,10 +31426,10 @@
     {
       "id": 19802,
       "name": "Decession",
-      "difficulty": "88.2",
-      "difficulty_num": 88.2,
+      "difficulty": "88.3",
+      "difficulty_num": 88.3,
       "rating": 8.5,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -71929,7 +71929,7 @@
       "difficulty": "58.6",
       "difficulty_num": 58.6,
       "rating": 7.3,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -74576,8 +74576,8 @@
     {
       "id": 24111,
       "name": "I wanna kill the tomodati",
-      "difficulty": "82.3",
-      "difficulty_num": 82.3,
+      "difficulty": "80.7",
+      "difficulty_num": 80.7,
       "rating": 4.7,
       "num_ratings": 4,
       "is_needle": true,
@@ -88510,6 +88510,16 @@
       "difficulty_num": 45.0,
       "rating": 0.1,
       "num_ratings": 7,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46467,
+      "name": "I WANNA BE THE NATHAN",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -123756,10 +123766,10 @@
     {
       "id": 46415,
       "name": "The Job Won't Save You",
-      "difficulty": "78.0",
-      "difficulty_num": 78.0,
-      "rating": 9.7,
-      "num_ratings": 2,
+      "difficulty": "69.0",
+      "difficulty_num": 69.0,
+      "rating": 9.4,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -128666,10 +128676,10 @@
     {
       "id": 46384,
       "name": "TUNNEL VISION",
-      "difficulty": "49.1",
-      "difficulty_num": 49.1,
-      "rating": 8.6,
-      "num_ratings": 10,
+      "difficulty": "48.7",
+      "difficulty_num": 48.7,
+      "rating": 8.5,
+      "num_ratings": 11,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -140706,10 +140716,10 @@
     {
       "id": 23893,
       "name": "I wanna しょ",
-      "difficulty": "74.2",
-      "difficulty_num": 74.2,
-      "rating": 4.5,
-      "num_ratings": 6,
+      "difficulty": "73.5",
+      "difficulty_num": 73.5,
+      "rating": 4.7,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
