@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28 04:32:05",
+  "last_updated": "2026-09-28 07:48:58",
   "announcements": [
     {
       "date": "2026/09/27",
@@ -7346,10 +7346,10 @@
     {
       "id": 46466,
       "name": "Aquelarre",
-      "difficulty": "64.5",
-      "difficulty_num": 64.5,
-      "rating": 9.0,
-      "num_ratings": 3,
+      "difficulty": "63.0",
+      "difficulty_num": 63.0,
+      "rating": 8.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
