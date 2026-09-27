@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-27 06:56:06",
+  "last_updated": "2026-09-27 09:16:45",
   "announcements": [
+    {
+      "date": "2026/09/27",
+      "message": "TUNNEL VISION が新たに追加されました。",
+      "type": "add",
+      "id": 46384
+    },
     {
       "date": "2026/09/25",
       "message": "I Wanna Journey が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna Myosotis が新たに追加されました。",
       "type": "add",
       "id": 23228
-    },
-    {
-      "date": "2026/07/20",
-      "message": "Evoltexの評価が基準値を下回ったことにより、除外対象となりました。",
-      "type": "remove",
-      "id": 15399
     }
   ],
   "games": [
@@ -25986,10 +25986,10 @@
     {
       "id": 46042,
       "name": "Coin adventure",
-      "difficulty": "22.5",
-      "difficulty_num": 22.5,
-      "rating": 6.6,
-      "num_ratings": 5,
+      "difficulty": "21.0",
+      "difficulty_num": 21.0,
+      "rating": 6.3,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -40086,10 +40086,10 @@
     {
       "id": 19296,
       "name": "I wanna enjoy a Merry Christmas!",
-      "difficulty": "36.1",
-      "difficulty_num": 36.1,
+      "difficulty": "35.5",
+      "difficulty_num": 35.5,
       "rating": 8.0,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -128246,8 +128246,8 @@
     {
       "id": 11735,
       "name": "I wanna try the Needle trap",
-      "difficulty": "75.1",
-      "difficulty_num": 75.1,
+      "difficulty": "74.9",
+      "difficulty_num": 74.9,
       "rating": 2.2,
       "num_ratings": 9,
       "is_needle": true,
@@ -128666,10 +128666,10 @@
     {
       "id": 46384,
       "name": "TUNNEL VISION",
-      "difficulty": "48.4",
-      "difficulty_num": 48.4,
-      "rating": 9.1,
-      "num_ratings": 9,
+      "difficulty": "49.1",
+      "difficulty_num": 49.1,
+      "rating": 8.6,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -133386,10 +133386,10 @@
     {
       "id": 15218,
       "name": "I wanna be the WBS",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
-      "rating": 5.8,
-      "num_ratings": 6,
+      "difficulty": "39.6",
+      "difficulty_num": 39.6,
+      "rating": 6.0,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
