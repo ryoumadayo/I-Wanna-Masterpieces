@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 11:17:19",
+  "last_updated": "2026-09-30 17:52:18",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -25616,10 +25616,10 @@
     {
       "id": 22465,
       "name": "I wanna climb Yggdrasill",
-      "difficulty": "61.7",
-      "difficulty_num": 61.7,
-      "rating": 3.4,
-      "num_ratings": 3,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 3.6,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -30908,8 +30908,8 @@
       "name": "I wanna be the Darkness",
       "difficulty": "65.0",
       "difficulty_num": 65.0,
-      "rating": 5.3,
-      "num_ratings": 3,
+      "rating": 5.5,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -74686,10 +74686,10 @@
     {
       "id": 15513,
       "name": "I wanna kill the V",
-      "difficulty": "41.7",
-      "difficulty_num": 41.7,
-      "rating": 1.5,
-      "num_ratings": 6,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 1.4,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -105286,10 +105286,10 @@
     {
       "id": 12456,
       "name": "I wanna repair my Control 2",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
       "rating": 3.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -119892,6 +119892,16 @@
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
+    },
+    {
+      "id": 46468,
+      "name": "i wanna be the survivor!",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
     },
     {
       "id": 23229,
@@ -144996,10 +145006,10 @@
     {
       "id": 24137,
       "name": "I wanna be the 友達",
-      "difficulty": "64.4",
-      "difficulty_num": 64.4,
+      "difficulty": "63.7",
+      "difficulty_num": 63.7,
       "rating": 5.4,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
