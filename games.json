@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30 17:52:18",
+  "last_updated": "2026-10-01 00:37:31",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -3706,10 +3706,10 @@
     {
       "id": 10540,
       "name": "I wanna be the A gentle person",
-      "difficulty": "23.7",
-      "difficulty_num": 23.7,
+      "difficulty": "23.5",
+      "difficulty_num": 23.5,
       "rating": 3.6,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -5939,7 +5939,7 @@
       "difficulty": "36.3",
       "difficulty_num": 36.3,
       "rating": 5.3,
-      "num_ratings": 70,
+      "num_ratings": 71,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -20466,20 +20466,20 @@
     {
       "id": 22918,
       "name": "I wanna Burnmind",
-      "difficulty": "54.7",
-      "difficulty_num": 54.7,
+      "difficulty": "54.8",
+      "difficulty_num": 54.8,
       "rating": 8.8,
-      "num_ratings": 78,
+      "num_ratings": 79,
       "is_needle": false,
       "is_avoidance": false
     },
     {
       "id": 10594,
       "name": "I wanna be the Burst",
-      "difficulty": "42.3",
-      "difficulty_num": 42.3,
-      "rating": 6.6,
-      "num_ratings": 50,
+      "difficulty": "42.4",
+      "difficulty_num": 42.4,
+      "rating": 6.7,
+      "num_ratings": 51,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -21748,7 +21748,7 @@
       "name": "I Wanna Be the Catastrophe",
       "difficulty": "80.3",
       "difficulty_num": 80.3,
-      "rating": 7.6,
+      "rating": 7.7,
       "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
@@ -23919,7 +23919,7 @@
       "difficulty": "57.9",
       "difficulty_num": 57.9,
       "rating": 8.9,
-      "num_ratings": 62,
+      "num_ratings": 63,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -24146,10 +24146,10 @@
     {
       "id": 10610,
       "name": "I wanna be the Chokochoko",
-      "difficulty": "6.4",
-      "difficulty_num": 6.4,
+      "difficulty": "6.3",
+      "difficulty_num": 6.3,
       "rating": 2.4,
-      "num_ratings": 138,
+      "num_ratings": 139,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -25426,10 +25426,10 @@
     {
       "id": 28110,
       "name": "I wanna climb the holy tower",
-      "difficulty": "37.2",
-      "difficulty_num": 37.2,
+      "difficulty": "37.3",
+      "difficulty_num": 37.3,
       "rating": 8.6,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -51266,10 +51266,10 @@
     {
       "id": 22774,
       "name": "I Wanna Get Some Drip",
-      "difficulty": "35.9",
-      "difficulty_num": 35.9,
+      "difficulty": "36.0",
+      "difficulty_num": 36.0,
       "rating": 7.3,
-      "num_ratings": 55,
+      "num_ratings": 56,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -56376,10 +56376,10 @@
     {
       "id": 25418,
       "name": "I wanna be the guass tiaoci",
-      "difficulty": "16.5",
-      "difficulty_num": 16.5,
-      "rating": 0.6,
-      "num_ratings": 2,
+      "difficulty": "14.3",
+      "difficulty_num": 14.3,
+      "rating": 0.7,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -57038,8 +57038,8 @@
       "name": "I wanna H5",
       "difficulty": "0.8",
       "difficulty_num": 0.8,
-      "rating": 1.6,
-      "num_ratings": 12,
+      "rating": 1.5,
+      "num_ratings": 13,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -63276,8 +63276,8 @@
     {
       "id": 25493,
       "name": "I HATE Double Turn Team!",
-      "difficulty": "81.6",
-      "difficulty_num": 81.6,
+      "difficulty": "81.8",
+      "difficulty_num": 81.8,
       "rating": 8.7,
       "num_ratings": 19,
       "is_needle": true,
@@ -64286,10 +64286,10 @@
     {
       "id": 19537,
       "name": "I want to control the needle and trap",
-      "difficulty": "60.0",
-      "difficulty_num": 60.0,
-      "rating": 6.0,
-      "num_ratings": 2,
+      "difficulty": "52.5",
+      "difficulty_num": 52.5,
+      "rating": 4.8,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -73436,10 +73436,10 @@
     {
       "id": 21174,
       "name": "I wanna kill the Lくん",
-      "difficulty": "48.1",
-      "difficulty_num": 48.1,
-      "rating": 6.8,
-      "num_ratings": 8,
+      "difficulty": "48.4",
+      "difficulty_num": 48.4,
+      "rating": 6.6,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -80079,7 +80079,7 @@
       "difficulty": "21.4",
       "difficulty_num": 21.4,
       "rating": 8.1,
-      "num_ratings": 112,
+      "num_ratings": 113,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -83916,10 +83916,10 @@
     {
       "id": 22394,
       "name": "I Wanna be the Matryoshka Special Edition",
-      "difficulty": "52.9",
-      "difficulty_num": 52.9,
+      "difficulty": "52.8",
+      "difficulty_num": 52.8,
       "rating": 7.4,
-      "num_ratings": 16,
+      "num_ratings": 17,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -90529,7 +90529,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -91666,10 +91666,10 @@
     {
       "id": 16734,
       "name": "I Wanna Be The Nostalgia",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "20.0",
+      "difficulty_num": 20.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -94266,10 +94266,10 @@
     {
       "id": 24998,
       "name": "Otto's vital capacity test",
-      "difficulty": "29.3",
-      "difficulty_num": 29.3,
-      "rating": 5.9,
-      "num_ratings": 5,
+      "difficulty": "29.5",
+      "difficulty_num": 29.5,
+      "rating": 5.5,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -96966,10 +96966,10 @@
     {
       "id": 20607,
       "name": "Pink",
-      "difficulty": "38.0",
-      "difficulty_num": 38.0,
-      "rating": 6.9,
-      "num_ratings": 29,
+      "difficulty": "38.1",
+      "difficulty_num": 38.1,
+      "rating": 6.8,
+      "num_ratings": 30,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -105908,7 +105908,7 @@
       "name": "I wanna reunion in the despair",
       "difficulty": "81.3",
       "difficulty_num": 81.3,
-      "rating": 6.8,
+      "rating": 6.6,
       "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
@@ -107406,8 +107406,8 @@
     {
       "id": 12095,
       "name": "I wanna be the Rubik's Cube",
-      "difficulty": "86.2",
-      "difficulty_num": 86.2,
+      "difficulty": "86.4",
+      "difficulty_num": 86.4,
       "rating": 6.3,
       "num_ratings": 21,
       "is_needle": false,
@@ -109186,11 +109186,11 @@
     {
       "id": 45962,
       "name": "Say Hello To 2022",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
-      "is_needle": false,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
+      "rating": 6.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -119839,7 +119839,7 @@
       "difficulty": "34.8",
       "difficulty_num": 34.8,
       "rating": 7.6,
-      "num_ratings": 26,
+      "num_ratings": 27,
       "is_needle": false,
       "is_avoidance": true
     },
