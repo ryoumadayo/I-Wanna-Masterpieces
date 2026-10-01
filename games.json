@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 00:37:31",
+  "last_updated": "2026-10-01 09:21:33",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -11186,10 +11186,10 @@
     {
       "id": 11399,
       "name": "I wanna be Charm",
-      "difficulty": "45.5",
-      "difficulty_num": 45.5,
-      "rating": 6.9,
-      "num_ratings": 7,
+      "difficulty": "46.1",
+      "difficulty_num": 46.1,
+      "rating": 6.6,
+      "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -27676,10 +27676,10 @@
     {
       "id": 14742,
       "name": "I wanna conquer the blow game",
-      "difficulty": "19.5",
-      "difficulty_num": 19.5,
+      "difficulty": "19.4",
+      "difficulty_num": 19.4,
       "rating": 5.6,
-      "num_ratings": 138,
+      "num_ratings": 139,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -29661,6 +29661,16 @@
       "rating": 7.3,
       "num_ratings": 12,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46469,
+      "name": "I wanna be the Cucumber",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
@@ -43016,10 +43026,10 @@
     {
       "id": 18744,
       "name": "I wanna explore the Mountains",
-      "difficulty": "71.8",
-      "difficulty_num": 71.8,
-      "rating": 8.4,
-      "num_ratings": 39,
+      "difficulty": "71.7",
+      "difficulty_num": 71.7,
+      "rating": 8.3,
+      "num_ratings": 40,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -97986,10 +97996,10 @@
     {
       "id": 11669,
       "name": "I wanna play the Devil blow game2",
-      "difficulty": "55.4",
-      "difficulty_num": 55.4,
-      "rating": 5.7,
-      "num_ratings": 8,
+      "difficulty": "54.8",
+      "difficulty_num": 54.8,
+      "rating": 5.6,
+      "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -113366,10 +113376,10 @@
     {
       "id": 15629,
       "name": "I wanna be the Simple Needle",
-      "difficulty": "76.1",
-      "difficulty_num": 76.1,
+      "difficulty": "76.2",
+      "difficulty_num": 76.2,
       "rating": 7.0,
-      "num_ratings": 55,
+      "num_ratings": 56,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -117649,7 +117659,7 @@
       "difficulty": "56.9",
       "difficulty_num": 56.9,
       "rating": 8.1,
-      "num_ratings": 21,
+      "num_ratings": 22,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -139526,8 +139536,8 @@
     {
       "id": 46425,
       "name": "【重要】Wikiからのお知らせ ￤ [Important] An Announcement from the Wiki",
-      "difficulty": "1.7",
-      "difficulty_num": 1.7,
+      "difficulty": "1.8",
+      "difficulty_num": 1.8,
       "rating": 7.0,
       "num_ratings": 11,
       "is_needle": false,
