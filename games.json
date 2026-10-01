@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 09:21:33",
+  "last_updated": "2026-10-01 15:20:45",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -105296,8 +105296,8 @@
     {
       "id": 12456,
       "name": "I wanna repair my Control 2",
-      "difficulty": "55.0",
-      "difficulty_num": 55.0,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
       "rating": 3.0,
       "num_ratings": 2,
       "is_needle": true,
@@ -124666,10 +124666,10 @@
     {
       "id": 46459,
       "name": "I wanna thread the Neon Raceway",
-      "difficulty": "62.3",
-      "difficulty_num": 62.3,
-      "rating": 6.9,
-      "num_ratings": 4,
+      "difficulty": "62.0",
+      "difficulty_num": 62.0,
+      "rating": 7.0,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
