@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 22:43:42",
+  "last_updated": "2026-10-02 08:20:40",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -10859,7 +10859,7 @@
       "difficulty": "57.4",
       "difficulty_num": 57.4,
       "rating": 8.3,
-      "num_ratings": 60,
+      "num_ratings": 61,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -23636,10 +23636,10 @@
     {
       "id": 46463,
       "name": "cherry ＊ merry ＊ trap",
-      "difficulty": "35.0",
-      "difficulty_num": 35.0,
-      "rating": 1.6,
-      "num_ratings": 2,
+      "difficulty": "32.5",
+      "difficulty_num": 32.5,
+      "rating": 1.7,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -29976,10 +29976,10 @@
     {
       "id": 21263,
       "name": "Cyaegha",
-      "difficulty": "62.7",
-      "difficulty_num": 62.7,
-      "rating": 5.3,
-      "num_ratings": 6,
+      "difficulty": "63.5",
+      "difficulty_num": 63.5,
+      "rating": 5.4,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -60989,7 +60989,7 @@
       "difficulty": "48.7",
       "difficulty_num": 48.7,
       "rating": 8.5,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -76386,10 +76386,10 @@
     {
       "id": 11614,
       "name": "I wanna L",
-      "difficulty": "69.3",
-      "difficulty_num": 69.3,
+      "difficulty": "69.2",
+      "difficulty_num": 69.2,
       "rating": 5.9,
-      "num_ratings": 65,
+      "num_ratings": 66,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -81376,10 +81376,10 @@
     {
       "id": 14973,
       "name": "I Wanna Macaron",
-      "difficulty": "42.6",
-      "difficulty_num": 42.6,
-      "rating": 6.4,
-      "num_ratings": 19,
+      "difficulty": "42.4",
+      "difficulty_num": 42.4,
+      "rating": 6.3,
+      "num_ratings": 20,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -89459,7 +89459,7 @@
       "difficulty": "71.2",
       "difficulty_num": 71.2,
       "rating": 6.3,
-      "num_ratings": 57,
+      "num_ratings": 58,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -103466,10 +103466,10 @@
     {
       "id": 16417,
       "name": "I wanna be the RayTrapおかわり",
-      "difficulty": "49.7",
-      "difficulty_num": 49.7,
-      "rating": 5.2,
-      "num_ratings": 4,
+      "difficulty": "49.8",
+      "difficulty_num": 49.8,
+      "rating": 5.6,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -112406,10 +112406,10 @@
     {
       "id": 19534,
       "name": "I wanna shiver",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
+      "difficulty": "71.9",
+      "difficulty_num": 71.9,
       "rating": 8.8,
-      "num_ratings": 77,
+      "num_ratings": 79,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -117836,10 +117836,10 @@
     {
       "id": 21760,
       "name": "I wanna stop crying myself to sleep",
-      "difficulty": "81.7",
-      "difficulty_num": 81.7,
+      "difficulty": "81.5",
+      "difficulty_num": 81.5,
       "rating": 9.0,
-      "num_ratings": 44,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118248,8 +118248,8 @@
       "name": "Strawberry needle",
       "difficulty": "45.5",
       "difficulty_num": 45.5,
-      "rating": 7.0,
-      "num_ratings": 20,
+      "rating": 6.9,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122686,10 +122686,10 @@
     {
       "id": 26579,
       "name": "TF2 TickTock",
-      "difficulty": "37.3",
-      "difficulty_num": 37.3,
-      "rating": 6.6,
-      "num_ratings": 17,
+      "difficulty": "38.0",
+      "difficulty_num": 38.0,
+      "rating": 6.8,
+      "num_ratings": 18,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -124656,10 +124656,10 @@
     {
       "id": 17290,
       "name": "I wanna thread the Needle",
-      "difficulty": "71.0",
-      "difficulty_num": 71.0,
+      "difficulty": "70.8",
+      "difficulty_num": 70.8,
       "rating": 8.2,
-      "num_ratings": 59,
+      "num_ratings": 60,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -147116,10 +147116,10 @@
     {
       "id": 19758,
       "name": "I wanna be the 神",
-      "difficulty": "29.3",
-      "difficulty_num": 29.3,
-      "rating": 6.3,
-      "num_ratings": 5,
+      "difficulty": "27.4",
+      "difficulty_num": 27.4,
+      "rating": 6.0,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
