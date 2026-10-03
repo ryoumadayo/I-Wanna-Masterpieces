@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 18:59:13",
+  "last_updated": "2026-10-03 23:38:44",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -4976,10 +4976,10 @@
     {
       "id": 17419,
       "name": "I wanna Advent",
-      "difficulty": "54.1",
-      "difficulty_num": 54.1,
+      "difficulty": "53.9",
+      "difficulty_num": 53.9,
       "rating": 7.3,
-      "num_ratings": 77,
+      "num_ratings": 78,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -19656,10 +19656,10 @@
     {
       "id": 28105,
       "name": "I wanna break through a Reyvateil's Curse",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
+      "rating": 3.3,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -34146,8 +34146,8 @@
     {
       "id": 17988,
       "name": "I wanna diaodiaodiaodiaodiao",
-      "difficulty": "70.7",
-      "difficulty_num": 70.7,
+      "difficulty": "71.3",
+      "difficulty_num": 71.3,
       "rating": 4.7,
       "num_ratings": 5,
       "is_needle": false,
@@ -101346,10 +101346,10 @@
     {
       "id": 26075,
       "name": "pulverize",
-      "difficulty": "53.3",
-      "difficulty_num": 53.3,
-      "rating": 7.6,
-      "num_ratings": 12,
+      "difficulty": "53.2",
+      "difficulty_num": 53.2,
+      "rating": 7.5,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -103086,10 +103086,10 @@
     {
       "id": 20583,
       "name": "I wanna Rainy ray",
-      "difficulty": "61.7",
-      "difficulty_num": 61.7,
+      "difficulty": "61.5",
+      "difficulty_num": 61.5,
       "rating": 8.4,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -127616,10 +127616,10 @@
     {
       "id": 26595,
       "name": "I wanna traverse the precipice",
-      "difficulty": "65.9",
-      "difficulty_num": 65.9,
+      "difficulty": "65.6",
+      "difficulty_num": 65.6,
       "rating": 9.0,
-      "num_ratings": 40,
+      "num_ratings": 41,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -147566,10 +147566,10 @@
     {
       "id": 46007,
       "name": "I wanna be the 肉じゃが",
-      "difficulty": "59.0",
-      "difficulty_num": 59.0,
-      "rating": 3.9,
-      "num_ratings": 3,
+      "difficulty": "58.7",
+      "difficulty_num": 58.7,
+      "rating": 3.3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
