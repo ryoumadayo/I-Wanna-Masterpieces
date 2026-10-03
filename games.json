@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 05:05:05",
+  "last_updated": "2026-10-03 13:15:09",
   "announcements": [
     {
       "date": "2026/09/30",
@@ -96716,10 +96716,10 @@
     {
       "id": 21676,
       "name": "Phonotransmitter",
-      "difficulty": "74.0",
-      "difficulty_num": 74.0,
+      "difficulty": "73.9",
+      "difficulty_num": 73.9,
       "rating": 8.9,
-      "num_ratings": 49,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
