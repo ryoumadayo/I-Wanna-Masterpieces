@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05 18:26:58",
+  "last_updated": "2026-10-06 03:44:31",
   "announcements": [
     {
       "date": "2026/10/04",
@@ -4999,7 +4999,7 @@
       "difficulty": "53.9",
       "difficulty_num": 53.9,
       "rating": 7.3,
-      "num_ratings": 78,
+      "num_ratings": 79,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -48186,10 +48186,10 @@
     {
       "id": 46452,
       "name": "I wanna found where navel",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "92.0",
+      "difficulty_num": 92.0,
+      "rating": 5.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52166,10 +52166,10 @@
     {
       "id": 26792,
       "name": "GF",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "35.0",
+      "difficulty_num": 35.0,
       "rating": 0.0,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -62528,8 +62528,8 @@
       "name": "I Don't Know How To Make a Trap Game",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 5.0,
-      "num_ratings": 2,
+      "rating": 5.5,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -85336,10 +85336,10 @@
     {
       "id": 27355,
       "name": "Messy Needle",
-      "difficulty": "48.9",
-      "difficulty_num": 48.9,
+      "difficulty": "48.5",
+      "difficulty_num": 48.5,
       "rating": 6.2,
-      "num_ratings": 10,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -91919,7 +91919,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 10.0,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -99656,10 +99656,10 @@
     {
       "id": 14711,
       "name": "I wanna potato",
-      "difficulty": "72.1",
-      "difficulty_num": 72.1,
+      "difficulty": "72.3",
+      "difficulty_num": 72.3,
       "rating": 3.7,
-      "num_ratings": 12,
+      "num_ratings": 13,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -106319,7 +106319,7 @@
       "difficulty": "54.3",
       "difficulty_num": 54.3,
       "rating": 7.7,
-      "num_ratings": 22,
+      "num_ratings": 23,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -114676,10 +114676,10 @@
     {
       "id": 27626,
       "name": "Snack Needle",
-      "difficulty": "39.9",
-      "difficulty_num": 39.9,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
       "rating": 8.0,
-      "num_ratings": 20,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -119086,10 +119086,10 @@
     {
       "id": 20861,
       "name": "I wanna be the Sun",
-      "difficulty": "60.3",
-      "difficulty_num": 60.3,
+      "difficulty": "60.0",
+      "difficulty_num": 60.0,
       "rating": 7.3,
-      "num_ratings": 17,
+      "num_ratings": 18,
       "is_needle": true,
       "is_avoidance": false
     },
