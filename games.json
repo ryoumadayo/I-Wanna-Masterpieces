@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-06 09:35:37",
+  "last_updated": "2026-10-07 04:42:03",
   "announcements": [
+    {
+      "date": "2026/10/07",
+      "message": "Moonstone が新たに追加されました。",
+      "type": "add",
+      "id": 25187
+    },
     {
       "date": "2026/10/04",
       "message": "I Wanna Я が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the Sensei が新たに追加されました。",
       "type": "add",
       "id": 28240
-    },
-    {
-      "date": "2026/08/05",
-      "message": "I wanna be the Burst(2015) が新たに追加されました。",
-      "type": "add",
-      "id": 15378
     }
   ],
   "games": [
@@ -4728,7 +4728,7 @@
       "name": "I wanna Activate the Gem Drive",
       "difficulty": "54.6",
       "difficulty_num": 54.6,
-      "rating": 8.5,
+      "rating": 8.3,
       "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": false
@@ -5396,10 +5396,10 @@
     {
       "id": 24687,
       "name": "I wanna be the AHZ",
-      "difficulty": "35.6",
-      "difficulty_num": 35.6,
-      "rating": 2.4,
-      "num_ratings": 6,
+      "difficulty": "36.7",
+      "difficulty_num": 36.7,
+      "rating": 2.2,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -9106,8 +9106,8 @@
     {
       "id": 24972,
       "name": "I wanna be the AVT",
-      "difficulty": "58.3",
-      "difficulty_num": 58.3,
+      "difficulty": "56.3",
+      "difficulty_num": 56.3,
       "rating": 4.2,
       "num_ratings": 4,
       "is_needle": false,
@@ -10296,10 +10296,10 @@
     {
       "id": 46474,
       "name": "BCS Needle 1",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "55.0",
+      "difficulty_num": 55.0,
+      "rating": 6.2,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -17959,7 +17959,7 @@
       "difficulty": "58.0",
       "difficulty_num": 58.0,
       "rating": 9.3,
-      "num_ratings": 6,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -39666,10 +39666,10 @@
     {
       "id": 19890,
       "name": "I wanna end the Duo Blade",
-      "difficulty": "84.8",
-      "difficulty_num": 84.8,
-      "rating": 5.8,
-      "num_ratings": 8,
+      "difficulty": "83.9",
+      "difficulty_num": 83.9,
+      "rating": 6.0,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -42686,10 +42686,10 @@
     {
       "id": 18142,
       "name": "I wanna be the Execute",
-      "difficulty": "69.0",
-      "difficulty_num": 69.0,
-      "rating": 5.9,
-      "num_ratings": 6,
+      "difficulty": "68.1",
+      "difficulty_num": 68.1,
+      "rating": 5.4,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -44406,10 +44406,10 @@
     {
       "id": 11950,
       "name": "I wanna be the Fangame!",
-      "difficulty": "45.6",
-      "difficulty_num": 45.6,
-      "rating": 7.2,
-      "num_ratings": 68,
+      "difficulty": "45.8",
+      "difficulty_num": 45.8,
+      "rating": 7.1,
+      "num_ratings": 69,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -53049,7 +53049,7 @@
       "difficulty": "67.4",
       "difficulty_num": 67.4,
       "rating": 7.5,
-      "num_ratings": 67,
+      "num_ratings": 68,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -55738,8 +55738,8 @@
       "name": "I wanna be the GR",
       "difficulty": "72.4",
       "difficulty_num": 72.4,
-      "rating": 5.5,
-      "num_ratings": 40,
+      "rating": 5.6,
+      "num_ratings": 41,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -65596,10 +65596,10 @@
     {
       "id": 26641,
       "name": "i wanna be the immortaler",
-      "difficulty": "36.5",
-      "difficulty_num": 36.5,
-      "rating": 6.2,
-      "num_ratings": 2,
+      "difficulty": "36.0",
+      "difficulty_num": 36.0,
+      "rating": 6.0,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -77558,7 +77558,7 @@
       "name": "I wanna let oneself relax",
       "difficulty": "55.3",
       "difficulty_num": 55.3,
-      "rating": 6.3,
+      "rating": 6.2,
       "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
@@ -79816,10 +79816,10 @@
     {
       "id": 23476,
       "name": "I wanna be the love memory",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "25.0",
+      "difficulty_num": 25.0,
+      "rating": 2.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -81898,7 +81898,7 @@
       "name": "i wanna make a game for pancake cups",
       "difficulty": "34.3",
       "difficulty_num": 34.3,
-      "rating": 4.1,
+      "rating": 4.2,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -87018,8 +87018,8 @@
       "name": "Moonstone",
       "difficulty": "64.4",
       "difficulty_num": 64.4,
-      "rating": 7.4,
-      "num_ratings": 9,
+      "rating": 7.5,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99826,10 +99826,10 @@
     {
       "id": 19900,
       "name": "I Wanna PP",
-      "difficulty": "55.5",
-      "difficulty_num": 55.5,
-      "rating": 7.8,
-      "num_ratings": 3,
+      "difficulty": "53.7",
+      "difficulty_num": 53.7,
+      "rating": 7.1,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -112679,7 +112679,7 @@
       "difficulty": "65.0",
       "difficulty_num": 65.0,
       "rating": 3.9,
-      "num_ratings": 2,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -116606,10 +116606,10 @@
     {
       "id": 26558,
       "name": "Spirited Delight",
-      "difficulty": "60.4",
-      "difficulty_num": 60.4,
+      "difficulty": "60.3",
+      "difficulty_num": 60.3,
       "rating": 8.3,
-      "num_ratings": 14,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -118376,10 +118376,10 @@
     {
       "id": 22649,
       "name": "Strewn Detritus",
-      "difficulty": "68.0",
-      "difficulty_num": 68.0,
+      "difficulty": "68.2",
+      "difficulty_num": 68.2,
       "rating": 7.4,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -123158,8 +123158,8 @@
       "name": "I Wanna Thank You Mauricio Juega IWBT",
       "difficulty": "69.5",
       "difficulty_num": 69.5,
-      "rating": 8.9,
-      "num_ratings": 18,
+      "rating": 8.8,
+      "num_ratings": 19,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124429,7 +124429,7 @@
       "difficulty": "58.1",
       "difficulty_num": 58.1,
       "rating": 7.2,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -125468,7 +125468,7 @@
       "name": "tmp26",
       "difficulty": "65.0",
       "difficulty_num": 65.0,
-      "rating": 8.0,
+      "rating": 8.3,
       "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
@@ -138756,10 +138756,10 @@
     {
       "id": 21218,
       "name": "I Wanna Be The ما الأمر يصل زملائه اللاعبين؟",
-      "difficulty": "49.3",
-      "difficulty_num": 49.3,
+      "difficulty": "49.5",
+      "difficulty_num": 49.5,
       "rating": 2.7,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -147786,10 +147786,10 @@
     {
       "id": 46475,
       "name": "菠萝包",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
+      "difficulty": "40.0",
+      "difficulty_num": 40.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -149556,8 +149556,8 @@
     {
       "id": 17291,
       "name": "ｱｯｧｰｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｗｗｗｗｗｗｗｗｗｗｗ",
-      "difficulty": "35.0",
-      "difficulty_num": 35.0,
+      "difficulty": "33.3",
+      "difficulty_num": 33.3,
       "rating": 1.7,
       "num_ratings": 4,
       "is_needle": false,
