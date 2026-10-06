@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06 03:44:31",
+  "last_updated": "2026-10-06 09:35:37",
   "announcements": [
     {
       "date": "2026/10/04",
@@ -3258,8 +3258,8 @@
       "name": "I Wanna be the 724-ish",
       "difficulty": "64.6",
       "difficulty_num": 64.6,
-      "rating": 7.7,
-      "num_ratings": 21,
+      "rating": 7.6,
+      "num_ratings": 22,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -10292,6 +10292,16 @@
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46474,
+      "name": "BCS Needle 1",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
     },
     {
       "id": 12207,
@@ -31906,10 +31916,10 @@
     {
       "id": 20133,
       "name": "I wanna defeat the Discord Makers CN side",
-      "difficulty": "82.9",
-      "difficulty_num": 82.9,
+      "difficulty": "82.8",
+      "difficulty_num": 82.8,
       "rating": 7.9,
-      "num_ratings": 33,
+      "num_ratings": 34,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -55056,8 +55066,8 @@
     {
       "id": 23490,
       "name": "I wanna Go up to the Sky",
-      "difficulty": "85.8",
-      "difficulty_num": 85.8,
+      "difficulty": "86.2",
+      "difficulty_num": 86.2,
       "rating": 5.3,
       "num_ratings": 5,
       "is_needle": true,
@@ -60612,6 +60622,16 @@
       "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": true
+    },
+    {
+      "id": 46476,
+      "name": "I wanna be the high speed",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": false
     },
     {
       "id": 16212,
@@ -76284,6 +76304,16 @@
       "is_avoidance": true
     },
     {
+      "id": 46477,
+      "name": "I wanna kusukusu spike",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 21644,
       "name": "I wanna Kuu-Fuu",
       "difficulty": "66.8",
@@ -87866,10 +87896,10 @@
     {
       "id": 27218,
       "name": "My floor game",
-      "difficulty": "60.2",
-      "difficulty_num": 60.2,
+      "difficulty": "59.8",
+      "difficulty_num": 59.8,
       "rating": 7.6,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -94024,6 +94054,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46480,
+      "name": "I wanna be the Orcus",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 10977,
       "name": "I wanna be the Ordinary",
       "difficulty": "47.3",
@@ -99331,6 +99371,16 @@
       "rating": 8.8,
       "num_ratings": 6,
       "is_needle": false,
+      "is_avoidance": false
+    },
+    {
+      "id": 46479,
+      "name": "I wanna be the Pololoca",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
       "is_avoidance": false
     },
     {
@@ -111286,8 +111336,8 @@
     {
       "id": 21450,
       "name": "I wanna Segno",
-      "difficulty": "84.7",
-      "difficulty_num": 84.7,
+      "difficulty": "84.8",
+      "difficulty_num": 84.8,
       "rating": 8.1,
       "num_ratings": 12,
       "is_needle": true,
@@ -121494,6 +121544,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46478,
+      "name": "Tart Enticement",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 19702,
       "name": "I wanna be the Tartaros",
       "difficulty": "65.0",
@@ -125406,10 +125466,10 @@
     {
       "id": 27694,
       "name": "tmp26",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 0,
+      "difficulty": "65.0",
+      "difficulty_num": 65.0,
+      "rating": 8.0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -147724,6 +147784,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46475,
+      "name": "菠萝包",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
+      "is_avoidance": true
+    },
+    {
       "id": 26888,
       "name": "萝莉控",
       "difficulty": "18.5",
@@ -148686,8 +148756,8 @@
     {
       "id": 19533,
       "name": "I wanna be the 難しいアイワナ",
-      "difficulty": "85.3",
-      "difficulty_num": 85.3,
+      "difficulty": "85.4",
+      "difficulty_num": 85.4,
       "rating": 1.8,
       "num_ratings": 14,
       "is_needle": true,
