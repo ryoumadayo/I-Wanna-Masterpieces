@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07 04:42:03",
+  "last_updated": "2026-10-07 08:33:53",
   "announcements": [
     {
       "date": "2026/10/07",
@@ -15836,10 +15836,10 @@
     {
       "id": 19039,
       "name": "I wanna best the 50 floors",
-      "difficulty": "57.6",
-      "difficulty_num": 57.6,
+      "difficulty": "57.7",
+      "difficulty_num": 57.7,
       "rating": 7.7,
-      "num_ratings": 73,
+      "num_ratings": 74,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -38486,10 +38486,10 @@
     {
       "id": 27499,
       "name": "Ebb Needle 2024",
-      "difficulty": "63.9",
-      "difficulty_num": 63.9,
-      "rating": 8.0,
-      "num_ratings": 33,
+      "difficulty": "64.0",
+      "difficulty_num": 64.0,
+      "rating": 8.1,
+      "num_ratings": 34,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -79076,10 +79076,10 @@
     {
       "id": 14756,
       "name": "I wanna be the Locus",
-      "difficulty": "70.5",
-      "difficulty_num": 70.5,
+      "difficulty": "70.4",
+      "difficulty_num": 70.4,
       "rating": 5.5,
-      "num_ratings": 28,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -93116,10 +93116,10 @@
     {
       "id": 22746,
       "name": "I wanna Olympic",
-      "difficulty": "45.9",
-      "difficulty_num": 45.9,
-      "rating": 8.5,
-      "num_ratings": 14,
+      "difficulty": "45.6",
+      "difficulty_num": 45.6,
+      "rating": 8.6,
+      "num_ratings": 15,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -141836,10 +141836,10 @@
     {
       "id": 23908,
       "name": "i wanna は？",
-      "difficulty": "62.0",
-      "difficulty_num": 62.0,
+      "difficulty": "63.0",
+      "difficulty_num": 63.0,
       "rating": 5.0,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
