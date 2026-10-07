@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-07 13:20:49",
+  "last_updated": "2026-10-08 02:54:38",
   "announcements": [
+    {
+      "date": "2026/10/08",
+      "message": "The Small Fall Collab が新たに追加されました。",
+      "type": "add",
+      "id": 22675
+    },
     {
       "date": "2026/10/07",
       "message": "Moonstone が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I wanna be the Bridge が新たに追加されました。",
       "type": "add",
       "id": 15249
-    },
-    {
-      "date": "2026/08/06",
-      "message": "I wanna be the Sensei が新たに追加されました。",
-      "type": "add",
-      "id": 28240
     }
   ],
   "games": [
@@ -4726,10 +4726,10 @@
     {
       "id": 46378,
       "name": "I wanna Activate the Gem Drive",
-      "difficulty": "54.6",
-      "difficulty_num": 54.6,
-      "rating": 8.3,
-      "num_ratings": 6,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
+      "rating": 8.8,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -5396,10 +5396,10 @@
     {
       "id": 24687,
       "name": "I wanna be the AHZ",
-      "difficulty": "36.7",
-      "difficulty_num": 36.7,
-      "rating": 2.2,
-      "num_ratings": 7,
+      "difficulty": "35.6",
+      "difficulty_num": 35.6,
+      "rating": 2.4,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -25856,10 +25856,10 @@
     {
       "id": 22406,
       "name": "I Wanna Be The Clouds.",
-      "difficulty": "36.3",
-      "difficulty_num": 36.3,
-      "rating": 5.0,
-      "num_ratings": 4,
+      "difficulty": "38.3",
+      "difficulty_num": 38.3,
+      "rating": 5.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -30066,10 +30066,10 @@
     {
       "id": 46389,
       "name": "Cynosuryz",
-      "difficulty": "69.2",
-      "difficulty_num": 69.2,
+      "difficulty": "69.8",
+      "difficulty_num": 69.8,
       "rating": 9.0,
-      "num_ratings": 11,
+      "num_ratings": 12,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -49956,10 +49956,10 @@
     {
       "id": 11966,
       "name": "I wanna be the Gate Keeper",
-      "difficulty": "48.2",
-      "difficulty_num": 48.2,
-      "rating": 5.1,
-      "num_ratings": 9,
+      "difficulty": "46.4",
+      "difficulty_num": 46.4,
+      "rating": 4.8,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -52956,10 +52956,10 @@
     {
       "id": 18730,
       "name": "I wanna be the GNH",
-      "difficulty": "50.0",
-      "difficulty_num": 50.0,
+      "difficulty": "51.7",
+      "difficulty_num": 51.7,
       "rating": 7.0,
-      "num_ratings": 5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59936,10 +59936,10 @@
     {
       "id": 10779,
       "name": "I wanna be the HeavenTrap",
-      "difficulty": "60.1",
-      "difficulty_num": 60.1,
+      "difficulty": "60.2",
+      "difficulty_num": 60.2,
       "rating": 7.2,
-      "num_ratings": 34,
+      "num_ratings": 33,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59949,7 +59949,7 @@
       "difficulty": "48.3",
       "difficulty_num": 48.3,
       "rating": 7.3,
-      "num_ratings": 45,
+      "num_ratings": 44,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -73266,10 +73266,10 @@
     {
       "id": 19894,
       "name": "I Wanna Kill the Kermit 3",
-      "difficulty": "79.9",
-      "difficulty_num": 79.9,
+      "difficulty": "80.0",
+      "difficulty_num": 80.0,
       "rating": 9.2,
-      "num_ratings": 52,
+      "num_ratings": 53,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -76306,10 +76306,10 @@
     {
       "id": 46477,
       "name": "I wanna kusukusu spike",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "49.0",
+      "difficulty_num": 49.0,
+      "rating": 7.1,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -77558,7 +77558,7 @@
       "name": "I wanna let oneself relax",
       "difficulty": "55.3",
       "difficulty_num": 55.3,
-      "rating": 6.2,
+      "rating": 6.1,
       "num_ratings": 9,
       "is_needle": true,
       "is_avoidance": false
@@ -117286,10 +117286,10 @@
     {
       "id": 26580,
       "name": "Starry Sky",
-      "difficulty": "66.9",
-      "difficulty_num": 66.9,
+      "difficulty": "67.0",
+      "difficulty_num": 67.0,
       "rating": 7.4,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124236,10 +124236,10 @@
     {
       "id": 22675,
       "name": "The Small Fall Collab",
-      "difficulty": "46.8",
-      "difficulty_num": 46.8,
-      "rating": 6.2,
-      "num_ratings": 9,
+      "difficulty": "46.6",
+      "difficulty_num": 46.6,
+      "rating": 6.3,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124766,10 +124766,10 @@
     {
       "id": 46459,
       "name": "I wanna thread the Neon Raceway",
-      "difficulty": "62.0",
-      "difficulty_num": 62.0,
-      "rating": 7.0,
-      "num_ratings": 5,
+      "difficulty": "60.6",
+      "difficulty_num": 60.6,
+      "rating": 7.2,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -136416,10 +136416,10 @@
     {
       "id": 20958,
       "name": "I wanna YellowMaster’s Memories",
-      "difficulty": "63.5",
-      "difficulty_num": 63.5,
-      "rating": 5.0,
-      "num_ratings": 5,
+      "difficulty": "63.8",
+      "difficulty_num": 63.8,
+      "rating": 5.4,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -138756,10 +138756,10 @@
     {
       "id": 21218,
       "name": "I Wanna Be The ما الأمر يصل زملائه اللاعبين؟",
-      "difficulty": "49.5",
-      "difficulty_num": 49.5,
+      "difficulty": "49.3",
+      "difficulty_num": 49.3,
       "rating": 2.7,
-      "num_ratings": 16,
+      "num_ratings": 15,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -142906,10 +142906,10 @@
     {
       "id": 21898,
       "name": "クソデカ羅生門",
-      "difficulty": "29.1",
-      "difficulty_num": 29.1,
-      "rating": 3.3,
-      "num_ratings": 10,
+      "difficulty": "28.3",
+      "difficulty_num": 28.3,
+      "rating": 2.7,
+      "num_ratings": 9,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -149556,10 +149556,10 @@
     {
       "id": 17291,
       "name": "ｱｯｧｰｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｼﾞｪｹﾞｗｗｗｗｗｗｗｗｗｗｗ",
-      "difficulty": "33.3",
-      "difficulty_num": 33.3,
+      "difficulty": "31.0",
+      "difficulty_num": 31.0,
       "rating": 1.7,
-      "num_ratings": 4,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": true
     },
