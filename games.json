@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 18:25:58",
+  "last_updated": "2026-10-10 01:26:36",
   "announcements": [
     {
       "date": "2026/10/08",
@@ -11296,10 +11296,10 @@
     {
       "id": 18842,
       "name": "I wanna be criticized by Duliu",
-      "difficulty": "46.8",
-      "difficulty_num": 46.8,
-      "rating": 5.7,
-      "num_ratings": 4,
+      "difficulty": "47.0",
+      "difficulty_num": 47.0,
+      "rating": 5.6,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -94056,10 +94056,10 @@
     {
       "id": 46480,
       "name": "I wanna be the Orcus",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "78.0",
+      "difficulty_num": 78.0,
+      "rating": 7.0,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -121546,9 +121546,9 @@
     {
       "id": 46478,
       "name": "Tart Enticement",
-      "difficulty": "56.5",
-      "difficulty_num": 56.5,
-      "rating": 6.2,
+      "difficulty": "54.3",
+      "difficulty_num": 54.3,
+      "rating": 5.9,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
