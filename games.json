@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 01:26:36",
+  "last_updated": "2026-10-10 06:07:20",
   "announcements": [
     {
       "date": "2026/10/08",
@@ -25929,7 +25929,7 @@
       "difficulty": "60.0",
       "difficulty_num": 60.0,
       "rating": 9.2,
-      "num_ratings": 106,
+      "num_ratings": 107,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -117928,8 +117928,8 @@
       "name": "I wanna stop crying myself to sleep",
       "difficulty": "81.5",
       "difficulty_num": 81.5,
-      "rating": 9.0,
-      "num_ratings": 45,
+      "rating": 9.1,
+      "num_ratings": 46,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -131059,7 +131059,7 @@
       "difficulty": "71.4",
       "difficulty_num": 71.4,
       "rating": 9.3,
-      "num_ratings": 139,
+      "num_ratings": 140,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -142296,10 +142296,10 @@
     {
       "id": 17330,
       "name": "I wanna よ",
-      "difficulty": "82.8",
-      "difficulty_num": 82.8,
-      "rating": 4.4,
-      "num_ratings": 10,
+      "difficulty": "81.0",
+      "difficulty_num": 81.0,
+      "rating": 4.6,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
