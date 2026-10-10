@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-10 10:05:46",
+  "last_updated": "2026-10-10 16:30:42",
   "announcements": [
+    {
+      "date": "2026/10/10",
+      "message": "I wanna be the pinacol が新たに追加されました。",
+      "type": "add",
+      "id": 22379
+    },
     {
       "date": "2026/10/08",
       "message": "The Small Fall Collab が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna Cautiously Observe The Goober From A Safe Distance が新たに追加されました。",
       "type": "add",
       "id": 46261
-    },
-    {
-      "date": "2026/08/10",
-      "message": "I wanna be the Bridge が新たに追加されました。",
-      "type": "add",
-      "id": 15249
     }
   ],
   "games": [
@@ -11648,8 +11648,8 @@
       "name": "I wanna be GENKI with you",
       "difficulty": "44.7",
       "difficulty_num": 44.7,
-      "rating": 8.4,
-      "num_ratings": 82,
+      "rating": 8.3,
+      "num_ratings": 83,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -82118,7 +82118,7 @@
       "name": "i wanna make a trap game",
       "difficulty": "28.5",
       "difficulty_num": 28.5,
-      "rating": 3.3,
+      "rating": 3.2,
       "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
@@ -97036,10 +97036,10 @@
     {
       "id": 22379,
       "name": "I wanna be the pinacol",
-      "difficulty": "64.0",
-      "difficulty_num": 64.0,
-      "rating": 8.5,
-      "num_ratings": 9,
+      "difficulty": "64.6",
+      "difficulty_num": 64.6,
+      "rating": 8.4,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -110264,6 +110264,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46481,
+      "name": "I Wanna Be The Secret Trap",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 0,
+      "is_needle": false,
+      "is_avoidance": false
+    },
+    {
       "id": 23889,
       "name": "Sediment",
       "difficulty": "N/A",
@@ -111059,7 +111069,7 @@
       "difficulty": "67.3",
       "difficulty_num": 67.3,
       "rating": 2.8,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -144368,7 +144378,7 @@
       "name": "I wanna 二番煎じ",
       "difficulty": "41.7",
       "difficulty_num": 41.7,
-      "rating": 3.0,
+      "rating": 3.1,
       "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
@@ -147958,7 +147968,7 @@
       "name": "I wanna be the 超ワンパターン 総集編",
       "difficulty": "48.2",
       "difficulty_num": 48.2,
-      "rating": 2.0,
+      "rating": 2.1,
       "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
