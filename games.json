@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 16:35:30",
+  "last_updated": "2026-10-11 23:38:02",
   "announcements": [
     {
       "date": "2026/10/11",
@@ -53179,7 +53179,7 @@
       "difficulty": "73.2",
       "difficulty_num": 73.2,
       "rating": 8.1,
-      "num_ratings": 20,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -121556,10 +121556,10 @@
     {
       "id": 46478,
       "name": "Tart Enticement",
-      "difficulty": "54.3",
-      "difficulty_num": 54.3,
-      "rating": 5.9,
-      "num_ratings": 4,
+      "difficulty": "53.3",
+      "difficulty_num": 53.3,
+      "rating": 5.8,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -130376,10 +130376,10 @@
     {
       "id": 46460,
       "name": "Unwelcome Avoidance",
-      "difficulty": "97.0",
-      "difficulty_num": 97.0,
-      "rating": 1.5,
-      "num_ratings": 5,
+      "difficulty": "94.5",
+      "difficulty_num": 94.5,
+      "rating": 4.3,
+      "num_ratings": 6,
       "is_needle": false,
       "is_avoidance": true
     },
