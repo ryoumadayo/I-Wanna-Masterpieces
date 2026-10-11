@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 23:38:02",
+  "last_updated": "2026-10-12 04:20:04",
   "announcements": [
     {
       "date": "2026/10/11",
@@ -10056,10 +10056,10 @@
     {
       "id": 11434,
       "name": "I wanna battle Challenge ＜in needle world＞",
-      "difficulty": "59.8",
-      "difficulty_num": 59.8,
-      "rating": 6.9,
-      "num_ratings": 6,
+      "difficulty": "60.2",
+      "difficulty_num": 60.2,
+      "rating": 6.7,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -34106,10 +34106,10 @@
     {
       "id": 26555,
       "name": "I Wanna Be The Diagonal Jump",
-      "difficulty": "48.2",
-      "difficulty_num": 48.2,
+      "difficulty": "48.3",
+      "difficulty_num": 48.3,
       "rating": 7.4,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -62548,7 +62548,7 @@
       "name": "I Don't Know How To Make a Trap Game",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 5.5,
+      "rating": 5.7,
       "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
@@ -65529,7 +65529,7 @@
       "difficulty": "72.6",
       "difficulty_num": 72.6,
       "rating": 7.9,
-      "num_ratings": 34,
+      "num_ratings": 35,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -69986,10 +69986,10 @@
     {
       "id": 24664,
       "name": "I Wanna Kami2Kami2Kami2",
-      "difficulty": "57.2",
-      "difficulty_num": 57.2,
-      "rating": 8.4,
-      "num_ratings": 44,
+      "difficulty": "57.4",
+      "difficulty_num": 57.4,
+      "rating": 8.3,
+      "num_ratings": 45,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -99376,10 +99376,10 @@
     {
       "id": 46479,
       "name": "I wanna be the Pololoca",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 2,
+      "difficulty": "72.0",
+      "difficulty_num": 72.0,
+      "rating": 6.5,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
