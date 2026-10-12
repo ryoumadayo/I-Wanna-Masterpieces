@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12 11:33:36",
+  "last_updated": "2026-10-13 04:55:44",
   "announcements": [
     {
       "date": "2026/10/11",
@@ -1290,6 +1290,16 @@
       "difficulty_num": 25.0,
       "rating": 4.8,
       "num_ratings": 8,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46483,
+      "name": "13 Corners +",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -43086,10 +43096,10 @@
     {
       "id": 24348,
       "name": "I Wanna Explore The Rectilinear Fields",
-      "difficulty": "67.8",
-      "difficulty_num": 67.8,
+      "difficulty": "67.9",
+      "difficulty_num": 67.9,
       "rating": 8.4,
-      "num_ratings": 19,
+      "num_ratings": 20,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -74004,6 +74014,16 @@
       "is_avoidance": false
     },
     {
+      "id": 46482,
+      "name": "I wanna kill the Orangekid 0",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": true,
+      "is_avoidance": false
+    },
+    {
       "id": 22175,
       "name": "I wanna Kill The Original Stage",
       "difficulty": "N/A",
@@ -99376,10 +99396,10 @@
     {
       "id": 46479,
       "name": "I wanna be the Pololoca",
-      "difficulty": "72.0",
-      "difficulty_num": 72.0,
-      "rating": 6.5,
-      "num_ratings": 3,
+      "difficulty": "73.5",
+      "difficulty_num": 73.5,
+      "rating": 5.8,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -124369,7 +124389,7 @@
       "difficulty": "69.1",
       "difficulty_num": 69.1,
       "rating": 8.3,
-      "num_ratings": 36,
+      "num_ratings": 37,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -135488,8 +135508,8 @@
       "name": "Wujian Happy Needle",
       "difficulty": "71.2",
       "difficulty_num": 71.2,
-      "rating": 7.2,
-      "num_ratings": 6,
+      "rating": 7.3,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -137919,7 +137939,7 @@
       "difficulty": "90.0",
       "difficulty_num": 90.0,
       "rating": 8.1,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -147339,7 +147359,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 0,
+      "num_ratings": 1,
       "is_needle": false,
       "is_avoidance": false
     },
