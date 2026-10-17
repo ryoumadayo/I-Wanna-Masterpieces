@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 01:50:20",
+  "last_updated": "2026-10-18 04:01:18",
   "announcements": [
     {
       "date": "2026/10/16",
@@ -10336,10 +10336,10 @@
     {
       "id": 11879,
       "name": "I wanna be the BDMaster",
-      "difficulty": "83.7",
-      "difficulty_num": 83.7,
+      "difficulty": "80.3",
+      "difficulty_num": 80.3,
       "rating": 2.9,
-      "num_ratings": 4,
+      "num_ratings": 5,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -31588,8 +31588,8 @@
       "name": "I wanna dedicate to TNS",
       "difficulty": "43.0",
       "difficulty_num": 43.0,
-      "rating": 5.3,
-      "num_ratings": 23,
+      "rating": 5.1,
+      "num_ratings": 24,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -47536,10 +47536,10 @@
     {
       "id": 11552,
       "name": "I wanna fly the Far away",
-      "difficulty": "85.0",
-      "difficulty_num": 85.0,
+      "difficulty": "84.9",
+      "difficulty_num": 84.9,
       "rating": 6.8,
-      "num_ratings": 91,
+      "num_ratings": 92,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -137411,6 +137411,16 @@
       "rating": 0.0,
       "num_ratings": 2,
       "is_needle": true,
+      "is_avoidance": false
+    },
+    {
+      "id": 46490,
+      "name": "I wanna be the Zao",
+      "difficulty": "N/A",
+      "difficulty_num": 0.0,
+      "rating": 0.0,
+      "num_ratings": 1,
+      "is_needle": false,
       "is_avoidance": false
     },
     {
