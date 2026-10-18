@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 08:44:30",
+  "last_updated": "2026-10-18 12:02:42",
   "announcements": [
     {
       "date": "2026/10/16",
@@ -56876,10 +56876,10 @@
     {
       "id": 24647,
       "name": "Guy Tower Defense 2022",
-      "difficulty": "15.2",
-      "difficulty_num": 15.2,
-      "rating": 9.8,
-      "num_ratings": 28,
+      "difficulty": "15.0",
+      "difficulty_num": 15.0,
+      "rating": 9.7,
+      "num_ratings": 29,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -102526,10 +102526,10 @@
     {
       "id": 11037,
       "name": "I wanna be the Quartz",
-      "difficulty": "42.0",
-      "difficulty_num": 42.0,
-      "rating": 7.0,
-      "num_ratings": 2,
+      "difficulty": "43.0",
+      "difficulty_num": 43.0,
+      "rating": 6.8,
+      "num_ratings": 3,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -103606,10 +103606,10 @@
     {
       "id": 17088,
       "name": "I wanna be the RayTrapおかえり",
-      "difficulty": "39.0",
-      "difficulty_num": 39.0,
-      "rating": 5.5,
-      "num_ratings": 4,
+      "difficulty": "43.0",
+      "difficulty_num": 43.0,
+      "rating": 5.9,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -143828,8 +143828,8 @@
       "name": "I wanna ボスラッシュ2",
       "difficulty": "50.0",
       "difficulty_num": 50.0,
-      "rating": 6.3,
-      "num_ratings": 3,
+      "rating": 6.2,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
     },
