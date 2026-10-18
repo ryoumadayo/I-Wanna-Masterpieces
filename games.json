@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 21:43:14",
+  "last_updated": "2026-10-19 01:20:35",
   "announcements": [
     {
       "date": "2026/10/16",
@@ -44836,10 +44836,10 @@
     {
       "id": 20475,
       "name": "I Wanna Feed Your Escapism 2",
-      "difficulty": "63.1",
-      "difficulty_num": 63.1,
-      "rating": 8.3,
-      "num_ratings": 49,
+      "difficulty": "63.0",
+      "difficulty_num": 63.0,
+      "rating": 8.4,
+      "num_ratings": 50,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -56636,8 +56636,8 @@
     {
       "id": 11858,
       "name": "I wanna be the Guy",
-      "difficulty": "42.7",
-      "difficulty_num": 42.7,
+      "difficulty": "42.6",
+      "difficulty_num": 42.6,
       "rating": 6.9,
       "num_ratings": 156,
       "is_needle": false,
@@ -61056,10 +61056,10 @@
     {
       "id": 46456,
       "name": "Hold me close",
-      "difficulty": "58.5",
-      "difficulty_num": 58.5,
-      "rating": 8.4,
-      "num_ratings": 10,
+      "difficulty": "58.9",
+      "difficulty_num": 58.9,
+      "rating": 8.3,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -122496,8 +122496,8 @@
     {
       "id": 26735,
       "name": "Terrible Needle Fourinone",
-      "difficulty": "83.0",
-      "difficulty_num": 83.0,
+      "difficulty": "83.7",
+      "difficulty_num": 83.7,
       "rating": 8.4,
       "num_ratings": 18,
       "is_needle": true,
