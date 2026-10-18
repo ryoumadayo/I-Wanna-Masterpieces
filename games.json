@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 03:46:20",
+  "last_updated": "2026-10-19 06:15:09",
   "announcements": [
     {
       "date": "2026/10/16",
@@ -34796,10 +34796,10 @@
     {
       "id": 22353,
       "name": "I wanna be the disparagement",
-      "difficulty": "60.3",
-      "difficulty_num": 60.3,
+      "difficulty": "60.4",
+      "difficulty_num": 60.4,
       "rating": 7.2,
-      "num_ratings": 20,
+      "num_ratings": 21,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35488,8 +35488,8 @@
       "name": "I wanna Dodge The Bullets",
       "difficulty": "65.0",
       "difficulty_num": 65.0,
-      "rating": 5.3,
-      "num_ratings": 6,
+      "rating": 4.7,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": true
     },
@@ -90166,10 +90166,10 @@
     {
       "id": 27289,
       "name": "I wanna Neuroshy",
-      "difficulty": "66.8",
-      "difficulty_num": 66.8,
+      "difficulty": "66.6",
+      "difficulty_num": 66.6,
       "rating": 6.9,
-      "num_ratings": 6,
+      "num_ratings": 7,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -105336,10 +105336,10 @@
     {
       "id": 23401,
       "name": "Remorseless Taisa",
-      "difficulty": "64.2",
-      "difficulty_num": 64.2,
-      "rating": 8.1,
-      "num_ratings": 35,
+      "difficulty": "63.7",
+      "difficulty_num": 63.7,
+      "rating": 8.2,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": true
     },
