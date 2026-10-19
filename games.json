@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 23:51:16",
+  "last_updated": "2026-10-20 05:21:32",
   "announcements": [
     {
       "date": "2026/10/19",
@@ -16606,10 +16606,10 @@
     {
       "id": 26438,
       "name": "I wanna be the BKD",
-      "difficulty": "99.0",
-      "difficulty_num": 99.0,
-      "rating": 0.3,
-      "num_ratings": 2,
+      "difficulty": "92.0",
+      "difficulty_num": 92.0,
+      "rating": 1.7,
+      "num_ratings": 3,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -35219,7 +35219,7 @@
       "difficulty": "50.4",
       "difficulty_num": 50.4,
       "rating": 6.8,
-      "num_ratings": 40,
+      "num_ratings": 41,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -84686,10 +84686,10 @@
     {
       "id": 19105,
       "name": "I wanna meet the Remilia",
-      "difficulty": "74.8",
-      "difficulty_num": 74.8,
+      "difficulty": "74.2",
+      "difficulty_num": 74.2,
       "rating": 5.2,
-      "num_ratings": 5,
+      "num_ratings": 6,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -136356,10 +136356,10 @@
     {
       "id": 11236,
       "name": "I wanna be the Yassan(21)",
-      "difficulty": "53.8",
-      "difficulty_num": 53.8,
-      "rating": 6.1,
-      "num_ratings": 29,
+      "difficulty": "53.6",
+      "difficulty_num": 53.6,
+      "rating": 6.0,
+      "num_ratings": 30,
       "is_needle": false,
       "is_avoidance": false
     },
