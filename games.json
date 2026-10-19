@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-19 08:28:39",
+  "last_updated": "2026-10-19 16:18:41",
   "announcements": [
+    {
+      "date": "2026/10/19",
+      "message": "I wanna be the Damp Needle が新たに追加されました。",
+      "type": "add",
+      "id": 11922
+    },
     {
       "date": "2026/10/16",
       "message": "I wanna purify the Duo Blade が新たに追加されました。",
@@ -174,12 +180,6 @@
       "message": "I Wanna Be The Internet Angel が新たに追加されました。",
       "type": "add",
       "id": 46321
-    },
-    {
-      "date": "2026/08/17",
-      "message": "Cannycat's Requiem が新たに追加されました。",
-      "type": "add",
-      "id": 45914
     }
   ],
   "games": [
@@ -4736,10 +4736,10 @@
     {
       "id": 46378,
       "name": "I wanna Activate the Gem Drive",
-      "difficulty": "55.4",
-      "difficulty_num": 55.4,
-      "rating": 8.9,
-      "num_ratings": 6,
+      "difficulty": "56.2",
+      "difficulty_num": 56.2,
+      "rating": 8.7,
+      "num_ratings": 7,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -9118,7 +9118,7 @@
       "name": "I wanna be the AVT",
       "difficulty": "56.3",
       "difficulty_num": 56.3,
-      "rating": 4.2,
+      "rating": 3.8,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
@@ -30416,10 +30416,10 @@
     {
       "id": 11922,
       "name": "I wanna be the Damp Needle",
-      "difficulty": "56.4",
-      "difficulty_num": 56.4,
+      "difficulty": "56.2",
+      "difficulty_num": 56.2,
       "rating": 6.1,
-      "num_ratings": 9,
+      "num_ratings": 10,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -50178,7 +50178,7 @@
       "name": "I wanna be the GBD",
       "difficulty": "40.0",
       "difficulty_num": 40.0,
-      "rating": 7.3,
+      "rating": 7.4,
       "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": true
@@ -54159,7 +54159,7 @@
       "difficulty": "55.7",
       "difficulty_num": 55.7,
       "rating": 7.4,
-      "num_ratings": 35,
+      "num_ratings": 36,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59966,10 +59966,10 @@
     {
       "id": 10779,
       "name": "I wanna be the HeavenTrap",
-      "difficulty": "60.2",
-      "difficulty_num": 60.2,
+      "difficulty": "60.1",
+      "difficulty_num": 60.1,
       "rating": 7.2,
-      "num_ratings": 33,
+      "num_ratings": 34,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -59979,7 +59979,7 @@
       "difficulty": "48.2",
       "difficulty_num": 48.2,
       "rating": 7.3,
-      "num_ratings": 45,
+      "num_ratings": 46,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -63369,7 +63369,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -72749,7 +72749,7 @@
       "difficulty": "47.5",
       "difficulty_num": 47.5,
       "rating": 9.0,
-      "num_ratings": 154,
+      "num_ratings": 155,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111806,10 +111806,10 @@
     {
       "id": 11711,
       "name": "I wanna series Mixture relay 3",
-      "difficulty": "48.3",
-      "difficulty_num": 48.3,
+      "difficulty": "48.1",
+      "difficulty_num": 48.1,
       "rating": 6.8,
-      "num_ratings": 13,
+      "num_ratings": 14,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -111996,10 +111996,10 @@
     {
       "id": 15411,
       "name": "I wanna be the SFC",
-      "difficulty": "47.3",
-      "difficulty_num": 47.3,
-      "rating": 3.6,
-      "num_ratings": 3,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 3.5,
+      "num_ratings": 4,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -137419,7 +137419,7 @@
       "difficulty": "N/A",
       "difficulty_num": 0.0,
       "rating": 0.0,
-      "num_ratings": 1,
+      "num_ratings": 2,
       "is_needle": false,
       "is_avoidance": false
     },
