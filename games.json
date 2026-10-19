@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 16:18:41",
+  "last_updated": "2026-10-19 23:51:16",
   "announcements": [
     {
       "date": "2026/10/19",
@@ -39206,10 +39206,10 @@
     {
       "id": 17575,
       "name": "I wanna be the elimination",
-      "difficulty": "N/A",
-      "difficulty_num": 0.0,
-      "rating": 0.0,
-      "num_ratings": 1,
+      "difficulty": "41.0",
+      "difficulty_num": 41.0,
+      "rating": 6.5,
+      "num_ratings": 2,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -45866,10 +45866,10 @@
     {
       "id": 12322,
       "name": "I wanna find my Destiny",
-      "difficulty": "62.0",
-      "difficulty_num": 62.0,
+      "difficulty": "62.2",
+      "difficulty_num": 62.2,
       "rating": 9.1,
-      "num_ratings": 78,
+      "num_ratings": 79,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -100746,10 +100746,10 @@
     {
       "id": 25197,
       "name": "Prismatic Needle",
-      "difficulty": "74.1",
-      "difficulty_num": 74.1,
+      "difficulty": "74.2",
+      "difficulty_num": 74.2,
       "rating": 7.8,
-      "num_ratings": 15,
+      "num_ratings": 16,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -114678,8 +114678,8 @@
       "name": "I Wanna Small Room",
       "difficulty": "30.7",
       "difficulty_num": 30.7,
-      "rating": 4.9,
-      "num_ratings": 10,
+      "rating": 5.0,
+      "num_ratings": 11,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -134118,7 +134118,7 @@
       "name": "I wanna whisper in mirror",
       "difficulty": "56.5",
       "difficulty_num": 56.5,
-      "rating": 6.7,
+      "rating": 6.6,
       "num_ratings": 26,
       "is_needle": true,
       "is_avoidance": false
@@ -136226,10 +136226,10 @@
     {
       "id": 15826,
       "name": "I wanna be the Yajiru2",
-      "difficulty": "52.7",
-      "difficulty_num": 52.7,
+      "difficulty": "53.3",
+      "difficulty_num": 53.3,
       "rating": 5.8,
-      "num_ratings": 7,
+      "num_ratings": 8,
       "is_needle": true,
       "is_avoidance": false
     },
@@ -138089,7 +138089,7 @@
       "difficulty": "98.0",
       "difficulty_num": 98.0,
       "rating": 1.2,
-      "num_ratings": 3,
+      "num_ratings": 4,
       "is_needle": true,
       "is_avoidance": false
     },
