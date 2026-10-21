@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 14:43:37",
+  "last_updated": "2026-10-21 20:11:01",
   "announcements": [
     {
       "date": "2026/10/19",
@@ -31069,7 +31069,7 @@
       "difficulty": "42.7",
       "difficulty_num": 42.7,
       "rating": 8.4,
-      "num_ratings": 31,
+      "num_ratings": 32,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -52986,10 +52986,10 @@
     {
       "id": 18730,
       "name": "I wanna be the GNH",
-      "difficulty": "51.7",
-      "difficulty_num": 51.7,
-      "rating": 7.0,
-      "num_ratings": 4,
+      "difficulty": "50.0",
+      "difficulty_num": 50.0,
+      "rating": 6.8,
+      "num_ratings": 5,
       "is_needle": false,
       "is_avoidance": false
     },
@@ -115118,7 +115118,7 @@
       "name": "I wanna snow shadow",
       "difficulty": "67.2",
       "difficulty_num": 67.2,
-      "rating": 9.2,
+      "rating": 9.4,
       "num_ratings": 8,
       "is_needle": false,
       "is_avoidance": true
